@@ -2,7 +2,8 @@
 
 Analogical Frame Mapper (AFM) is a program for finding analogical relations in word embeddings.
 
-	./afmfind -vecs my_vecs.bin -frames frames.txt -extends2 1 -extends3 1 -nns 15 -ext-nns 40 -p 0.3 -max-vecs 10000 -threads 8
+	./afmfind -vecs my_vecs.bin -frames frames.txt -extends2 1 -extends3 1 -nns 15 -ext-nns 40
+	-p 0.3 -max-vecs 10000 -threads 8
 	
 
 
