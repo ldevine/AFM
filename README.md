@@ -22,3 +22,4 @@ Parameters:
         
         
 Note that the effectiveness of increasing the number of threads depends on the values of other parameters. This is a result of how the computation is decomposed and assigned to worker tasks. Improvements in how work is decomposed will be included in future versions og the code.
+
