@@ -17,4 +17,8 @@ Parameters:
 	max-vecs  the maximum number of vectors (vocab) to include in the search.
 	threads   the number of threads to search with.
 	p         the value of the parallel constraint. Larger is more constrained, ie. fewer frames.
-
+        nns       the number of vector neighbours to consider when assigning a value to an adjacent variable in the frame.
+        ext-nns   the number of neighbours to consider when assigning values to adjacent variables when extending a frame.
+        
+        
+Note that the effectiveness of increasing the number of threads depends on the values of other parameters. This is a result of how the computation is decomposed and assigned to worker tasks. Improvements in how work is decomposed will be included in future versions og the code.
