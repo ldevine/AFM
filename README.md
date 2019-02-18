@@ -4,7 +4,8 @@ Analogical Frame Mapper (AFM) is a program for finding analogical relations in w
 
 It is the software associated with the paper: [Unsupervised Mining of Analogical Frames by Constraint Satisfaction](http://alta2018.alta.asn.au/alta2018-draft-proceedings.pdf#page=44)
 
-	De Vine, L., Geva, S., & Bruza, P. Unsupervised Mining of Analogical Frames by Constraint Satisfaction. In Australasian Language Technology Association Workshop 2018 (p. 34).
+	De Vine, L., Geva, S., & Bruza, P. Unsupervised Mining of Analogical Frames by Constraint 
+	Satisfaction. In Australasian Language Technology Association Workshop 2018 (p. 34).
 
 An analogical frame is like a multi-dimensional proportional analogy.
 
