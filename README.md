@@ -4,8 +4,8 @@ Analogical Frame Mapper (AFM) is a program for finding analogical relations in w
 
 It is the software associated with the paper: [Unsupervised Mining of Analogical Frames by Constraint Satisfaction](http://alta2018.alta.asn.au/alta2018-draft-proceedings.pdf#page=44)
 
-	De Vine, L., Geva, S., & Bruza, P. _Unsupervised Mining of Analogical Frames by Constraint 
-	Satisfaction_. In Australasian Language Technology Association Workshop 2018 (p. 34).
+	De Vine, L., Geva, S., & Bruza, P. Unsupervised Mining of Analogical Frames by Constraint 
+	Satisfaction. In Australasian Language Technology Association Workshop 2018 (p. 34).
 
 An analogical frame is like a multi-dimensional proportional analogy.
 
@@ -36,10 +36,10 @@ Note that the effectiveness of increasing the number of threads depends on the v
 
 Hong, Y., & Lepage, Y. (2018). _Production of Large Analogical Clusters from Smaller Example Seed Clusters Using Word Embeddings_. In International Conference on Case-Based Reasoning (pp. 548-562). Springer, Cham.
 
-Fam, R., & Lepage, Y. (2018). Tools for the production of analogical grids and a resource of n-gram analogical grids in 11 languages. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018).
+Fam, R., & Lepage, Y. (2018). _Tools for the production of analogical grids and a resource of n-gram analogical grids in 11 languages_. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018).
 
-Zhang, Y., Jatowt, A., & Tanaka, K. (2016, December). Towards understanding word embeddings: Automatically explaining similarity of terms. In 2016 IEEE International Conference on Big Data (Big Data) (pp. 823-832). IEEE.
+Zhang, Y., Jatowt, A., & Tanaka, K. (2016, December). _Towards understanding word embeddings: Automatically explaining similarity of terms_. In 2016 IEEE International Conference on Big Data (Big Data) (pp. 823-832). IEEE.
 
-Lepage, Y. (2014). Analogies between binary images: Application to chinese characters. In Computational Approaches to Analogical Reasoning: Current Trends (pp. 25-57). Springer, Berlin, Heidelberg.
+Lepage, Y. (2014). _Analogies between binary images: Application to chinese characters_. In Computational Approaches to Analogical Reasoning: Current Trends (pp. 25-57). Springer, Berlin, Heidelberg.
 
-Stroppa, N., & Yvon, F. (2005, June). An analogical learner for morphological analysis. In Proceedings of the Ninth Conference on Computational Natural Language Learning (pp. 120-127). Association for Computational Linguistics.
+Stroppa, N., & Yvon, F. (2005, June). _An analogical learner for morphological analysis_. In Proceedings of the Ninth Conference on Computational Natural Language Learning (pp. 120-127). Association for Computational Linguistics.
