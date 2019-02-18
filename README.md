@@ -4,8 +4,8 @@ Analogical Frame Mapper (AFM) is a program for finding analogical relations in w
 
 It is the software associated with the paper: [Unsupervised Mining of Analogical Frames by Constraint Satisfaction](http://alta2018.alta.asn.au/alta2018-draft-proceedings.pdf#page=44)
 
-	De Vine, L., Geva, S., & Bruza, P. Unsupervised Mining of Analogical Frames by Constraint 
-	Satisfaction. In Australasian Language Technology Association Workshop 2018 (p. 34).
+	De Vine, L., Geva, S., & Bruza, P. *Unsupervised Mining of Analogical Frames by Constraint 
+	Satisfaction*. In Australasian Language Technology Association Workshop 2018 (p. 34).
 
 An analogical frame is like a multi-dimensional proportional analogy.
 
@@ -34,7 +34,7 @@ Note that the effectiveness of increasing the number of threads depends on the v
 
 **Related Work**
 
-Hong, Y., & Lepage, Y. (2018). Production of Large Analogical Clusters from Smaller Example Seed Clusters Using Word Embeddings. In International Conference on Case-Based Reasoning (pp. 548-562). Springer, Cham.
+Hong, Y., & Lepage, Y. (2018). *Production of Large Analogical Clusters from Smaller Example Seed Clusters Using Word Embeddings*. In International Conference on Case-Based Reasoning (pp. 548-562). Springer, Cham.
 
 Fam, R., & Lepage, Y. (2018). Tools for the production of analogical grids and a resource of n-gram analogical grids in 11 languages. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018).
 
