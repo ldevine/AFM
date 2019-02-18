@@ -2,6 +2,10 @@
 
 Analogical Frame Mapper (AFM) is a program for finding analogical relations in word embeddings. 
 
+It is the software associated with the paper: [Unsupervised Mining of Analogical Frames by Constraint Satisfaction](http://alta2018.alta.asn.au/alta2018-draft-proceedings.pdf#page=44)
+
+An analogical frame is like a multi-dimensional proportional analogy.
+
 Given a word embedding file in word2vec binary format, the program **afmfind** will search the word embeddings, attempting to discover analogical frames. The discovery process is specified by a number of command line arguments.
 
 The code should compile with any C++11 conformant compiler. The code depends on the C++ linear algebra library Eigen, a copy of which is included in the source of this repository.
