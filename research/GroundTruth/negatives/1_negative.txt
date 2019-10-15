@@ -1,0 +1,1479 @@
+
+#---------------------------------------------------------------------
+#
+# This file contains INCORRECT frames discovered using the Simple corpus
+#
+# Some frames may in fact be correct but are included here in the interest
+# of being conservative.
+#
+#---------------------------------------------------------------------
+
+the . is 
+first 0000 was 
+
+the also which 
+all many these 
+
+</s> from into 
+is comes turns 
+
+. is was 
+and are were 
+
+. was gave 
+or be give 
+
+. they their 
+' you your 
+
+by made produced 
+being making producing 
+
+was his him 
+were their them 
+
+he she who 
+brother sister younger 
+
+he his father's 
+she her grandmother's 
+
+first second fourth 
+twenty-first twenty-second fourteenth 
+
+called walled stalled 
+caller waller taller 
+
+american british-american polish-american 
+american-born british-born polish-born 
+
+them themselves ourselves 
+him himself myself 
+
+river rivers river's 
+upstream streams stream's 
+
+british irish anglo-irish 
+british-american irish-american anglo-american 
+
+water waterways waterhole 
+saltwater estuaries swampy 
+
+west east southeast 
+westernmost easternmost southernmost 
+
+west east southeast 
+westerly easterly southerly 
+
+west westernmost westerly 
+north-west northernmost northerly 
+
+east easternmost easterly 
+southeast southernmost southerly 
+
+population populations populated 
+density densities densely 
+
+party democratic socialist 
+parties democracies socialists 
+
+wrote written writing 
+co-wrote co-written songwriting 
+
+written britten rewritten 
+write rite rewrite 
+
+written writes essays 
+writtenby writer essayist 
+
+things objects subjects 
+something object subject 
+
+church churches churchill 
+chapel chapels chaplain 
+
+white black blue 
+whitesnake blackbird bluebird 
+
+father father's fathered 
+grandfather grandfather's great-grandson 
+
+california los california's 
+florida miami florida's 
+
+worked employed waged 
+worker employer wage 
+
+actor animator puppeteer 
+actors animators puppets 
+
+northern southern north-eastern 
+northerly southerly north-east 
+
+court judge juror 
+courtiers judges jurors 
+
+station stations installations 
+outstation outstations innovations 
+
+political radical non-violent 
+politically radically violently 
+
+appeared appearing appealing 
+guest-starred recurring concurring 
+
+computer computers tcp 
+compiler compilers gfdl 
+
+hurricane hurricanes hurry 
+cyclone cyclones cyclops 
+
+seven twenty-seven thirty-seven 
+seventy twenty thirty 
+
+elected re-elected reelected 
+elections re-election reelection 
+
+fire firemen fireman 
+gunfire gunmen gunman 
+
+writer author orator 
+co-writer co-author collaborator 
+
+writer write writers 
+typewriter rewrite typewriters 
+
+reached reaching peaking 
+preached preaching speaking 
+
+spanish mexican mexican-american 
+spaniards mexicans african-americans 
+
+students schools academies 
+student schoolmate academie 
+
+business businessmen philanthropy 
+businesswoman businessman philanthropist 
+
+mountain valley creek 
+mountainous valleys creeks 
+
+lower low low-lying 
+slower slow slow-moving 
+
+hot hottest coldest 
+billboard sexiest second-oldest 
+
+airport airports aerodrome 
+airplane airplanes aeroplane 
+
+federal federation federations 
+confederacy confederation confederations 
+
+christian christianity christians 
+baptist baptism baptists 
+
+parliament parliaments parliament's 
+councillor councils council's 
+
+parliament mp by-election 
+parliaments mps elections 
+
+olympic olympics biathlon 
+paralympic paralympics para-nordic 
+
+fight fighter fighters 
+gunfight firefighter firefighters 
+
+beginning inning henning 
+beginnings innings jennings 
+
+described describe describes 
+ascribed scribe scribes 
+
+railway railways locomotives 
+motorway motorways motors 
+
+democratic republican libertarian 
+democracies republicans libertarians 
+
+ireland ireland's zeeland 
+scotland scotland's gotland 
+
+eventually subsequently promptly 
+eventual subsequent prompted 
+
+author authors author's 
+biographer biographies autobiographical 
+
+constitution constituency constitute 
+constitutions constituencies constitutes 
+
+companies agencies securities 
+company's agency's security 
+
+talk talks confront 
+stalk stalks stabs 
+
+artists painters sculptors 
+artist's painting sculpture 
+
+scientists scientist scientology 
+biologists biologist biology 
+
+scientists scientist scientifically 
+physicists physicist theoretically 
+
+scientists scientist scientology 
+sociologists sociologist sociology 
+
+scientists scientist scientology 
+anthropologists anthropologist anthropology 
+
+scientists scientist scientology 
+geologists geologist geology 
+
+scientists scientist scientology 
+psychologists psychologist psychology 
+
+scientists scientist scientology 
+archaeologists archaeologist archaeology 
+
+duke princess duchess 
+dukes princes duchies 
+
+pay paying payment 
+buy buying buyer 
+
+actually fact certainly 
+actual factual certainty 
+
+appointed appointment appointments 
+resigned resign resigns 
+
+piano concerto oboe 
+pianos concertos trombones 
+
+physical geophysical metaphysical 
+physics biophysics metaphysics 
+
+physical logical logically 
+geophysical geological geologically 
+
+egypt egypt's mesopotamian 
+pharaoh pharaoh's mycenae 
+
+supported supporting opposing 
+imported importing imposing 
+
+elements implements supplements 
+elementary complementary supplementary 
+
+room rooms bedroom 
+bathroom bathrooms bathtub 
+
+room hotel townhouse 
+rooms hotels warehouses 
+
+sexual sexuality masturbation 
+homosexual homosexuality abortion 
+
+fast slow quick 
+fast-moving slow-moving quicksand 
+
+collection collected collective 
+selection selected selective 
+
+critics critic anti-semitic 
+diacritics diacritic semitic 
+
+distance constance reluctance 
+distantly constantly reluctantly 
+
+scottish anglo-irish trish 
+fetish amish vish 
+
+relationship relationships kinship 
+partnership partnerships ownership 
+
+objects subjects aspects 
+objective subjective perspective 
+
+workers worker co-workers 
+laborers labor labors 
+
+allows gallows hollows 
+allowance galloway holloway 
+
+maria lucia silvia 
+mariano luciano silvio 
+
+poet poetry poets 
+novelist novelty novelists 
+
+southeast northeast east-southeast 
+south-west north-west east-west 
+
+southeast northeast east-southeast 
+south-central north-central east-central 
+
+painting portrait sculptor 
+paints portraits sculptors 
+
+painting printing handwriting 
+painters printers typewriters 
+
+justice supreme ruling 
+justices supremes rulings 
+
+instruments instrument multi-instrumentalist 
+keyboards keyboard keyboardist 
+
+fort fortress mattress 
+forts fortresses buttresses 
+
+southwest southward southwards 
+west-northwest westward westwards 
+
+physics physiology physiologist 
+biophysics microbiology microbiologist 
+
+physics topology nanotechnology 
+biophysics anthropology biotechnology 
+
+paid unemployed benefited 
+payment unemployment benefits 
+
+planned manned scanned 
+planners manners scanners 
+
+agreed agreement negotiation 
+disagreed disagreement disarmament 
+
+jews nazis soviets 
+ashkenazi nazi soviet 
+
+lawyer attorney congressman 
+lawyers attorneys congresses 
+
+estimated estimate estimating 
+approximately approximate approximation 
+
+hotel apartment homesick 
+hotels apartments homes 
+
+flowers flower flowering 
+lowers lower lowering 
+
+gun guns cannon 
+handgun handguns smoothbore 
+
+philosophy theology sociobiology 
+philosopher theologian sociologist 
+
+ends ending inning 
+bends bending spinning 
+
+rail rails brakes 
+trail trails bikes 
+
+authority authorities jurisdictions 
+priority priorities restrictions 
+
+particularly articulated articulation 
+regularly regulated regulation 
+
+meters meter ft 
+kilometers kilometer km2 
+
+fuel fuels fumes 
+biofuel biofuels consumes 
+
+useful helpful stressful 
+useless helpless hopeless 
+
+treated prescribed ascribed 
+treat prescribe scribe 
+
+mathematics mathematical mathematicians 
+geometry geometrical euclid 
+
+walls walled wally 
+stalls stalled tally 
+
+finland lapland friesland 
+inland upland gippsland 
+
+universities institutions faculties 
+universite institut faculty 
+
+strength strengthened strengthening 
+weaker weakened weakening 
+
+electrons electron electromagnetic 
+neutrons neutron neutrinos 
+
+labour labor anti-slavery 
+labourers laborers free-staters 
+
+organisms organelles unicellular 
+microorganisms microtubules microbial 
+
+guitarist multi-instrumentalist clarinetist 
+guitars instruments clarinets 
+
+standing standish standings 
+landing landis landings 
+
+fishing hiking sightseeing 
+wishing liking seeing 
+
+personality brutality hostility 
+personalities fatalities hostilities 
+
+question questions requesting 
+suggestion suggestions suggesting 
+
+question quest quests 
+requesting request requests 
+
+governments legislatures congresses 
+government's legislation congress's 
+
+selena helena cecilia 
+selene helene ophelia 
+
+khan muhammad ali 
+khan's muhammad's ali's 
+
+printed reprinted hinted 
+print blueprint hint 
+
+printed printer printers 
+handwritten typewriter typewriters 
+
+violence violent riots 
+nonviolence nonviolent sit-ins 
+
+relatively rely routinely 
+relating relying routing 
+
+images photographs graphs 
+imagery photography typography 
+
+images depictions illusions 
+imagery depiction illusion 
+
+earthquake earthquakes seismic 
+magnitude magnitudes amplitude 
+
+sisters cousins widows 
+sister-in-law cousin widow 
+
+trump truman trump's 
+obama roosevelt obama's 
+
+campus university's universe's 
+campuses universities universes 
+
+daughters cousins uncles 
+daughter-in-law cousin uncle 
+
+twenty thirty eighty 
+twenty-four thirty-four eighty-four 
+
+twenty forty seventy 
+twenty-one forty-five seventy-five 
+
+scientist zoologist microbiologist 
+scientology zoology microbiology 
+
+scientist paleontologist physiologist 
+scientology paleontology physiology 
+
+selection reflection expressionism 
+selective reflective expressive 
+
+biology topology phonology 
+genetics cybernetics phonetics 
+
+2nd 42nd 52nd 
+4th 34th 54th 
+
+2nd 42nd 442nd 
+10th 60th 100th 
+
+passes passage passive 
+masses massage massive 
+
+rangers ranger rangel 
+angers anger angel 
+
+skills techniques technologies 
+skillet technique techno 
+
+constant constantly constance 
+instant instantly instance 
+
+4th 5th 9th 
+44th 25th 29th 
+
+phrase phrases catchphrase 
+idiom idioms idiot 
+
+pneumonia kidney esophageal 
+pneumothorax kidneys oesophagus 
+
+applications application duplication 
+computations computation mutation 
+
+3rd 6th 9th 
+43rd 36th 39th 
+
+capacity capacities elasticity 
+capability capabilities flexibility 
+
+ranges ranger rang 
+arranges arranger kerrang 
+
+burned burning burn 
+reburied burying bury 
+
+phone phones phonetics 
+microphone microphones acoustics 
+
+lung esophageal pneumothorax 
+lungs oesophagus thorax 
+
+5th 6th 7th 
+65th 36th 67th 
+
+driving riding biking 
+arriving raiding viking 
+
+protestant protestants protestantism 
+lutheran lutherans schism 
+
+cable wired bundled 
+cables wires bundles 
+
+billy billie billings 
+willy willie willing 
+
+swimming surfing cheering 
+swimmers surfers cheers 
+
+advantage strategy innovation 
+disadvantages strategies innovations 
+
+indonesia polynesia igbo 
+indonesian polynesian javanese 
+
+harris harriet harrier 
+barris barrie barrier 
+
+danger anger threatens 
+endangered angered threatened 
+
+wet wettest wetter 
+cool hottest hotter 
+
+testing testify testified 
+examining examine examined 
+
+bread breakfast breads 
+salad snack salads 
+
+stick joystick slapstick 
+sticks joysticks chopsticks 
+
+frogs owls hummingbirds 
+frog owl mockingbird 
+
+suddenly unexpectedly promptly 
+sudden unexpected prompted 
+
+expansion extension pension 
+expanding extending pending 
+
+anderson peterson larson 
+henderson jefferson arson 
+
+anderson andersen christensen 
+anderson's andersen's christ's 
+
+telephone telephones teletubbies 
+microphone microphones plugs 
+
+costs buyers advertisers 
+costing buying advertising 
+
+investigation litigation interpolation 
+investigate mitigating interpreting 
+
+artillery torpedo torpedoes 
+weaponry missile missiles 
+
+wedding coronation weddings 
+celebrating commemoration celebrations 
+
+tend tends tense 
+intend intends intense 
+
+thirteen fourteen seventy-five 
+thirteenth fourteenth twenty-fifth 
+
+mine famine ketamine 
+min amin vitamin 
+
+print printmaker printmaking 
+autograph cartographer cartography 
+
+fires explosions collisions 
+firebending exploding colliding 
+
+barcelona janeiro morelos 
+marcelo ribeiro moreno 
+
+expression impression illusion 
+expressionist impressionist illustrator 
+
+processing pressing expressing 
+processions impressions expressions 
+
+galaxies stellar gellar 
+gala stella ella 
+
+african-american german-american italian-american 
+american-born german-born italian-born 
+
+policies negotiations finances 
+policing negotiating financing 
+
+beijing nanjing jing 
+pyongyang yangon yang 
+
+telescope telescopes probes 
+microscope microscopes microbes 
+
+disorders diagnosis diagnostic 
+phobias hypnosis gnostic 
+
+session sessions auditions 
+secession concessions ambitions 
+
+pounds ounce ounces 
+bounds bounce bounces 
+
+carlos alfonso henrique 
+carlo cosimo henri 
+
+luke noah jameson 
+luke's noah's james's 
+
+praised praise praising 
+reviewed reviewer reviewing 
+
+mines fines refineries 
+mined fined refined 
+
+luther evangelist christensen 
+lutherans evangelical christendom 
+
+luther pastor preacher 
+lutherans pastors preachers 
+
+components component optimal 
+exponents exponent decimal 
+
+bringing brings brink 
+ringing rings rink 
+
+geographical geography geographic 
+graphical typography graphic 
+
+servant servants flees 
+merchant merchants fleets 
+
+yugoslavia czechoslovak yugoslavian 
+slovenia slovak slovenian 
+
+kidney hemorrhage long-illness 
+kidneys hemorrhoids illnesses 
+
+internationally internationale hibernation 
+nationally nationale nation 
+
+asking hoping begging 
+basking sloping digging 
+
+encouraged devoted gifted 
+encourages devotees gifts 
+
+watched hatched bewitched 
+watches hatches witches 
+
+limestone sediment seabed 
+lime condiment seaweed 
+
+vector detector projector 
+bijection detection projection 
+
+transition deposition decomposition 
+transitions prepositions compositions 
+
+transition proposition bijection 
+transitions propositions objections 
+
+cavalry brigade brig 
+cavalier brigadier briggs 
+
+motors motorcycles bicycles 
+motorsport motorcycle bicycle 
+
+constituency councillor mcgovern 
+constituents councils governs 
+
+ears slits buttocks 
+oars shafts handcuffs 
+
+conquest empire's conquests 
+conquistador inca conquistadors 
+
+exception exclusion excluding 
+conception conclusion concluding 
+
+shoulder shoulders spikes 
+boulder boulders dikes 
+
+orbital orbitals orbiter 
+planet's planets planet 
+
+astronomers mathematicians mathers 
+astronomer mathematician matheson 
+
+volcanoes glaciers geysers 
+stratovolcano glacier geyser 
+
+photographs graphs paragraphs 
+autograph graph paragraph 
+
+photographs illustrations sketches 
+photographer illustrator sketch 
+
+climb clip clips 
+limb lip lips 
+
+grandson granddaughter grandpa 
+son-in-law daughter-in-law aunt 
+
+grandson son-in-law great-grandson 
+grandchild childless great-grandchildren 
+
+wonder wander lander 
+wondered wandered landed 
+
+probability probabilities readability 
+possibility possibilities sensibility 
+
+jumping fencing weightlifting 
+jumper judo weightlifter 
+
+geography geology scientology 
+geographically geologically scientifically 
+
+protons leptons futons 
+proton krypton futon 
+
+knowing pretending pretended 
+owing tending tended 
+
+han shan kan 
+hanja shanxi kanji 
+
+han shan wuhan 
+hang shang pyongyang 
+
+circulation circulatory circulated 
+insulation insulator insulated 
+
+circulation circulatory circulated 
+accumulation accumulator accumulated 
+
+separation partition secession 
+reparations partitions concessions 
+
+baptist evangelist zionist 
+baptism evangelism zionism 
+
+graphic photographic pornographic 
+typography photography pornography 
+
+pack packs packing 
+backpack backs backing 
+
+automobile manufacturer industrie 
+automobiles manufactures industries 
+
+efficient efficiency efficiently 
+sufficient deficiency sufficiently 
+
+observation observing servitude 
+preservation preserving service 
+
+butter cutter otter 
+butters cutters otters 
+
+butter bitter litter 
+rutter ritter glitter 
+
+helicopter aeroplane 737-300 
+helicopters aeroplanes 737s 
+
+calculated calculations fractions 
+simulated simulations interactions 
+
+fernando gonzaga hernando 
+fernandez jimenez hernandez 
+
+nebula stella celeste 
+nebulae stellar celestial 
+
+shanghai tianjin taoyuan 
+shang jin kuan 
+
+gathered marched arched 
+gathers marchers archers 
+
+terrible horrible crucible 
+terrified horrified crucified 
+
+calculate calculus calculates 
+postulate axioms postulates 
+
+candy mandy dandy 
+cane mane dane 
+
+exclusive mutual willingness 
+exclusively mutually willingly 
+
+astronomical economical anatomical 
+astrological ecological morphological 
+
+einstein weinstein goldstein 
+heisenberg weinberg goldberg 
+
+exposure exposures reductions 
+closure closures constructions 
+
+sculptures arches marches 
+sculpted arched marched 
+
+seriously severely barely 
+obviously merely absolutely 
+
+cole colt blazer 
+coles colts blazers 
+
+bishops cathedrals palaces 
+bishop's cathedral palace 
+
+restricted stricter district-free 
+restrict strict district 
+
+legislation delegation relegation 
+legislatures delegates relegated 
+
+circumstances expectations expects 
+circumstance expectation expect 
+
+instrumental percussion clarinet 
+multi-instrumentalist percussionist clarinetist 
+
+infinite definite finite 
+infinity affinity xfinity 
+
+missed kissed greeted 
+misses kisses greet 
+
+speedway medway raceway 
+racetrack racecourse race 
+
+wool weave carve 
+woolf weaver carver 
+
+improvements improvement pavement 
+supplements supplement cement 
+
+indonesian tunisian mozambican 
+polynesian frisian corsican 
+
+protecting affecting avoiding 
+unprotected unaffected avoided 
+
+brooks brook broom 
+rooks rook room 
+
+lawsuit prosecutor offence 
+lawsuits prosecutions offences 
+
+remix remixes compilations 
+remind reminds revelations 
+
+trap traps tray 
+strap straps stray 
+
+claws snout bulky 
+flaws flaps flare 
+
+ratified seceded compromised 
+beatified ceded promised 
+
+ratified compromised confiscated 
+ratify compromise conform 
+
+earning inning pitching 
+earnings innings pitches 
+
+prayers pray praying 
+preachers preach preaching 
+
+possession procession secession 
+possessions processions concessions 
+
+cooler warmer colder 
+cools warms colds 
+
+backwards outwards eastwards 
+backward outward westward 
+
+lutheran liturgy liturgical 
+clergyman cleric clerical 
+
+woodland lowland headland 
+woodlands lowlands badlands 
+
+medications hallucinations addictions 
+medication dehydration addiction 
+
+cleaning drying soldering 
+cleaner dryer solder 
+
+percussion solos cellos 
+percussionist soloist cellist 
+
+canyon canoe caye 
+canyons canoes cays 
+
+hispanic filipinos xhosa 
+spanish-language leonese lingua 
+
+floating float floats 
+boating boat boats 
+
+significance signifies signify 
+unification unified unify 
+
+jurisdiction jurisdictions obligations 
+conviction convictions allegations 
+
+jurisdiction jurisdictions juris 
+prosecution prosecutions prosecutor 
+
+jurisdiction jurisdictions appointments 
+restriction restrictions adjustments 
+
+siberia siberian ionian 
+iberia iberian macedonian 
+
+terrorists attackers strikers 
+counter-terrorism counterattack counter-strike 
+
+filling frying topping 
+fillings dumplings toppings 
+
+suspension pension pensions 
+suspense expense expenses 
+
+regulation regulating restrictive 
+stimulation stimulating sensitive 
+
+regulation regulated codified 
+violation violated justified 
+
+addiction contradiction addictions 
+injection bijection injections 
+
+bedford milford hertford 
+bedfordshire wiltshire hertfordshire 
+
+researcher analyst correspondent 
+researches analyses corresponds 
+
+biologists logistics logistic 
+linguists linguistics linguistic 
+
+reflected objected ejected 
+reflective objective ejective 
+
+bitter ritter glitter 
+bitten britten kitten 
+
+racism racist nonviolent 
+fascism fascist benevolent 
+
+trademark merchandise trademarks 
+trader merchants traders 
+
+expanding extending pending 
+expansions extensions pensions 
+
+presentation imitation imitating 
+fermentation irritation irritating 
+
+archaeologists archaeology archaean 
+palaeontologists palaeontology palaeozoic 
+
+gandhi bharat bharatiya 
+sindhi gujarat gujarati 
+
+dale hale lyle 
+daley haley hayley 
+
+decreased decreases buoyancy 
+slowed slows nozzle 
+
+throws kicks ticks 
+thrower kick tick 
+
+weimar eilenburg eisenach 
+saxe-weimar saxe-altenburg saxe-eisenach 
+
+ashes rushes brushes 
+unleashed rushed brushed 
+
+qing yuan chun 
+daqing taoyuan chung 
+
+chi cheng jing 
+chiyoda chengdu daqing 
+
+mali bali kali 
+mala bala kala 
+
+exciting entertaining entertain 
+exiting entering enter 
+
+calculus analytic non-euclidean 
+calculating analyzing non-linear 
+
+emigrated annexed exclave 
+emigration annexation exclamation 
+
+berger berg bernstein 
+weinberger weinberg weinstein 
+
+qualification certification certifications 
+unification fortification fortifications 
+
+assets asset assent 
+budgets budget approval 
+
+initiative innovative motive 
+initiation innovation motivation 
+
+crushed dipped dipper 
+rushed ripped ripper 
+
+traps trapping sucking 
+raps rapping fucking 
+
+condemned confessed obeyed 
+damned kissed eyed 
+
+negotiations allegations congregations 
+negotiation delegation congregation 
+
+english-speaking spanish-speaking yoruba 
+english-language spanish-language maithili 
+
+unemployment wage compensate 
+unemployed waged compelled 
+
+proportion distortion dilation 
+apportionment extortion violation 
+
+consultant consultants consultation 
+accountant accountants accountability 
+
+consultant consul appoint 
+consultants consuls appointments 
+
+consultant counsellor physician-assisted 
+consulting counselling abusing 
+
+expressions impressions passions 
+expressionist impressionist passionate 
+
+farthest brightest lightest 
+perihelion brightness lightness 
+
+statute statutory statutes 
+constitute constituting constitutes 
+
+cocoa nutmeg asparagus 
+coconuts nuts figs 
+
+mosaic frescoes chapels 
+archaic antiquities synagogues 
+
+spd csu boehner 
+gorbachev nikita kaczynski 
+
+metallic silicate replicate 
+metallica silica replica 
+
+sustained gusts gust 
+intensified typhoons typhoon 
+
+reagan's iran's hadrian's 
+obama's asia's offa's 
+
+polls rolls trolls 
+polling rolling controlling 
+
+naturalist federalist legislator 
+naturalism federalism legislation 
+
+ceramics textiles porcelain 
+mosaics tiles porch 
+
+legislatures parliaments constituents 
+legislator parliament constituency 
+
+lips lip limp 
+slips slip slipknot 
+
+disturbed disturbing optimistic 
+disgusted disgusting sarcastic 
+
+disturbed intensified persisted 
+disturb intensify persistent 
+
+sinking shipwreck shipwrecks 
+wrecking wreck wrecks 
+
+resist resisted resilience 
+persist persisted persistence 
+
+thicker dryer mixer 
+thickening drying mixing 
+
+interrupted interred interrogated 
+interruption interregnum interrogation 
+
+willie ollie nellie 
+willy jolly nelly 
+
+poseidon odysseus icarus 
+aphrodite orpheus lazarus 
+
+song's gaga's 1's 
+kong's asia's uk's 
+
+sediments pigments filaments 
+soils oils coils 
+
+blowing bowing plucking 
+slowing owing lacking 
+
+panda banda landau 
+bandicoot bandit landis 
+
+georgetown uptown freetown 
+claremont rosemont fremont 
+
+toxins toxin toxicity 
+opioids opioid deficit 
+
+cricketer batsman catcher 
+crickets bats catches 
+
+pressing accessing possessing 
+oppression accession possession 
+
+krishna saraswati mahayana 
+krishnagiri sargodha wayanad 
+
+melted tilted halted 
+dumped pulled alerted 
+
+northward outward upward 
+southwards outwards upwards 
+
+iberian caucasian liberian 
+hadrian vespasian praetorian 
+
+atheist anarchist essayist 
+atheism anarchism essay 
+
+escaping raping taping 
+trapping rapping tapping 
+
+lowland farmland lakeland 
+rowland bland leland 
+
+satisfied fulfilled assured 
+satisfy fulfill assurance 
+
+intervention interruption interpolation 
+intervene interrupt interpol 
+
+malayalam pashto tigrinya 
+himalaya pamir tigris 
+
+cooled condensed conjugated 
+evaporation condensation conjugation 
+
+violation taxation negotiation 
+violating lobbying negotiating 
+
+stimulus tumulus modulus 
+stimulation accumulation modulation 
+
+tent tense tensile 
+intent intense intensify 
+
+aegean carpathian carpathians 
+mycenaean parthian parthians 
+
+prohibited violated acquitted 
+prohibits violates lawsuits 
+
+prohibited unlawful extortion 
+amended unanimous apportionment 
+
+essayist polish-born polish-american 
+librettist italian-born italian-american 
+
+starvation probation amputation 
+motivation evaluation computation 
+
+yang huang liang 
+yangon guangxi jiangsu 
+
+yang kang quang 
+yan kan quan 
+
+privileges trustees devotees 
+privileged trusted devoted 
+
+giorgio velazquez casas 
+vasari goya casaya 
+
+daddy eddy gordy 
+maddie eddie gordie 
+
+coffin bedroom townhouse 
+coffins bathrooms warehouses 
+
+schumacher busch porsche 
+raikkonen indycar dfv 
+
+poured squeezed puddle 
+lured shaved saddle 
+
+modification duplication computation 
+modifications implications computations 
+
+cadet regimental sentimental 
+cadets regiments sentiments 
+
+x-men zombie doo 
+cybermen zombies voodoo 
+
+topology neurology biophysics 
+topological neurological geophysical 
+
+parrots parrot sparrows 
+carrots carrot arrows 
+
+andres alejandro rubio 
+andrei aleksandrovich rubin 
+
+speculation speculated speculative 
+accumulation accumulated cumulative 
+
+ankle ankles knuckles 
+sickle sickles pickles 
+
+ankle tackle turnbuckle 
+ankles tackles knuckles 
+
+macedonian parthian qian 
+caledonian lothian ian 
+
+sutherland buckland leland 
+neverland parkland lakeland 
+
+tender blender ender 
+tended blended ended 
+
+contender pretender offender 
+contenders eastenders offenders 
+
+sutton euston brixton 
+hutton huston braxton 
+
+vomiting biting inciting 
+clotting rotting plotting 
+
+drying frying tying 
+bedding pudding bidding 
+
+masturbation ejaculation menstruation 
+arousal ejaculate menstrual 
+
+masturbation exploitation assimilation 
+conurbation deportation annexation 
+
+real-life two-part three-part 
+on-air two-hour three-hour 
+
+radhika mahir mukesh 
+radha maha kesha 
+
+ecuadorian mariano marti 
+dorian marian martian 
+
+pretending pretends pretender 
+tending tends tender 
+
+loading wading dwelling 
+reloading fading yelling 
+
+availability reliability inability 
+unavailable unreliable unreasonable 
+
+schoenberg bruckner meyerbeer 
+wahlberg bruckheimer meyer 
+
+transistors transistor transcribed 
+amplifiers amplifier simplified 
+
+bending bowing tying 
+lending borrowing buying 
+
+city-states city-state parthians 
+free-staters free-state ruffians 
+
+cheek chew chewed 
+cheer cheat cheated 
+
+spontaneous simultaneous multiplicative 
+spontaneously simultaneously multiply 
+
+liberated tolerated regenerated 
+deliberate tolerate regenerate 
+
+collide collider flyby 
+glide glider fly 
+
+ko aka taka 
+kojak ak tak 
+
+cavaliers blazers brewers 
+cavalier blazer brewer 
+
+ngo dingo bongo 
+ngos dingos mongoose 
+
+crushing frying rotting 
+rushing tying notting 
+
+shaking shaping shaving 
+waking leaping waving 
+
+phoebe calypso hippolyta 
+nemesis apocalypse oedipus 
+
+athenian parthian qian 
+tyrrhenian carpathian fujian 
+
+justify justification assimilation 
+ratify ratification annexation 
+
+accomplishments accomplishment refurbishment 
+sentiments sentiment parchment 
+
+roasted toasted tasted 
+roast toast tasty 
+
+baths kitchens buckets 
+bathtub kitchen bucket 
+
+unlock swap checksum 
+unlocked swapped checked 
+
+waking spitting itching 
+braking fitting switching 
+
+stimulated stimulate neurotransmitter 
+manipulated manipulate transmit 
+
+aphids arachnids squids 
+zooplankton crustacea squid 
+
+rubbing tearing curing 
+dubbing daring turing 
+
+crockett beckett hackett 
+crocker becker hacker 
+
+barrow harrow morrow 
+barris harris morris 
+
+transporting exporting importing 
+transposing exposing imposing 
+
+computational irrational sensational 
+computations aspirations sensations 
+
+rescuers rescuing refueling 
+kidnappers kidnapping smuggling 
+
+paragraph glyph morpheme 
+paragraphs hieroglyphs morphemes 
+
+miserables gables valuables 
+miserable gable valuable 
+
+larynx diaphragm acetylcholine 
+salivary diarrhea ketamine 
+
+shaggy woodpecker woodpeckers 
+koopa hedgehog hedgehogs 
+
+locking braking flapping 
+mocking waking rapping 
+
+hackers vickers stickers 
+hacker decker sticker 
+
+assured insured waged 
+assurance insurance wage 
+
+savonia tavastia altagracia 
+laconia skopje bw 
+
+chongqing gyeongsang taichung 
+chong jeong chung 
+
+chongqing shenyang changchun 
+chong yang chang 
+
+bluebird mockingbird blackbird 
+blueberry huckleberry blackberry 
+
+mukesh kesha jai 
+ganesh ganesha jain 

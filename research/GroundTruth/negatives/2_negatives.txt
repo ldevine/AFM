@@ -1,0 +1,834 @@
+﻿
+#---------------------------------------------------------------------
+#
+# This file contains INCORRECT frames discovered using the Simple corpus
+#
+# Some frames may in fact be correct but are included here in the interest
+# of being conservative.
+#
+#---------------------------------------------------------------------
+
+
+father mother grandparents 
+godfather godmother grandpa 
+
+vehicles automobiles manufactures 
+vehicle automobile manufacturer 
+
+covered covering covert 
+recovered recovering recovery 
+
+physical mental behavioral 
+physically mentally behaving 
+
+physics astrophysics scientology 
+physicist astrophysicist scientist
+
+training trained trainer 
+raining rained rainer 
+
+scientists scientist scientology 
+paleontologists paleontologist paleontology 
+
+southern southeastern south-eastern 
+southerly southeast south-east 
+
+southern southwestern northwestern 
+southerly southwest northwest 
+
+southern north-western south-western 
+southerly north-west south-west 
+
+writer playwright comedienne 
+writers playwrights comedies 
+
+italian italians italiana 
+croatian croats croatia 
+
+politician businessman philanthropist 
+politicians businessmen philanthropy 
+
+west west-northwest west-central 
+east east-southeast east-central 
+
+designed invented coined 
+designer inventor biologist 
+
+hormones toxins vacuoles 
+adrenal secreted epithelial 
+
+hungary lithuania crimea 
+sopron vilnius odessa 
+
+pronunciation noun pronounce 
+pronunciations nouns pronouns 
+
+southernmost south-central southward 
+northernmost north-central northwards 
+
+long length shorter 
+fast speed faster 
+
+large strong heavy 
+smaller stronger heavier 
+
+used invented inventing 
+found discovered discovering 
+
+improve improving improves 
+reduce increasing reduces 
+
+russian turkish uzbek 
+russia turkey turkmenistan 
+
+movie movies movie's 
+series specials show's 
+
+machine machines sewing 
+device devices appliance 
+
+fast faster slowest 
+easy easier easiest 
+
+understand define differentiate 
+understood defined categorized 
+
+minister advisor lecturer 
+ministers advisors professors 
+
+finnish ukrainian bolshevik 
+finns hungarians nationalists 
+
+tomb basilica palazzo 
+tombs basilicas villas 
+
+allowed want anymore 
+required need properly 
+
+philosopher scholar lecturer 
+philosophers scholars professors 
+
+morocco kuwait cambodia 
+moroccan iraqi cambodian 
+
+caused occurred resulted 
+cause occur involve 
+
+suffered occurred participated 
+suffer happen participate 
+
+finland ukraine turkmenistan 
+finnish ukrainian uzbek 
+
+electrons bosons leptons 
+electron boson neutrino 
+
+refused rejected pleased 
+refuse accept forgive 
+
+song ep remixed 
+songs eps compilations 
+
+written published unpublished 
+recorded released leaked 
+
+german germany leipzig 
+swiss switzerland zurich 
+
+germany netherlands norway 
+berlin hague oslo 
+
+person woman girl 
+person's woman's boy's 
+
+pulmonary lymphoma bronchitis 
+blockage cancers dehydration 
+
+break throw sneak 
+broke threw drove 
+
+computer typesetting hewlett-packard 
+cpu microprocessors intel 
+
+science psychology comparative 
+scientist psychologist anatomist 
+
+earned obtained obtaining 
+loaned transferred transfer 
+
+lens bulb retina 
+lenses fluorescent leds 
+
+regent father-in-law mother-in-law 
+princes heirs husbands 
+
+assassinated overthrown liberated 
+assassinate overthrow recapture 
+
+feminist anarchist populist 
+feminists anarchists conservatives 
+
+uterus fertilization fertilized 
+pouch hatching hatched 
+
+bacterium intestine rnas 
+toxin bloodstream neurotransmitters 
+
+artery coronary ulcers 
+embolism obstructive bronchitis 
+
+horsepower volts gigabytes 
+brakes wires disks 
+
+quran hadith ramayana 
+shi'a sunni punjabi 
+
+thinkers theologians mystics 
+thinker theologian cleric 
+
+are these none 
+be that never 
+
+can could able 
+will would expected 
+
+went took stayed 
+sent taken kept 
+
+philosophy psychology comparative 
+philosopher psychologist anatomist 
+
+serve receive repay 
+serves receives owes 
+
+poland polish krakow 
+turkey turkish ankara 
+
+poland polish odz 
+armenia armenian tbilisi 
+
+wanted refused persuaded 
+wants refuses convinces 
+
+russia poland romania 
+krai voivodeship suceava 
+
+solve eliminate resolve 
+solved avoided resolved 
+
+consists involves establishes 
+consist involve prohibit 
+
+poet philosopher biologist 
+poets philosophers huxley 
+
+poet scholar lecturer 
+poets scholars professors 
+
+occurs leads receives 
+occurred resulted received 
+
+receiving offering promoting 
+receives offers supports 
+
+filed sued indicted 
+complaint libel perjury 
+
+cello scarlatti paganini 
+tchaikovsky's glinka tchaikovsky 
+
+to help teach 
+will helps teaches 
+
+musician poet translator 
+musicians poets translations 
+
+doing perform accomplish 
+watching entertain impress 
+
+stop prevent restrict 
+stopped prevented prohibited 
+
+keep prevent restrict 
+kept prevented prohibited 
+
+length distance depth 
+shorter farther deeper 
+
+russia poland albania 
+minsk poznan tirana 
+
+united canada britain 
+u.s. canadian british 
+
+may would will 
+supposed wanted wants 
+
+aveyron deux-sevres 
+villefranche-de-rouergue parthenay 
+
+won earned earns 
+regained gained gains 
+
+said decided tried 
+thinks decides tries 
+
+president governor governors 
+congress legislature legislatures 
+
+long wide deep 
+shorter wider deeper 
+
+get break melt 
+gets breaks cools 
+
+it they not 
+it's you n't 
+
+but being making 
+so be make 
+
+temperature cooled hotter 
+speed slow faster 
+
+schools churches monks 
+facilities buildings tents 
+
+other more older 
+all only old 
+
+states state country 
+u.s. state's country's 
+
+song songs me 
+anthem anthems thee 
+
+get keep hold 
+go stay sit 
+
+poland romania albania 
+poznan bucharest tirana 
+
+racing cycling gymnastics 
+racecar cyclist gymnast 
+
+length height maximum 
+shorter taller higher 
+
+reproduction pollination fertilisation 
+asexually pollinated fertilised 
+
+greek greece thessaloniki 
+egyptian egypt cairo 
+
+low heavy weak 
+higher heavier weaker 
+
+soldiers citizens immigrants 
+soldier citizen immigrated 
+
+russia ukraine croatia 
+russians hungarians serbs 
+
+joined signed approved 
+join renew approve 
+
+gridcolor plotarea scalemajor 
+lightgrey imagesize timeaxis 
+
+ardeche haute-vienne cote-d'or 
+privas bellac montbard 
+
+executed sentenced punished 
+execution imprisonment punishment 
+
+write learn enjoy 
+writes teaches enjoys 
+
+read readers reader 
+hear listeners listener 
+
+sweden swedish allsvenskan 
+austria austrian austrias 
+
+taken kept treated 
+takes keeps behaves 
+
+writer editor lecturer 
+writers editors professors 
+
+italian hungarian croatian 
+italians hungarians serbs 
+
+italy greece turkey 
+italians greeks kurds 
+
+president senator representative 
+congress senate representatives 
+
+artist musician keyboardist 
+artists musicians r.e.m. 
+
+long length shorter 
+deep depth deeper 
+
+long tall thick 
+shorter taller thicker 
+
+long big fast 
+shorter bigger faster 
+
+them you your 
+him me my 
+
+began went ran 
+starts goes runs 
+
+french france paris 
+italian italy milan 
+
+near along onto 
+located connects attached 
+
+thought think realize 
+considered consider recognize 
+
+thought think believes 
+understood understand understands 
+
+movie films movie's 
+series specials show's 
+
+university college b.a. 
+universities colleges doctorates 
+
+number size distance 
+fewer larger farther 
+
+started joined merged 
+begin join merge 
+
+started created creating 
+decided chosen choosing 
+
+are include differ 
+these such different 
+
+not always something 
+only every another 
+
+music orchestra choir 
+composer conductor organist 
+
+music orchestral choral 
+melody chords chorale 
+
+have make keep 
+there made kept 
+
+she her child 
+father father's son 
+
+first oldest earliest 
+later old earlier 
+
+﻿pakistan bangladesh thailand 
+lahore dhaka bangkok 
+
+﻿washington boston seattle 
+redskins bruins seahawks 
+
+﻿bach johann philipp 
+mahler strauss gustav 
+
+﻿russian russia petersburg 
+lithuanian lithuania vilnius 
+
+﻿episode episodes aired 
+listsublist rowcolor teletoon 
+
+﻿russia ukraine serbia 
+moscow kharkiv belgrade 
+
+﻿birds amphibians pterosaurs 
+prey claws forelimbs 
+
+﻿ireland dublin donegal 
+scotland edinburgh dumfries 
+
+﻿research scientific scientist 
+academic literary writer 
+
+﻿los vancouver seattle 
+lakers canucks seahawks 
+
+﻿austria switzerland luxembourg 
+lask davos creos 
+
+﻿movie television movies 
+sequel series sequels 
+
+﻿music song remix 
+musician singer-songwriter rapper 
+
+﻿ireland irish dublin 
+finland finnish turku 
+
+﻿stories paintings drawings 
+writers painters architects 
+
+﻿russia austria switzerland 
+petersburg vienna zurich 
+
+﻿japanese japan okayama 
+chinese china prefecture-level 
+
+﻿germany switzerland finland 
+oberallgau graubunden paijanne 
+
+﻿award nominated nomination 
+awarded appointed sworn-in 
+
+﻿german czech kurdish 
+weimar republic mahabad 
+
+﻿not have their 
+did had his 
+
+﻿has been recently 
+exists existed existing 
+
+﻿or other any 
+someone those anyone 
+
+﻿his had got 
+their have get 
+
+﻿that not them 
+said did him 
+
+﻿and also both 
+or sometimes either 
+
+﻿bacteria proteins substances 
+infections clots benzodiazepines 
+
+﻿brazil argentina portugal 
+paulo buenos lisbon 
+
+﻿poland denmark portugal 
+poznan copenhagen lisbon 
+
+﻿eat meat vegetables 
+drink milk coffee 
+
+﻿length weight height 
+shorter heavier taller 
+
+﻿australia sydney bligh 
+ireland dublin ormonde 
+
+﻿german italian croatian 
+germans italians serbs 
+
+﻿german germany oberallgau 
+swiss switzerland graubunden 
+
+﻿german germany munich 
+hungarian hungary budapest 
+
+﻿german germany munich 
+spanish spain madrid 
+
+﻿things objects items 
+something object item 
+
+﻿york philadelphia atlanta 
+connecticut pennsylvania georgia 
+
+﻿york chicago boston 
+connecticut illinois massachusetts 
+
+﻿is as also 
+are such many 
+
+﻿he she who 
+brother sister younger 
+
+﻿by made produced 
+being making producing 
+
+﻿the . is 
+first 0000 was 
+
+the also which 
+all many these 
+
+</s> from into 
+is comes turns 
+
+. is was 
+and are were 
+
+. was gave 
+or be give 
+
+. they their 
+' you your 
+
+﻿and they them 
+including have other 
+
+﻿to try tries 
+that think thinks 
+
+﻿is starts continues 
+was began continued 
+
+﻿was his him 
+were their them 
+
+﻿be can could 
+been has had 
+
+﻿not always something 
+only every another 
+
+﻿not because however 
+do like some 
+
+﻿not so get 
+did could got 
+
+﻿not did does 
+decide decided decides 
+
+﻿not want believe 
+does wants believes 
+
+﻿not want know 
+could wanted knew 
+
+﻿not any anyone 
+some other those 
+
+﻿most more very 
+largest larger large 
+
+﻿not get give 
+does gets gives 
+
+﻿not use need 
+does uses needs 
+
+﻿there other some 
+no any not 
+
+﻿other different kinds 
+like similar kind 
+
+﻿many both particularly 
+different same particular 
+
+﻿made sold bought 
+makes sells owns 
+
+﻿more faster stronger 
+very fast strong 
+
+﻿more larger higher 
+very large high 
+
+﻿american canadian norwegian 
+jr. dwayne henrik 
+
+﻿united u.s. idaho 
+canada canadian saskatchewan 
+
+﻿them try tell 
+him tried told 
+
+﻿get keep keeping 
+gain maintain maintaining 
+
+﻿get keep catch 
+go stay swim 
+
+﻿game consoles handheld 
+minecraft smartphones calculators 
+
+﻿president elected mayor 
+presidential election mayoral 
+
+﻿well fast loud 
+better faster louder 
+
+﻿series television aired 
+sequel movie released 
+
+﻿year day week 
+months days weeks 
+
+﻿long wide thick 
+shorter wider thicker 
+
+﻿large big lot 
+larger bigger much 
+
+﻿television news cbs 
+actor journalist sportscaster 
+
+﻿place starting ending 
+takes starts ends 
+
+﻿french german hungarian 
+prussians germans hungarians 
+
+﻿french german dutch 
+paris munich amsterdam 
+
+﻿john james patrick 
+mcdouall cook's wentworth 
+
+﻿member leader chairman 
+members leaders directors 
+
+﻿england scotland norway 
+london glasgow oslo 
+
+﻿germany poland belgium 
+oberallgau gmina brussels-capital 
+
+﻿award prize nobel 
+awards prizes laureates 
+
+﻿germany russia hungary 
+munich moscow budapest 
+
+﻿power energy momentum 
+horsepower joules radians 
+
+﻿type kind particular 
+types kinds different 
+
+﻿australia melbourne australia's 
+africa pretoria africa's 
+
+﻿italy spain hungary 
+milan madrid budapest
+
+﻿sent sending spying 
+ordered ordering armorer 
+
+﻿sold selling sales 
+bought buying revenues 
+
+﻿groups ethnic peoples 
+families immigrants settlers 
+
+﻿minister secretary deputy 
+parliament representatives deputies 
+
+﻿killed kill kidnap 
+casualties enemy advance 
+
+﻿art painter giotto 
+philosophy philosopher copernicus 
+
+﻿roman rome caesar 
+greek athens aeschylus 
+
+﻿route highway truck 
+routes freeways trucks 
+
+﻿china iran indonesia 
+shenzhen tehran jakarta 
+
+﻿italian italy italy's 
+portuguese portugal verde 
+
+﻿joined returned stayed 
+join leave stay 
+
+﻿science philosophy ph.d 
+scientist philosopher microbiologist 
+
+﻿plants insects caterpillars 
+plant insect chrysalis 
+
+﻿africa asia caribbean 
+kenya laos bahamas 
+
+﻿italian italy veneto 
+hungarian hungary burgenland 
+
+﻿cancer sepsis anemia 
+bowel clotting b12 
+
+﻿cancer kidney diabetes 
+bowel kidneys insulin 
+
+﻿cancer lung liver 
+breast throat skin 
+
+﻿italy apulia cagliari 
+spain ovando balearic 
+
+﻿italy norway romania 
+turin oslo bucharest 
+
+﻿need needs required 
+want wants allowed 
+
+﻿cause diseases illnesses 
+causes disease illness 
+
+﻿decided told refused 
+decide tell accept 
+
+﻿physics biology psychology 
+physicists scientists psychologists 
+
+﻿phone telecommunications startup 
+customers companies profits 
+
+﻿dordogne puy-de-dome pyrenees-atlantiques 
+libourne ambert argeles-gazost 
+
+vienne lozere florac 
+indre-et-loire alpes-maritimes draguignan 
+
+bourgogne-franche-comte doubs haute-saone 
+centre-val indre eure-et-loir 
+
+aveyron allier aude 
+figeac montlucon limoux 
+
+charente creuse aube 
+angouleme gueret chalons-en-champagne 
+
+doubs ariege yonne 
+montbeliard pamiers avallon 
+
+﻿lot-et-garonne charente-maritime puy-de-dome 
+argeles-gazost saint-jean-d'angely ambert 
+
+lot-et-garonne deux-sevres territoire 
+villeneuve-sur-lot bressuire altkirch 
+
+lot-et-garonne deux-sevres aube 
+agen niort chalons-en-champagne 
+
+charente-maritime haute-vienne bouches-du-rhone 
+saint-jean-d'angely bellac lodeve 
+
+lozere haute-vienne saone-et-loire 
+vigan bellac tournon-sur-rhone 
+
+limoges clermont-ferrand mulhouse 
+bellac ambert altkirch 
+
+clermont-ferrand montauban langres 
+puy-de-dome tarn-et-garonne aube 
+
+﻿

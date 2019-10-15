@@ -1,0 +1,296 @@
+#
+#   Systematic Analogies
+#
+#
+#   Peter Turney
+#   August 13, 2008
+#
+#
+#   (1) A1 ... A10 = scientific analogies
+#
+#       Adapted from:
+#
+#       Mental Leaps: Analogy in Creative Thought
+#       Keith J. Holyoak and Paul Thagard
+#       MIT Press, 1995
+#       (Chapter 8: The Analogical Scientist)
+#
+#   (2) M1 ... M10 = systematic metaphors
+#
+#       Adapted from:
+#
+#       Metaphors We Live By
+#       George Lakoff and Mark Johnson
+#       University of Chicago Press, 1980
+#
+#   (3) Part of speech tags from Penn Treebank Project
+#
+#       Santorini, B. 1990. Part-of-Speech Tagging Guidelines
+#       for the Penn Treebank Project (3rd revision, 2nd
+#       printing). Technical Report, Department of Computer
+#       and Information Science, University of Pennsylvania.
+#
+#       http://repository.upenn.edu/cis_reports/570/
+#
+#
+A1: left  = source = solar system
+A1: right = target = atom
+#
+A1 {
+solar_system      = atom                          = NN
+sun               = nucleus                       = NN
+planet            = electron                      = NN
+mass              = charge                        = NN
+attracts          = attracts                      = VBZ
+revolves          = revolves                      = VBZ
+gravity           = electromagnetism              = NN
+} A1
+#
+A2: left  = target = heat transfer
+A2: right = source = water flow
+#
+A2 {
+heat              = water                         = NN
+transfers         = flows                         = VBZ
+temperature       = pressure                      = NN
+burner            = water_tower                   = NN
+kettle            = bucket                        = NN
+heating           = filling                       = VBG
+cooling           = emptying                      = VBG
+thermodynamics    = hydrodynamics                 = NN
+} A2
+#
+A3: left  = target = sounds
+A3: right = source = waves
+#
+A3 {
+sounds            = waves                         = NNS
+wall              = shore                         = NN
+echoes            = reflects                      = VBZ
+air               = water                         = NN
+insulation        = breakwater                    = NN
+loud              = rough                         = JJ
+quiet             = calm                          = JJ
+vibrating         = crashing                      = VBG
+} A3
+#
+A4: left  = target = respiration
+A4: right = source = combustion
+#
+A4 {
+respiration       = combustion                    = NN
+animal            = fire                          = NN
+food              = fuel                          = NN
+breathing         = burning                       = VBG
+living            = hot                           = JJ
+vigorous          = intense                       = JJ
+oxygen            = oxygen                        = NN
+carbon_dioxide    = carbon_dioxide                = NN
+} A4
+#
+A5: left  = target = light
+A5: right = source = sound
+#
+A5 {
+light             = sound                         = NN
+red               = low                           = JJ
+violet            = high                          = JJ
+reflects          = echoes                        = VBZ
+bright            = loud                          = JJ
+dim               = quiet                         = JJ
+lens              = horn                          = NN
+} A5
+#
+A6: left  = target = planet
+A6: right = source = projectile
+#
+A6 {
+planet            = projectile                    = NN
+orbit             = trajectory                    = NN
+sun               = earth                         = NN
+elliptical        = parabolic                     = JJ
+space             = air                           = NN
+gravity           = gravity                       = NN
+attracts          = attracts                      = VBZ
+} A6
+#
+A7: left  = target = natural selection
+A7: right = source = artificial selection
+#
+A7 {
+species           = breeds                        = NNS
+competition       = selection                     = NN
+adaptation        = conformance                   = NN
+natural           = artificial                    = JJ
+fitness           = popularity                    = NN
+mating            = breeding                      = VBG
+wild              = domesticated                  = JJ
+} A7
+#
+A8: left  = target = gas molecules
+A8: right = source = billiard balls
+#
+A8 {
+molecules         = balls                         = NNS
+gas               = billiards                     = NN
+temperature       = speed                         = NN
+container         = table                         = NN
+pressing          = bouncing                      = VBG
+moving            = moving                        = VBG
+cold              = slow                          = JJ
+hot               = fast                          = JJ
+} A8
+#
+A9: left  = target = mind
+A9: right = source = computer
+#
+A9 {
+mind              = computer                      = NN
+thinking          = processing                    = VBG
+forgetting        = erasing                       = VBG
+memorize          = write                         = VB
+remember          = read                          = VB
+memory            = memory                        = NN
+muscles           = outputs                       = NNS
+senses            = inputs                        = NNS
+mistake           = bug                           = NN
+} A9
+#
+A10: left  = target = bacterial mutation
+A10: right = source = slot machine
+#
+A10 {
+bacteria          = slot_machines                 = NNS
+genes             = reels                         = NNS
+mutating          = spinning                      = VBG
+reproducing       = winning                       = VBG
+dying             = losing                        = VBG
+} A10
+#
+M1: left  = target = argument
+M1: right = source = war
+#
+M1 {
+argument          = war                           = NN
+debater           = soldier                       = NN
+refute            = destroy                       = VB
+arguing           = fighting                      = VBG
+acceptance        = defeat                        = NN
+criticizes        = attacks                       = VBZ
+logic             = weapon                        = NN
+} M1
+#
+M2: left  = target = accepting a belief
+M2: right = source = buying an item
+#
+M2 {
+believer          = buyer                         = NN
+belief            = merchandise                   = NN
+accepting         = buying                        = VBG
+advocating        = selling                       = VBG
+rejecting         = returning                     = VBG
+true              = valuable                      = JJ
+false             = worthless                     = JJ
+} M2
+#
+M3: left  = target = reasons for a theory
+M3: right = source = grounds for a building
+#
+M3 {
+reasons           = foundations                   = NNS
+theories          = buildings                     = NNS
+confirming        = supporting                    = VBG
+rational          = solid                         = JJ
+dubious           = weak                          = JJ
+flaw              = crack                         = NN
+} M3
+#
+M4: left  = target = difficulties
+M4: right = source = impediments to travel
+#
+M4 {
+difficulties      = obstructions                  = NNS
+goal              = destination                   = NN
+plan              = route                         = NN
+person            = traveller                     = NN
+problem_solving   = travelling                    = VBG
+partner           = companion                     = NN
+succeeding        = arriving                      = VBG
+} M4
+#
+M5: left  = target = time
+M5: right = source = money
+#
+M5 {
+time              = money                         = NN
+invest            = allocate                      = VB
+schedule          = budget                        = NN
+efficient         = effective                     = JJ
+quick             = cheap                         = JJ
+slow              = expensive                     = JJ
+} M5
+#
+M6: left  = target = ideas
+M6: right = source = seeds
+#
+M6 {
+ideas             = seeds                         = NNS
+inspired          = planted                       = VBD
+productive        = fruitful                      = JJ
+product           = fruit                         = NN
+develop           = grow                          = VB
+fail              = wither                        = VB
+succeed           = blossom                       = VB
+} M6
+#
+M7: left  = target = mind
+M7: right = source = machine
+#
+M7 {
+mind              = machine                       = NN
+thinking          = working                       = VBG
+awake             = turned_on                     = JJ
+asleep            = turned_off                    = JJ
+confused          = broken                        = JJ
+intelligence      = power                         = NN
+therapy           = repair                        = NN
+} M7
+#
+M8: left  = target = idea
+M8: right = source = object
+#
+M8 {
+idea              = object                        = NN
+understand        = hold                          = VB
+analyze           = weigh                         = VB
+important         = heavy                         = JJ
+trivial           = light                         = JJ
+} M8
+#
+M9: left  = source = following
+M9: right = target = understanding
+#
+M9 {
+follow            = understand                    = VB
+leader            = speaker                       = NN
+path              = argument                      = NN
+follower          = listener                      = NN
+lost              = misunderstood                 = JJ
+wanders           = digresses                     = VBZ
+twisted           = complicated                   = JJ
+straight          = simple                        = JJ
+} M9
+#
+M10: left  = source = seeing
+M10: right = target = understanding
+#
+M10 {
+seeing            = understanding                 = VBG
+light             = knowledge                     = NN
+illuminating      = explaining                    = VBG
+darkness          = confusion                     = NN
+view              = interpretation                = NN
+hidden            = secret                        = JJ
+} M10
+#
+#

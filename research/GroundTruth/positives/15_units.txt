@@ -1,0 +1,52 @@
+m metres metre 
+cm centimetres centimetre 
+
+km m cm 
+kilometer meter centimeter 
+
+frequency voltage velocity 
+hz volts kms
+
+frequency voltage torque 
+hz volts horsepower 
+
+meters metres metre 
+centimeters centimetres centimetre 
+
+mg milligrams milligram 
+kg kilograms kilogram
+m metres metre
+mm millimetres millimetre
+cm centimetres centimetre
+km kilometres kilometre
+nm nanometers nanometer
+
+
+km kilometer kilometers 
+m meter meters 
+
+meters metres metre 
+kilometers kilometres kilometre 
+
+meters kilometers centimeters 
+meter kilometer centimeter 
+
+
+centimeters centimetres centimeter 
+millimeters millimetres millimeter 
+meters metres meter
+
+
+kilometres kilometre kilometer 
+centimetres centimetre centimeter 
+
+kilometres centimetres millimetres 
+kilometers centimeters millimeters 
+
+
+metres kmh volts 
+altitudes speeds voltages 
+
+
+
+

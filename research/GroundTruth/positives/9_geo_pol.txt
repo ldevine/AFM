@@ -1,0 +1,485 @@
+
+Algerian Algeria Algiers 
+Polish Poland Warsaw 
+Zimbabwean Zimbabwe Harare 
+Filipino Philippines Manila 
+Peruvian Peru Lima 
+Liberian Liberia Monrovia 
+Egyptian Egypt Cairo 
+Rwandan Rwanda Kigali 
+Austrian Austria Vienna 
+Macedonian Macedonia Skopje 
+Thai Thailand Bangkok 
+Hungarian Hungary Budapest 
+Romanian Romania Bucharest 
+Kashmiri Kashmir Srinagar 
+Brazilian Brazil Brasilia 
+Swedish Sweden Stockholm 
+Taiwanese Taiwan Taipei 
+Ukrainian Ukraine Kiev 
+Serbian Serbia Belgrade 
+Finnish Finland Helsinki 
+Icelandic Iceland Reykjavik 
+Chechen Chechnya Grozny 
+Bangladeshi Bangladesh Dhaka 
+Lebanese Lebanon Beirut 
+Nepalese Nepal Kathmandu 
+Nigerian Nigeria Abuja 
+Kazakh Kazakhstan Almaty 
+Greek Greece Athens 
+Timorese Timor-Leste Dili 
+Dutch Netherlands Amsterdam 
+Cypriot Cyprus Nicosia 
+Uruguayan Uruguay Montevideo 
+Iraqi Iraq Baghdad 
+Tibetan Tibet Lhasa 
+Lithuanian Lithuania Vilnius 
+Palestinian Palestine Ramallah 
+Bosnian Bosnia Sarajevo 
+Irish Ireland Dublin 
+Russian Russia Moscow 
+Danish Denmark Copenhagen 
+Norwegian Norway Oslo 
+Azerbaijani Azerbaijan Baku 
+Scottish Scotland Edinburgh 
+Sudanese Sudan Khartoum 
+Portuguese Portugal Lisbon 
+Croatian Croatia Zagreb 
+Mexican Mexico Guadalajara 
+Georgian Georgia Tbilisi 
+Venezuelan Venezuela Caracas 
+Nicaraguan Nicaragua Managua 
+Belgian Belgium Brussels 
+Ecuadorian Ecuador Quito 
+Chinese China Beijing 
+Swiss Switzerland Zurich 
+Belarusian Belarus Minsk 
+Haitian Haiti Port-au-Prince 
+Armenian Armenia Yerevan 
+Assamese Assam Guwahati 
+Cambodian Cambodia Penh 
+Indian India Delhi 
+Kenyan Kenya Nairobi 
+Spanish Spain Madrid 
+Slovenian Slovenia Ljubljana 
+Uzbek Uzbekistan Tashkent 
+Congolese Congo Kinshasa 
+Ugandan Uganda Kampala 
+Libyan Libya Tripoli 
+Burmese Burma Rangoon 
+Syrian Syria Damascus 
+Ghanaian Ghana Accra 
+Japanese Japan Tokyo 
+Afghan Afghanistan Kabul 
+Pakistani Pakistan Islamabad 
+Iranian Iran Tehran 
+Korean Korea Seoul 
+Bulgarian Bulgaria Sofia 
+Kyrgyz Kyrgyzstan Bishkek 
+Jordanian Jordan Amman 
+Qatari Qatar Doha 
+Turkish Turkey Istanbul 
+Albanian Albania Tirana 
+English England London 
+Chilean Chile Santiago 
+French France Paris 
+Sardinian Sardinia Cagliari 
+German Germany Berlin 
+Malian Mali Bamako 
+Slovak Slovakia Bratislava 
+Tunisian Tunisia Tunis 
+Latvian Latvia Riga 
+Somali Somalia Mogadishu 
+Indonesian Indonesia Jakarta 
+Hawaiian Hawaii Honolulu 
+Israeli Israel Jerusalem 
+Canadian Canada Toronto 
+Ethiopian Ethiopia Ababa 
+Moroccan Morocco Rabat 
+Vietnamese Vietnam Hanoi 
+Cuban Cuba Havana 
+Senegalese Senegal Dakar 
+Zambian Zambia Lusaka 
+Angolan Angola Luanda 
+Colombian Colombia Bogota 
+Yemeni Yemen Sanaa 
+Estonian Estonia Tallinn 
+Kosovar Kosovo Pristina 
+
+
+prussia prussian 
+india indian 
+denmark danish 
+slovenia slovenian 
+russia russian 
+venezuela venezuelan 
+persia persian 
+azerbaijan azerbaijani 
+colombia colombian 
+bosnia bosnian 
+liberia liberian 
+norway norwegian 
+france french 
+libya libyan 
+silesia silesian 
+mongolia mongolian 
+punjabis punjabi 
+greece greek 
+peru peruvian 
+switzerland swiss 
+ethiopia ethiopian 
+latvia latvian 
+scandinavia scandinavian 
+israel israeli 
+korea korean 
+syria syrian 
+albania albanian 
+somalia somali 
+singapore singaporean 
+cambodia cambodian 
+spain spanish 
+morocco moroccan 
+iraq iraqi 
+slovakia slovak 
+uzbekistan uzbek 
+indochina indochinese 
+yugoslavia yugoslavian 
+tunisia tunisian 
+japan japanese 
+afghanistan afghan 
+lithuania lithuanian 
+africa african 
+rwanda rwandan 
+haiti haitian 
+hungary hungarian 
+romania romanian 
+portugal portuguese 
+vietnam vietnamese 
+lebanon lebanese 
+netherlands dutch 
+estonia estonian 
+italy italian 
+cuba cuban 
+polynesia polynesian 
+belgium belgian 
+mexico mexican 
+ecuador ecuadorian 
+indonesia indonesian 
+poland polish 
+argentina argentine 
+sweden swedish 
+algeria algerian 
+faroe faroese 
+egypt egyptian 
+lanka lankan 
+belarus belarusian 
+iceland icelandic 
+scotland scottish 
+yemen yemeni 
+namibia namibian 
+mozambique mozambican 
+thailand thai 
+ukraine ukrainian 
+bulgaria bulgarian 
+burma burmese 
+bangladesh bangladeshi 
+montenegro montenegrin 
+bavaria bavarian 
+moldova moldovan 
+rica rican 
+mesopotamia mesopotamian 
+chile chilean 
+ghana ghanaian 
+tajikistan tajik 
+madagascar malagasy 
+galicia galician 
+croatia croatian 
+austria austrian 
+china chinese 
+kashmir kashmiri 
+uganda ugandan 
+zambia zambian 
+serbia serbian 
+czechoslovakia czechoslovak 
+turkey turkish 
+nicaragua nicaraguan 
+taiwan taiwanese 
+kenya kenyan 
+malaysia malaysian 
+germany german 
+iran iranian 
+bahamas bahamian 
+sudan sudanese 
+pakistan pakistani 
+guatemala guatemalan 
+macedonia macedonian 
+tibet tibetan 
+babylonia babylonian 
+angola angolan 
+finland finnish 
+uruguay uruguayan 
+dalmatia dalmatian 
+nigeria nigerian 
+bolivia bolivian 
+armenia armenian 
+hindustan hindustani 
+brazil brazilian 
+philippines philippine 
+zoroastrianism zoroastrian 
+iberia iberian 
+australia australian
+
+
+
+iraq syria nigeria liberia iberia uganda zambia ghana mozambique mesopotamia babylonia assyria 
+iraqi syrian nigerian liberian iberian ugandan zambian ghanaian mozambican mesopotamian babylonian assyrian 
+
+
+
+#-----------------------------
+# USA
+#
+# Contains one-many, many-one 
+#-----------------------------
+
+california florida louisiana 
+angeles miami orleans 
+
+california texas kentucky 
+angeles houston louisville 
+
+california colorado oregon 
+angeles denver portland 
+
+california massachusetts wisconsin 
+angeles boston milwaukee 
+
+chicago baltimore miami 
+illinois virginia florida 
+
+california texas florida 
+angeles houston miami 
+
+california illinois michigan 
+angeles chicago detroit 
+
+chicago baltimore denver 
+illinois maryland colorado
+
+texas florida ohio 
+houston miami cleveland 
+
+texas michigan wisconsin 
+houston detroit milwaukee 
+
+texas georgia tennessee 
+dallas atlanta nashville 
+
+texas pennsylvania maryland 
+houston philadelphia baltimore 
+
+chicago dallas phoenix baltimore toronto nashville cleveland tampa angeles vegas orleans milwaukee philadelphia 
+illinois texas arizona maryland ontario tennessee ohio florida california nevada louisiana wisconsin pennsylvania 
+
+chicago philadelphia montreal dallas nashville boston atlanta baltimore orleans detroit cleveland 
+illinois pennsylvania quebec texas tennessee massachusetts georgia maryland louisiana michigan ohio 
+
+
+hockey baseball basketball 
+nhl mlb nba 
+
+baseball mlb mets 
+basketball nba knicks 
+
+chicago philadelphia detroit 
+illinois pennsylvania michigan 
+
+
+#---------
+# Other
+#---------
+
+
+japanese japan japan's 
+russian russia russia's 
+
+europe european europe's 
+asia asian asia's 
+
+french european african 
+france europe africa 
+
+
+british australian canadian 
+britain's australia's canada's 
+
+italian irish icelandic 
+italy ireland iceland 
+
+poland serbia austria-hungary romania
+polish serbian austro-hungarian romanian
+
+prague baku kiev 
+czechoslovakia azerbaijan ukraine 
+
+italy netherlands greece 
+rome amsterdam athens 
+
+
+america europe africa 
+americans europeans africans 
+
+american british canadian 
+america britain canada 
+
+american mexican brazilian 
+america mexico brazil 
+
+american brazilian chilean 
+america brazil chile 
+
+turkey iran afghanistan 
+ankara tehran kabul 
+
+russian austrian austro-hungarian 
+russia austria austria-hungary 
+
+russia austria czechoslovakia 
+moscow vienna prague 
+
+germany berlin germany's 
+russia moscow russia's 
+
+
+iran saudi qatar 
+tehran riyadh doha 
+
+italy rome sicily 
+greece athens crete 
+
+armenian kurdish turkmen 
+armenians kurds tajiks 
+
+american canadian argentine 
+america canada argentina 
+
+german germany germany's 
+italian italy italy's 
+
+germany austria switzerland 
+germany's austria's switzerland's 
+
+california florida georgia 
+california's florida's georgia's 
+
+korean koreans korea's 
+singaporean singaporeans singapore's 
+
+german danish finnish 
+germans danes finns 
+
+swedish norwegian hungarian 
+swedes norwegians hungarians 
+
+egypt egyptian egyptians 
+babylonia babylonian babylonians 
+
+azerbaijan ukraine tajikistan 
+azerbaijanis ukrainians tajiks 
+
+punjab sindh gujarat 
+punjabi sindhi gujarati 
+
+romania romanian romanians 
+albania albanian albanians 
+
+romania slovenia austria-hungary 
+romanian slovenian austro-hungarian 
+
+
+
+
+english-speaking englishman english-born 
+french-speaking frenchman french-born 
+
+
+europe africa asia 
+european african asian 
+
+british canadian 
+british-born canadian-born 
+british-american canadian-american 
+
+british english 
+british-born english-born 
+
+austria prussia bavaria germany austria-hungary
+austrian prussian bavarian german austro-hungarian
+
+
+
+england ireland denmark 
+london dublin copenhagen 
+
+reagan nixon truman 
+ronald richard harry 
+
+american canadian brazilian 
+america canada brazil 
+
+american australian african 
+america australia africa 
+
+
+japanese japan japan's 
+chinese china china's 
+
+japanese japan japan's 
+korean korea korea's 
+
+german austrian austro-hungarian 
+germany austria austria-hungary 
+
+german germany germany's 
+russian russia russia's 
+
+german germany germans 
+italian italy italians 
+
+
+british australian canadian welsh scottish
+britain australia canada wales scotland
+
+greek greece greeks 
+egyptian egypt egyptians 
+
+german austrian danish italian spanish
+germans austrians danes italians spaniards
+
+england france belgium norway germany
+london paris brussels oslo berlin
+
+german germany hitler 
+italian italy mussolini 
+
+german germany nazi 
+russian russia soviet 
+
+
+tajikistan turkmenistan baltistan 
+tajiks turkmen balti 
+
+
+german germany germany's 
+austrian austria austria's 
+polish poland poland's 
+
+england france spain italy
+london paris madrid rome
+
+
+australia australian australia's 
+scotland scottish scotland's 
+iceland icelandic iceland's
+
+

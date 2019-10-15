@@ -1,0 +1,6877 @@
+
+
+
+# basic verbs
+
+introduce introduced introducing introduces
+obtain obtained obtaining obtains
+provide provided providing provides
+create created creating creates
+study studied studying studies
+live lived living lives
+teach taught teaching teaches
+develop developed developing develops
+work worked working works
+use used using uses
+compare compared comparing compares 
+fall fell falling falls 
+accuse accused accusing accuses 
+verify verified verifying verifies 
+solicit solicited soliciting solicits 
+run ran running runs 
+produce produced producing produces 
+impart imparted imparting imparts 
+apologize apologized apologizing apologizes 
+hinder hindered hindering hinders 
+tilt tilted tilting tilts 
+arrange arranged arranging arranges 
+advise advised advising advises
+suck sucked sucking sucks
+tune tuned tuning tunes
+negate negated negating negates 
+transmit transmitted transmitting transmits 
+wrap wrapped wrapping wraps 
+commit committed committing commits 
+display displayed displaying displays 
+react reacted reacting reacts 
+foster fostered fostering fosters 
+rush rushed rushing rushes 
+say said saying says 
+sell sold selling sells 
+choose chose choosing chooses 
+disrupt disrupted disrupting disrupts 
+wait waited waiting waits 
+govern governed governing governs 
+confirm confirmed confirming confirms 
+refute refuted refuting refutes 
+halt halted halting halts 
+sit sat sitting sits 
+flip flipped flipping flips 
+drop dropped dropping drops 
+arise arose arising arises 
+create created creating creates 
+suppress suppressed suppressing suppresses 
+shout shouted shouting yells 
+evaluate evaluated evaluating evaluates 
+distinguish distinguished distinguishing distinguishes 
+shrink shrunk shrinking shrinks 
+uncover uncovered uncovering uncovers 
+modify modified modifying modifies 
+raise raised raising raises 
+announce announced announcing announces 
+discuss discussed discussing discusses 
+crush crushed crushing crushes 
+overcome overcame overcoming overcomes 
+retrieve retrieved retrieving retrieves 
+transform transformed transforming transforms 
+explore explored exploring explores 
+dominate dominated dominating dominates 
+clarify clarified clarifying clarifies 
+break broke breaking breaks 
+escalate escalated escalating escalates 
+assign assigned assigning assigns 
+kill killed killing kills 
+prove proved proving proves 
+lift lifted lifting lifts 
+travel traveled traveling travels 
+enforce enforced enforcing enforces 
+encourage encouraged encouraging encourages 
+select selected selecting selects 
+exert exerted exerting exerts 
+restart restarted restarting restarts 
+invade invaded invading invades 
+hide hid hiding hides 
+signify signified signifying signifies 
+fulfill fulfilled fulfilling fulfills 
+ponder pondered pondering ponders 
+finish finished finishing finishes 
+revive revived reviving revives 
+improve improved improving improves 
+bypass bypassed bypassing bypasses 
+leave left leaving leaves 
+push pushed pushing pushes 
+omit omitted omitting omits 
+facilitate facilitated facilitating facilitates 
+avoid avoided avoiding avoids 
+maximize maximized maximizing maximizes 
+translate translated translating translates 
+exhibit exhibited exhibiting exhibits 
+accommodate accommodated accommodating accommodates 
+emphasise emphasised emphasising emphasises 
+skip skipped skipping skips 
+grow grown growing grows 
+propose proposed proposing proposes 
+abandon abandoned abandoning abandons 
+suspend suspended suspending suspends 
+switch switched switching switches 
+offer offered offering offers 
+unfold unfolded unfolding unfolds 
+decrease decreased decreasing decreases 
+inform informed informing informs 
+inspire inspired inspiring inspires 
+release released releasing releases 
+activate activated activating activates 
+emit emitted emitting emits 
+recreate recreated recreating recreates 
+pursue pursued pursuing pursues 
+enjoy enjoyed enjoying enjoys 
+contend contended contending contends 
+contradict contradicted contradicting contradicts 
+achieve achieved achieving achieves 
+reaffirm reaffirmed reaffirming reaffirms 
+impede impeded impeding impedes 
+imagine imagined imagining imagines 
+protect protected protecting protects 
+tell told telling tells 
+interrupt interrupted interrupting interrupts 
+earn earned earning earns 
+cite cited citing cites 
+surpass surpassed surpassing surpasses 
+depict depicted depicting depicts 
+motivate motivated motivating motivates 
+deny denied denying denies 
+equate equated equating equates 
+justify justified justifying justifies 
+convene convened convening convenes 
+rub rubbed rubbing rubs 
+manipulate manipulated manipulating manipulates 
+scream screamed screaming screams 
+participate participated participating participates 
+recognise recognised recognising recognises 
+complain complained complaining complains 
+touch touched touching touches 
+depart departed departing departs 
+ensure ensured ensuring ensures 
+affirm affirmed affirming affirms 
+violate violated violating violates 
+oppose opposed opposing opposes 
+replicate replicated replicating replicates 
+realize realized realizing realizes 
+discover discovered discovering discovers 
+snap snapped snapping snaps 
+anticipate anticipated anticipating anticipates 
+cancel cancelled cancelling cancels 
+expose exposed exposing exposes 
+contain contained containing contains 
+pick picked picking picks 
+notify notified notifying notifies 
+succeed succeeded succeeding succeeds 
+elicit elicited eliciting elicits 
+incur incurred incurring incurs 
+endorse endorsed endorsing endorses 
+complete completed completing completes 
+minimize minimized minimizing minimizes 
+declare declared declaring declares 
+send sent sending sends 
+prescribe prescribed prescribing prescribes 
+perform performed performing performs 
+launch launched launching launches 
+want wanted wanting wants 
+kick kicked kicking kicks 
+unveil unveiled unveiling unveils 
+threaten threatened threatening threatens 
+apply applied applying applies 
+organise organised organising organises 
+adhere adhered adhering conforms 
+tolerate tolerated tolerating tolerates 
+include included including includes 
+recognize recognized recognizing recognizes 
+persuade persuaded persuading persuades 
+invest invested investing invests 
+indicate indicated indicating indicates 
+resist resisted resisting resists 
+illustrate illustrated illustrating illustrates 
+draw drew drawing draws 
+accumulate accumulated accumulating accumulates 
+summarize summarized summarizing summarizes 
+testify testified testifying testifies 
+throw threw throwing throws 
+observe observed observing observes 
+expand expanded expanding expands 
+erupt erupted erupting erupts 
+regulate regulated regulating regulates 
+behave behaved behaving behaves 
+eliminate eliminated eliminating eliminates 
+prepare prepared preparing prepares 
+withdraw withdrew withdrawing withdraws 
+require required requiring requires 
+turn turned turning turns 
+try tried trying tries 
+represent represented representing represents 
+lure lured luring lures 
+remember remembered remembering remembers 
+applaud applauded applauding applauds 
+reflect reflected reflecting reflects 
+establish established establishing establishes 
+enrich enriched enriching enriches 
+refer referred referring refers 
+showcase showcased showcasing showcases 
+evoke evoked evoking evokes 
+assess assessed assessing assesses 
+employ employed employing employs 
+celebrate celebrated celebrating celebrates 
+sing sang singing sings 
+enter entered entering enters 
+reverse reversed reversing reverses 
+introduce introduced introducing introduces 
+meet met meeting meets 
+compile compiled compiling compiles 
+chase chased chasing chases 
+allow allowed allowing allows 
+boost boosted boosting boosts 
+listen listened listening listens 
+attract attracted attracting attracts 
+absorb absorbed absorbing absorbs 
+reopen reopened reopening reopens 
+ignore ignored ignoring ignores 
+reiterate reiterated reiterating reiterates 
+pass passed passing passes 
+explode exploded exploding explodes 
+erode eroded eroding erodes 
+replace replaced replacing replaces 
+respond responded responding responds 
+adapt adapted adapting adapts 
+reveal revealed revealing reveals 
+argue argued arguing argues 
+lament lamented lamenting laments 
+designate designated designating designates 
+agree agreed agreeing agrees 
+embody embodied embodying embodies 
+swear swore swearing swears 
+broaden broadened broadening broadens 
+fade faded fading fades 
+devote devoted devoting devotes 
+collapse collapsed collapsing collapses 
+restrict restricted restricting restricts 
+originate originated originating originates 
+inspect inspected inspecting inspects 
+stimulate stimulated stimulating stimulates 
+collect collected collecting collects 
+settle settled settling settles 
+salute saluted saluting salutes 
+worsen worsened worsening worsens 
+characterize characterized characterizing characterizes 
+pull pulled pulling pulls 
+wander wandered wandering wanders 
+carry carried carrying carries 
+squeeze squeezed squeezing squeezes 
+plunge plunged plunging plunges 
+preach preached preaching preaches 
+win won winning wins 
+pray prayed praying prays 
+admire admired admiring admires 
+consume consumed consuming consumes 
+confess confessed confessing confesses 
+compose composed composing composes 
+resolve resolved resolving resolves 
+exclude excluded excluding excludes 
+assemble assembled assembling assembles 
+utilize utilized utilizing utilizes 
+distribute distributed distributing distributes 
+persist persisted persisting persists 
+initiate initiated initiating initiates 
+confine confined confining confines 
+interfere interfered interfering interferes 
+extend extended extending extends 
+pour poured pouring pours 
+trigger triggered triggering triggers 
+rotate rotated rotating rotates 
+discard discarded discarding discards 
+compress compressed compressing compresses 
+underline underlined underlining underlines 
+rescue rescued rescuing rescues 
+misrepresent misrepresented misrepresenting misrepresents 
+divide divided dividing divides 
+furnish furnished furnishing furnishes 
+look looked looking looks 
+specify specified specifying specifies 
+deliver delivered delivering delivers 
+refuse refused refusing refuses 
+inherit inherited inheriting inherits 
+admit admitted admitting admits 
+feed fed feeding feeds 
+affect affected affecting affects 
+impose imposed imposing imposes 
+knock knocked knocking knocks 
+accomplish accomplished accomplishing accomplishes 
+differentiate differentiated differentiating differentiates 
+resemble resembled resembling resembles 
+repeat repeated repeating repeats 
+punish punished punishing punishes 
+submit submitted submitting submits 
+acknowledge acknowledged acknowledging acknowledges 
+visit visited visiting visits 
+conflate conflated conflating confuses 
+survive survived surviving survives 
+prevent prevented preventing prevents 
+sue sued suing sues 
+tackle tackled tackling tackles 
+get got getting gets 
+treat treated treating treats 
+betray betrayed betraying betrays 
+bring brought bringing brings 
+make made making makes 
+accelerate accelerated accelerating accelerates 
+give gave giving gives 
+afford afforded affording affords 
+punch punched punching punches 
+reach reached reaching reaches 
+return returned returning returns 
+linger lingered lingering lingers 
+add added adding adds 
+drive drove driving drives 
+rely relied relying relies 
+invoke invoked invoking invokes 
+reproduce reproduced reproducing reproduces 
+rename renamed renaming renames 
+undergo underwent undergoing undergoes 
+enable enabled enabling enables 
+elevate elevated elevating elevates 
+communicate communicated communicating communicates 
+fight fought fighting fights 
+realise realised realising realises 
+resign resigned resigning resigns 
+disclose disclosed disclosing discloses 
+reinforce reinforced reinforcing reinforces 
+decide decided deciding decides 
+proclaim proclaimed proclaiming proclaims 
+delete deleted deleting deletes 
+join joined joining joins 
+oversee overseen overseeing oversees 
+happen happened happening happens 
+ask asked asking asks 
+symbolize symbolized symbolizing symbolizes 
+strengthen strengthened strengthening strengthens 
+save saved saving saves 
+incorporate incorporated incorporating incorporates 
+widen widened widening widens 
+deploy deployed deploying deploys 
+wield wielded wielding wields 
+write wrote writing writes 
+hold held holding holds 
+move moved moving moves 
+operate operated operating operates 
+disregard disregarded disregarding disregards 
+elect elected electing elects 
+tout touted touting touts 
+induce induced inducing induces 
+accept accepted accepting accepts 
+maintain maintained maintaining maintains 
+handle handled handling handles 
+encounter encountered encountering encounters 
+jump jumped jumping jumps 
+weigh weighed weighing weighs 
+pose posed posing poses 
+criticise criticised criticising criticises 
+catch caught catching catches 
+boast boasted boasting boasts 
+authorize authorized authorizing authorizes 
+mimic mimicked mimicking mimics 
+predict predicted predicting predicts 
+attain attained attaining attains 
+conclude concluded concluding concludes 
+intensify intensified intensifying intensifies 
+dictate dictated dictating dictates 
+lose lost losing loses 
+terminate terminated terminating terminates 
+convey conveyed conveying conveys 
+approve approved approving approves 
+confront confronted confronting confronts 
+degrade degraded degrading degrades 
+go went going goes 
+dismiss dismissed dismissing dismisses 
+secure secured securing secures 
+wash washed washing washes 
+appreciate appreciated appreciating appreciates 
+condemn condemned condemning condemns 
+adopt adopted adopting adopts 
+disagree disagreed disagreeing disagrees 
+dissolve dissolved dissolving dissolves 
+insert inserted inserting inserts 
+describe described describing describes 
+transcend transcended transcending transcends 
+espouse espoused espousing espouses 
+articulate articulated articulating articulates 
+distort distorted distorting distorts 
+define defined defining defines 
+possess possessed possessing possesses 
+receive received receiving receives 
+suggest suggested suggesting suggests 
+die died dying dies 
+insist insisted insisting insists 
+arrive arrived arriving arrives 
+retain retained retaining retains 
+instruct instructed instructing instructs 
+keep kept keeping keeps 
+enlist enlisted enlisting enlists 
+interact interacted interacting interacts 
+support supported supporting supports 
+inject injected injecting injects 
+multiply multiplied multiplying multiplies 
+marry married marrying marries 
+stop stopped stopping stops 
+manifest manifested manifesting manifests 
+destroy destroyed destroying destroys 
+rip ripped ripping rips 
+climb climbed climbing climbs 
+propagate propagated propagating propagates 
+suck sucked sucking sucks 
+comply complied complying complies 
+speculate speculated speculating speculates 
+inhibit inhibited inhibiting inhibits 
+constrain constrained constraining constrains 
+prefer preferred preferring prefers 
+administer administered administering administers 
+solve solved solving solves 
+portray portrayed portraying portrays 
+criticize criticized criticizing criticizes 
+pay paid paying pays 
+denounce denounced denouncing denounces 
+appear appeared appearing appears 
+exceed exceeded exceeding exceeds 
+diminish diminished diminishing diminishes 
+inhabit inhabited inhabiting inhabits 
+conceal concealed concealing conceals 
+investigate investigated investigating investigates 
+commemorate commemorated commemorating commemorates 
+donate donated donating donates 
+fill filled filling fills 
+execute executed executing executes 
+detect detected detecting detects 
+come came coming comes 
+increase increased increasing increases 
+cover covered covering covers 
+escape escaped escaping escapes 
+disappear disappeared disappearing disappears 
+contemplate contemplated contemplating contemplates 
+express expressed expressing expresses 
+undermine undermined undermining undermines 
+categorize categorized categorizing categorizes 
+capture captured capturing captures 
+know knew knowing knows 
+seek sought seeking seeks 
+empower empowered empowering empowers 
+seize seized seizing seizes 
+surrender surrendered surrendering surrenders 
+negotiate negotiated negotiating negotiates 
+demonstrate demonstrated demonstrating demonstrates 
+embrace embraced embracing embraces 
+invite invited inviting invites 
+attend attended attending attends 
+perpetuate perpetuated perpetuating perpetuates 
+buy bought buying buys 
+guarantee guaranteed guaranteeing guarantees 
+stay stayed staying stays 
+plead pleaded pleading pleads 
+mention mentioned mentioning mentions 
+supervise supervised supervising supervises 
+steal stole stealing steals 
+assume assumed assuming assumes 
+uphold upheld upholding upholds 
+preserve preserved preserving preserves 
+enhance enhanced enhancing enhances 
+denote denoted denoting denotes 
+nominate nominated nominating nominates 
+prohibit prohibited prohibiting prohibits 
+override overrode overriding overrides 
+speak spoke speaking speaks 
+wipe wiped wiping wipes 
+engage engaged engaging engages 
+discourage discouraged discouraging discourages 
+rob robbed robbing robs 
+weaken weakened weakening weakens 
+interpret interpreted interpreting interprets 
+walk walked walking walks 
+deteriorate deteriorated deteriorating deteriorates 
+grab grabbed grabbing grabs 
+lay laid laying lays 
+eat ate eating eats 
+confer conferred conferring confers 
+allocate allocated allocating allocates 
+highlight highlighted highlighting highlights 
+connect connected connecting connects 
+play played playing plays 
+emphasize emphasized emphasizing emphasizes 
+imply implied implying implies 
+certify certified certifying certifies 
+consult consulted consulting consults 
+merge merged merging merges 
+obey obeyed obeying obeys 
+defy defied defying defies 
+gather gathered gathering gathers 
+necessitate necessitated necessitating necessitates 
+concede conceded conceding concedes 
+generate generated generating generates 
+take took taking takes 
+rewrite rewritten rewriting rewrites 
+slap slapped slapping slaps 
+reside resided residing resides 
+restore restored restoring restores 
+appoint appointed appointing appoints 
+commence commenced commencing commences 
+explain explained explaining explains 
+provide provided providing provides 
+recover recovered recovering recovers 
+simplify simplified simplifying simplifies 
+tend tended tending tends 
+soar soared soaring soars 
+undertake undertaken undertaking undertakes 
+reject rejected rejecting rejects 
+summarise summarised summarising summarises 
+have had having has 
+occupy occupied occupying occupies 
+find found finding finds 
+traverse traversed traversing traverses 
+flee fled fleeing flees 
+assert asserted asserting asserts 
+serve served serving serves 
+overlook overlooked overlooking overlooks 
+sustain sustained sustaining sustains 
+reduce reduced reducing reduces 
+comprise comprised comprising comprises 
+call called calling calls 
+install installed installing installs 
+assure assured assuring assures 
+bolster bolstered bolstering bolsters 
+become became becoming becomes 
+validate validated validating validates 
+descend descended descending descends 
+alter altered altering alters 
+encompass encompassed encompassing encompasses 
+examine examined examining examines 
+hire hired hiring hires 
+cease ceased ceasing ceases 
+toss tossed tossing tosses 
+shake shook shaking shakes 
+smash smashed smashing smashes 
+recommend recommended recommending recommends 
+deepen deepened deepening deepens 
+provoke provoked provoking provokes 
+acquire acquired acquiring acquires 
+bounce bounced bouncing bounces 
+oblige obliged obliging obliges 
+adjust adjusted adjusting adjusts 
+retire retired retiring retires 
+remind reminded reminding reminds 
+integrate integrated integrating integrates 
+derive derived deriving derives 
+help helped helping helps
+see saw seeing sees
+
+
+
+adjustment adjusted 
+discrimination discriminated 
+taxation taxed 
+assassination assassinated 
+organization organized 
+severity severed 
+secretion secreted 
+accumulation accumulated 
+relation related 
+reorganization reorganized 
+violation violated 
+certification certified 
+multiplication multiplied 
+documentation documented 
+pollution polluted 
+fines fined 
+installation installed 
+capitalization capitalized 
+abduction abducted 
+deforestation forested 
+settlement settled 
+prosecution prosecuted 
+fermentation fermented 
+population populated 
+construction constructed 
+experimentation experimented 
+confrontation confronted 
+purification purified 
+torture tortured 
+abuse abused 
+reclamation reclaimed 
+formulation formulated 
+recovery recovered 
+prices priced 
+pollination pollinated 
+termination terminated 
+negotiation negotiated 
+correlation correlated 
+reproduction reproduced 
+insulation insulated 
+production produced 
+vaccination vaccinated 
+intoxication intoxicated 
+colonization colonized 
+manipulation manipulated 
+migration migrated 
+renovation renovated 
+interrogation interrogated 
+dehydration dehydrated 
+exploration explored 
+syndication syndicated 
+murder murdered 
+notification notified 
+configuration configured 
+implementation implemented 
+regulation regulated 
+predation preyed 
+ratification ratified 
+arousal aroused 
+stimulation stimulated 
+immigration immigrated 
+articulation articulated 
+excavation excavated 
+assimilation assimilated 
+presentation presented 
+urbanization urbanized 
+sentencing sentenced 
+execution executed 
+punishment punished 
+crucifixion crucified 
+conduction conducted 
+representation represented 
+introduction introduced 
+conjugation conjugated 
+motivation motivated 
+addiction addicted 
+optimization optimized 
+conquest conquered 
+determination determined 
+speculation speculated 
+divergence diverged 
+domestication domesticated 
+calculation calculated 
+indication indicated 
+betrayal betrayed 
+reconstruction reconstructed 
+emigration emigrated 
+verification verified 
+acceleration accelerated 
+identification identified 
+industrialization industrialized 
+imprisonment imprisoned 
+fascination fascinated 
+harassment harassed 
+deportation deported 
+discovery discovered 
+domination dominated 
+contamination contaminated 
+rape raped 
+fertilization fertilised 
+integration integrated 
+segregation segregated 
+irrigation irrigated 
+radiation radiated 
+modernization modernized 
+cultivation cultivated 
+specification specified 
+impeachment impeached 
+inflation inflated 
+distillation distilled 
+circulation circulated 
+justification justified 
+romanization romanized 
+standardization standardized 
+persecution persecuted 
+electrification electrified 
+inhalation inhaled 
+simulation simulated 
+ionization ionized 
+induction inducted 
+admiration admired 
+differentiation differentiated 
+narration narrated 
+
+
+jumping lifting shifting wrapping leaping throwing
+jumped lifted shifted wrapped leapt threw
+jumps lifts shifts wraps leaps thows
+
+
+making giving receiving growing keeping creating being using selling becoming having taking putting breaking bringing getting reaching helping passing sending providing carrying returning losing spreading turning coming finding trying telling asking producing going entering ending 
+makes gives receives grows keeps creates is uses sells becomes has takes puts breaks brings gets reaches helps passes sends provides carries returns loses spreads turns comes finds tries tells asks produces goes enters ends 
+
+grows growing 
+writes writing 
+is being 
+buys buying 
+helps helping 
+needs needed 
+runs running 
+removes removing 
+goes going 
+allows allowing 
+teaches teaching 
+lets letting 
+returns returning 
+happens happening 
+moves moving 
+sees seeing 
+produces producing 
+sings singing 
+wants wanting 
+tries trying 
+breaks breaking 
+puts putting 
+eats eating 
+says saying 
+takes taking 
+creates creating 
+provides providing 
+uses using 
+asks asking 
+gives giving 
+sells selling 
+reaches reaching 
+brings bringing 
+offers offering 
+makes making 
+sends sending 
+chooses choosing 
+walks walking 
+carries carrying 
+falls falling 
+receives receiving 
+looks looking 
+develops developing 
+hits hitting 
+rises rising 
+thinks thinking 
+gets getting 
+has having 
+pushes pushing 
+tells telling 
+finds finding 
+feels feeling 
+becomes becoming 
+throws throwing 
+
+
+
+breathes breathed 
+administers administered 
+deteriorates deteriorated 
+obeys obeyed 
+attains attained 
+sucks sucked 
+narrates recounted 
+carries carried 
+paints painted 
+removes removing 
+perpetuates perpetuated 
+meets met 
+receives received 
+allows allowed 
+nominates nominated 
+recognises recognised 
+arises arose 
+hunts hunted 
+interferes interfered 
+dries dried 
+evolves evolved 
+advises advised 
+justifies justified 
+twists twisted 
+recovers recovered 
+fades faded 
+contains contained 
+espouses espoused 
+suspends suspended 
+injects injected 
+tries tried 
+declares declared 
+concurs concurred 
+kills killed 
+simplifies simplified 
+instructs instructed 
+attaches attached 
+injures injured 
+fulfills fulfilled 
+consumes consumed 
+accomplishes accomplished 
+intensifies intensified 
+endangers jeopardized 
+crosses crossed 
+evaporates evaporated 
+omits omitted 
+makes made 
+reiterates reiterated 
+deems deemed 
+touches touched 
+urges urged 
+malfunctions malfunctioned 
+believes believed 
+devotes devoted 
+proposes proposed 
+explains explained 
+shuts shut 
+separates separated 
+testifies testified 
+exempts exempted 
+defines defined 
+rages raged 
+sings sang 
+adopts adopted 
+identifies identified 
+loves loved 
+eliminates eliminated 
+categorizes categorized 
+favors favored 
+escalates escalated 
+heals healed 
+examines examined 
+belongs belonged 
+articulates articulated 
+informs informed 
+conveys conveyed 
+implies implied 
+waits waited 
+grabs grabbed 
+provides provided 
+tosses tossed 
+exerts exerted 
+cleans cleaned 
+multiplies multiplied 
+chooses chose 
+argues argued 
+warms warmed 
+is was 
+pulls pulled 
+differs differed 
+hangs hung 
+goes went 
+feels felt 
+awakens awakened 
+falls fell 
+stirs stirred 
+posits posited 
+realizes realized 
+moves moved 
+performs performed 
+focuses focused 
+encapsulates encapsulated 
+bolsters bolstered 
+smashes smashed 
+persists persisted 
+departs departed 
+treats treated 
+tilts tilted 
+nears neared 
+greets greeted 
+endorses endorsed 
+writes wrote 
+specifies specified 
+replaces replaced 
+governs governed 
+harms harmed 
+resolves resolved 
+installs installed 
+implements implemented 
+lowers lowered 
+bleeds bled 
+collapses collapsed 
+competes competed 
+brings brought 
+erodes eroded 
+finds found 
+seizes seized 
+boasts boasted 
+adjusts adjusted 
+reveals revealed 
+introduces introduced 
+picks picked 
+holds held 
+pushes pushed 
+prescribes prescribed 
+expects expected 
+demonstrates demonstrated 
+applauds applauded 
+supports supported 
+broadens broadened 
+ceases ceased 
+corresponds corresponded 
+celebrates celebrated 
+proclaims proclaimed 
+widens widened 
+translates translated 
+weighs weighed 
+spends spent 
+clarifies clarified 
+incorporates incorporated 
+fancies fancied 
+declines declined 
+restores restored 
+lacks lacked 
+requires required 
+complements complemented 
+restricts restricted 
+flops flopped 
+smacks smacked 
+converges converged 
+mentions mentioned 
+assigns assigned 
+affects affected 
+envisions envisioned 
+minimizes minimized 
+affirms affirmed 
+compares compared 
+succeeds succeeded 
+gathers gathered 
+overrides overridden 
+loses lost 
+handles handled 
+deploys deployed 
+jumps jumped 
+obscures obscured 
+abandons abandoned 
+validates validated 
+rubs rubbed 
+degrades degraded 
+furnishes furnished 
+disrupts disrupted 
+obliges obliged 
+necessitates necessitated 
+disregards disregarded 
+dismisses dismissed 
+shakes shook 
+fosters fostered 
+puts placed 
+mimics mimicked 
+lasts lasted 
+learns learned 
+angers angered 
+warns warned 
+eats ate 
+deprives deprived 
+attends attended 
+covers covered 
+launches launched 
+understands understood 
+buys bought 
+pleads pleaded 
+verifies verified 
+misrepresents misrepresented 
+travels traveled 
+equates equated 
+relies relied 
+halts halted 
+earns earned 
+prohibits prohibited 
+extends extended 
+employs employed 
+initiates initiated 
+pauses paused 
+evokes evoked 
+confirms confirmed 
+arranges arranged 
+revives revived 
+disagrees disagreed 
+assures assured 
+exemplifies exemplified 
+generates generated 
+underpins underpinned 
+swims swam 
+bypasses bypassed 
+appears appeared 
+confronts confronted 
+stumbles stumbled 
+illuminates illuminated 
+becomes became 
+evaluates evaluated 
+refutes refuted 
+originates originated 
+alludes alluded 
+advertises advertised 
+owns owned 
+prevents prevented 
+overhears overheard 
+embodies embodied 
+keeps kept 
+opens opened 
+adapts adapted 
+explodes exploded 
+recommends recommended 
+matures matured 
+composes composed 
+agrees agreed 
+invades invaded 
+catches caught 
+connects connected 
+resides resided 
+protects protected 
+enriches enriched 
+enjoys enjoyed 
+chases chased 
+applies applied 
+refers referred 
+punishes punished 
+hails hailed 
+occurs occurred 
+returns returned 
+stops stopped 
+supervises supervised 
+dominates dominated 
+crushes crushed 
+attracts attracted 
+outweighs outweighed 
+captures captured 
+raises raised 
+follows followed 
+shrinks shrunk 
+neglects neglected 
+adds added 
+enables enabled 
+anticipates anticipated 
+wipes wiped 
+accepts accepted 
+divides divided 
+revolves revolved 
+depicts depicted 
+settles settled 
+means meant 
+will would 
+hires hired 
+denounces denounced 
+transforms transformed 
+confesses confessed 
+survives survived 
+concludes concluded 
+determines determined 
+finishes finished 
+replicates replicated 
+isn weren 
+remembers remembered 
+pours poured 
+accompanies accompanied 
+regulates regulated 
+listens listened 
+binds bound 
+invokes invoked 
+concentrates concentrated 
+Is Were 
+refuses refused 
+speculates speculated 
+persuades persuaded 
+secures secured 
+terminates terminated 
+assumes assumed 
+throws threw 
+tends tended 
+observes observed 
+compiles compiled 
+soars soared 
+insists insisted 
+reappears reappeared 
+prompts prompted 
+underlines underlined 
+reaffirms reaffirmed 
+worsens worsened 
+ponders pondered 
+contradicts contradicted 
+participates participated 
+worships worshipped 
+spins spun 
+propagates propagated 
+induces induced 
+speaks spoke 
+endures endured 
+comes came 
+climbs climbed 
+lays laid 
+cools cooled 
+manifests manifested 
+cries cried 
+behaves behaved 
+watches watched 
+stays stayed 
+indicates indicated 
+relieves alleviated 
+confuses confused 
+starts started 
+kicks kicked 
+appreciates appreciated 
+breaks broke 
+passes passed 
+emphasizes emphasized 
+looks looked 
+has had 
+are were 
+lends lent 
+avoids avoided 
+dies died 
+reminds reminded 
+looms loomed 
+characterizes characterized 
+considers considered 
+frees freed 
+utilizes utilized 
+mocks mocked 
+criticises criticised 
+realises realised 
+motivates motivated 
+pays paid 
+complains complained 
+overlooks overlooked 
+reflects reflected 
+draws drew 
+discovers discovered 
+freezes froze 
+prevails prevailed 
+likes liked 
+reopens reopened 
+violates violated 
+sustains sustained 
+decreases decreased 
+inherits inherited 
+sleeps slept 
+can could 
+sends sent 
+bounces bounced 
+precludes precluded 
+imparts imparted 
+satisfies satisfied 
+predicts predicted 
+summarises summarised 
+smiles smiled 
+feeds fed 
+reacts reacted 
+inspects inspected 
+saves saved 
+suggests suggested 
+kidnaps kidnapped 
+bothers bothered 
+touts touted 
+offers offered 
+impairs impaired 
+distributes distributed 
+crashes crashed 
+closes closed 
+transcends transcended 
+aligns aligned 
+unveils unveiled 
+resigns resigned 
+transmits transmitted 
+runs ran 
+reproduces reproduced 
+activates activated 
+dictates dictated 
+begins began 
+clears cleared 
+rips ripped 
+criticizes criticized 
+hasn hadn 
+sees saw 
+unfolds unfolded 
+enlists enlisted 
+escapes escaped 
+permeates permeated 
+gives gave 
+pops popped 
+entertains entertained 
+asserts asserted 
+accuses accused 
+turns turned 
+welcomes welcomed 
+publishes published 
+enforces enforced 
+increases increased 
+correlates correlated 
+borrows borrowed 
+predates predated 
+confers conferred 
+swings swung 
+builds built 
+operates operated 
+takes took 
+rests rested 
+impresses impressed 
+recognizes recognized 
+accelerates accelerated 
+sits sat 
+accommodates accommodated 
+continues continued 
+upholds upheld 
+plunges plunged 
+penetrates penetrated 
+exposes exposed 
+accumulates accumulated 
+rescues rescued 
+improves improved 
+defies defied 
+laments lamented 
+maintains maintained 
+distracts distracted 
+absorbs absorbed 
+reduces reduced 
+teaches taught 
+incurs incurred 
+delivers delivered 
+achieves achieved 
+emerges emerged 
+marries married 
+invests invested 
+computes computed 
+drags dragged 
+analyzes analyzed 
+stimulates stimulated 
+threatens threatened 
+acquires acquired 
+owes owed 
+organises organised 
+constitutes constituted 
+lures lured 
+emphasises emphasised 
+develops developed 
+collects collected 
+modifies modified 
+oversees overseen 
+reinforces reinforced 
+complies complied 
+trumps trumped 
+invites invited 
+restarts restarted 
+intervenes intervened 
+uses used 
+arrives arrived 
+reaches reached 
+decides decided 
+derives derived 
+approximates approximated 
+completes completed 
+acknowledges acknowledged 
+inspires inspired 
+appoints appointed 
+imposes imposed 
+furthers furthered 
+begs begged 
+likens likened 
+reverses reversed 
+contends contended 
+hates hated 
+boosts boosted 
+tells told 
+assembles assembled 
+seems seemed 
+distorts distorted 
+awaits awaited 
+wakes woke 
+narrows narrowed 
+negotiates negotiated 
+ensues ensued 
+commences commenced 
+admits admitted 
+describes described 
+rises risen 
+retrieves retrieved 
+expands expanded 
+proves proved 
+hurts hurt 
+prays prayed 
+consults consulted 
+preaches preached 
+empowers empowered 
+interrupts interrupted 
+inhabits inhabited 
+exists existed 
+melts melted 
+designates designated 
+corrects corrected 
+engages engaged 
+denies denied 
+rattles rattled 
+portrays portrayed 
+slaps slapped 
+preserves preserved 
+shines shone 
+executes executed 
+discourages discouraged 
+excels excelled 
+discloses disclosed 
+whispers whispered 
+presents presented 
+interacts interacted 
+squeezes squeezed 
+laughs laughed 
+deserves deserved 
+gets got 
+betrays betrayed 
+alters altered 
+misses missed 
+leans leaned 
+does did 
+produces produced 
+exceeds exceeded 
+progresses progressed 
+cares cared 
+envisages envisaged 
+responds responded 
+enters entered 
+rejects rejected 
+admires admired 
+solves solved 
+investigates investigated 
+blames blamed 
+annoys annoyed 
+diminishes diminished 
+reckons reckoned 
+negates negated 
+overcomes overcame 
+deepens deepened 
+eases eased 
+summarizes summarized 
+imagines imagined 
+hears heard 
+encourages encouraged 
+cites cited 
+occupies occupied 
+flips flipped 
+directs directed 
+explores explored 
+poses posed 
+knocks knocked 
+includes included 
+wears wore 
+ignores ignored 
+serves served 
+yells yelled 
+uncovers uncovered 
+manipulates manipulated 
+represents represented 
+elects elected 
+undergoes underwent 
+strengthens strengthened 
+affords afforded 
+merges merged 
+renders rendered 
+sighs sighed 
+stares stared 
+traverses traversed 
+asks asked 
+excludes excluded 
+sells sold 
+resists resisted 
+doesn didn 
+weakens weakened 
+dares dared 
+wins won 
+fills filled 
+pursues pursued 
+communicates communicated 
+expresses expressed 
+organizes organized 
+forbids forbade 
+helps helped 
+doesnt didnt 
+entails entailed 
+dislikes disliked 
+offends offended 
+inserts inserted 
+precedes preceded 
+conceals concealed 
+dissolves dissolved 
+lingers lingered 
+destroys destroyed 
+enhances enhanced 
+announces announced 
+pretends pretended 
+donates donated 
+conducts conducted 
+contributes contributed 
+apologizes apologized 
+robs robbed 
+sues sued 
+resembles resembled 
+inhibits inhibited 
+commends commended 
+symbolizes symbolized 
+disturbs disturbed 
+coincides coincided 
+possesses possessed 
+commits committed 
+cancels cancelled 
+manages managed 
+slams slammed 
+dives dived 
+convenes convened 
+opposes opposed 
+undermines undermined 
+descends descended 
+highlights highlighted 
+nods nodded 
+walks walked 
+subsides subsided 
+leaves left 
+constrains constrained 
+tolerates tolerated 
+discusses discussed 
+withdraws withdrew 
+surrounds surrounded 
+illustrates illustrated 
+stipulates stipulated 
+detects detected 
+Doesn Didn 
+submits submitted 
+solicits solicited 
+slows slowed 
+allocates allocated 
+wields wielded 
+ensures ensured 
+embraces embraced 
+assesses assessed 
+defends defended 
+supersedes superseded 
+elevates elevated 
+surrenders surrendered 
+infects infected 
+knows knew 
+grows grew 
+hinders hindered 
+erupts erupted 
+concedes conceded 
+interprets interpreted 
+encompasses encompassed 
+drops dropped 
+recreates recreated 
+comprises comprised 
+contemplates contemplated 
+selects selected 
+thrives thrived 
+provokes provoked 
+perceives perceived 
+befriends befriended 
+conforms conformed 
+classifies classified 
+notifies notified 
+elicits elicited 
+surpasses surpassed 
+joins joined 
+displays displayed 
+retires retired 
+swears swore 
+leads led 
+signifies signified 
+flees fled 
+authorizes authorized 
+establishes established 
+rotates rotated 
+impedes impeded 
+obtains obtained 
+wrecks wrecked 
+suffers suffered 
+cures cured 
+retains retained 
+suppresses suppressed 
+says said 
+facilitates facilitated 
+shrugs shrugged 
+consists consisted 
+forgets forgotten 
+seeks sought 
+disappears disappeared 
+despises despised 
+wanders wandered 
+washes washed 
+fails failed 
+happens happened 
+skips skipped 
+relaxes relaxed 
+undertakes undertook 
+approves approved 
+wants wanted 
+emits emitted 
+isnt wasnt 
+steals stole 
+prefers preferred 
+showcases showcased 
+
+
+decided decides 
+were are 
+consisted consists 
+entered enters 
+turned turns 
+ran runs 
+got gets 
+reached reaches 
+saw sees 
+happened happens 
+said says 
+escaped escapes 
+disagreed disagree 
+spent spends 
+sent sends 
+had has 
+did does 
+lost loses 
+started starts 
+needed needs 
+went goes 
+was is 
+collapsed collapses 
+arrived arrives 
+helped helps 
+led leads 
+meant means 
+travelled travels 
+took takes 
+resisted resists 
+allowed allows 
+persuaded persuades 
+met meets 
+included includes 
+prevented prevents 
+joined joins 
+made makes 
+told tells 
+occurred occurs 
+came comes 
+looked looks 
+heard hears 
+grew grows 
+refused refuses 
+stopped stops 
+contributed contributes 
+gave gives 
+appeared appears 
+tried tries 
+brought brings 
+learned learns 
+earned earns 
+ended ends 
+agreed agrees 
+belonged belongs 
+existed exists 
+began begins 
+received receives 
+invited invites 
+contained contains 
+married marries 
+wanted wants 
+declined declines 
+pretended pretends 
+continued continues 
+lasted lasts 
+encouraged encourages 
+carried carries 
+became becomes 
+liked likes 
+failed fails 
+disappeared disappears 
+asked asks 
+could can 
+stayed stays 
+
+
+updated update updates 
+avoided avoid avoids 
+restored restore restores 
+connected connect connects 
+opposed oppose opposes 
+monitored monitor monitors 
+owed owe owes 
+gathered gather gathers 
+insisted insist insists 
+interpreted interpret interprets 
+guaranteed guarantee guarantees 
+affected affect affects 
+posed pose poses 
+responded respond responds 
+emphasized emphasize emphasizes 
+shouted shout shouts 
+oversaw oversee oversees 
+recruited recruit recruits 
+killed kill kills 
+exhibited exhibit exhibits 
+fostered foster fosters 
+reacted react reacts 
+relied rely relies 
+incorporated incorporate incorporates 
+refused refuse refuses 
+dictated dictate dictates 
+grabbed grab grabs 
+served serve serves 
+sucked suck sucks 
+evaluated evaluate evaluates 
+reduced reduce reduces 
+applied apply applies 
+defined define defines 
+heard hear hears 
+reinforced reinforce reinforces 
+represented represent represents 
+transferred transfer transfers 
+asked ask asks 
+assured assure assures 
+got get gets 
+recalled recall recalls 
+specified specify specifies 
+saved save saves 
+expected expect expects 
+asserted assert asserts 
+strengthened strengthen strengthens 
+suggested suggest suggests 
+retained retain retains 
+favored favor favors 
+found find finds 
+created create creates 
+reached reach reaches 
+died die dies 
+expanded expand expands 
+played play plays 
+raised raise raises 
+required require requires 
+yielded yield yields 
+handled handle handles 
+defeated defeat defeats 
+threatened threaten threatens 
+proved prove proves 
+enhanced enhance enhances 
+encompassed encompass encompasses 
+accused accuse accuses 
+inspired inspire inspires 
+authorized authorize authorizes 
+violated violate violates 
+indicated indicate indicates 
+earned earn earns 
+released release releases 
+offered offer offers 
+assessed assess assesses 
+illustrated illustrate illustrates 
+dropped drop drops 
+anticipated anticipate anticipates 
+succeeded succeed succeeds 
+triggered trigger triggers 
+approved approve approves 
+appeared appear appears 
+integrated integrate integrates 
+accepted accept accepts 
+placed put puts 
+covered cover covers 
+unfolded unfold unfolds 
+arose arise arises 
+organized organize organizes 
+drew draw draws 
+existed exist exists 
+rushed rush rushes 
+disliked dislike dislikes 
+protected protect protects 
+taught teach teaches 
+assigned assign assigns 
+instructed instruct instructs 
+transformed transform transforms 
+realized realize realizes 
+exported export exports 
+combined combine combines 
+learned learn learns 
+celebrated celebrate celebrates 
+provided provide provides 
+prevailed prevail prevails 
+depicted depict depicts 
+begged beg begs 
+knocked knock knocks 
+said say says 
+stopped stop stops 
+initiated initiate initiates 
+occupied occupy occupies 
+blamed blame blames 
+kicked kick kicks 
+assisted assist assists 
+defended defend defends 
+criticized criticize criticizes 
+wanted want wants 
+followed follow follows 
+passed pass passes 
+supported support supports 
+removed remove removes 
+spent spend spends 
+controlled control controls 
+hung hang hangs 
+fought fight fights 
+sat sit sits 
+utilized utilize utilizes 
+considered consider considers 
+invited invite invites 
+evolved evolve evolves 
+declared declare declares 
+detected detect detects 
+swapped swap swaps 
+fed feed feeds 
+demonstrated demonstrate demonstrates 
+reviewed review reviews 
+converted convert converts 
+distinguished distinguish distinguishes 
+accompanied accompany accompanies 
+attended attend attends 
+fell fall falls 
+adopted adopt adopts 
+achieved achieve achieves 
+showcased showcase showcases 
+attracted attract attracts 
+jumped jump jumps 
+called call calls 
+tended tend tends 
+waited wait waits 
+seemed seem seems 
+exploded explode explodes 
+moved move moves 
+shook shake shakes 
+compared compare compares 
+confirmed confirm confirms 
+claimed claim claims 
+remained remain remains 
+decreased decrease decreases 
+embraced embrace embraces 
+upgraded upgrade upgrades 
+interrupted interrupt interrupts 
+prevented prevent prevents 
+respected respect respects 
+shot shoot shoots 
+tweaked tweak tweaks 
+tried try tries 
+lacked lack lacks 
+prepared prepare prepares 
+arrived arrive arrives 
+visited visit visits 
+excluded exclude excludes 
+determined determine determines 
+ignited spark sparks 
+checked check checks 
+knew know knows 
+employed employ employs 
+introduced introduce introduces 
+advised advise advises 
+missed miss misses 
+caused cause causes 
+complained complain complains 
+solved solve solves 
+walked walk walks 
+persisted persist persists 
+belonged belong belongs 
+maintained maintain maintains 
+mentioned mention mentions 
+appreciated appreciate appreciates 
+felt feel feels 
+agreed agree agrees 
+implemented implement implements 
+exceeded exceed exceeds 
+translated translate translates 
+weakened weaken weakens 
+stood stand stands 
+took take takes 
+cried cry cries 
+constructed construct constructs 
+denied deny denies 
+stayed stay stays 
+complied comply complies 
+had have has 
+stole steal steals 
+recovered recover recovers 
+sent send sends 
+gave give gives 
+grew grow grows 
+awaited await awaits 
+allowed allow allows 
+imposed impose imposes 
+broke break breaks 
+manufactured manufacture manufactures 
+encountered encounter encounters 
+embodied embody embodies 
+won win wins 
+loved love loves 
+pursued pursue pursues 
+committed commit commits 
+began begin begins 
+chose choose chooses 
+ate eat eats 
+involved involve involves 
+resided reside resides 
+enabled enable enables 
+underwent undergo undergoes 
+launched launch launches 
+joined join joins 
+screamed scream screams 
+afforded afford affords 
+rescued rescue rescues 
+emerged emerge emerges 
+addressed address addresses 
+prohibited prohibit prohibits 
+wrote write writes 
+exposed expose exposes 
+boosted boost boosts 
+caught catch catches 
+climbed climb climbs 
+comprised comprise comprises 
+carried carry carries 
+communicated communicate communicates 
+completed complete completes 
+built build builds 
+continued continue continues 
+facilitated facilitate facilitates 
+remembered remember remembers 
+behaved behave behaves 
+stretched stretch stretches 
+snapped snap snaps 
+managed manage manages 
+produced produce produces 
+contended contend contends 
+disappeared disappear disappears 
+switched switch switches 
+undertook undertake undertakes 
+admitted admit admits 
+struck strike strikes 
+came come comes 
+spoke speak speaks 
+implied imply implies 
+hid hide hides 
+wrapped wrap wraps 
+satisfied satisfy satisfies 
+omitted omit omits 
+dominated dominate dominates 
+predicted predict predicts 
+proposed propose proposes 
+contradicted contradict contradicts 
+escaped escape escapes 
+diminished diminish diminishes 
+entered enter enters 
+condemned condemn condemns 
+established establish establishes 
+deserved deserve deserves 
+pushed push pushes 
+originated originate originates 
+looked look looks 
+rejected reject rejects 
+failed fail fails 
+dismissed dismiss dismisses 
+possessed possess possesses 
+crossed cross crosses 
+engaged engage engages 
+slipped slip slips 
+thought think thinks 
+entailed entail entails 
+endorsed endorse endorses 
+occurred occur occurs 
+investigated investigate investigates 
+summarized summarize summarizes 
+made make makes 
+sold sell sells 
+explained explain explains 
+delivered deliver delivers 
+bought buy buys 
+urged urge urges 
+acknowledged acknowledge acknowledges 
+captured capture captures 
+sang sing sings 
+confronted confront confronts 
+attempted attempt attempts 
+boasted boast boasts 
+inserted insert inserts 
+survived survive survives 
+consumed consume consumes 
+resembled resemble resembles 
+constituted constitute constitutes 
+disagreed disagree disagrees 
+generated generate generates 
+discovered discover discovers 
+added add adds 
+preferred prefer prefers 
+crashed crash crashes 
+ensured ensure ensures 
+settled settle settles 
+reflected reflect reflects 
+restricted restrict restricts 
+held hold holds 
+lent lend lends 
+performed perform performs 
+contained contain contains 
+conveyed convey conveys 
+identified identify identifies 
+expressed express expresses 
+announced announce announces 
+tackled tackle tackles 
+clarified clarify clarifies 
+executed execute executes 
+assumed assume assumes 
+recommended recommend recommends 
+married marry marries 
+treated treat treats 
+declined decline declines 
+derived derive derives 
+ignored ignore ignores 
+invoked invoke invokes 
+extracted extract extracts 
+underscored underscore underscores 
+filled fill fills 
+brought bring brings 
+described describe describes 
+consisted consist consists 
+suffered suffer suffers 
+induced induce induces 
+leaked leak leaks 
+kept keep keeps 
+selected select selects 
+risen rise rises 
+became become becomes 
+believed believe believes 
+stimulated stimulate stimulates 
+collapsed collapse collapses 
+hired hire hires 
+destroyed destroy destroys 
+cited cite cites 
+acquired acquire acquires 
+highlighted highlight highlights 
+replaced replace replaces 
+mounted mount mounts 
+participated participate participates 
+rode ride rides 
+threw throw throws 
+collected collect collects 
+portrayed portray portrays 
+published publish publishes 
+punched punch punches 
+hacked hack hacks 
+attributed attribute attributes 
+pulled pull pulls 
+happened happen happens 
+increased increase increases 
+displayed display displays 
+laid lay lays 
+did do does 
+wore wear wears 
+differed differ differs 
+improved improve improves 
+reminded remind reminds 
+revealed reveal reveals 
+touched touch touches 
+resolved resolve resolves 
+turned turn turns 
+included include includes 
+understood understand understands 
+returned return returns 
+laughed laugh laughs 
+enjoyed enjoy enjoys 
+justified justify justifies 
+obtained obtain obtains 
+governed govern governs 
+started start starts 
+met meet meets 
+fixed fix fixes 
+informed inform informs 
+warned warn warns 
+encouraged encourage encourages 
+reversed reverse reverses 
+recognised recognise recognises 
+paid pay pays 
+concluded conclude concludes 
+finished finish finishes 
+departed depart departs 
+opened open opens 
+went go goes 
+recognized recognize recognizes 
+referred refer refers 
+left leave leaves 
+received receive receives 
+reckoned reckon reckons 
+lost lose loses 
+burned burn burns 
+ran run runs 
+smiled smile smiles 
+distributed distribute distributes 
+administered administer administers 
+marched march marches 
+conceded concede concedes 
+sought seek seeks 
+regulated regulate regulates 
+picked pick picks 
+chanted chant chants 
+extended extend extends 
+submitted submit submits 
+eliminated eliminate eliminates 
+drove drive drives 
+altered alter alters 
+argued argue argues 
+watched watch watches 
+undermined undermine undermines 
+contributed contribute contributes 
+surrounded surround surrounds 
+evoked evoke evokes 
+operated operate operates 
+preserved preserve preserves 
+quoted quote quotes 
+
+
+
+
+invest investing 
+drown drowning 
+listen listening 
+pull pulling 
+change changing 
+ascend ascending 
+alter altering 
+cancel cancelling 
+widen widening 
+twist twisting 
+play playing 
+testify testifying 
+indicate indicating 
+slash slashing 
+organize organizing 
+stabilise stabilising 
+plunge plunging 
+uphold upholding 
+snap snapping 
+specify specifying 
+motivate motivating 
+equip equipping 
+stay staying 
+divide dividing 
+commence commencing 
+downplay downplayed 
+speak speaking 
+unravel unraveling 
+analyze analyzing 
+ask asking 
+eradicate eradicating 
+ban banning 
+confirm confirming 
+indulge indulging 
+respond responding 
+equate equating 
+assist assisting 
+activate activating 
+divert diverting 
+enlarge enlarging 
+write writing 
+omit omitting 
+defy defying 
+embody embodying 
+distract distracting 
+summarise summarising 
+punish punishing 
+adopt adopting 
+distort distorting 
+confine confining 
+pick picking 
+rebuild rebuilding 
+validate validating 
+avoid avoiding 
+summarize summarizing 
+assign assigning 
+wikilink wikilinking 
+contradict contradicting 
+update updating 
+refuse refusing 
+discuss discussing 
+diminish diminishing 
+construct constructing 
+pray praying 
+expel expelling 
+fit fitting 
+soak soaking 
+slice slicing 
+affirm affirming 
+ease easing 
+thump thumping 
+practise practising 
+roar roaring 
+contaminate contaminating 
+throw throwing 
+collide colliding 
+summon summoning 
+download downloading 
+capture capturing 
+rattle rattling 
+find finding 
+spit spitting 
+drop dropping 
+approximate approximating 
+beg begging 
+perpetuate perpetuating 
+favor favoring 
+suspend suspending 
+propagate propagating 
+forget forgetting 
+display displaying 
+demolish demolishing 
+furnish furnishing 
+wash washing 
+refer referring 
+devise devising 
+denounce denouncing 
+provoke provoking 
+solidify cementing 
+approve approving 
+lessen lessening 
+combine combining 
+admire admiring 
+deflect deflecting 
+complete completing 
+repair repairing 
+dedicate dedicating 
+dismantle dismantling 
+pay paying 
+conflate conflating 
+drive driving 
+boost boosting 
+invade invading 
+reflect reflecting 
+intimidate intimidating 
+prepare preparing 
+seize seizing 
+evaluate evaluating 
+replicate replicating 
+violate violating 
+drag dragging 
+crush crushing 
+obey obeying 
+intend intending 
+realise realising 
+simulate simulating 
+specialize specializing 
+spend spending 
+oust ousting 
+predict predicting 
+consider considering 
+analyse analysing 
+escalate escalating 
+chop chopping 
+signify signifying 
+publish publishing 
+expect expecting 
+initiate initiating 
+collect collecting 
+discover discovering 
+inhale inhaling 
+deprive depriving 
+grow growing 
+hinder hindering 
+decorate decorating 
+undermine undermining 
+beat beating 
+rub rubbing 
+taunt taunting 
+supervise supervising 
+reiterate reiterating 
+decode decoding 
+bend bending 
+attempt attempting 
+launch launching 
+dismiss dismissing 
+interact interacting 
+involve involving 
+belittle belittling 
+comprehend comprehending 
+renew renewing 
+reunite reuniting 
+bounce bouncing 
+injure injuring 
+rescue rescuing 
+generalize generalizing 
+impose imposing 
+enclose enclosing 
+exploit exploiting 
+squeeze squeezing 
+evolve evolving 
+shout shouting 
+intercept intercepting 
+unveil unveiling 
+trim trimming 
+shut shutting 
+showcase showcasing 
+prevent preventing 
+retaliate retaliation 
+re-add re-adding 
+deteriorate deteriorating 
+compile compiling 
+apply applying 
+repeal repealing 
+conquer conquering 
+quit quitting 
+deploy deploying 
+emit emitting 
+acquire acquiring 
+dine dining 
+descend descending 
+settle settling 
+utilize utilizing 
+intersect intersecting 
+regain regaining 
+ignore ignoring 
+reach reaching 
+recommend recommending 
+contend contending 
+break breaking 
+reject rejecting 
+identify identifying 
+penetrate penetrating 
+recognise recognising 
+arouse aroused 
+redirect redirecting 
+produce producing 
+smear smearing 
+demonstrate demonstrating 
+delete deleting 
+scatter scattering 
+feed feeding 
+refine refining 
+constitute constituting 
+compare comparing 
+commemorate commemorating 
+upgrade upgrading 
+curtail curtailing 
+cheat cheating 
+enjoy enjoying 
+fulfill fulfilling 
+decipher deciphering 
+tweak tweaking 
+recruit recruiting 
+explore exploring 
+soften softening 
+encounter encountering 
+presume presuming 
+splash splashing 
+shave shaving 
+interfere interfering 
+invoke invoking 
+woo wooing 
+win winning 
+modernize modernizing 
+succeed succeeding 
+photograph photographing 
+commit committing 
+unlock unlocking 
+discredit discrediting 
+wait waiting 
+strengthen strengthening 
+control controlling 
+communicate communicating 
+wish wishing 
+retire retiring 
+obstruct obstructing 
+rehabilitate rehabilitating 
+amend amending 
+broaden broadening 
+abandon abandoning 
+espouse espousing 
+carve carving 
+reconcile reconciling 
+climb climbing 
+swallow swallowing 
+contain containing 
+come coming 
+inspect inspecting 
+delineate delineated 
+articulate articulating 
+separate separating 
+educate educating 
+advise advising 
+mitigate mitigating 
+rethink rethinking 
+include including 
+slap slapping 
+put putting 
+discard discarding 
+clap clapping 
+unleash unleashing 
+yell yelling 
+hide hiding 
+hug hugging 
+erase erasing 
+assemble assembling 
+enable enabling 
+entail entailed 
+nominate nominating 
+trump trumped 
+steer steering 
+smash smashing 
+measure measuring 
+fill filling 
+hang hanging 
+exceed exceeding 
+behave behaving 
+keep keeping 
+edit editing 
+undercut undercutting 
+differentiate differentiating 
+dig digging 
+withhold withholding 
+profess professed 
+denote denoting 
+skip skipping 
+embed embedding 
+characterize characterizing 
+overturn overturning 
+mobilize mobilizing 
+enhance enhancing 
+tap tapping 
+revisit revisiting 
+migrate migrating 
+intervene intervening 
+retain retaining 
+classify classifying 
+symbolize symbolizing 
+rewrite rewriting 
+redefine redefining 
+make making 
+weigh weighing 
+enact enacting 
+multiply multiplying 
+criticize criticizing 
+add adding 
+adjust adjusting 
+remove removing 
+confer conferring 
+stoke stoking 
+shrink shrinking 
+advance advancing 
+scrap scrapping 
+kiss kissing 
+drift drifting 
+cure curing 
+insist insisting 
+endorse endorsing 
+sharpen sharpening 
+copy copying 
+dump dumping 
+cede ceding 
+restart restarting 
+fight fighting 
+shorten shortening 
+overcome overcoming 
+displace displacing 
+realize realizing 
+walk walking 
+augment augmenting 
+look looking 
+pollute polluting 
+offset offsetting 
+detect detecting 
+send sending 
+solicit soliciting 
+spout spouting 
+misunderstand misinterpreting 
+incite inciting 
+arise arising 
+suck sucking 
+remind reminding 
+publicize publicizing 
+call calling 
+hit hitting 
+go going 
+inspire inspiring 
+allege alleging 
+whine whining 
+infer inferring 
+bribe bribing 
+traverse traversing 
+weave weaving 
+undergo undergoing 
+portray portraying 
+moan moaning 
+complain complaining 
+mix mixing 
+take taking 
+repeat repeating 
+undertake undertaking 
+redesign redesigning 
+reorganize reorganizing 
+rearrange rearranging 
+ascribe attributing 
+transfer transferring 
+establish establishing 
+synthesize synthesizing 
+concede conceding 
+linger lingering 
+duplicate duplicating 
+screw screwing 
+decrease decreasing 
+attend attending 
+disclose disclosing 
+diverge diverging 
+locate locating 
+evacuate evacuating 
+abolish abolishing 
+illuminate illuminating 
+postpone postponing 
+disable disabling 
+accommodate accommodating 
+revamp revamping 
+infringe infringing 
+gain gaining 
+breathe breathing 
+shatter shattering 
+sell selling 
+withdraw withdrawing 
+suggest suggesting 
+protect protecting 
+surrender surrendering 
+govern governing 
+rename renaming 
+conceal concealing 
+dodge dodging 
+prioritize prioritizing 
+kill killing 
+create creating 
+smile smiling 
+decline declining 
+ponder pondering 
+depart departing 
+marry marrying 
+embark embarking 
+coordinate coordinating 
+rehearse rehearsing 
+disrupt disrupting 
+underline underlining 
+overhaul overhauling 
+degrade degrading 
+lend lending 
+reword rewording 
+sue suing 
+lay laying 
+cooperate cooperating 
+monitor monitoring 
+exaggerate exaggerating 
+emphasize emphasizing 
+proofread proofreading 
+hover hovering 
+surround encircling 
+reform reforming 
+expand expanding 
+sprout sprouting 
+bite biting 
+crawl crawling 
+swap swapping 
+paste pasting 
+discourage discouraging 
+kidnap kidnapping 
+decry decrying 
+require requiring 
+unite uniting 
+install installing 
+lament lamenting 
+sing singing 
+attract attracting 
+oblige obliged 
+touch touching 
+trigger triggering 
+decide deciding 
+rob robbing 
+manipulate manipulating 
+possess possessing 
+await awaiting 
+rotate rotating 
+override overriding 
+confess confessing 
+dictate dictating 
+complicate complicating 
+sow sowing 
+strive striving 
+emphasise emphasising 
+appreciate appreciating 
+fly flying 
+halt halting 
+lose losing 
+persist persisting 
+consume consuming 
+freeze freezing 
+steal stealing 
+prescribe prescribing 
+need needing 
+absorb absorbing 
+prove proving 
+pluck plucking 
+stroll strolling 
+punch punching 
+spew spewing 
+witness witnessing 
+translate translating 
+whisper whispering 
+propose proposing 
+uncover uncovering 
+give giving 
+encompass encompassing 
+inflate inflating 
+impart imparting 
+contemplate contemplating 
+deepen deepening 
+spread spreading 
+bump bumping 
+fetch fetching 
+disambiguate disambiguating 
+subtract subtracting 
+overlook overlooking 
+glorify glorifying 
+mimic mimicking 
+garner garnering 
+eliminate eliminating 
+scan scanning 
+clinch clinching 
+verify verifying 
+procure procuring 
+authorize authorizing 
+pose posing 
+revoke revoking 
+exacerbate exacerbating 
+mock mocking 
+try trying 
+pretend pretending 
+inflict inflicting 
+re-read re-reading 
+represent representing 
+designate designating 
+cease ceasing 
+dissolve dissolving 
+deceive deceiving 
+knock knocking 
+overtake overtaking 
+occupy occupying 
+reshape reshaping 
+toss tossing 
+explode exploding 
+unfold unfolding 
+preclude precluded 
+relocate relocating 
+lock locking 
+imagine imagining 
+shove shoving 
+sack sacking 
+snatch snatching 
+argue arguing 
+arrange arranging 
+reinvent reinventing 
+teach teaching 
+bypass bypassing 
+vandalise vandalising 
+simplify simplifying 
+recognize recognizing 
+hop hopping 
+hurt hurting 
+help helping 
+evoke evoking 
+switch switching 
+outweigh outweighed 
+inquire inquiring 
+mediate mediating 
+rephrase rephrasing 
+save saving 
+erupt erupting 
+topple toppling 
+speculate speculating 
+criticise criticising 
+jog jogging 
+propel propelling 
+invent inventing 
+administer administering 
+accomplish accomplishing 
+donate donating 
+distinguish distinguishing 
+subsidise subsidising 
+subsidize subsidizing 
+do doing 
+rework reworking 
+contribute contributing 
+wander wandering 
+promote promoting 
+infiltrate infiltrating 
+have having 
+tackle tackling 
+facilitate facilitating 
+preserve preserving 
+convey conveying 
+stifle stifling 
+betray betraying 
+disband disbanding 
+trace tracing 
+melt melting 
+standardize standardizing 
+assess assessing 
+fluctuate fluctuating 
+check checking 
+socialize socializing 
+acknowledge acknowledging 
+resemble resembling 
+fix fixing 
+reduce reducing 
+surpass surpassing 
+retrieve retrieving 
+kick kicking 
+assume assuming 
+become becoming 
+sneak sneaking 
+relieve relieving 
+ingest ingesting 
+illustrate illustrating 
+plummet plummeting 
+trap trapping 
+resist resisting 
+repay repaying 
+poke poking 
+confront confronting 
+circulate circulating 
+cheer cheering 
+nurture nurturing 
+imitate imitating 
+insert inserting 
+employ employing 
+die dying 
+read reading 
+treat treating 
+terminate terminating 
+thwart thwarting 
+boil boiling 
+extract extracting 
+exert exerting 
+tie tying 
+implement implementing 
+pronounce pronouncing 
+induce inducing 
+accept accepting 
+formulate formulating 
+upset upsetting 
+condense condensing 
+receive receiving 
+interpret interpreting 
+navigate navigating 
+congratulate congratulating 
+deny denying 
+serve serving 
+design designing 
+shun shunning 
+reside residing 
+spoil spoiling 
+reveal revealing 
+get getting 
+borrow borrowing 
+spin spinning 
+tolerate tolerating 
+rely relying 
+incur incurring 
+say saying 
+worsen worsening 
+blow blowing 
+diagnose diagnosing 
+emerge emerging 
+loosen loosening 
+declare declaring 
+certify certifying 
+pass passing 
+destroy destroying 
+choose choosing 
+lift lifting 
+emigrate emigration 
+exemplify exemplified 
+cultivate cultivating 
+waive waiving 
+preach preaching 
+prohibit prohibiting 
+stabilize stabilizing 
+introduce introducing 
+inhibit inhibiting 
+stir stirring 
+raise raising 
+rectify correcting 
+automate automating 
+draw drawing 
+relax relaxing 
+compensate compensating 
+burn burning 
+integrate integrating 
+browse browsing 
+applaud applauding 
+describe describing 
+tease teasing 
+chew chewing 
+optimize optimizing 
+define defining 
+resolve resolving 
+canvass canvassing 
+conserve conserving 
+adapt adapting 
+justify justifying 
+affect affecting 
+concentrate concentrating 
+finalize finalizing 
+condone condoning 
+minimise minimising 
+nudge prodding 
+pursue pursuing 
+endure endured 
+revise revising 
+highlight highlighting 
+begin starting 
+safeguard safeguarding 
+relate relating 
+compose composing 
+replace replacing 
+blend blending 
+impress impressing 
+enter entering 
+encode encoding 
+cut cutting 
+assure assuring 
+escort escorting 
+compress compressing 
+elicit eliciting 
+awaken awakening 
+frighten scaring 
+submit submitting 
+endanger endangering 
+ride riding 
+prosecute prosecuting 
+persuade persuading 
+diversify diversifying 
+reap reaping 
+disperse dispersing 
+maintain maintaining 
+liberate liberating 
+accuse accusing 
+dip dipping 
+categorize categorizing 
+want wanting 
+split splitting 
+maximize maximizing 
+enrich enriching 
+scream screaming 
+leave leaving 
+visualize visualizing 
+conclude concluding 
+collaborate collaborating 
+convene convening 
+inject injecting 
+sip sipping 
+imply implying 
+starve starving 
+guess guessing 
+notify notifying 
+bother bothering 
+aim aiming 
+increase increasing 
+join joining 
+stick sticking 
+resign resigning 
+fabricate fabricating 
+celebrate celebrating 
+impede impeding 
+prefer preferring 
+configure configuring 
+refute refuting 
+pour pouring 
+appoint appointing 
+outsource outsourcing 
+carry carrying 
+extend extending 
+overrule overruled 
+revive reviving 
+return returning 
+chase chasing 
+exclude excluding 
+disarm disarming 
+entice luring 
+distribute distributing 
+examine examining 
+disagree disagreeing 
+allow allowing 
+see seeing 
+exhibit exhibiting 
+foster fostering 
+accelerate accelerating 
+reinstate reinstating 
+cite citing 
+paraphrase paraphrasing 
+negotiate negotiating 
+provide providing 
+soar soaring 
+boast boasting 
+follow followed 
+connect connecting 
+guarantee guaranteeing 
+stop stopping 
+prevail prevailing 
+thrive thriving 
+alienate alienating 
+answer answering 
+infect infecting 
+tumble tumbling 
+modify modifying 
+hold holding 
+rise rising 
+eat eating 
+develop developing 
+elevate elevating 
+ignite igniting 
+circumvent circumventing 
+wrap wrapping 
+react reacting 
+proclaim proclaiming 
+minimize minimizing 
+operate operating 
+organise organising 
+apologize apologizing 
+reopen reopening 
+confuse confusing 
+inform informing 
+perceive perceiving 
+slip slipping 
+overthrow overthrowing 
+howl howling 
+instruct instructing 
+urge urging 
+drink drinking 
+insure insuring 
+stare staring 
+erode eroding 
+invite inviting 
+tell telling 
+quantify quantifying 
+copy-edit copy-editing 
+empower empowering 
+tilt tilting 
+depict depicting 
+sustain sustaining 
+intensify intensifying 
+transmit transmitting 
+flip flipping 
+streamline streamlining 
+escape escaping 
+investigate investigating 
+appear appearing 
+scrape scraping 
+satisfy satisfying 
+explain explaining 
+recur recurring 
+grind grinding 
+re-write re-writing 
+wield wielding 
+renovate renovating 
+reconstruct reconstructing 
+cook cooking 
+offer offering 
+skim skimming 
+anticipate anticipating 
+revert reverting 
+assert asserting 
+deliver delivering 
+expose exposing 
+oppose opposing 
+grab grabbing 
+plead pleading 
+catch catching 
+rip ripping 
+participate participating 
+survive surviving 
+proceed proceeding 
+attack attacking 
+debunk debunking 
+continue continuing 
+happen happening 
+greet welcoming 
+admit admitting 
+watch watching 
+disseminate disseminating 
+disappear disappearing 
+seek seeking 
+enforce enforcing 
+co-ordinate co-ordinating 
+engage engaging 
+misrepresent misrepresenting 
+support supporting 
+restrict restricting 
+converge converging 
+emulate emulating 
+enlist enlisting 
+handle handling 
+denigrate denigrating 
+originate originating 
+bring bringing 
+afford affording 
+turn turning 
+hire hiring 
+trawl trawling 
+merge merging 
+swing swinging 
+unify unifying 
+cry crying 
+buy buying 
+calculate calculating 
+occur occurring 
+utilise utilising 
+lick licking 
+ensure ensuring 
+reclaim reclaiming 
+achieve achieving 
+harass harassing 
+bury burying 
+interrupt interrupting 
+earn earning 
+flee fleeing 
+mention mentioning 
+enroll enrolling 
+comply complying 
+visit visiting 
+constrain constraining 
+sway swaying 
+sneer sneering 
+travel travelling 
+unload unloading 
+dance dancing 
+execute executing 
+flourish flourishing 
+yield yielding 
+counteract countering 
+adhere adhering 
+reverse reversing 
+rejoice rejoicing 
+share sharing 
+condemn condemning 
+characterise characterised 
+loot looting 
+elect electing 
+lie lying 
+select selecting 
+meet meeting 
+quote quoting 
+engender engendered 
+register registering 
+tend tending 
+express expressing 
+regulate regulating 
+dispatch dispatching 
+salvage salvaging 
+threaten threatening 
+sail sailing 
+suppress suppressing 
+cope coping 
+announce announcing 
+swear swearing 
+stimulate stimulating 
+re-open re-opening 
+defer deferring 
+believe believing 
+fade fading 
+parse parsing 
+convert converting 
+finish finishing 
+fail failing 
+transform transforming 
+bolster bolstering 
+opt opting 
+obtain obtaining 
+shoot shooting 
+recreate recreating 
+access accessing 
+agree agreeing 
+shake shaking 
+benefit benefiting 
+accumulate accumulating 
+isolate isolating 
+dominate dominating 
+dispense dispensing 
+conceive conceiving 
+inherit inheriting 
+push pushing 
+swim swimming 
+sever severing 
+copyedit copyediting 
+sit sitting 
+whitewash whitewashing 
+deter deterring 
+detain detaining 
+embrace embracing 
+move moving 
+slam slamming 
+poison poisoning 
+giggle giggling 
+run running 
+oversee overseeing 
+perform performing 
+solve solving 
+correlate correlated 
+stretch stretching 
+clarify clarifying 
+restore restoring 
+remember remembering 
+defend defending 
+evade evading 
+observe observing 
+gather gathering 
+consolidate consolidating 
+crack cracking 
+echo echoing 
+precede preceded 
+compete competing 
+recall recalling 
+legislate legislating 
+recover recovering 
+irritate irritating 
+boo booing 
+recite reciting 
+leverage leveraging 
+stand standing 
+arrive arriving 
+wipe wiping 
+determine determining 
+chant chanting 
+estimate estimating 
+alleviate alleviating 
+reinforce reinforcing 
+devote devoting 
+generate generating 
+incorporate incorporating 
+inhabit inhabiting 
+derive deriving 
+attain attaining 
+tighten tightening 
+restrain restraining 
+negate negated 
+improve improving 
+hijack hijacking 
+plug plugging 
+jump jumping 
+encourage encouraging 
+weaken weakening 
+attach attaching 
+manage managing 
+adorn adorned 
+conform conforming 
+allocate allocating 
+reproduce reproducing 
+laugh laughing 
+sink sinking 
+fall falling 
+float floating 
+glide gliding 
+stab stabbing 
+
+
+
+
+
+
+turning turns turned 
+discovering discovers discovered 
+gathering gathers gathered 
+undermining undermines undermined 
+admiring admires admired 
+remembering remembers remembered 
+obscuring obscures obscured 
+criticizing criticizes criticized 
+triggering triggers triggered 
+accommodating accommodates accommodated 
+contradicting contradicts contradicted 
+seizing seizes seized 
+reducing reduces reduced 
+directing directs directed 
+wanting wants wanted 
+collecting collects collected 
+dissolving dissolves dissolved 
+recommending recommends recommended 
+blaming blames blamed 
+allocating allocates allocated 
+restoring restores restored 
+fulfilling fulfills fulfilled 
+assigning assigns assigned 
+suspending suspends suspended 
+adjusting adjusts adjusted 
+affecting affects affected 
+denoting denotes denoted 
+assembling assembles assembled 
+detecting detects detected 
+saving saves saved 
+allowing allows allowed 
+chasing chases chased 
+perceiving perceives perceived 
+overlooking overlooks overlooked 
+maintaining maintains maintained 
+slapping slaps slapped 
+luring lures lured 
+encouraging encourages encouraged 
+examining examines examined 
+illustrating illustrates illustrated 
+treating treats treated 
+lacking lacks lacked 
+advising advises advised 
+hurting hurts hurt 
+refusing refuses refused 
+escalating escalates escalated 
+touting touts touted 
+inhibiting inhibits inhibited 
+preserving preserves preserved 
+possessing possesses possessed 
+catching catches caught 
+expecting expects expected 
+buying buys bought 
+generating generates generated 
+incorporating incorporates incorporated 
+winning wins won 
+prohibiting prohibits prohibited 
+covering covers covered 
+closing closes closed 
+highlighting highlights highlighted 
+submitting submits submitted 
+embodying embodies embodied 
+initiating initiates initiated 
+retrieving retrieves retrieved 
+appointing appoints appointed 
+invoking invokes invoked 
+exploring explores explored 
+facilitating facilitates facilitated 
+proclaiming proclaims proclaimed 
+declaring declares declared 
+enjoying enjoys enjoyed 
+shutting shuts shut 
+knowing knows knew 
+looking looks looked 
+undergoing undergoes underwent 
+rescuing rescues rescued 
+boosting boosts boosted 
+reinforcing reinforces reinforced 
+accumulating accumulates accumulated 
+opening opens opened 
+owning owns owned 
+behaving behaves behaved 
+stopping stops stopped 
+inspiring inspires inspired 
+slowing slows slowed 
+recognizing recognizes recognized 
+intensifying intensifies intensified 
+presenting presents presented 
+singing sings sang 
+proving proves proved 
+misrepresenting misrepresents misrepresented 
+devoting devotes devoted 
+motivating motivates motivated 
+forgetting forgets forgot 
+interrupting interrupts interrupted 
+completing completes completed 
+prompting prompts prompted 
+raising raises raised 
+adopting adopts adopted 
+welcoming welcomes welcomed 
+illuminating illuminates illuminated 
+commencing commences commenced 
+citing cites cited 
+defining defines defined 
+urging urges urged 
+keeping keeps kept 
+regulating regulates regulated 
+authorizing authorizes authorized 
+cancelling cancels cancelled 
+shrinking shrinks shrunk 
+killing kills killed 
+dominating dominates dominated 
+abandoning abandons abandoned 
+opposing opposes opposed 
+excluding excludes excluded 
+ensuring ensures ensured 
+supporting supports supported 
+activating activates activated 
+revealing reveals revealed 
+shooting shoots shot 
+apologizing apologizes apologized 
+asking asks asked 
+diminishing diminishes diminished 
+correcting corrects corrected 
+going goes went 
+filling fills filled 
+mocking mocks mocked 
+unveiling unveils unveiled 
+expanding expands expanded 
+bouncing bounces bounced 
+underlining underlines underlined 
+failing fails failed 
+fostering fosters fostered 
+throwing throws threw 
+stealing steals stole 
+hailing hails hailed 
+achieving achieves achieved 
+evoking evokes evoked 
+hindering hinders hindered 
+absorbing absorbs absorbed 
+preventing prevents prevented 
+confirming confirms confirmed 
+conveying conveys conveyed 
+manipulating manipulates manipulated 
+persisting persists persisted 
+pushing pushes pushed 
+explaining explains explained 
+weakening weakens weakened 
+competing competes competed 
+recounting narrates recounted 
+worsening worsens worsened 
+putting puts put 
+grabbing grabs grabbed 
+speaking speaks spoke 
+implying implies implied 
+relying relies relied 
+symbolizing symbolizes symbolized 
+endorsing endorses endorsed 
+reminding reminds reminded 
+emitting emits emitted 
+consuming consumes consumed 
+communicating communicates communicated 
+evolving evolves evolved 
+uniting unites united 
+marrying marries married 
+realising realises realised 
+crossing crosses crossed 
+executing executes executed 
+selling sells sold 
+applying applies applied 
+inheriting inherits inherited 
+distorting distorts distorted 
+verifying verifies verified 
+modifying modifies modified 
+paying pays paid 
+seeking seeks sought 
+attracting attracts attracted 
+finding finds found 
+transmitting transmits transmitted 
+flipping flips flipped 
+offering offers offered 
+asserting asserts asserted 
+imposing imposes imposed 
+leaving leaves left 
+portraying portrays portrayed 
+summarizing summarizes summarized 
+separating separates separated 
+enforcing enforces enforced 
+lamenting laments lamented 
+growing grows grown 
+inducing induces induced 
+stimulating stimulates stimulated 
+engaging engages engaged 
+serving serves served 
+destroying destroys destroyed 
+describing describes described 
+fleeing flees fled 
+requiring requires required 
+arguing argues argued 
+insisting insists insisted 
+dying dies died 
+receiving receives received 
+believing believes believed 
+notifying notifies notified 
+terminating terminates terminated 
+defying defies defied 
+discouraging discourages discouraged 
+affirming affirms affirmed 
+violating violates violated 
+approving approves approved 
+widening widens widened 
+translating translates translated 
+launching launches launched 
+preferring prefers preferred 
+deriving derives derived 
+helping helps helped 
+suing sues sued 
+condemning condemns condemned 
+dismissing dismisses dismissed 
+restricting restricts restricted 
+extending extends extended 
+bypassing bypasses bypassed 
+provoking provokes provoked 
+inviting invites invited 
+visiting visits visited 
+dragging drags dragged 
+succeeding succeeds succeeded 
+operating operates operated 
+expressing expresses expressed 
+employing employs employed 
+disrupting disrupts disrupted 
+emphasising emphasises emphasised 
+taking takes took 
+reversing reverses reversed 
+maturing matures matured 
+boasting boasts boasted 
+overcoming overcomes overcame 
+selecting selects selected 
+resisting resists resisted 
+making makes made 
+producing produces produced 
+narrowing narrows narrowed 
+distributing distributes distributed 
+agreeing agrees agreed 
+running runs ran 
+comprising comprises comprised 
+appreciating appreciates appreciated 
+altering alters altered 
+capturing captures captured 
+administering administers administered 
+suppressing suppresses suppressed 
+assuming assumes assumed 
+complaining complains complained 
+starting starts started 
+surpassing surpasses surpassed 
+hiring hires hired 
+retiring retires retired 
+justifying justifies justified 
+providing provides provided 
+pulling pulls pulled 
+interpreting interprets interpreted 
+embracing embraces embraced 
+attaining attains attained 
+acknowledging acknowledges acknowledged 
+affording affords afforded 
+traversing traverses traversed 
+depicting depicts depicted 
+reproducing reproduces reproduced 
+falling falls fell 
+electing elects elected 
+discussing discusses discussed 
+announcing announces announced 
+occupying occupies occupied 
+saying says said 
+installing installs installed 
+interfering interferes interfered 
+utilizing utilizes utilized 
+focusing focuses focused 
+showing shows showed 
+prescribing prescribes prescribed 
+predicting predicts predicted 
+containing contains contained 
+performing performs performed 
+surviving survives survived 
+celebrating celebrates celebrated 
+adding adds added 
+giving gives gave 
+accelerating accelerates accelerated 
+reacting reacts reacted 
+minimizing minimizes minimized 
+displaying displays displayed 
+referring refers referred 
+observing observes observed 
+continuing continues continued 
+simplifying simplifies simplified 
+telling tells told 
+including includes included 
+strengthening strengthens strengthened 
+appearing appears appeared 
+moving moves moved 
+seeing sees saw 
+indicating indicates indicated 
+confessing confesses confessed 
+joining joins joined 
+solving solves solved 
+bringing brings brought 
+replacing replaces replaced 
+emphasizing emphasizes emphasized 
+skipping skips skipped 
+compiling compiles compiled 
+adapting adapts adapted 
+betraying betrays betrayed 
+designating designates designated 
+splitting splits split 
+tossing tosses tossed 
+coming comes came 
+accusing accuses accused 
+demonstrating demonstrates demonstrated 
+getting gets got 
+withdrawing withdraws withdrawn 
+exhibiting exhibits exhibited 
+eliminating eliminates eliminated 
+investing invests invested 
+proposing proposes proposed 
+replicating replicates replicated 
+concentrating concentrates concentrated 
+assessing assesses assessed 
+avoiding avoids avoided 
+exposing exposes exposed 
+connecting connects connected 
+resigning resigns resigned 
+using uses used 
+trying tries tried 
+decreasing decreases decreased 
+instructing instructs instructed 
+criticising criticises criticised 
+recognising recognises recognised 
+finishing finishes finished 
+upholding upholds upheld 
+pouring pours poured 
+classifying classifies categorized 
+feeding feeds fed 
+crying cries cried 
+disappearing disappears disappeared 
+halting halts halted 
+deploying deploys deployed 
+characterizing characterizes characterized 
+knocking knocks knocked 
+arriving arrives arrived 
+inhabiting inhabits inhabited 
+infecting infects infected 
+validating validates validated 
+thriving thrives thrived 
+articulating articulates articulated 
+resembling resembles resembled 
+informing informs informed 
+enhancing enhances enhanced 
+ignoring ignores ignored 
+concluding concludes concluded 
+traveling travels traveled 
+equating equates equated 
+deciding decides decided 
+lowering lowers lowered 
+encompassing encompasses encompassed 
+disclosing discloses disclosed 
+quitting quits quit 
+pursuing pursues pursued 
+transforming transforms transformed 
+ripping rips ripped 
+disagreeing disagrees disagreed 
+declining declines declined 
+comparing compares compared 
+assuring assures assured 
+empowering empowers empowered 
+invading invades invaded 
+wielding wields wielded 
+conducting conducts conducted 
+supervising supervises supervised 
+suggesting suggests suggested 
+enabling enables enabled 
+complying complies complied 
+omitting omits omitted 
+departing departs departed 
+reflecting reflects reflected 
+rising rises risen 
+spanning spans spanned 
+earning earns earned 
+anticipating anticipates anticipated 
+enlisting enlists enlisted 
+dividing divides divided 
+dropping drops dropped 
+delivering delivers delivered 
+showcasing showcases showcased 
+rejecting rejects rejected 
+retaining retains retained 
+representing represents represented 
+persuading persuades persuaded 
+staying stays stayed 
+attending attends attended 
+collapsing collapses collapsed 
+conferring confers conferred 
+threatening threatens threatened 
+commemorating commemorates commemorated 
+deepening deepens deepened 
+mentioning mentions mentioned 
+escaping escapes escaped 
+carrying carries carried 
+interacting interacts interacted 
+participating participates participated 
+exceeding exceeds exceeded 
+accepting accepts accepted 
+signifying signifies signified 
+reaching reaches reached 
+sending sends sent 
+clarifying clarifies clarified 
+holding holds held 
+confronting confronts confronted 
+ceasing ceases ceased 
+writing writes wrote 
+accomplishing accomplishes accomplished 
+refuting refutes refuted 
+responding responds responded 
+undertaking undertakes undertaken 
+bothering bothers bothered 
+having has had 
+specifying specifies specified 
+imagining imagines imagined 
+certifying certifies certified 
+recovering recovers recovered 
+losing loses lost 
+neglecting neglects neglected 
+entering enters entered 
+realizing realizes realized 
+investigating investigates investigated 
+introducing introduces introduced 
+uncovering uncovers uncovered 
+contemplating contemplates contemplated 
+admitting admits admitted 
+denying denies denied 
+hating hates hated 
+recalling recalls recalled 
+handling handles handled 
+improving improves improved 
+returning returns returned 
+
+
+
+
+
+deduced deduce 
+tightened tighten 
+appended append 
+reinforced reinforce 
+satisfied satisfy 
+pasted paste 
+tucked tuck 
+remained remain 
+purged purge 
+managed manage 
+struck strike 
+handled handle 
+divided divide 
+dared dare 
+exploded explode 
+resided reside 
+combined combine 
+tainted taint 
+eradicated eradicate 
+triggered trigger 
+materialized materialize 
+bullied bully 
+replied reply 
+shortened shorten 
+poisoned poison 
+coincided coincide 
+apologised apologise 
+relaxed relax 
+foresaw foresee 
+stoked stoke 
+beaten beat 
+backfired backfire 
+indulged indulge 
+celebrated celebrate 
+reproduced reproduce 
+lowered lowering 
+fused fuse 
+revisited revisit 
+baked bake 
+hugged hug 
+cheered cheer 
+devalued devaluation 
+created create 
+emitted emit 
+condemned condemn 
+specified specify 
+relates relate 
+standardized standardize 
+married marry 
+stabilised stabilise 
+rebutted rebut 
+preceded precede 
+printed print 
+defended defend 
+endured endure 
+shifted shift 
+activated activate 
+recycled recycle 
+scratched scratch 
+hid hide 
+authenticated authenticate 
+ignited ignite 
+kicked kick 
+disbanded disband 
+exemplified exemplify 
+debunked debunk 
+whispered whisper 
+emulated emulate 
+recaptured recapture 
+defeated defeat 
+surrendered surrender 
+reinserted reinsert 
+expended expend 
+extended extend 
+deprived deprive 
+gained gain 
+accompanied accompany 
+inhibited inhibit 
+saluted salute 
+misled mislead 
+invented invent 
+moved move 
+thrived thrive 
+altered alter 
+treated treat 
+affixed affix 
+serviced servicing 
+deemed deem 
+ate eat 
+coordinated coordinate 
+roared roar 
+rescinded rescind 
+rehearsed rehearse 
+recommended recommend 
+punished punish 
+corroborated corroborate 
+evaluated evaluate 
+dented dent 
+converted convert 
+blended blend 
+prohibited prohibit 
+suppressed suppress 
+discovered discover 
+slipped slip 
+investigated investigate 
+restarted restart 
+sustained sustain 
+smiled smile 
+allowed allow 
+stabbed stab 
+relaunched relaunch 
+screamed scream 
+demoted demotion 
+neglected neglect 
+established establish 
+ascertained ascertain 
+woven weave 
+ripped rip 
+rolled roll 
+slaughtered slaughter 
+pursued pursue 
+manipulated manipulate 
+confined confine 
+disambiguated disambiguate 
+finalized finalize 
+absorbed absorb 
+envisioned envision 
+forged forge 
+photographed photograph 
+reworked rework 
+wandered wander 
+sued sue 
+utilized utilize 
+deepened deepen 
+published publish 
+reorganized reorganize 
+transcluded transclude 
+illuminated illuminate 
+administered administer 
+captured capture 
+hired hire 
+reiterated reiterate 
+turned turn 
+revealed reveal 
+summarised summarise 
+analysed analyse 
+fled flee 
+endorsed endorse 
+redefined redefine 
+fooled fool 
+explored explore 
+prayed pray 
+implied imply 
+halted halt 
+insulted insult 
+revitalized revitalize 
+tipped tip 
+won win 
+scoured scour 
+ceded cede 
+demolished demolish 
+climbed climb 
+grabbed grab 
+dived dive 
+initiated initiate 
+warned warn 
+rectified rectify 
+built build 
+rejoined rejoin 
+sat sit 
+erected erect 
+abandoned abandon 
+evolved evolve 
+navigated navigate 
+redeemed redeem 
+frightened frighten 
+ensured ensure 
+expected expect 
+downplayed downplay 
+exacerbated exacerbate 
+clarified clarify 
+obliged oblige 
+guaranteed guarantee 
+moulded mould 
+touched touch 
+rested rest 
+knocked knock 
+redesigned redesign 
+referred refer 
+assimilated assimilate 
+considered consider 
+sold sell 
+imposed impose 
+destroyed destroy 
+migrated migrate 
+reposted repost 
+done do 
+commenced commence 
+concurred concur 
+fulfilled fulfill 
+descended descend 
+intended intend 
+lived live 
+disproved disprove 
+publicized publicize 
+eliminated eliminate 
+wanted want 
+inspected inspect 
+repeated repeat 
+argued argue 
+fumbled fumble 
+incited incite 
+excluded exclude 
+bypassed bypass 
+scrubbed scrub 
+informed inform 
+appreciated appreciate 
+restrained restrain 
+enriched enrich 
+affirmed affirm 
+shaved shave 
+executed execute 
+interrogated interrogation 
+revoked revoke 
+behaved behave 
+prevailed prevail 
+revised revise 
+tied tie 
+caused cause 
+expedited expedite 
+pleaded plead 
+overwhelmed overwhelm 
+eschewed eschew 
+abolished abolish 
+reissued reissue 
+posted post 
+installed install 
+punctured puncture 
+engendered engender 
+ran run 
+interpreted interpret 
+whipped whip 
+painted paint 
+embodied embody 
+culled cull 
+doubted doubt 
+picked pick 
+summarized summarize 
+summoned summon 
+slapped slap 
+procured procure 
+touted tout 
+breached breach 
+authorized authorize 
+diverged diverge 
+regulated regulate 
+indicated indicate 
+failed fail 
+sharpened sharpen 
+added add 
+equated equate 
+tapped tap 
+happened happen 
+offered offer 
+lamented lament 
+amplified amplify 
+resisted resist 
+flew fly 
+adopted adopt 
+scrambled scramble 
+shunned shun 
+delivered deliver 
+compensated compensate 
+recited recite 
+interrupted interrupt 
+interviewed interview 
+found find 
+charged charge 
+widened widen 
+rushed rush 
+recruited recruit 
+re-established re-establish 
+previewed preview 
+confessed confess 
+shoved shove 
+fell fall 
+canceled cancel 
+diminished diminish 
+discouraged discourage 
+encouraged encourage 
+belonged belong 
+defied defy 
+broadened broaden 
+anticipated anticipate 
+clinched clinch 
+comprised comprise 
+rejected reject 
+sang sing 
+softened soften 
+distributed distribute 
+wrecked wreck 
+settled settle 
+concealed conceal 
+employed employ 
+registered register 
+drowned drown 
+shrugged shrug 
+persuaded persuade 
+advertised advertise 
+populated populate 
+denoted denote 
+searched search 
+sought seek 
+stitched stitch 
+calmed calm 
+monitored monitor 
+steered steer 
+assumed assume 
+surrounded surround 
+occupied occupy 
+lessened lessen 
+reckoned reckon 
+erupted erupt 
+inhaled inhale 
+qualified qualify 
+supported support 
+mirrored mirror 
+booed boo 
+enforced enforce 
+seemed seem 
+poured pour 
+fostered foster 
+buckled buckle 
+derailed derail 
+deflected deflect 
+refunded refund 
+gathered gather 
+favored favor 
+professed profess 
+grasped grasp 
+received receive 
+reunited reunite 
+reworded reword 
+connected connect 
+engaged engage 
+reshaped reshape 
+liberated liberate 
+rephrased rephrase 
+computed compute 
+overcame overcome 
+passed pass 
+attempted attempt 
+disturbed disturb 
+disseminated disseminate 
+maintained maintain 
+knitted knit 
+subsidized subsidize 
+peeled peel 
+spiked spike 
+unloaded unload 
+stirred stir 
+gave give 
+assisted assist 
+dodged dodge 
+shot shoot 
+fed feed 
+resembled resemble 
+predicted predict 
+cooperated cooperate 
+resented resent 
+upgraded upgrade 
+leveraged leverage 
+accepted accept 
+usurped usurp 
+swapped swap 
+pushed push 
+attained attain 
+frequented congregate 
+criticized criticize 
+infringed infringe 
+confronted confront 
+undertook undertake 
+shattered shatter 
+swore swear 
+plunged plunge 
+embedded embed 
+superseded supersede 
+shouted shout 
+fabricated fabricate 
+sighed sigh 
+unified unify 
+proposed propose 
+scraped scrape 
+addressed address 
+chanted chant 
+prodded prod 
+co-ordinated co-ordinate 
+minimized minimize 
+confused confuse 
+expelled expel 
+elevated elevate 
+responded respond 
+protested protest 
+declared declare 
+validated validate 
+catered cater 
+emerged emerge 
+applied apply 
+speculated speculate 
+chose choose 
+promoted promote 
+regenerated regenerate 
+extinguished extinguish 
+taunted taunt 
+tossed toss 
+contradicted contradict 
+attended attend 
+polluted pollute 
+dug dig 
+rearranged rearrange 
+consisted consist 
+invaded invade 
+selected select 
+identified identify 
+categorised categorise 
+prescribed prescribe 
+dictated dictate 
+outperformed outperform 
+cited cite 
+scattered scatter 
+instructed instruct 
+downloaded download 
+guided guide 
+remade remake 
+flared flare 
+correlated correlate 
+enrolled enroll 
+sown sow 
+evoked evoke 
+ceased cease 
+brought bring 
+compressed compress 
+sprayed spray 
+resurrected resurrect 
+espoused espouse 
+plucked pluck 
+overhauled overhaul 
+saved save 
+pretended pretend 
+washed wash 
+reopened reopen 
+transmitted transmit 
+enlarged enlarge 
+flopped flop 
+reaped reap 
+accommodated accommodate 
+acquired acquire 
+entered enter 
+commended commend 
+choked choke 
+regained regain 
+arose arise 
+underpinned underpin 
+oversaw oversee 
+erased erase 
+suspended suspend 
+ingested ingest 
+demonstrated demonstrate 
+prospered prosper 
+tweaked tweak 
+favoured favour 
+deferred defer 
+imparted impart 
+digested digest 
+assembled assemble 
+submitted submit 
+transformed transform 
+aligned align 
+circulated circulate 
+ousted oust 
+dissipated dissipate 
+reacted react 
+entailed entail 
+departed depart 
+remixed remix 
+pardoned pardon 
+intervened intervene 
+obstructed obstruct 
+robbed rob 
+burned burn 
+accused accuse 
+kissed kiss 
+withheld withhold 
+renewed renew 
+shuffled shuffle 
+loved love 
+forbade forbid 
+aborted abort 
+heard hear 
+crawled crawl 
+interfered interfere 
+died die 
+obtained obtain 
+awaited await 
+defined define 
+assassinated assassinate 
+loathed detest 
+murdered murder 
+knew know 
+proceeded proceed 
+relied rely 
+risen rise 
+escalated escalate 
+corresponded correspond 
+bribed bribe 
+worsened worsen 
+disregarded disregard 
+lent lend 
+mitigated mitigate 
+impeded impede 
+accumulated accumulate 
+supplied supply 
+amassed amassing 
+discontinued discontinue 
+proclaimed proclaim 
+seized seize 
+penetrated penetrate 
+dissolved dissolve 
+quoted quote 
+soared soar 
+copyedited copyedit 
+propelled propel 
+substituted substitute 
+snatched snatch 
+recieved recieve 
+avoided avoid 
+diluted dilute 
+wielded wield 
+answered answer 
+copied copy 
+practised practise 
+hijacked hijack 
+sucked suck 
+hiked hike 
+danced dance 
+listened listen 
+drilled drill 
+completed complete 
+diverted divert 
+overloaded overload 
+honored honor 
+communicated communicate 
+competed compete 
+replicated replicate 
+shredded shred 
+arrested arrest 
+emigrated emigrate 
+feared fear 
+returned return 
+differentiated differentiate 
+marched march 
+eased ease 
+exchanged exchange 
+shaped shape 
+distracted distract 
+rented rent 
+stabilized stabilize 
+auditioned audition 
+exerted exert 
+unveiled unveil 
+rewarded reward 
+originated originate 
+recreated recreate 
+configured configure 
+reaffirmed reaffirm 
+roamed roam 
+achieved achieve 
+obeyed obey 
+evacuated evacuate 
+soaked soak 
+wiped wipe 
+supplemented augment 
+lashed lash 
+lifted lift 
+consulted consult 
+terminated terminate 
+facilitated facilitate 
+explained explain 
+exercised exercise 
+left leave 
+tortured torture 
+crossed cross 
+survived survive 
+lured lure 
+modernized modernize 
+tricked trick 
+depicted depict 
+recounted recount 
+disappeared disappear 
+healed heal 
+reused reuse 
+mobilized mobilize 
+ratified ratify 
+lost lose 
+reassessed reassess 
+carved carve 
+showcased showcase 
+consolidated consolidate 
+changed change 
+tilted tilt 
+preached preach 
+outnumbered outnumber 
+re-written re-write 
+complied comply 
+overruled overrule 
+posed pose 
+stretched stretch 
+solved solve 
+blossomed blossom 
+deterred deter 
+incorporated incorporate 
+shook shake 
+yelled yell 
+stopped stop 
+infected infect 
+sliced slice 
+missed miss 
+plundered plunder 
+excelled excel 
+hunted hunt 
+filled fill 
+undermined undermine 
+refuted refute 
+merged merge 
+discussed discuss 
+misrepresented misrepresent 
+footnoted footnote 
+worshipped worship 
+convened convene 
+rendered render 
+surveyed survey 
+chased chase 
+injected inject 
+examined examine 
+spun spin 
+collapsed collapse 
+equipped equip 
+disqualified disqualify 
+multiplied multiply 
+swayed sway 
+withdrew withdraw 
+made make 
+forfeited forfeit 
+modified modify 
+felt feel 
+took take 
+was is 
+prosecuted prosecute 
+decorated decorate 
+invalidated invalidate 
+organized organize 
+sprinkled sprinkle 
+conformed conform 
+accomplished accomplish 
+counted count 
+went go 
+disagreed disagree 
+swam swim 
+conveyed convey 
+waged wage 
+poked poke 
+rated rating 
+implicated implicate 
+overturned overturn 
+mourned mourn 
+blessed bless 
+designated designate 
+invested invest 
+detonated detonate 
+exploited exploit 
+congratulated congratulate 
+improved improve 
+raped rape 
+fitted fit 
+plummeted plummet 
+constituted constitute 
+assured assure 
+crammed cram 
+decided decide 
+jumped jump 
+described describe 
+forwarded forwarding 
+posited posit 
+paused pause 
+wrestled wrestle 
+downgraded downgrade 
+instilled instill 
+disallowed disallow 
+adjusted adjust 
+voted vote 
+slept sleep 
+dominated dominate 
+discarded discard 
+reversed reverse 
+rescued rescue 
+carried carry 
+disclosed disclose 
+tallied tally 
+slashed slash 
+smoothed smoothing 
+deployed deploy 
+swung swing 
+portrayed portray 
+enacted enact 
+understood understand 
+derived derive 
+cried cry 
+cooked cook 
+estimated estimate 
+scrutinized scrutinize 
+expressed express 
+entertained entertain 
+shared share 
+curtailed curtail 
+negotiated negotiate 
+underscored underscore 
+crumbled crumble 
+dropped drop 
+displayed display 
+thanked thank 
+curled curl 
+diagnosed diagnose 
+emphasized emphasize 
+stuck stick 
+begged beg 
+secured secure 
+appointed appoint 
+arrived arrive 
+toppled topple 
+invited invite 
+asked ask 
+topped topping 
+concluded conclude 
+verified verify 
+brewed brew 
+dismissed dismiss 
+renamed rename 
+reassured reassure 
+motivated motivate 
+devoted devote 
+grew grow 
+mediated mediate 
+negated negate 
+parsed parse 
+allocated allocate 
+retained retain 
+boosted boost 
+vetoed veto 
+beheaded beheading 
+redistributed redistribute 
+enjoyed enjoy 
+hindered hinder 
+reminded remind 
+assaulted assault 
+deserved deserve 
+bought buy 
+crushed crush 
+formulated formulate 
+bled bleed 
+attracted attract 
+nurtured nurture 
+enlisted enlist 
+borrowed borrow 
+shone shine 
+resolved resolve 
+thrashed thrash 
+admired admire 
+exhibited exhibit 
+mustered muster 
+conceived conceive 
+vanished vanish 
+escaped escape 
+inferred infer 
+stole steal 
+differed differ 
+dumped dump 
+realised realise 
+echoed echo 
+despised despise 
+launched launch 
+detained detain 
+hastened hasten 
+deceived deceive 
+compiled compile 
+heightened heighten 
+inherited inherit 
+implemented implement 
+served serve 
+incurred incur 
+apprehended apprehend 
+justified justify 
+utilised utilise 
+articulated articulate 
+possessed possess 
+threatened threaten 
+sunk sink 
+recognized recognize 
+outlined outline 
+concentrated concentrate 
+twisted twist 
+re-added re-add 
+laid lay 
+lingered linger 
+reimbursed reimburse 
+reinvented reinvent 
+ruined ruin 
+deleted delete 
+raided raid 
+skimmed skim 
+occurred occur 
+exported export 
+skipped skip 
+inspired inspire 
+relinquished relinquish 
+imported import 
+retreated retreat 
+commemorated commemorate 
+necessitated necessitate 
+recognised recognise 
+compared compare 
+began begin 
+repealed repeal 
+wasted waste 
+donated donate 
+traveled travel 
+flipped flip 
+renovated renovate 
+cherished cherish 
+disliked dislike 
+thwarted thwart 
+roasted roast 
+bestowed bestow 
+extracted extract 
+neutralized neutralize 
+signified signify 
+followed follow 
+became become 
+relocated relocate 
+precipitated precipitate 
+spent spend 
+killed kill 
+stimulated stimulate 
+separated separate 
+generated generate 
+symbolized symbolize 
+tolerated tolerate 
+appeared appear 
+accelerated accelerate 
+replaced replace 
+prepared prepare 
+highlighted highlight 
+compelled compel 
+prevented prevent 
+enhanced enhance 
+participated participate 
+tended tend 
+severed sever 
+smacked smack 
+encoded encode 
+accrued accrue 
+revamped revamp 
+characterised characterise 
+elected elect 
+stumbled stumble 
+finished finish 
+decried decry 
+sacked sack 
+released release 
+deducted deduct 
+humiliated humiliate 
+brushed brush 
+intensified intensify 
+unfolded unfold 
+tried try 
+restructured restructure 
+interacted interact 
+attributed attribute 
+inserted insert 
+disappointed disappoint 
+reprised reprise 
+produced produce 
+tackled tackle 
+checked check 
+encompassed encompass 
+condensed condense 
+encountered encounter 
+perpetuated perpetuate 
+rehabilitated rehabilitate 
+fought fight 
+disconnected disconnect 
+reconstructed reconstruct 
+weakened weaken 
+bolstered bolster 
+bumped bump 
+repaired repair 
+laughed laugh 
+applauded applaud 
+wept weep 
+reached reach 
+paid pay 
+solicited solicit 
+delineated delineate 
+operated operate 
+unleashed unleash 
+analyzed analyze 
+scooped scoop 
+flushed flush 
+determined determine 
+asserted assert 
+swelled swell 
+retrieved retrieve 
+melted melt 
+inflicted inflict 
+uncovered uncover 
+assigned assign 
+regretted regret 
+drifted drift 
+redone redo 
+mounted mount 
+claimed claim 
+unblocked unblock 
+rebuilt rebuild 
+signed sign 
+amended amend 
+deposited deposit 
+hung hang 
+alienated alienate 
+refreshed refresh 
+rubbed rub 
+were are 
+averted avert 
+adhered adhere 
+conflated conflate 
+refused refuse 
+underlined underline 
+evaded evade 
+consumed consume 
+starved starve 
+controlled control 
+afforded afford 
+benefited benefit 
+relieved relieve 
+trumped trump 
+squeezed squeeze 
+drew draw 
+guessed guess 
+involved involve 
+reconsidered reconsider 
+honoured honour 
+enclosed enclose 
+underestimated underestimate 
+spawned spawn 
+said say 
+emptied emptying 
+quantified quantify 
+disrupted disrupt 
+pledged pledge 
+offended offend 
+pulled pull 
+elicited elicit 
+approved approve 
+chewed chew 
+furnished furnish 
+refined refine 
+suffered suffer 
+greeted greet 
+legislated legislate 
+cracked crack 
+reappeared reappear 
+exceeded exceed 
+showered shower 
+proved prove 
+scrapped scrap 
+organised organise 
+figured figure 
+ascribed ascribe 
+deteriorated deteriorate 
+undeleted undelete 
+collected collect 
+weighed weigh 
+peaked peak 
+conceded concede 
+shrunk shrink 
+succeeded succeed 
+recovered recover 
+precluded preclude 
+reformed reform 
+reinstated reinstate 
+upheld uphold 
+introduced introduce 
+embraced embrace 
+continued continue 
+redirected redirect 
+distorted distort 
+overstated exaggerate 
+disapproved disapprove 
+salvaged salvage 
+diffused diffuse 
+watched watch 
+perceived perceive 
+punched punch 
+provoked provoke 
+disarmed disarm 
+rotated rotate 
+re-released re-release 
+substantiated substantiate 
+constrained constrain 
+lied lie 
+enabled enable 
+forgiven forgive 
+sent send 
+existed exist 
+overlooked overlook 
+sailed sail 
+opposed oppose 
+escorted escort 
+screwed screw 
+wikilinked wikilink 
+teased tease 
+insisted insist 
+announced announce 
+updated update 
+perished perish 
+looked look 
+simplified simplify 
+had have 
+loosened loosen 
+held hold 
+walked walk 
+retired retire 
+fixed fix 
+adored adore 
+emphasised emphasise 
+advised advise 
+regarded regard 
+dismantled dismantle 
+heeded heed 
+nodded nod 
+measured measure 
+removed remove 
+stayed stay 
+leaned lean 
+invoked invoke 
+blamed blame 
+wrote write 
+excused excuse 
+traced trace 
+included include 
+faded fade 
+reconciled reconcile 
+disposed dispose 
+decoded decode 
+repelled repel 
+induced induce 
+restored restore 
+prioritized prioritize 
+imitated imitate 
+got get 
+agreed agree 
+skewed skew 
+united unite 
+suggested suggest 
+criticised criticise 
+harvested harvest 
+relisted relist 
+persisted persist 
+represented represent 
+propagated propagate 
+outweighed outweigh 
+learned learn 
+boasted boast 
+stifled stifle 
+committed commit 
+visited visit 
+overtook overtake 
+infiltrated infiltrate 
+mashed mash 
+encrypted encrypt 
+dispersed disperse 
+cleaned clean 
+manufactured manufacture 
+cured cure 
+withstood withstand 
+uploaded upload 
+intimidated intimidate 
+inquired inquire 
+cheated cheat 
+reflected reflect 
+betrayed betray 
+kidnapped kidnap 
+swallowed swallow 
+contained contain 
+drank drink 
+garnered garner 
+expanded expand 
+waived waive 
+manifested manifest 
+attached attach 
+duplicated duplicate 
+awarded award 
+observed observe 
+graduated graduate 
+waited wait 
+switched switch 
+optimized optimize 
+testified testify 
+integrated integrate 
+ascended ascend 
+customized customize 
+exempted exempt 
+postponed postpone 
+depended depend 
+complained complain 
+conquered conquer 
+disguised disguise 
+rattled rattle 
+imagined imagine 
+categorized categorize 
+illustrated illustrate 
+memorized memorize 
+performed perform 
+restated restate 
+transferred transfer 
+floated float 
+retracted retract 
+denounced denounce 
+eroded erode 
+accessed access 
+toasted toast 
+resigned resign 
+inflated inflate 
+chopped chop 
+drained drain 
+levied levy 
+hoisted hoist 
+smuggled smuggle 
+governed govern 
+classed classify 
+scanned scan 
+joined join 
+recorded record 
+rewritten rewrite 
+plugged plug 
+omitted omit 
+disputed dispute 
+ignored ignore 
+flowed flow 
+intercepted intercept 
+reviewed review 
+admitted admit 
+dispatched dispatch 
+reprinted reprint 
+dressed dress 
+awakened awaken 
+dipped dip 
+mentioned mention 
+solidified solidify 
+envisaged envisage 
+parodied parody 
+evaporated evaporate 
+pruned prune 
+taught teach 
+rode ride 
+met meet 
+remembered remember 
+splashed splash 
+revived revive 
+synthesized synthesize 
+pondered ponder 
+sorted sort 
+panicked panic 
+collaborated collaborate 
+underwent undergo 
+apologized apologize 
+buried bury 
+notified notify 
+caught catch 
+pinpointed pinpoint 
+cultivated cultivate 
+stood stand 
+earned earn 
+came come 
+broke break 
+affected affect 
+stipulated stipulate 
+paraphrased paraphrase 
+restricted restrict 
+composed compose 
+dispensed dispense 
+detected detect 
+protected protect 
+reduced reduce 
+granted grant 
+spoke speak 
+reclaimed reclaim 
+provided provide 
+crippled cripple 
+boiled boil 
+smashed smash 
+supervised supervise 
+devised devise 
+streamlined streamline 
+deported deport 
+wore wear 
+nominated nominate 
+raised raise 
+predated predate 
+renounced renounce 
+misinterpreted misunderstand 
+acknowledged acknowledge 
+bounced bounce 
+contributed contribute 
+wrapped wrap 
+cleansed cleanse 
+reintroduced reintroduce 
+covered cover 
+contended contend 
+stared stare 
+ensued ensue 
+surpassed surpass 
+irritated irritate 
+adapted adapt 
+conferred confer 
+condoned condone 
+violated violate 
+embarked embark 
+arranged arrange 
+aroused arouse 
+harassed harass 
+respected respect 
+preserved preserve 
+realized realize 
+threw throw 
+adorned adorn 
+inhabited inhabit 
+strengthened strengthen 
+wikified wikify 
+played play 
+meant mean 
+trimmed trim 
+kept keep 
+degraded degrade 
+exposed expose 
+overthrown overthrow 
+yielded yield 
+traversed traverse 
+constructed construct 
+opted opt 
+denied deny 
+contemplated contemplate 
+snapped snap 
+diversified diversify 
+complemented complement 
+increased increase 
+translated translate 
+dealt blow 
+drove drive 
+repaid repay 
+required require 
+swept sweep 
+confirmed confirm 
+decreased decrease 
+assessed assess 
+harmed harm 
+isolated isolate 
+placed put 
+pinned pin 
+partitioned partition 
+
+
+
+
+HAS HAVE 
+encounters encounter 
+constructs construct 
+forbids forbid 
+minimizes minimize 
+verifies verify 
+occupies occupy 
+contests contest 
+calculates calculate 
+recruits recruit 
+merges merge 
+unveils unveil 
+fights fight 
+distorts distort 
+raids raid 
+simulates simulate 
+slams slam 
+evaluates evaluate 
+rips rip 
+pursues pursue 
+crosses cross 
+resides reside 
+endeavours endeavour 
+discarding discard 
+feels feel 
+kisses kiss 
+restores restore 
+spans span 
+joins join 
+encompasses encompass 
+contradicts contradict 
+validates validate 
+concentrates concentrate 
+combines combine 
+advertises advertise 
+uploads upload 
+guarantees guarantee 
+differs differ 
+mentions mention 
+accompanies accompany 
+saves save 
+spends spend 
+weakens weaken 
+drags drag 
+quits quit 
+accepts accept 
+acts act 
+predicts predict 
+flips flip 
+appears appear 
+heals heal 
+investigates investigate 
+attempts attempt 
+nods nod 
+bears bear 
+donates donate 
+relays relay 
+waits wait 
+escorts escort 
+isn aren 
+poses pose 
+complains complain 
+succeeds succeed 
+toppled topple 
+rises rise 
+implies imply 
+nails nail 
+sparks spark 
+takes take 
+swings swing 
+causes cause 
+recycled recycle 
+disappears disappear 
+concludes conclude 
+assembles assemble 
+intends intend 
+harms harm 
+employs employ 
+weighs weigh 
+highlights highlight 
+compiles compile 
+punishes punish 
+declares declare 
+disagrees disagree 
+denotes denote 
+warrants warrant 
+buys buy 
+interviews interview 
+attracts attract 
+undermines undermine 
+brings bring 
+promotes promote 
+relies rely 
+bites bite 
+swims swim 
+revolves revolve 
+overrides override 
+flees flee 
+reckons reckon 
+precludes preclude 
+incorporates incorporate 
+sells sell 
+raises raise 
+wears wear 
+alters alter 
+borrows borrow 
+embraces embrace 
+wants want 
+kicks kick 
+cautions caution 
+decides decide 
+comes come 
+resembles resemble 
+endures endure 
+limits limit 
+crashes crash 
+falls fall 
+regulates regulate 
+eases ease 
+urges urge 
+perceives perceive 
+challenges challenge 
+copies copy 
+interacts interact 
+begs beg 
+hinders hinder 
+cites cite 
+qualifies qualify 
+accuses accuse 
+dumps dump 
+handles handle 
+trumps trump 
+does do 
+pertains pertain 
+terminates terminate 
+preaches preach 
+revived revive 
+introduces introduce 
+swallows swallow 
+resists resist 
+runs run 
+contemplates contemplate 
+assumes assume 
+escalates escalate 
+governs govern 
+hugs hug 
+scrapes scrape 
+alerts alert 
+fulfills fulfill 
+persuades persuade 
+replaces replace 
+recognises recognise 
+classifies classify 
+moves move 
+hurts hurt 
+refutes refute 
+sits sit 
+happens happen 
+duplicates duplicate 
+redirects redirect 
+advances advance 
+uncovers uncover 
+distinguishes distinguish 
+grows grow 
+reprints reprint 
+inserts insert 
+reaped reap 
+greets greet 
+executes execute 
+reflects reflect 
+attains attain 
+marches march 
+believes believe 
+undergoes undergo 
+reverses reverse 
+spreads spread 
+sinks sink 
+renders render 
+signifies signify 
+resorts resort 
+deserves deserve 
+throws throw 
+destroys destroy 
+addresses address 
+soars soar 
+emphasizes emphasize 
+hears hear 
+deletes delete 
+clips clip 
+anticipates anticipate 
+laughs laugh 
+exerts exert 
+votes vote 
+captures capture 
+activates activate 
+treats treat 
+affects affect 
+constitutes constitute 
+forfeited forfeit 
+triumphs triumph 
+paints paint 
+instructs instruct 
+learns learn 
+acknowledges acknowledge 
+wipes wipe 
+deepens deepen 
+hangs hang 
+slaps slap 
+patrols patrol 
+flies fly 
+meets meet 
+prefers prefer 
+envisions envision 
+predates predate 
+stares stare 
+widens widen 
+belongs belong 
+worsens worsen 
+ignited ignite 
+debates debate 
+resolves resolve 
+undertakes undertake 
+inhabits inhabit 
+wakes wake 
+dismisses dismiss 
+insists insist 
+underlines underline 
+publishes publish 
+ensues ensue 
+suppresses suppress 
+forgets forget 
+hunts hunt 
+apologizes apologize 
+embodies embody 
+submits submit 
+shifts shift 
+shakes shake 
+suffices suffice 
+storms storm 
+generates generate 
+decreases decrease 
+enables enable 
+tosses toss 
+climbs climb 
+displays display 
+was were 
+assures assure 
+diverted divert 
+supports support 
+changes change 
+surrounds surround 
+interrupts interrupt 
+solves solve 
+plans plan 
+outlines outline 
+hires hire 
+utilizes utilize 
+monitors monitor 
+posits posit 
+summarizes summarize 
+boosts boost 
+ensures ensure 
+fades fade 
+supervises supervise 
+justifies justify 
+buoys buoy 
+strikes strike 
+degrades degrade 
+underlies underlie 
+erupts erupt 
+prompts prompt 
+establishes establish 
+organises organise 
+rejects reject 
+elects elect 
+overlooks overlook 
+finds find 
+participates participate 
+fires fire 
+intersects intersect 
+walks walk 
+motivates motivate 
+reduces reduce 
+relinquished relinquish 
+speaks speak 
+works work 
+exhibits exhibit 
+condemns condemn 
+consults consult 
+satisfies satisfy 
+accelerates accelerate 
+emerges emerge 
+emphasises emphasise 
+manufactures manufacture 
+builds build 
+gives give 
+retires retire 
+wins win 
+behaves behave 
+escapes escape 
+enforces enforce 
+downloads download 
+tends tend 
+delivers deliver 
+defeats defeat 
+creates create 
+snaps snap 
+solidified solidify 
+unfolds unfold 
+manipulates manipulate 
+confuses confuse 
+reports report 
+attends attend 
+taps tap 
+omits omit 
+scans scan 
+outweighs outweigh 
+rotates rotate 
+originates originate 
+disguises disguise 
+departs depart 
+dips dip 
+transcends transcend 
+restricts restrict 
+strengthens strengthen 
+computes compute 
+induces induce 
+exists exist 
+piles pile 
+replies reply 
+warns warn 
+compares compare 
+smiles smile 
+regained regain 
+focuses focus 
+shows show 
+proves prove 
+remains remain 
+confronts confront 
+affirms affirm 
+requires require 
+adopts adopt 
+achieves achieve 
+varies vary 
+relocated relocate 
+murders murder 
+forms form 
+suggests suggest 
+requests request 
+pauses pause 
+shines shine 
+gags gag 
+drives drive 
+punches punch 
+opposes oppose 
+bends bend 
+mixes mix 
+contends contend 
+consumes consume 
+surges surge 
+opens open 
+dives dive 
+practises practise 
+splits split 
+shuts shut 
+recognizes recognize 
+releases release 
+resumes resume 
+provides provide 
+pretends pretend 
+understands understand 
+detects detect 
+wrecks wreck 
+parades parade 
+puts put 
+prepares prepare 
+swears swear 
+gets get 
+entails entail 
+prints print 
+rushes rush 
+fills fill 
+complicates complicate 
+prohibits prohibit 
+endeavors endeavor 
+refers refer 
+connects connect 
+engages engage 
+garnered garner 
+knocks knock 
+fuses fuse 
+adjusts adjust 
+pleads plead 
+interprets interpret 
+visits visit 
+illustrates illustrate 
+aroused arouse 
+ousted oust 
+manages manage 
+marries marry 
+lends lend 
+keeps keep 
+hits hit 
+disputes dispute 
+tricks trick 
+resigns resign 
+rides ride 
+collects collect 
+represents represent 
+occurs occur 
+authorizes authorize 
+grabs grab 
+blames blame 
+assesses assess 
+claims claim 
+describes describe 
+burns burn 
+dictates dictate 
+shapes shape 
+prevents prevent 
+transmits transmit 
+trimming trim 
+equates equate 
+spikes spike 
+excludes exclude 
+wastes waste 
+agrees agree 
+recited recite 
+receives receive 
+ambushes ambush 
+relates relate 
+echoes echo 
+cuts cut 
+correlates correlate 
+operates operate 
+dissolves dissolve 
+retrieves retrieve 
+assists assist 
+recalls recall 
+implements implement 
+deals deal 
+accomplishes accomplish 
+dares dare 
+translates translate 
+quips quip 
+misrepresents misrepresent 
+includes include 
+travels travel 
+washes wash 
+convinces convince 
+survives survive 
+inhibits inhibit 
+floats float 
+showcases showcase 
+gathers gather 
+watches watch 
+ruins ruin 
+blunders blunder 
+stops stop 
+scares scare 
+draws draw 
+switches switch 
+informs inform 
+declines decline 
+invades invade 
+alleges allege 
+specifies specify 
+wields wield 
+endorses endorse 
+approaches approach 
+defines define 
+maintains maintain 
+adds add 
+vanishes vanish 
+seeks seek 
+twists twist 
+suffers suffer 
+returns return 
+announces announce 
+celebrates celebrate 
+weaves weave 
+laments lament 
+favors favor 
+contains contain 
+violates violate 
+lacks lack 
+prevails prevail 
+manifests manifest 
+triggers trigger 
+consists consist 
+earns earn 
+recovers recover 
+applies apply 
+complies comply 
+thrives thrive 
+permits permit 
+enhances enhance 
+boasts boast 
+sweeps sweep 
+asserts assert 
+ends end 
+blasts blast 
+extends extend 
+betrays betray 
+drifts drift 
+screws screw 
+arises arise 
+yells yell 
+integrates integrate 
+replicates replicate 
+spins spin 
+goes go 
+realizes realize 
+precedes precede 
+contributes contribute 
+stresses stress 
+bursts burst 
+improves improve 
+pushes push 
+becomes become 
+bows bow 
+arranges arrange 
+discloses disclose 
+explains explain 
+settles settle 
+flicks flick 
+reinforces reinforce 
+obtains obtain 
+aims aim 
+flops flop 
+controls control 
+catches catch 
+performs perform 
+proposes propose 
+denies deny 
+arrests arrest 
+drains drain 
+promises promise 
+dies die 
+freezes freeze 
+jumps jump 
+assigns assign 
+stimulates stimulate 
+divides divide 
+intervenes intervene 
+initiates initiate 
+favours favour 
+drops drop 
+allows allow 
+binds bind 
+serves serve 
+culling cull 
+awakens awaken 
+lectures lecture 
+selects select 
+unites unite 
+accesses access 
+skips skip 
+digs dig 
+sticks stick 
+is be 
+asks ask 
+listens listen 
+notifies notify 
+faces face 
+proclaims proclaim 
+transforms transform 
+invokes invoke 
+depicts depict 
+surpasses surpass 
+ceded cede 
+admits admit 
+cries cry 
+hates despise 
+criticises criticise 
+offends offend 
+closes reopen 
+remembers remember 
+confers confer 
+complements complement 
+avoids avoid 
+locks lock 
+ignores ignore 
+exemplifies exemplify 
+necessitates necessitate 
+melts melt 
+depends depend 
+ramps ramp 
+updates update 
+discourages discourage 
+administers administer 
+negotiated negotiate 
+installs install 
+traps trap 
+supplies supply 
+arrives arrive 
+tries try 
+kidnaps kidnap 
+trains train 
+swaps swap 
+harvests harvest 
+taunts taunt 
+sues sue 
+looks look 
+picks pick 
+illuminates illuminate 
+increases increase 
+kills kill 
+tackles tackle 
+hides hide 
+lets let 
+makes make 
+stirs stir 
+preserves preserve 
+strives strive 
+brushes brush 
+empowers empower 
+threatens threaten 
+rescues rescue 
+needs need 
+fits fit 
+reveals reveal 
+halts halt 
+tortures torture 
+continues continue 
+passes pass 
+invites invite 
+deploys deploy 
+reestablished re-establish 
+prescribes prescribe 
+owes owe 
+concedes concede 
+loves adore 
+transports transport 
+crushes crush 
+steps step 
+seems seem 
+stains stain 
+demands demand 
+wanders wander 
+communicates communicate 
+lowers lowering 
+eliminates eliminate 
+evokes evoke 
+features feature 
+confirms confirm 
+accommodates accommodate 
+usurped usurp 
+ceases cease 
+expands expand 
+renames rename 
+feeds feed 
+shrinks shrink 
+exits exit 
+slips slip 
+overcomes overcome 
+imposes impose 
+warms warm 
+whispers whisper 
+bounces bounce 
+follows follow 
+sighs sigh 
+discovers discover 
+commences commence 
+invests invest 
+holds hold 
+steals steal 
+misses miss 
+pulls pull 
+bypasses bypass 
+appreciates appreciate 
+reclaimed reclaim 
+adapts adapt 
+educates educate 
+designates designate 
+rewrites rewrite 
+persists persist 
+shouts shout 
+seizes seize 
+appoints appoint 
+awaits await 
+sails sail 
+sprays spray 
+underscores underscore 
+reacts react 
+admires admire 
+coincides coincide 
+portrays portray 
+teaches teach 
+reminds remind 
+engendered engender 
+stays stay 
+loads load 
+harnesses harness 
+lures lure 
+absorbs absorb 
+ditches ditch 
+conveys convey 
+cancels cancel 
+stands stand 
+slides slide 
+evolves evolve 
+encourages encourage 
+exceeds exceed 
+approves approve 
+exposes expose 
+commits commit 
+explodes explode 
+dials dial 
+beats beat 
+influences influence 
+reverts revert 
+chases chase 
+responds respond 
+searches search 
+demonstrates demonstrate 
+comprises comprise 
+allocates allocate 
+distributes distribute 
+launches launch 
+symbolizes symbolize 
+descends descend 
+quotes quote 
+touts tout 
+treasures treasure 
+mounts mount 
+upholds uphold 
+bumps bump 
+corresponds correspond 
+blows blow 
+injures injure 
+mimics mimic 
+insults insult 
+jokes joke 
+sends send 
+assaults assault 
+attacks attack 
+tracks track 
+derives derive 
+breaks break 
+criticizes criticize 
+flourishes flourish 
+presumes presume 
+DOES NOT 
+realises realise 
+advises advise 
+drinks drink 
+struggles struggle 
+tweaks tweak 
+unlocking unlock 
+stipulates stipulate 
+refuses refuse 
+testifies testify 
+reappears reappear 
+enjoys enjoy 
+shoots shoot 
+indicates indicate 
+screams scream 
+suspends suspend 
+lays lay 
+commemorates commemorate 
+sleeps sleep 
+sustains sustain 
+retreats retreat 
+starts start 
+modifies modify 
+expects expect 
+inherits inherit 
+fails fail 
+finishes finish 
+emits emit 
+intensifies intensify 
+possesses possess 
+specializes specialize 
+defies defy 
+competes compete 
+determines determine 
+eats eat 
+loses lose 
+facilitates facilitate 
+deems deem 
+collapses collapse 
+produces produce 
+expresses express 
+accumulates accumulate 
+develops develop 
+enlists enlist 
+involves involve 
+plays play 
+stumbles stumble 
+retains retain 
+encodes encode 
+recommends recommend 
+cheats cheat 
+compliments compliment 
+carries carry 
+sings sing 
+dominates dominate 
+reproduces reproduce 
+disrupts disrupt 
+repeats repeat 
+protects protect 
+perpetuates perpetuate 
+turns turn 
+chooses choose 
+touches touch 
+diminishes diminish 
+pays pay 
+lies lie 
+clarifies clarify 
+traverses traverse 
+tells tell 
+maneuvers maneuver 
+certifies certify 
+attaches attach 
+enters enter 
+inspires inspire 
+knows know 
+leaves leave 
+calls call 
+confesses confess 
+abandons abandon 
+dislikes dislike 
+designs design 
+leaps leap 
+offers offer 
+stretches stretch 
+interferes interfere 
+regrets regret 
+lifts lift 
+covers cover 
+reaches reach 
+oversees oversee 
+provokes provoke 
+simplifies simplify 
+blends blend 
+begins begin 
+salutes salute 
+pours pour 
+battles battle 
+fixes fix 
+says say 
+withdraws withdraw 
+acquires acquire 
+transfers transfer 
+stalks stalk 
+devotes devote 
+bothers bother 
+has have 
+infects infect 
+gained gain 
+Has Have 
+hasn haven 
+
+
+# past participle
+
+take taking takes taken
+push pushing pushes pushed
+throw throwing throws thrown
+sell selling sells sold
+carry carrying carries carried
+do doing does done
+show showing shows shown
+write writing writes written
+use using uses used
+perform performing performs performed
+
+
+# verb noun
+
+elect election elections
+occupy occupation occupations
+invent invention inventions
+discover discovery discoveries
+explode explosion explosions
+erupt eruption eruptions
+convert conversion conversions
+expand expansion expansions
+develop development developments
+combine combination combinations
+appear appearance appearances
+perform performance performances
+conquer conquest conquests
+compose composition compositions
+protect protection protections
+defend defence defences
+introduce introduction introductions
+organise organisation organisations
+organize organization organizations
+
+
+moved changed added worked studied attended appeared acted helped continued
+moving changing adding working studying attending appearing acting helping continuing
+
+written described explained created replaced
+write describe explain create replace
+
+used needed asked written translated replaced introduced provided offered added introduced
+use need ask write translate replace introduce provide offer add introduce
+
+create created creates creating
+change changed changes changing
+help helped helps helping 
+give gave gives giving
+bring brought brings bringing
+keep kept keeps keeping
+end ended ends ending
+start started starts starting
+go went goes going
+come came comes coming
+grow grew grows growing
+get got gets getting
+continue coninued continues continuing
+travel travelled travels travelling
+have had has having
+be was is being
+become became becomes becoming
+use used uses using
+need needed needs needing
+want wanted wants wanting
+
+help support provide hire invite teach accept keep stay improve reduce allow offer
+helps supports provides hires invites teaches accepts keeps stays improves reduces allows offers
+
+modifying modifier modifiers modifies modify
+qualifying qualifier qualifiers qualifies qualify
+identifying identifier identifiers identifies identify
+specifying specifier specifiers specifies specify
+classifying classifier classifier classifies classify
+
+
+# Other correct 2x3 frames involving verbs
+
+started starting starts 
+ended ending ends 
+
+taken kept stored 
+taking keeping storing 
+
+taken stolen abused 
+taking stealing abusing 
+
+committed murdered raped 
+committing murdering raping 
+
+sent send sends 
+thrown throw throws 
+
+sent transferred switched 
+sending transferring switching 
+
+sent thrown knocked 
+sends throws knocks 
+
+developed development developments 
+discovered discovery discoveries 
+
+developed designed introduced 
+developing designing introducing 
+
+given held carried 
+giving holding carrying 
+
+given carried pushed 
+give carry push 
+
+given carried pulled 
+gives carries pulls 
+
+took lost gained 
+taking losing gaining 
+
+took gave chose 
+taken given chosen 
+
+travel explore colonize 
+travelled explored colonized 
+
+visited travelled explored 
+visiting travelling exploring 
+
+gained achieved obtained 
+gaining achieving obtaining 
+
+eating drinking poisoning 
+ate drank poisoned 
+
+crash explosion collision 
+crashed exploded collided 
+
+changed added removed 
+changing adding removing 
+
+studied taught trained 
+studying teaching training 
+
+drove threw blew 
+driven thrown blown 
+
+used needed required 
+use need require 
+
+fought attacked marched killed retreated 
+fighting attacking marching killing retreating 
+
+
+created formed reformed 
+creating forming reforming 
+
+created designed constructed 
+creating designing constructing 
+
+moved travelled migrated 
+moving travelling migrating 
+
+
+explore explored explorer explorers
+invade invaded invader invaders
+attack attacked attacker attackers
+
+provide promote boost 
+provides promotes boosted 
+
+captured seized overthrew 
+capture seize overthrow 
+
+used provided maintained 
+use provide maintain 
+
+played play playing 
+worked work working 
+
+appointed chosen hired 
+appoint choose hire 
+
+allow allows allowing 
+let lets letting 
+
+defined classified interpreted 
+define classify interpret 
+
+sent travelled explored 
+send travel explore 
+
+performed sang danced 
+performing singing dancing 
+
+decided invited promised 
+decides invites promises 
+
+given give giving 
+kept keep keeping 
+
+acting performing conducting 
+acted performed conducted 
+
+served worked studied 
+serving working studying 
+
+attacked invaded conquered 
+attacking invading conquering 
+
+attacked retreated seized 
+attacking retreating seizing 
+
+attacked lacked cracked 
+attacking lacking cracking 
+
+weakened dissipated drifted 
+weakening dissipating drifting 
+
+invaded invade invading 
+retreated retreat retreating 
+
+invaded raided beheaded 
+invading raiding beheading 
+
+invaded escaped rescued 
+invading escaping rescuing 
+
+crossing grossing surpassing 
+crossed grossed surpassed 
+
+present presents presenting 
+represent represents representing 
+
+present presented presentations 
+represent represented representations 
+
+knights sights highlights 
+knighted sighted highlighted 
+
+cooking baking brewing 
+cookery bakery brewery 
+
+following allowing swallowing 
+followed allowed swallowed 
+
+thought believed relieved 
+think believe relieve 
+
+thought thinking thinks 
+believed believing believes 
+
+considered consider considers 
+believed believe believers 
+
+described inscribed transcribed 
+description inscription transcription 
+
+gain raise earn 
+gains raises earns 
+
+trying attempting intending 
+tries attempts intends 
+
+trying crying waking 
+tries cries wakes 
+
+listed ranked rated 
+listings rankings ratings 
+
+taught teaching teach 
+educated educating educate 
+
+remained gained obtained 
+remaining gaining obtaining 
+
+press pressed presses 
+express expressed expresses 
+
+press impress compress 
+pressed impressed compressed 
+
+learn learning learner 
+teach teaching teacher 
+
+learn teach educate 
+learned taught educated 
+
+learn teach educate 
+learners teachers educators 
+
+learn understand explain 
+learning understanding explaining 
+
+referred defined classified 
+refer define classify 
+
+floating squeezing inhaling 
+floated squeezed inhaled 
+
+hosted aired broadcasted 
+hosting airing broadcasting 
+
+hosted posted commented 
+hosting posting commenting 
+
+arrested arrests arresting 
+protested protests protesting 
+
+arrested murdered assaulted 
+arrests murderers assaults 
+
+killing kidnapping murdering 
+killers kidnappers murderers 
+
+touched sucked chewed 
+touching sucking chewing 
+
+touched pierced poached 
+touching piercing poaching 
+
+trip travelled trips 
+voyage sailed voyages 
+
+replaced replace replacing 
+removed remove removing 
+
+using adding combining 
+uses adds combines 
+
+used provided sought 
+use provide seek 
+
+used given taken 
+uses gives takes 
+
+help try decide 
+helped tried decided 
+
+help want choose 
+helped wanted chose 
+
+help hire appoint 
+helped hired appointed 
+
+help bring push 
+helps brings pushes 
+
+be exist occur 
+been existed occurred 
+
+development education establishment 
+develop educate establish 
+
+spoken speak spoke 
+sung sing sang 
+
+charged convicted punished 
+charges convictions punishments 
+
+discovery finding understanding 
+discover find understand 
+
+developed expanded converted 
+development expansion conversion 
+
+live lived lives 
+grow grew grows 
+
+is exists interacts consists represents
+are exist interact consist represent
+
+
+conducted investigated examined 
+conduct investigate examine 
+
+teaching learning developing 
+teach learn develop 
+
+put putting puts 
+thrown throwing throws 
+
+see understand explain 
+sees understands explains 
+
+see observe examine 
+seen observed examined 
+
+led brought spread 
+leads brings spreads 
+
+developed adopted succeeded 
+develop adopt succeed 
+
+use combine compare 
+uses combines compares 
+
+explosion explosions explode 
+eruption eruptions erupt 
+
+given give giving 
+provided provide providing 
+
+given taken passed 
+give take pass 
+
+given provided operated 
+gives provides operates 
+
+given added applied 
+give add apply 
+
+help hire persuade 
+helped hired persuaded 
+
+take taken taking 
+bring brought bringing 
+
+take follow share 
+takes follows shares 
+
+formed established annexed 
+formation establishment annexation 
+
+see feel suffer 
+sees feels suffers 
+
+see recognize adopt 
+seen recognized adopted 
+
+decided planned agreed 
+decision plan agreement 
+
+brought saved stolen 
+bring save steal 
+
+grow reach gain 
+grows reaches gains 
+
+written write writes 
+performed perform performs 
+
+wrote knew talked 
+write know talk 
+
+written composed sung 
+writing composing singing 
+
+written spoken sung 
+writes speaks sings 
+
+created added removed 
+creating adding removing 
+
+is exists operates 
+are exist operate 
+
+developed expanded strengthened 
+develop expand strengthen 
+
+given held assembled 
+give hold assemble 
+
+catch swim breathe 
+catches swims breathes 
+
+created established adopted 
+creation establishment adoption 
+
+created introduced invented 
+creating introducing inventing 
+
+used use uses 
+required require requires 
+
+used use uses 
+referred refer refers 
+
+used developed invented 
+use develop invent 
+
+made making makes 
+taken taking takes 
+
+made taken removed 
+make take remove 
+
+end start return 
+ended started returned 
+
+including include includes 
+involving involve involves 
+
+given gives giving 
+accepted accepts accepting 
+
+given accepted approved 
+give accept approve 
+
+took taken taking 
+got gotten getting 
+
+studied taught educated 
+study teach educate 
+
+get save steal 
+gotten saved stolen 
+
+means refers indicates 
+mean refer indicate 
+
+popular successful acclaimed 
+popularity success acclaim 
+
+solve prove interpret 
+solved proven interpreted 
+
+walked knocked blew 
+walks knocks blows 
+
+development growth survival 
+develop grow survive 
+
+used use uses 
+defined define defines 
+
+became served worked 
+becoming serving working 
+
+would needed meant 
+will needs means 
+
+attack attacks attacked 
+arrest arrests arrested 
+
+
+get gets gotten 
+go goes gone 
+
+executed execution execute 
+assassinated assassination assassinate 
+
+called written composed seen considered
+call write compose see consider
+
+including containing consisting 
+include contain consist 
+
+went worked travelled 
+going working travelling 
+
+put taken removed 
+putting taking removing 
+
+changed taken removed 
+changing taking removing 
+
+see visit buy 
+seen visited bought 
+
+leave let send 
+leaving letting sending 
+
+describes writes teaches 
+describing writing teaching 
+
+acting doing performing 
+acted done performed 
+
+conductor conducted conducting 
+performer performed performing 
+
+occurs affects spreads 
+occurred affected spread 
+
+used introduced adopted 
+use introduce adopt 
+
+used called written 
+use call write 
+
+
+used asked hired 
+use ask hire 
+
+met stayed travelled 
+meet stay travel 
+
+
+singing sung sings 
+performing performed performs 
+
+playing acting singing 
+players actors singers 
+
+
+done taken carried 
+doing taking carrying 
+
+do see tell 
+does sees tells 
+
+use write perform 
+uses writes performs 
+
+use replace accept 
+uses replaces accepts 
+
+use add remove 
+using adding removing 
+
+use give send 
+using giving sending 
+
+made led caused 
+make lead cause 
+
+made done taken 
+making doing taking 
+
+agrees frees flees 
+agreeing freeing fleeing 
+
+pushing punching attaching 
+pushes punches attaches 
+
+floating pumping rigging 
+floated pumped rigged 
+
+wishes invites convinces 
+wishing inviting convincing 
+
+backing cracking mocking 
+backed cracked mocked 
+
+do did does 
+decide decided decides 
+
+do done doing 
+get gotten getting 
+
+said claimed argued 
+saying claiming arguing 
+
+said knew talked 
+saying knowing talking 
+
+said asked talked 
+saying asking talking 
+
+like do want 
+liked did wanted 
+
+made broken knocked 
+makes breaks knocks 
+
+throw dig wash 
+thrown dug washed 
+
+threw jumped blew 
+throws jumps blows 
+
+broke fell burned 
+breaking falling burning 
+
+developed established incorporated adopted accepted
+develop establish incorporate adopt accept
+
+avoid solve prove 
+avoided solved proven 
+
+understand explain prove 
+understood explained proven 
+
+developed adopted discussed 
+develop adopt discuss 
+
+developed discovered explored 
+develop discover explore 
+
+take follow adopt 
+taken followed adopted 
+
+take destroy conquer 
+taken destroyed conquered 
+
+death retirement resignation 
+die retire resign 
+
+produced directed designed 
+producing directing designing 
+
+comes appears sees 
+come appear see 
+
+attack fight defeat 
+attacked fought defeated 
+
+help keep maintain 
+helps keeps maintains 
+
+help bring collect 
+helps brings collects 
+
+help learn teach 
+helped learned taught 
+
+help ask refuse 
+helped asked refused 
+
+help allow require 
+helps allows requires 
+
+worked helped tried 
+working helping trying 
+
+thought think thinking 
+looked look looking 
+
+thought wanted needed 
+think want need 
+
+
+take taken takes 
+carry carried carries 
+
+take keep protect carry hold
+taken kept protected carried held 
+takes keeps protects carries holds
+
+
+
+making putting letting 
+makes puts lets 
+
+see tell decide 
+sees tells decides 
+
+given gave giving 
+taken took taking 
+
+given give gives 
+taken take takes 
+
+given give gives 
+held hold holds 
+
+help helped helps 
+try tried tries 
+
+help allow let 
+helps allows lets 
+
+control support protection 
+controlled supported protected 
+
+studied taught attended 
+study teach attend 
+
+developed introduced invented 
+develop introduce invent 
+
+joined attended conducted 
+join attend conduct 
+
+
+performed perform performing 
+sung sing singing 
+
+wrote written write 
+sang sung sing 
+
+wrote written write 
+spoke spoken speak 
+
+wrote writing write 
+taught teaching teach 
+
+use using uses 
+make making makes 
+
+use need try 
+uses needs tries 
+
+use provide offer 
+uses provides offers 
+
+use create build 
+uses creates builds 
+
+use give send 
+uses gives sends 
+
+use contain consist 
+uses contains consists 
+
+make see find 
+makes sees finds 
+
+found seen understood 
+find see understand 
+
+started joined merged 
+start join merge 
+
+get gets getting 
+see sees seeing 
+
+began went travelled 
+begins goes travels 
+
+be become enter 
+being becoming entering 
+
+be get give 
+being getting giving 
+
+used done taken 
+use do take 
+
+made make making 
+done do doing 
+
+was became got 
+being becoming getting 
+
+was had saw 
+being having seeing 
+
+
+written writing write 
+composed composing compose 
+
+
+measure define classify 
+measured defined classified 
+
+taken placed removed 
+taking placing removing 
+
+developed established organized 
+develop establish organize 
+
+see look appear 
+sees looks appears 
+
+see identify define 
+seen identified defined 
+
+control support funding 
+controlled supported funded 
+
+got lost gained 
+gets loses gains 
+
+take taken taking 
+keep kept keeping 
+
+take taken taking 
+throw thrown throwing 
+
+
+use using uses 
+contain containing contains 
+
+use allow offer 
+uses allows offers 
+
+use produce absorb 
+uses produces absorbs 
+
+started start starts 
+ended end ends 
+
+used use using 
+applied apply applying 
+
+used use using 
+added add adding 
+
+used use uses 
+provided provide provides 
+
+written translated interpreted 
+write translate interpret 
+
+given give giving 
+accepted accept accepting 
+
+given give giving 
+held hold holding 
+
+given added removed 
+give add remove 
+
+came returned travelled 
+coming returning travelling 
+
+help try manage 
+helped tried managed 
+
+help allow provide 
+helps allows provides 
+
+worked studied taught 
+working studying teaching 
+
+thought seen considered 
+think see consider 
+
+developed introduced adopted 
+develop introduce adopt 
+
+spent stayed travelled 
+spends stays travels 
+
+began ended stopped 
+begins ends stops 
+
+means does needs 
+meant did needed 
+
+gets puts removes 
+getting putting removing 
+
+put placed removed 
+putting placing removing 
+
+changed added placed 
+changing adding placing 
+
+gave give giving 
+gained gain gaining 
+
+started stopped withdrew 
+start stop withdraw 
+
+need allow require 
+needed allowed required 
+
+do see hear 
+done seen heard 
+
+use using uses 
+allow allowing allows 
+
+use add convert 
+uses adds converts 
+
+played play plays 
+competed compete competes 
+
+played performed conducted 
+plays performs conducts 
+
+played appeared acted 
+playing appearing acting 
+
+became succeeded abdicated 
+become succeed abdicate 
+
+turned pushed thrown 
+turn push throw 
+
+contains contain containing 
+consists consist consisting 
+
+know tell hear 
+knew told heard 
+
+killed caught thrown 
+kill catch throw 
+
+received earned gained 
+receives earns gains 
+
+received receive receiving 
+obtained obtain obtaining 
+
+see tell explain 
+sees tells explains 
+
+see look feel 
+sees looks feels 
+
+wanted want wants 
+needed need needs 
+
+written published printed 
+write publish print 
+
+given provided generated 
+give provide generate 
+
+
+get lose gain 
+gets loses gains 
+
+live lived lives 
+spend spent spends 
+
+live lived lives 
+meet met meets 
+
+
+do know tell 
+did knew told 
+
+use carry bring 
+uses carries brings 
+
+use change choose 
+using changing choosing 
+
+make help try 
+makes helps tries 
+
+played worked acted 
+playing working acting 
+
+produced production produce 
+developed development develop 
+
+produce develop influence create change
+produced developed influenced created changed
+producing developing influencing creating changing
+
+created create creating 
+developed develop developing 
+
+
+written write writes 
+spoken speak speaks 
+
+written performed sung 
+write perform sing 
+
+created formed joined 
+creating forming joining 
+
+created developed introduced 
+creating developing introducing 
+
+given gave giving 
+chosen chose choosing 
+
+given give gives 
+provided provide provides 
+
+given give giving 
+added add adding 
+
+given give gives 
+carried carry carries 
+
+given held represented 
+gives holds represents 
+
+
+built designed redesigned 
+build design redesign 
+
+written writing writers 
+directed directing directors 
+
+created creation creating 
+established establishment establishing 
+
+created produced reproduced 
+creating producing reproducing 
+
+created developed redeveloped 
+creation development redevelopment 
+
+started stopped restarted 
+start stop restart 
+
+
+make help protect 
+makes helps protects 
+
+found find finds 
+seen see sees 
+
+
+went got gained 
+going getting gaining 
+
+went wanted helped 
+go want help 
+
+created developed discovered 
+creation development discovery 
+
+given give gives 
+sent send sends 
+
+took ended stopped 
+takes ends stops 
+
+
+appeared appearance appearances 
+performed performance performances 
+
+
+expressed expressing expresses 
+pressed pressing presses 
+
+expressed expressions expressionist 
+impressed impressions impressionist 
+
+expressed impressed depressed 
+expressive impressive depressive 
+
+
+identifies specifies classifies 
+identifying specifying classifying 
+
+domination dominate dominating 
+termination terminate terminating 
+
+insult insulting insulted 
+consult consulting consulted 
+
+terminator terminated terminating 
+coordinator coordinated coordinating 
+
+
+
+
+extended extending extensions 
+expanded expanding expansions 
+
+opposition oppose opposes 
+proposition propose proposes 
+
+agree consider disagree 
+agreements considerations disagreements 
+
+produces producing producers 
+creates creating creators 
+
+nomination domination termination 
+nominate dominate terminate 
+
+marked remarked trademarked 
+marks remarks trademarks 
+
+switched switching switches 
+pitched pitching pitches 
+
+disappeared disappear disappearing 
+cleared clear clearing 
+
+disappeared feared cared 
+disappearing fearing caring 
+
+disappeared disappointed embarrassed 
+disappearing disappointing embarrassing 
+
+announced confirmed assumed 
+announcing confirming assuming 
+
+decided convinced begged 
+deciding convincing begging 
+
+pushed knocked mocked 
+pushing knocking mocking 
+
+obtained maintained retained 
+obtaining maintaining retaining 
+
+watching viewing reviewing 
+watched viewed reviewed 
+
+crashed wrecked sucked 
+crashing wrecking sucking 
+
+kidnapped kidnapping kidnaps 
+rescued rescuing rescues 
+
+trapped sucked plucked 
+trapping sucking plucking 
+
+dominated dominate dominating 
+terminated terminate terminating 
+
+switched punched smashed 
+switching punching smashing 
+
+dressed kissed cheated 
+dressing kissing cheating 
+
+throwing punching attaching 
+throws punches attaches 
+
+concluded conclusion concluding 
+excluded exclusion excluding 
+
+backing picking clicking 
+backed picked clicked 
+
+washed rushed smashed 
+washing rushing smashing 
+
+initiated negotiated pledged 
+initiation negotiation pledge 
+
+poured squeezed sucked 
+pouring squeezing sucking 
+
+stabbed dragged tagged 
+stabbing dragging tagging 
+
+wrapped rubbed squeezed 
+wrapping rubbing squeezing 
+
+dragged grabbed rubbed 
+dragging grabbing rubbing 
+
+betrayed disguised tricked 
+betrays disguises tricks 
+
+washed rushed smashed 
+washing rushing smashing 
+
+picked sucked plucked 
+picking sucking plucking 
+
+picked mocked clicked 
+picking mocking clicking 
+
+picked packed lacked 
+picking packing lacking 
+
+picked backed tracked 
+picking backing tracking 
+
+picked sacked stacked 
+picks sacks stacks 
+
+
+

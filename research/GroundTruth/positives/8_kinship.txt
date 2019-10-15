@@ -1,0 +1,72 @@
+father mother mother's 
+grandfather grandmother grandmother's 
+
+father mother brother 
+fathers mothers brothers 
+
+father mother brother 
+father-in-law mother-in-law brother-in-law 
+
+father son daughter 
+grandfather grandson granddaughter 
+
+son daughters daughter's 
+brother sisters sister's 
+
+mother daughter parents 
+grandmother granddaughter grandparents 
+
+mother mother's mother-in-law 
+daughter daughter's daughter-in-law 
+
+man men man's woman women
+boy boys boy's girl girls
+
+
+father mother grandfather 
+father's mother's grandfather's 
+
+father mother mother's 
+son daughter daughter's 
+
+daughter brother sister 
+daughter-in-law brother-in-law sister-in-law 
+
+father grandfather great-grandfather 
+son grandson great-grandson 
+
+father father's fathers 
+uncle uncle's uncles 
+
+father grandmother mother-in-law 
+son granddaughter daughter-in-law 
+
+father brother grandmother 
+father's brother's grandmother's 
+
+son daughter sons 
+grandson granddaughter grandsons 
+
+son daughter daughters 
+brother sister sisters 
+
+mother mothers mother-in-law 
+sister sisters sister-in-law 
+
+daughter daughter's daughter-in-law 
+sister sister's sister-in-law 
+
+brother brothers brother-in-law 
+sister sisters sister-in-law 
+
+brothers brother's brother-in-law 
+fathers father's father-in-law 
+
+brothers brother's brother-in-law 
+mothers mother's mother-in-law 
+
+brothers half-brother brother's 
+sisters half-sister sister's 
+
+children child parents 
+grandchildren grandchild grandparents 

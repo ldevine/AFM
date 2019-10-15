@@ -1,0 +1,10027 @@
+
+
+#----------
+# sport
+#----------
+
+football hockey basketball 
+nfl nhl nba 
+
+toronto montreal vancouver 
+leafs canadiens canucks 
+
+baltimore houston miami 
+orioles astros marlins 
+
+
+
+#------------------
+# intensity
+#------------------
+
+some often difficult 
+all always impossible 
+
+never always universally 
+rarely usually generally 
+
+
+#------------------
+# adj adv
+#------------------
+
+massive progressive successive 
+massively progressively successively 
+
+
+#--------------
+# counties
+#--------------
+
+derby nottingham northampton bedford gloucester hereford leicester
+derbyshire nottinghamshire northamptonshire bedfordshire gloucestershire herefordshire leicestershire
+
+
+
+# Others
+
+
+given give giving 
+chosen choose choosing 
+
+given give gives 
+applied apply applies 
+
+given gives giving 
+chosen chooses choosing 
+
+played competed wrestled 
+plays competes wrestles 
+
+british german italian 
+britain's germany's italy's 
+
+government parliament congress 
+government's parliament's congress's 
+
+announced stated concluded 
+announcement statement conclusion 
+
+italian austrian austro-hungarian 
+italy austria austria-hungary 
+
+imported exported smuggled 
+importing exporting smuggling 
+
+imported transported smuggled 
+importing transporting smuggling 
+
+molecules photons bosons 
+molecule photon boson 
+
+particles molecules substances 
+particle molecule substance 
+
+flying traveling travelling 
+flew traveled travelled 
+
+flying travelling sailing 
+flew travelled sailed 
+
+slow drop throw 
+slows drops throws 
+
+resigned succeeded abdicated 
+resign succeed abdicate 
+
+persian turkish arabic 
+persians turks arabs 
+
+muslims islam quran 
+christians christianity bible 
+
+strong weak healthy 
+stronger weaker healthier 
+
+visit explore colonize 
+visited explored colonized 
+
+mathematics psychology phonology 
+mathematicians psychologists linguists 
+
+wave photon boson 
+waves photons bosons 
+
+temperature temperatures hotter 
+speed speeds faster 
+
+easy safe healthy 
+easier safer healthier 
+
+learn understand communicate 
+learning understanding communication 
+
+learn understand solve 
+teaches understands solves 
+
+learn develop improve 
+learning developing improving 
+
+learn solve identify 
+learning solving identifying 
+
+guitar bass guitarist 
+guitars basses guitarists 
+
+prince princes principality 
+duke dukes duchy 
+
+prince archduke infante 
+princess archduchess infanta 
+
+miles millimeters litres 
+mile centimeter liter 
+
+destroyed damaged hurt 
+destruction damage harm 
+
+destroyed burned knocked 
+destroying burning knocking 
+
+material substance solvent 
+materials substances solvents 
+
+fought attacked invaded 
+fighting attacking invading 
+
+ran stood sat 
+running standing sitting 
+
+ran threw blew 
+runs throws blows 
+
+moving rotate vibrate 
+motion rotation vibration 
+
+eat eaten fed 
+consume consumed supplied 
+
+eat digest consume 
+eaten digested consumed 
+
+orchestra symphony oratorio 
+orchestras symphonies oratorios 
+
+orchestra quartet violinist 
+orchestras quartets violinists 
+
+orchestra choir oratorio 
+orchestras choirs oratorios 
+
+orchestra oratorio fugue 
+orchestras oratorios fugues 
+
+temperature altitude depth 
+temperatures altitudes depths 
+
+temperature speed distance 
+temperatures speeds distances 
+
+car driving drove 
+motorcycle riding rode 
+
+development develop develops 
+exploration explore explores 
+
+stop withdraw cancel 
+stopped withdrew cancelled 
+
+win score finish 
+winning scoring finishing 
+
+know realize worry 
+knows realizes worries 
+
+km m kg 
+kilometres meters kilograms 
+
+development develop developing 
+production produce producing 
+
+added add adding 
+combined combine combining 
+
+cancer tumor clot 
+cancers tumors clots 
+
+roman greek egyptian 
+rome greece egypt 
+
+worked travelled sailed 
+working travelling sailing 
+
+killed destroyed burned 
+killing destroying burning 
+
+killed hurt injured 
+killing hurting injuring 
+
+thought felt hated 
+thinks feels hates 
+
+put removed closed 
+puts removes closes 
+
+formed joined signed 
+forming joining signing 
+
+received awarded receive 
+gave given give 
+
+thought thinking thinks 
+felt feeling feels 
+
+use add convert 
+using adding converting 
+
+use require involve 
+uses requires involves 
+
+use allow let 
+using allowing letting 
+
+use refer involve 
+uses refers involves 
+
+won win winning 
+scored score scoring 
+
+won win winning 
+qualified qualify qualifying 
+
+french prussian austro-hungarian 
+france prussia austria-hungary 
+
+won win wins 
+voted vote votes 
+
+won win winning 
+achieved achieve achieving 
+
+won earned achieved 
+winning earning achieving 
+
+won lost gained 
+winning losing gaining
+
+left returned travelled 
+leaving returning travelling 
+
+left arrived travelled 
+leaving arriving travelling 
+
+president presidential presidency 
+governor gubernatorial governorship 
+
+president justice judge 
+presidents justices judges 
+
+said say saying 
+felt feel feeling 
+
+played play playing 
+danced dance dancing 
+
+played performed conducted 
+playing performing conducting 
+
+played performed conducted 
+play perform conduct 
+
+played sang danced 
+playing singing dancing 
+
+world japan china 
+world's japan's china's 
+
+world country china 
+world's country's china's 
+
+world uk britain 
+world's uk's britain's 
+
+she selena lennon 
+her selena's lennon's 
+
+made making makes 
+broken breaking breaks 
+
+made added placed 
+making adding placing 
+
+made turned thrown 
+making turning throwing 
+
+made done happened 
+making doing happening 
+
+more much amount 
+faster fast speed 
+
+people someone anyone 
+things something anything 
+
+written mentioned explained 
+writes mentions explains 
+
+given gave giving 
+awarded received receiving 
+
+lap touchdown shutout 
+laps touchdowns shutouts 
+
+planet galaxy comet 
+planets galaxies comets 
+
+physics biology microbiology 
+bohr crick pasteur 
+
+astronomers astronomer herschel 
+physicists physicist bohr 
+
+won lost defeated 
+winning losing defeating 
+
+used applied demonstrated 
+use apply demonstrate 
+
+used added converted 
+uses adds converts 
+
+president presidency presidents 
+governor governorship governors 
+
+you somebody heshe 
+your someone's hisher 
+
+what things thing 
+how ways way 
+
+left joined signed 
+leaving joining signing 
+
+province municipality comune 
+provinces municipalities comuni 
+
+any anyone anywhere 
+always everyone everywhere 
+
+
+moved moving moves 
+traveled travelling travels 
+
+take send gather 
+taken sent gathered 
+
+story stories writers 
+poem poems poets 
+
+joined joining withdrew 
+signed signing expired 
+
+africa african africans 
+korea korean koreans 
+
+performed concert concerts 
+exhibited exhibition exhibitions 
+
+reached gained obtained 
+reaching gaining obtaining 
+
+car drivers driving 
+bicycle cyclists riding 
+
+helped tried attempted 
+helping trying attempting 
+
+think know believe 
+thinking knowing believing 
+
+think thinking thinks 
+feel feeling feels 
+
+my your one's 
+myself yourself oneself 
+
+reason purpose context 
+reasons purposes contexts 
+
+ship ships sailors 
+boat boats fishermen 
+
+travel visit arrive 
+travelled visited arrived 
+
+learn realize forget 
+learned realized forgot 
+
+break push breathe 
+breaks pushes breathes 
+
+pulled pushed blown 
+pulling pushing blowing 
+
+pulled chased stabbed 
+pulls chases stabs 
+
+throw knock sneak 
+throws knocks sneaks 
+
+asteroid comet meteor 
+asteroids comets meteors 
+
+sank washed drowned 
+sink wash drown 
+
+say think believe 
+saying thinking believing 
+
+program project redevelopment 
+programs projects developments 
+
+car driver drivers 
+motorcycle cyclist cyclists 
+
+think feel worry 
+thinks feels worries 
+
+told knew cared 
+telling knowing caring 
+
+discovered discovery discoveries 
+invented invention inventions 
+
+board committee agency 
+boards committees agencies 
+
+singing sang singers 
+dancing danced dancers 
+
+lies lie lying 
+sits sit sitting 
+
+occur occurs occurred 
+undergo undergoes undergone 
+
+shark sharks basking 
+whale whales baleen 
+
+invasion siege bombing 
+invaded besieged bombed 
+
+hindu buddhist jain 
+hinduism buddhism jainism 
+
+hindu buddhist jain 
+hindus buddhists jains 
+
+murdered raped abused 
+murdering raping abusing 
+
+travelled toured exhibited 
+trips tours exhibitions 
+
+dialect accent consonant 
+dialects accents consonants 
+
+tomb shrine basilica 
+tombs shrines basilicas 
+
+observations hypotheses theorems 
+astronomers physicists mathematicians 
+
+
+received gained achieved 
+receiving gaining achieving 
+
+car driving drove 
+bicycle riding rode 
+
+my your our 
+myself yourself ourselves 
+
+emperor ruler caliph 
+emperors rulers caliphs 
+
+density altitude depth 
+densities altitudes depths 
+
+bush reagan obama 
+bush's reagan's obama's 
+
+
+
+arrived sailed sank 
+arrival voyage sinking 
+
+invasion conquest revolt 
+invaded conquered revolted 
+
+nucleus photon detector 
+nuclei photons detectors 
+
+
+vladimir boris mikhail 
+putin yeltsin gorbachev 
+
+threw chased stabbed 
+throws chases stabs 
+
+verb syllable consonant 
+verbs syllables consonants 
+
+
+particles photons wavelengths 
+particle photon wavelength 
+
+
+learn understand interpret 
+learnt understood interpreted 
+
+
+need want agree 
+needed wanted agreed 
+
+hard fast loud 
+harder faster louder 
+
+throw thrown threw 
+blow blown blew 
+
+skating gymnastics weightlifting 
+skater gymnast weightlifter 
+
+
+
+
+lights lighter lightly 
+tights tighter tightly 
+
+thrown throwing throws 
+blown blowing blows 
+
+intended tended pretended 
+intends tends pretends 
+
+stored processed accessed 
+storing processing accessing 
+
+stored restored repaired 
+storing restoring repairing 
+
+consider considers considerations 
+recommend recommends recommendations 
+
+neighborhood neighborhoods neighbor 
+neighbourhood neighbourhoods neighbour 
+
+determine identify examine 
+determination identification examination 
+
+chloride chlorine hydrochloric 
+fluoride fluorine hydrofluoric 
+
+documents comments tweets 
+documented commented tweeted 
+
+civilization civilizations industrialization 
+civilisation civilisations industrialisation 
+
+colored colorful coloration 
+coloured colourful colouration 
+
+
+expansion expands expansions 
+extension extends extensions 
+
+
+
+keeping keeps keeper 
+sleeping sleeps sleeper 
+
+
+
+occasionally additionally exceptionally 
+occasions additions exceptions 
+
+progressive progressively progresses 
+successive successively successes 
+
+purchased purchase purchasing 
+leased lease leasing 
+
+accurate reliable liable 
+accuracy reliability liability 
+
+
+
+
+eliminated eliminate eliminating 
+dominated dominate dominating 
+
+buddhism hinduism jainism 
+buddhists hindus jains 
+
+watching catching pitching 
+watches catches pitches 
+
+watching watched watches 
+hatching hatched hatches 
+
+rebuilt repaired reconstructed 
+rebuilding repairing reconstruction 
+
+sending tending lending 
+sender tender lender 
+
+spending staying arriving 
+spends stays arrives 
+
+hypothesis hypotheses hypothetical 
+synthesis syntheses synthetic 
+
+astronomers astronomer observatories 
+physicists physicist laboratories 
+
+consisted consistent consistency 
+persisted persistent persistence 
+
+lighter brighter hotter 
+lightest brightest hottest 
+
+liberation cooperation negotiation 
+liberated cooperated negotiated 
+
+
+
+realized generalized capitalized 
+realization generalization capitalization 
+
+counted mounted amounted 
+counts mounts amounts 
+
+emotional emotions emotion 
+sensational sensations sensation 
+
+photographer photographic photographers 
+geographer geographic geographers 
+
+photographer printmaker engraver 
+photography printmaking engraving 
+
+cameron murphy griffiths 
+cameron's murphy's griffith's 
+
+baptist preacher clergyman 
+baptists preachers clergy 
+
+arrives flees stabs 
+arriving fleeing stabbing 
+
+sicily malta corsica 
+sicilian maltese corsican 
+
+hormones ketones carbocations 
+hormone ketone carbocation 
+
+emotions perceptions receptions 
+emotion perception reception 
+
+autobiography autobiographical autobiographies 
+biography biographical biographies 
+
+claws toes ankles 
+claw toe ankle 
+
+generator accelerator neutrino 
+generators accelerators neutrinos 
+
+philanthropist entrepreneur lobbyist financier
+philanthropy entrepreneurship lobbying financing 
+
+worcester hereford hertford northampton berwick leicester nottingham buckingham
+worcestershire herefordshire hertfordshire northamptonshire berwickshire leicestershire nottinghamshire buckinghamshire
+
+
+
+slavs ukrainians hungarians 
+slavonic ukrainian hungarian 
+
+bushrangers robbers gangsters brackets packets sockets fortifications specifications indications modifications certifications
+bushranger robber gangster bracket packet socket fortification specification indication modification certification 
+
+transistors loudspeakers breakers 
+transistor loudspeaker breaker 
+
+wildcats badgers wolverines 
+wildcat badger wolverine 
+
+simulation simulate simulated 
+manipulation manipulate manipulated 
+
+urged discouraged outraged 
+urge discourage outrage 
+
+pressures presses progresses 
+pressured pressed progressed 
+
+uzbekistan turkmenistan baltistan 
+uzbek turkmen balti 
+
+economically chemically biologically 
+economists chemists biologists 
+
+detected corrected dissected 
+detection correction dissection 
+
+martinez martinique martini 
+dominguez dominique domini 
+
+pushing rushing wishing 
+pushes rushes wishes 
+
+conclusion concludes concluding 
+exclusion excludes excluding 
+
+tracking cracking locking 
+tracker cracker locker 
+
+tends tender tended 
+blends blender blended 
+
+flavor flavors savory 
+flavour flavours savoury 
+
+carnivorous carnivores carnivore 
+herbivorous herbivores herbivore 
+
+clarinet clarinets clarinetist 
+trumpet trumpets trumpeter 
+violin violins violinist
+cello cellos cellist
+
+
+examination qualification certification 
+examinations qualifications certifications 
+
+bedford gloucester berwick 
+bedfordshire gloucestershire berwickshire 
+
+grams kilograms centimetres 
+gram kilogram centimetre 
+
+detected detector detectors 
+projected projector projectors 
+
+achieved obtained retained 
+achieving obtaining retaining 
+
+detective detection detecting 
+investigative investigation investigating 
+
+quantity commodity transaction 
+quantities commodities transactions 
+
+christina cristina martina 
+christi cristi marti 
+
+explore explored exploration 
+colonize colonized colonization 
+
+sells seller sellers 
+buys buyer buyers 
+
+controller peripheral router 
+controllers peripherals routers 
+
+migration colonization emigration 
+migrate colonize emigrate 
+
+communism fascism nazism 
+communists fascists nazis 
+
+mw.ustring.gsub mw.ustring.match mw.ustring.find 
+string.gsub string.match string.find 
+
+formal informal colloquial 
+formally informally colloquially 
+
+representing presenting implementing 
+representation presentation implementation 
+
+presidency presided presiding 
+residency resided residing 
+
+graduate undergraduate doctorate 
+graduates undergraduates doctorates 
+
+emergency disaster explosion earthquake evacuation
+emergencies disasters explosions earthquakes evacuations
+
+sure safe suitable 
+unsure unsafe unsuitable 
+
+increased improved improvised 
+increase improve improvise 
+
+murder murdered murderers 
+kidnapping kidnapped kidnappers 
+
+murder rape robbery 
+murdered raped robbed 
+
+brazil brazilian brazil's 
+argentina argentine argentina's 
+
+instruments flutes clarinets trombones oboes constructions renovations developments mornings fridays thursdays
+instrument flute clarinet trombone oboe construction renovation redevelopment morning friday thursday
+
+singing sing singers 
+performing perform performers 
+
+learned trained recruited 
+learning training recruitment 
+
+engineering engineer engineers 
+astronautical astronaut astronauts 
+
+destroyed captured retreated 
+destroying capturing retreating 
+
+southeast southwest northeast 
+south-southeast south-southwest north-northeast 
+
+southeast southwest south-west 
+northeast northwest north-west 
+
+southeast south-east south-western 
+northeast north-east north-western 
+
+brothers sisters daughters 
+brother's sister's daughter's 
+
+cultural cultures culturally 
+economical economies economically 
+
+attacked attacker attackers 
+hacked hacker hackers 
+
+attacked defended offended 
+attackers defenders offenders 
+
+learn teach educate 
+learning teaching educating 
+
+historical archaeological geological 
+historian archaeologist geologist 
+
+historical historian histories 
+biographical biographer biographies 
+
+historical historian historians 
+economical economist economists 
+
+workers worker workmen 
+firefighters firefighter firemen 
+
+nhl nba nfl 
+nhl's nba's nfl's 
+
+dutch frisian tunisian 
+netherlands frisia tunisia 
+
+committee commission recommendation 
+committees commissions recommendations 
+
+jewish israeli palestinian 
+jews israelis palestinians 
+
+turned turns turning 
+burned burns burning 
+
+addition additional additions 
+exception exceptional exceptions 
+
+present presented presentation 
+represent represented representation 
+
+festival parade carnival bird hummingbird heron 
+festivals parades carnivals birds hummingbirds herons
+
+prince princes prince's 
+duke dukes duke's 
+
+brown gray grey 
+brown's gray's grey's 
+
+production introduction adoption 
+producing introducing adopting 
+
+production produces producing 
+reduction reduces reducing 
+
+biggest closest farthest 
+bigger closer farther 
+
+reached reach reaching 
+achieved achieve achieving 
+
+believed believe beliefs 
+relieved relieve reliefs 
+
+believed explained complained 
+believing explaining complaining 
+
+catholic protestant calvinist 
+catholicism protestantism calvinism 
+
+described inscribed transcribed 
+descriptions inscriptions transcriptions 
+
+discovered explored exploited 
+discovers explores exploits 
+
+artist artists artist's 
+painter painters painting 
+
+independent independence independently 
+separate separatism separately 
+
+spanish mexican mexico's 
+portuguese brazilian brazil's 
+
+spanish mexican chilean 
+spain's mexico's chile's 
+
+writing reading heading 
+writings readings headings 
+
+highest highest-ranking highest-rated 
+longest longest-serving longest-running 
+
+moved moving moves 
+travelled travelling travels 
+
+charles henry jane 
+charles's henry's jane's 
+
+think know learn 
+thinking knowing learning 
+
+think realize realise 
+thinks realizes realises 
+
+father mother daughter 
+father-in-law mother-in-law daughter-in-law 
+
+father mother daughter 
+fathers mothers daughters 
+
+singer singers singer's 
+artist artists artist's 
+
+greek macedonian athenian 
+greece macedonia athens 
+
+green brown yellow 
+greenish brownish yellowish 
+
+daughter granddaughter heiress 
+sons grandsons heirs 
+
+west northwest northeast 
+westwards northwestward northeastward 
+
+sold purchased rented 
+selling purchasing renting 
+
+sold exported smuggled 
+selling exporting smuggling 
+
+joined merged emerged 
+joining merging emerging 
+
+election re-election reelection 
+elected re-elected reelected 
+
+africa african africans 
+asia asian asians 
+
+color coloring coloration 
+colour colouring colouration 
+
+east north-east south-west 
+eastern north-eastern south-western 
+
+king kings king's 
+queen queens queen's 
+
+original previous initial 
+originally previously initially 
+
+started ended finished 
+starts ends finishes 
+
+river basin tributary 
+rivers basins tributaries 
+
+produced producing producers 
+directed directing directors 
+
+played coached poached 
+playing coaching poaching 
+
+james peter andrew 
+james's peter's andrew's 
+
+published publishing publisher 
+illustrated illustrating illustrator 
+
+french german polish 
+french-born german-born polish-born 
+
+french german austrian 
+france's germany's austria's 
+
+french france france's 
+spanish spain spain's 
+
+million billion thousand 
+millions billions thousands 
+
+region regions region's 
+province provinces province's 
+
+built constructed rebuilt 
+building constructing rebuilding 
+
+created produced distributed 
+creators producers distributors 
+
+story stories story's 
+poem poems poet's 
+
+human humans human's 
+animal animals animal's 
+
+changed changes changing 
+exchanged exchanges exchanging 
+
+changed changes changing 
+ranged ranges ranging 
+
+changed shifted drifted 
+changing shifting drifting 
+
+changed converted reverted 
+changing converting reverting 
+
+formed forming formations 
+transformed transforming transformations 
+
+formed reformed deformed 
+formation reformation deformation 
+
+received gained obtained 
+receiving gaining obtaining 
+
+northern northeast northeastern 
+southern southeast southeastern 
+
+killed raped abused 
+killing raping abusing 
+
+
+# -----------------------
+
+food eaten ate 
+clothing worn wore 
+
+military political religious 
+officers leaders priests 
+
+often usually sometimes 
+frequently typically occasionally 
+
+cambridge oxford leicester pembroke hertford worcester gloucester lancashire cheshire
+cambridgeshire oxfordshire leicestershire pembrokeshire hertfordshire worcestershire gloucestershire lancaster chester
+
+bach beethoven liszt 
+johann ludwig franz 
+
+some often difficult 
+all always impossible 
+
+idea ideas thinking 
+method methods problem-solving 
+
+speed speeds high-speed 
+distance distances long-distance 
+
+
+
+golf golfer pga 
+cycling cyclist uci 
+
+china beijing mao 
+russia moscow lenin 
+
+composer composers debussy 
+painter painters renoir 
+
+composer composers debussy 
+painter painters monet 
+
+
+
+
+killed injured drowned 
+destroyed damaged flooded 
+
+british-american german-american anglo-american 
+british-born german-born english-born 
+
+robert roberto roberta 
+albert alberto alberta 
+
+diana mariana juliana 
+diane marianne julianne 
+
+
+
+
+put putting puts 
+let letting lets 
+
+
+higher heavier taller 
+maximum weight height 
+
+
+
+resigned resignation resign 
+retiring retirement retire 
+
+
+
+went go gone 
+fell fall fallen 
+
+
+
+sell sells merchandise 
+publish publishes paperback 
+
+
+
+
+think tell decide 
+thinks tells decides 
+
+played play players 
+competed compete athletes 
+
+
+
+
+people person person's 
+men man man's 
+
+
+
+
+
+pakistan afghanistan ethiopia 
+islamabad kabul addis 
+
+iran lebanon ethiopia 
+tehran beirut addis 
+
+east southwest north-east 
+eastern southwestern south-eastern 
+
+culture cultural cultures 
+religion religious religions 
+
+uk ireland britain 
+uk's ireland's britain's 
+
+sent thrown knocked 
+send throw knock 
+
+developed develop develops 
+grown grow grows 
+
+austria poland austria-hungary 
+austrian polish austro-hungarian 
+
+shows describes defines 
+shown described defined 
+
+political leaders meetings 
+religious priests prayers 
+
+brought spread affected 
+brings spreads affects 
+
+art literature philosophy 
+artists writers philosophers 
+
+christian christianity christians 
+catholic catholicism catholics 
+
+
+
+board committee commission 
+boards committees commissions 
+
+turned dropped thrown 
+turn drop throw 
+
+
+
+take taken takes 
+save saved saves 
+
+take send deliver 
+taken sent delivered 
+
+take hold occupy 
+taken held occupied 
+
+killed caught thrown 
+kills catches throws 
+
+killed destroyed removed 
+killing destroying removing 
+
+formed discovered explored 
+formation discovery exploration 
+
+south north southeast
+africa america asia
+
+see tell remember 
+sees tells remembers 
+
+see know agree 
+sees knows agrees 
+
+see explain interpret 
+seen explained interpreted 
+
+see keep remove 
+seen kept removed 
+
+attack invasion annexation 
+attacked invaded annexed 
+
+attack fight conquer 
+attacked fought conquered 
+
+see explain interpret 
+seen explained interpreted 
+
+see keep remove 
+seen kept removed 
+
+singer singing sang 
+rapper rapping rapped 
+
+studied taught learned 
+study teach learn 
+
+km distance farther 
+kmh speed faster 
+
+going moving pushed 
+goes moves pushes 
+
+replaced succeeded abdicated 
+replace succeed abdicate 
+
+mexico cuba rico 
+mexican cuban rican 
+
+italian portuguese maltese 
+italy portugal malta 
+
+give receive gain 
+gives receives gains 
+
+development expansion strengthening 
+develop expand strengthen 
+
+
+
+creating providing promoting 
+creates provides promotes 
+
+
+
+acting singing dancing 
+actors singers dancers 
+
+acting performing dancing 
+acted performed danced 
+
+hold holds holding 
+hang hangs hanging 
+
+sport skiing gymnastics 
+sportsman skier gymnast 
+
+
+
+
+
+understand develop survive 
+understanding development survival 
+
+
+
+use do want 
+uses does wants 
+
+use produce develop 
+uses produces develops 
+
+use change move 
+using changing moving 
+
+british irish norwegian 
+britain ireland norway 
+
+british japanese russian 
+britain japan russia 
+
+
+
+
+state country germany 
+state's country's germany's 
+
+
+
+american australian scottish 
+america australia scotland 
+
+american african korean 
+america africa korea 
+
+world country france 
+world's country's france's 
+
+people person person's 
+children child child's 
+
+
+
+bombing destroying capturing 
+bombed destroyed captured 
+
+attractions attract attractive 
+interactions interact interactive 
+
+rape torture suspect 
+raped tortured suspected 
+
+
+german spanish turkish 
+germans spaniards turks 
+
+
+trapped crushed rushed 
+trap crush rush 
+
+predicted predict prediction 
+calculated calculate calculation 
+
+predicted approached slowed 
+predict approach slow 
+
+surprise realize convince 
+surprised realized convinced 
+
+lithuania estonia catalonia 
+lithuanian estonian catalan 
+
+
+
+shipping sailing arriving 
+shipped sailed arrived 
+
+updated documented commented 
+update document comment 
+
+collecting collector collective 
+protecting protector protective 
+
+kick jumps throws 
+kicked jumped threw 
+
+
+
+wishes refuses promises 
+wished refused promised 
+
+wishes chooses refuses 
+wished chose refused 
+
+wishes hopes promises 
+wished hoped promised 
+
+touches throws blows 
+touched thrown blown 
+
+jumps pulls blows touches wishes
+jumped pulled blown touched wished 
+
+examination demonstration integration 
+examined demonstrated integrated 
+
+deletion documentation quotation 
+deleted documented quoted 
+
+
+
+quoted commented interviewed documented
+quote comment interview document
+
+catalan colombian venezuelan 
+catalonia colombia venezuela 
+
+
+
+made making maker 
+produced producing producer 
+
+city cities city's 
+town towns town's 
+
+make makes maker 
+produce produces producer 
+
+make maker makers 
+produce producer producers 
+
+university professor graduated 
+universities professors graduates 
+
+
+
+
+
+
+
+
+
+began beginning begin 
+continued continuing continue 
+
+population density km2 
+circulation intensity kmh 
+
+member members membership 
+leader leaders leadership 
+
+party conservative nationalist 
+parties conservatives nationalists 
+
+band guitarist drummer 
+bands guitars drums 
+
+popular favorite favourite 
+unpopular favor favour 
+
+created formed merged 
+create form merge 
+
+province provinces provincial 
+municipality municipalities municipal 
+
+things objects items 
+something object item 
+
+father mother parents 
+grandfather grandmother grandparents 
+
+following followed follows 
+allowing allowed allows 
+
+making maker makers 
+producing producer producers 
+
+published edited illustrated 
+publisher editor illustrator 
+
+makes maker makers 
+produces producer producers 
+
+gave give gives 
+gained gain gains 
+
+
+
+
+
+produced producer producers 
+directed director directors 
+
+attack attacked attacking 
+invade invaded invading 
+
+race races raced 
+trace traces traced 
+
+director directed directing 
+producer produced producing 
+
+
+
+developed developers developer 
+designed designers designer 
+
+color colors colored 
+colour colours coloured 
+
+cause happen occur 
+causing happening occurring 
+
+teams clubs leagues 
+team's club's league's 
+
+performed performances performers 
+danced dances dancers 
+
+reached reach reaches 
+peaked peak peaks 
+
+reached reaching reaches 
+approached approaching approaches 
+
+helped asked chose 
+helping asking choosing 
+
+writing drawing printing 
+writings drawings prints 
+
+ended ends ending 
+lasted lasts lasting 
+
+months month monthly 
+weeks week weekly 
+
+disease illness stroke 
+diseases illnesses strokes 
+
+think know tell 
+thinks knows tells 
+
+decided refused convinced 
+decides refuses convince 
+
+russian turkish armenian 
+russians turks armenians 
+
+russian persian turkish 
+russians persians turks 
+
+win earn qualify 
+winning earning qualifying 
+
+win beat defeat 
+winning beating defeating 
+
+nhl bruins flyers 
+nba celtics 76ers 
+
+retired retirement retire 
+resigned resignation resign 
+
+destroyed attacked invaded 
+destroying attacking invading 
+
+
+
+help manage hire 
+helps manages hires 
+
+help allow rely 
+helps allows relies 
+
+help want ask 
+helps wants asks 
+
+german japanese korean 
+germany's japan's korea's 
+
+department agency commission 
+departments agencies commissions 
+
+worked stayed stood 
+working staying standing 
+
+killed hurt abused 
+killing hurting abusing 
+
+women woman woman's 
+girls girl girl's 
+
+songs singing sing 
+compositions composing compose 
+
+death marriage abdication 
+die marry abdicate 
+
+japanese filipino singaporean 
+japan philippines singapore 
+
+joined replaced removed 
+joining replacing removing 
+
+contains belongs shares 
+contain belong share 
+
+elected appointed chosen 
+elect appoint choose 
+
+writing literature writers 
+teaching education teachers 
+
+religious cultural linguistic 
+religion culture language 
+
+fought attacked landed 
+battles attacks landings 
+
+
+
+passed pushed thrown 
+pass push throw 
+
+bangladesh afghanistan myanmar 
+dhaka kabul yangon 
+
+mosque shrine basilica 
+mosques shrines basilicas 
+
+crash explosion eruption 
+crashed exploded erupted 
+
+understand define classify 
+understood defined classified 
+
+perform performing performs 
+conduct conducting conducts 
+
+stand standing stood 
+walk walking walked 
+
+conductor conducting conductors 
+performer performing performers 
+
+confirmed determined calculated 
+confirm determine calculate 
+
+settlement mining trading 
+settlers miners traders 
+
+settled settlers settle 
+explored explorers explore 
+
+particles electrons molecules 
+particle electron molecule 
+
+escape catch bite 
+escaped caught bitten 
+
+literature journalism psychiatry 
+writers journalists psychiatrists 
+
+defined measured calculated 
+define measure calculate 
+
+jump jumping jumper 
+climb climbing climber 
+
+ride rider riders 
+climb climber climbers 
+
+stay swim breathe 
+stays swims breathes 
+
+learn teach preach 
+learning teaching preaching 
+
+learn communicate interact 
+learning communication interaction 
+
+learn develop promote 
+learning developing promoting 
+
+poet architect economist 
+literature architecture economics 
+
+fall drop blow 
+fell dropped blew 
+
+see remember enjoy 
+seen remembered enjoyed 
+
+see detect observe 
+seen detected observed 
+
+see identify classify 
+seen identified classified 
+
+see sees seeing 
+feel feels feeling 
+
+see discover explore 
+seen discovered explored 
+
+put putting puts 
+removed removing removes 
+
+put placed thrown 
+putting placing throwing 
+
+put brought forced 
+putting bringing forcing 
+
+put kept stored 
+putting keeping storing 
+
+changed turned thrown 
+change turn throw 
+
+received attended conducted 
+receive attend conduct 
+
+destroyed saved stolen 
+destroy save steal 
+
+simple easy cheap 
+complicated difficult expensive 
+
+see look behave 
+sees looks behaves 
+
+farming farmers farms 
+mining miners mines 
+
+lost lose losing 
+gained gain gaining 
+
+books poems texts 
+writers poets scholars 
+
+political economic cultural 
+politics economy culture 
+
+political economic cultural 
+politically economically culturally 
+
+animals animal animal's 
+dogs dog dog's 
+
+china indonesia myanmar 
+chinese indonesian burmese 
+
+length centimetres centimeter 
+height feet foot 
+
+control conquer colonize 
+controlled conquered colonized 
+
+start starting starts 
+stop stopping stops 
+
+produced distributed transmitted 
+production distribution transmission 
+
+shows describes represents 
+shown described represented 
+
+sold bought rented 
+selling buying renting 
+
+greek persian arabic 
+greeks persians arabs 
+
+sold owned controlled 
+sells owns controls 
+
+sent brought grew 
+sending bringing growing 
+
+sent taken thrown 
+sending taking throwing 
+
+developed established governed 
+development establishment governance 
+
+developed development develop 
+evolved evolution evolve 
+
+run break blow 
+ran broke blew 
+
+council committee commission 
+councils committees commissions 
+
+road roads vehicles 
+railway railways locomotives 
+
+social sociology sociologist 
+economic economics economist 
+
+strong hard soft 
+stronger harder softer 
+
+close closer closest 
+far farther farthest 
+
+car driver drivers 
+bike rider riders 
+
+size length distance 
+sizes lengths distances 
+
+writing learning understanding 
+write learn understand 
+
+divided separated combined 
+divides separates combines 
+
+democratic republican conservative 
+democrats republicans conservatives 
+
+eat feed graze 
+eating feeding grazing 
+
+thick narrow shallow 
+thicker narrower shallower 
+
+caught thrown washed 
+catch throw wash 
+
+hunting farming mining 
+hunted farmed mined 
+
+country china korea 
+country's china's korea's 
+
+country china korea 
+continent asia africa 
+
+country australia canada 
+country's australia's canada's 
+
+germany russia finland 
+germans russians finns 
+
+power influence controversy 
+powerful influential controversial 
+
+given kept protected 
+gives keeps protects 
+
+moved traveled flew 
+moving traveling flying 
+
+moved transferred switched 
+moving transferring switching 
+
+german germans hitler 
+italian italians mussolini 
+
+took threw blew 
+taken thrown blown 
+
+good safe healthy high wide thick 
+better safer healthier higher wider thicker 
+
+form create produce 
+forming creating producing 
+
+france kingdom britain 
+france's kingdom's britain's 
+
+went travelled sailed toured
+going travelling sailing touring
+
+written writing write 
+translated translating translate 
+
+means refers involves 
+mean refer involve 
+
+means happens occurs 
+mean happen occur 
+
+means represents implies 
+mean represent imply 
+
+live lived lives 
+eat ate eats 
+
+live speak sing 
+lives speaks sings 
+
+travel travelled travels 
+meet met meets 
+
+italian russian finnish 
+italians russians finns 
+
+level height depth 
+higher taller deeper 
+
+italy milan teatro 
+russia moscow bolshoi 
+
+writing learning solving 
+write learn solve
+
+stop stopped stopping 
+remove removed removing 
+
+
+
+italian russian finnish 
+italians russians finns 
+
+protect remove hide 
+defend withdraw flee 
+
+level height depth 
+higher taller deeper 
+
+norway bulgaria lithuania 
+oslo bucharest vilnius 
+
+
+
+jewish armenian ukrainian 
+jews armenians ukrainians 
+
+egypt iran arabia 
+cairo tehran riyadh 
+
+
+
+
+
+chosen recognized identified 
+choose recognize identify 
+
+performed perform performing 
+conducted conduct conducting 
+
+performed composed sung 
+perform compose sing 
+
+
+
+appointed chosen offered 
+appoint choose offer 
+
+temperature speed brightness 
+hotter faster brighter 
+
+pollination fertilisation dispersal 
+pollinated fertilised dispersed 
+
+korea korean koreans 
+philippines philippine filipinos 
+
+football sport cricket 
+footballer sportsman cricketer 
+
+son brother prince king duke 
+daughter sister princess queen duchess
+
+got saw happened 
+getting seeing happening 
+
+take taken taking 
+carry carried carrying 
+
+take taken taking 
+steal stolen stealing 
+
+take lose gain 
+takes loses gains 
+
+take find prove 
+taken found proven 
+
+take throw push 
+taken thrown pushed 
+
+built building build 
+installed installation install 
+
+india indian india's 
+africa african africa's 
+
+help hire invite 
+helped hired invited 
+
+help teach attend 
+helps teaches attends 
+
+help bring save 
+helps brings saves 
+
+is has shows 
+was had showed 
+
+is exists requires 
+are exist require 
+
+was became served 
+being becoming serving 
+
+york philadelphia houston 
+mets phillies astros 
+
+persian turkish norwegian 
+baghdad istanbul oslo 
+
+diego seattle cincinnati 
+chargers seahawks bengals 
+
+baltimore seattle denver 
+ravens seahawks broncos
+
+baltimore miami jacksonville 
+ravens dolphins jaguars 
+
+paris moscow madrid 
+ligue cska atletico 
+
+los boston philadelphia 
+lakers celtics 76ers 
+
+composer composers mozart 
+poet poets metastasio 
+
+composer composers scarlatti 
+painter painters titian 
+
+boston vancouver buffalo 
+bruins canucks sabres 
+
+boston philadelphia atlanta 
+bruins flyers thrashers 
+
+soviet russian moscow 
+czechoslovakia czech prague 
+
+music musician musicians 
+dance dancer dancers 
+
+is was being 
+takes took taking 
+
+ohio georgia wisconsin 
+cleveland atlanta milwaukee 
+
+ohio maryland kentucky 
+cleveland baltimore louisville 
+
+pennsylvania michigan oregon 
+philadelphia detroit portland 
+
+pennsylvania ohio indiana 
+pittsburgh cincinnati indianapolis 
+
+performed performing performances 
+recorded recording recordings 
+
+chicago toronto calgary 
+illinois ontario alberta 
+
+australia australian australia's 
+ireland irish ireland's 
+
+is does tells 
+are do tell 
+
+is was been 
+goes went gone 
+
+made make making 
+formed form forming 
+
+made make making 
+changed change changing 
+
+american mexican brazilian 
+english spanish portuguese 
+
+movie movies actor 
+song songs singer 
+
+use give ask 
+uses gives asks 
+
+started ended resulted 
+start end result 
+
+said told warned 
+say tell warn 
+
+british dutch austrian 
+britain netherlands austria 
+
+british scottish danish 
+britain scotland denmark 
+
+british indian pakistani 
+english hindi urdu 
+
+british canadian swedish 
+britain canada sweden 
+
+british french german 
+britain france germany 
+
+government military political 
+officials officers politicians 
+
+lived worked tried 
+living working trying 
+
+written writing write 
+performed performing perform 
+
+written writing write 
+sung singing sing 
+
+built build construction 
+developed develop development 
+
+england london thames 
+ireland dublin liffey 
+
+get see know 
+got saw knew 
+
+england scotland norway 
+london glasgow oslo 
+
+given give gives 
+kept keep keeps 
+
+took taken takes 
+saw seen sees 
+
+created founded established 
+creation founding establishment 
+
+created developed expanded 
+create develop expand 
+
+created produced designed 
+creating producing designing 
+
+created introduced invented 
+creation introduction invention 
+
+given give gives 
+allowed allow allows 
+
+football baseball basketball 
+nfl mlb nba 
+
+go see know 
+goes sees knows 
+
+sent taken placed 
+sending taking placing 
+
+developed established governed 
+develop establish govern 
+
+developed established adopted 
+development establishment adoption 
+
+served worked acted 
+serving working acting 
+
+california massachusetts ohio 
+angeles boston cincinnati 
+
+help keep hold 
+helps keeps holds 
+
+help provide serve 
+helps provides serves 
+
+worked helped brought 
+working helping bringing 
+
+got gave gained 
+gets gives gains 
+
+australia africa asia 
+australian african asian 
+
+take taken taking 
+collect collected collecting 
+
+india pakistan iran 
+delhi lahore tehran 
+
+take see say 
+takes sees says 
+
+god bible christianity 
+allah qur islam 
+
+india africa asia 
+indian african asian 
+
+japan philippines malaysia 
+tokyo manila lumpur 
+
+see find learn 
+sees finds learns 
+
+see give want 
+sees gives wants 
+
+singer composer poet 
+pop music poetry 
+
+developed discovered invented 
+development discovery invention 
+
+writing teaching promoting 
+writes teaches promotes 
+
+writing teaching learning 
+write teach learn 
+
+social economic cultural 
+socially economically culturally 
+
+florida pennsylvania massachusetts 
+miami philadelphia boston 
+
+florida maryland indiana 
+tampa baltimore indianapolis 
+
+florida illinois ohio 
+tampa chicago cincinnati 
+
+florida georgia michigan 
+tampa atlanta detroit 
+
+texas maryland louisiana 
+houston baltimore orleans 
+
+texas georgia kentucky 
+houston atlanta louisville 
+
+orchestra piano violin 
+conductor pianist violinist 
+
+jewish muslim hindu 
+jews muslims hindus 
+
+conditions diseases infections 
+condition disease infection
+
+poet painter photographer 
+poems paintings photos 
+
+bible christianity christians 
+upanishads hinduism hindus 
+
+bible churches christians 
+torah synagogues jews 
+
+wrestler wrestled wrestles 
+athlete competed competes 
+
+small large smaller 
+simple complex simpler 
+
+river valley peninsula 
+rivers valleys peninsulas 
+
+do tell learn 
+did told learned 
+
+use try decide 
+uses tries decides 
+
+made produced developed 
+make produce develop 
+
+used done performed 
+use do perform 
+
+be become lose 
+being becoming losing 
+
+was became entered 
+being becoming entering 
+
+was became remained 
+be become remain 
+
+is contains exists 
+are contain exist 
+
+be have shave 
+being having shaving 
+
+be have make 
+being having making 
+
+joke laugh shout 
+joked laughed shouted 
+
+socialism racism romanticism 
+socially racially romantically 
+
+permitted prohibited violated 
+permitting prohibiting violating 
+
+loaded downloaded packaged 
+loading downloading packaging 
+
+loaded logged rigged 
+loading logging rigging 
+
+decreased slowed drifted 
+decreasing slowing drifting 
+
+demonstration illustration outline 
+demonstrations illustrations outlines 
+
+healing appealing denying 
+healed appealed denied 
+
+eminem rihanna coldplay 
+eminem's rihanna's coldplay's 
+
+eminem beyonce aaliyah 
+eminem's beyonce's aaliyah's 
+
+cipher peripheral sensor 
+ciphers peripherals sensors 
+
+sonata cantata madrigal 
+sonatas cantatas madrigals 
+
+lifted jumped rapped 
+lifts jumps raps 
+
+tenor soloist oboe 
+tenors soloists oboes 
+
+grapes grasses mosses 
+grape grass moss 
+
+catching rushing flashing 
+catches rushes flashes 
+
+wrapped typed clicked 
+wrapping typing clicking 
+
+rotating twisting attaching 
+rotated twisted attached 
+
+warships cruisers harbors 
+warship cruiser harbor 
+
+tracking packing rigging 
+tracked packed rigged 
+
+tracking lacking mocking 
+tracked lacked mocked 
+
+tracking mapping rapping 
+tracked mapped rapped 
+
+demonstrations investigations prosecutions 
+demonstrators investigators prosecutors 
+
+sandwich biscuit chocolat 
+sandwiches biscuits chocolates 
+
+centimeters lbs ounces 
+centimetre lb ounce 
+
+acceleration ionization condensation 
+accelerated ionized condensed 
+
+feminism fascism nazism 
+feminists fascists nazis 
+
+feminism creationism impressionism 
+feminists creationists impressionists 
+
+crushed cracked rubbed 
+crushing cracking rubbing 
+
+usher beyonce rihanna 
+usher's beyonce's rihanna's 
+
+compromise repeal violate 
+compromised repealed violated 
+
+compromise guarantee impose 
+compromised guaranteed imposed 
+
+
+
+
+deleted tagged reloaded 
+deleting tagging reloading 
+
+agreements proposals resolutions 
+agreeing proposing resolving 
+
+resurrection crucifixion consecration 
+resurrected crucified consecrated 
+
+
+
+blessed kissed cheated 
+blessing kissing cheating 
+
+astronaut meteorologist statistician 
+astronautical meteorological statistical 
+
+expressions reflections selections 
+expressive reflective selective 
+
+complained commented tweeted 
+complaints comments tweets 
+
+impressive recessive oppressive 
+impression recession oppression 
+
+eurasia polynesia frisia 
+eurasian polynesian frisian 
+
+considering defining resolving 
+considerations definitions resolutions 
+
+evacuated sheltered lodged 
+evacuations shelters lodges 
+
+congregation mormon sermon 
+congregations mormons sermons 
+
+pedal octave oboe 
+pedals octaves oboes 
+
+kicked mocked plucked 
+kicking mocking plucking 
+
+toilet blanket paddle 
+toilets blankets paddles 
+
+discussions propositions considerations 
+discussing proposing considering 
+
+investors investigators supervisors 
+invested investigated supervised 
+
+packed stacked stunned 
+packs stacks stunts 
+
+packed cracked smoked 
+packers crackers smokers 
+
+packed cracked plucked 
+packing cracking plucking 
+
+cartridge mortar musket 
+cartridges mortars muskets 
+
+erupted exploded collided 
+erupt explode collide 
+
+interrupted interrogated intercepted 
+interruption interrogation interception 
+
+illustrations depictions engravings 
+illustrating depicting engraving 
+
+audition auditioned auditions 
+petition petitioned petitions 
+
+audition ambition temptation 
+auditions ambitions temptations 
+
+avoided relied insured 
+avoidance reliance insurance 
+
+bulldogs bisons wolverines 
+bulldog bison wolverine 
+
+kurdish albanian balkan 
+kurds albanians balkans 
+
+implies replies recalls 
+implied replied recalled 
+
+impulse pulse vibrate 
+impulses pulses vibrates 
+
+viper cobra zebra 
+vipers cobras zebras 
+
+examined researched surveyed 
+examining researching surveying 
+
+examined outlined patterned 
+examines outlines patterns 
+
+pressing dressing expressing 
+presses dresses expresses 
+
+employers providers suppliers 
+employing providing supplying 
+
+venetian tuscan burgundian 
+veneto tuscany burgundy 
+
+recruited pursued disappointed 
+recruiting pursuing disappointing 
+
+constructors instructors projectors 
+constructions instructions projections 
+
+struggled pursued disappointed 
+struggling pursuing disappointing 
+
+indicating indication indications 
+suggesting suggestion suggestions 
+
+compensation taxation extortion 
+sensation relaxation distortion 
+
+specialised specializing specialise 
+supervised supervising supervise 
+
+colonization modernization consolidation 
+colonized modernized consolidated 
+
+violation violating violates 
+prohibition prohibiting prohibits 
+
+kicks swings bounces 
+kicking swinging bouncing 
+
+heel ankle ligament 
+heels ankles ligaments 
+
+acceptance rejection affection 
+accepting rejecting affecting 
+
+seizures headaches migraines 
+seizure headache migraine 
+
+prohibited prohibits prohibiting 
+enforced enforce enforcing 
+
+conditioning positioning mentioning 
+conditional positional intentional 
+
+evaporation dehydration saturation 
+evaporates dehydrated saturated 
+
+executions executives supervisors 
+executioner executive supervisor 
+
+lacked cracked wrecked 
+lacking cracking wrecking 
+
+zoology chronology neurology 
+zoological chronological neurological 
+
+chimpanzees capuchins pheasants 
+chimpanzee capuchin pheasant 
+
+initiated accredited instituted 
+initiation accreditation institution 
+
+passive expressive depressive 
+passions expressions depressions 
+
+frisian bohemian latvian 
+frisia bohemia latvia 
+
+surveys surveyor surveyed 
+examines examiner examined 
+
+mariner miner landowner 
+mariners miners landowners 
+
+drill grill glaze 
+drilled grilled glazed 
+
+stack unlock swap 
+stacked unlocked swapped 
+
+fermentation distillation distortion 
+fermented distilled distorted 
+
+researched instituted constituted 
+researches institutes constitutes 
+
+transistors transistor kv 
+loudspeakers loudspeaker hz 
+
+martyr bless confess 
+martyred blessed confessed 
+
+memorable honourable favourable 
+commemorated honoured favoured 
+
+pressures presses compressors 
+pressured pressed compressed 
+
+logging noting deleting 
+logged notified deleted 
+
+cried kissed rapped 
+cries kisses raps 
+
+adjusted contrasted tasted 
+adjusting contrasting tasting 
+
+modernized emphasized symbolized 
+modernism emphasis symbolism 
+
+biochemist neurologist statistician 
+biochemical neurological statistical 
+
+fermented soaked stirred 
+ferment soak stir 
+
+humanist zionist fundamentalist 
+humanism zionism fundamental 
+
+accumulators calculators exponents 
+accumulation calculation exponentiation 
+
+exceeding doubling totaling 
+exceeded doubled totaled 
+
+unsure unfortunate inaccurate 
+surely fortunately accurately 
+
+plucked pluck plucking 
+bowed bow bowing 
+
+decaying decays decayed 
+emitting emits emitted 
+
+arbitrary evaluate validate 
+arbitration evaluation validation 
+
+laughing disgusting blaming 
+laughed disgusted blamed 
+
+begging urging admitting 
+begged urged admitted 
+
+confront confrontation confronts 
+confess confession confesses 
+
+unpredictable unreliable unreasonable 
+predictable reliable reasonable 
+
+filtering scattering colliding 
+filtered scattered collided 
+
+disposal dispersal arousal 
+disposed dispersed aroused 
+
+rapping tapping flapping 
+raps taps flaps 
+
+rapping raping robbing 
+rapped raped robbed 
+
+knocking leaping flapping 
+knocks leaps flaps 
+
+wrapping tapping punching 
+wraps taps punches 
+
+wolverine marlin grizzly 
+wolverines marlins grizzlies 
+
+realism anarchism evangelism 
+realist anarchist evangelist 
+
+sensation motivation computation 
+sensational motivational computational 
+
+modification fortification renovation 
+modifications fortifications renovations 
+
+swelling vomiting clotting 
+swell vomit clot 
+
+tender pretender offender 
+tended pretended offended 
+
+assyrian babylonian mayan 
+assyria babylonia maya 
+
+preceded preceding precedence 
+proceeded proceeding proceedings 
+
+morality morally immoral 
+mortality mortally immortal 
+
+disguise disguised disguises 
+pretend pretended pretends 
+
+canadian-american german-american anglo-american 
+canadian-born german-born english-born 
+
+dragged sucked snapped 
+dragging sucking snap 
+
+pumps cools condenses 
+pumped cooled condensed 
+
+pancakes cheeses biscuits 
+pancake cheese biscuit 
+
+chewing rubbing piercing 
+chewed rubbed pierced 
+
+negotiated consulted publicized 
+negotiation consultation publication 
+
+floats wrecks shipwrecks 
+floated wrecked shipwrecked 
+
+phoenician sumerian mesoamerican 
+phoenicians sumerians mesoamerica 
+
+clicking plucking punching 
+clicked plucked punched 
+
+modernized consolidated redeveloped 
+modernization consolidation redevelopment 
+
+baptism martyrdom consecration 
+baptised martyred consecrated 
+
+kristen kris kristina 
+christensen chris christina 
+
+swinging stinging ringing 
+swings stings rings 
+
+surveyed mapped logged 
+surveying mapping logging 
+
+stimulation stimulate stimulating 
+penetration penetrate penetrating 
+
+emphasized emphasize emphasizes 
+outlined outline outlines 
+
+amplifiers allophones semitones 
+amplifier allophone semitone 
+
+forge urge outrage 
+forged urged outraged 
+
+astrology chronology morphology 
+astrological chronological morphological 
+
+british-american italian-american anglo-american 
+british-born italian-born english-born 
+
+grasshoppers woodpeckers slippers 
+grasshopper woodpecker slipper 
+
+charming harming behaving 
+charmed harmed behaved 
+
+specification indication carbocation 
+specifications indications carbocations 
+
+stall stain glaze 
+stalled stained glazed 
+
+smuggling fleeing freeing 
+smuggled fled freed 
+
+accumulators calculators insulators 
+accumulation calculation insulation 
+
+starving starved starve 
+staring stared stare 
+
+hijackers hackers checkers 
+hijacked hacked checked 
+
+scrapped rapped tapped 
+scraped raped taped 
+
+skepticism mysticism classicism 
+skeptical mystical classical 
+
+can need want 
+could needed wanted 
+
+their your our 
+theirs yours ours 
+
+became become becoming 
+emerged emerge emerging 
+
+part portion proportion 
+parts portions proportions 
+
+three seven nine 
+twenty-three twenty-seven twenty-nine 
+
+three twenty-three thirty-three 
+four twenty-four thirty-four 
+
+south south-central south-southwest 
+north north-central north-northwest 
+
+south southwest southwards 
+north northwest northwards 
+
+south southern southerners 
+north northern northerners 
+
+national nations nation's 
+organizational organizations organization's 
+
+released release releasing 
+leased lease leasing 
+
+area areas area's 
+region regions region's 
+
+university universities university's 
+college colleges college's 
+
+university universities university's 
+institute institutes institute's 
+
+won earned gained 
+wins earns gains 
+
+album albums album's 
+song songs song's 
+
+through passes passing 
+across crosses crossing 
+
+river tributary estuary 
+rivers tributaries estuaries 
+
+said told talked 
+says tells talks 
+
+said believed claimed 
+saying believing claiming 
+
+said suggested concluded 
+sayings suggestions conclusions 
+
+british britain britain's 
+scottish scotland scotland's 
+
+school schools school's 
+teacher teachers teacher's 
+
+school schools school's 
+college colleges college's 
+
+important importance importantly 
+significant significance significantly 
+
+important importance importantly 
+prominent prominence prominently 
+
+west south-west west-central 
+east south-east east-central 
+
+west southwest north-west 
+east southeast north-east 
+
+get getting gotten 
+go going gone 
+
+king queen majesty 
+king's queen's majesty's 
+
+famous prominent predominant 
+famously prominently predominantly 
+
+country count account 
+countries counts accounts 
+
+band beatles lennon 
+band's beatles's lennon's 
+
+countries nations unions 
+country's nation's union's 
+
+book books book's 
+poem poems poet's 
+
+house household family's 
+houses households families 
+
+popular popularity unpopular 
+successful success unsuccessful 
+
+include includes inclusive 
+exclude excludes exclusive 
+
+include includes inclusion 
+conclude concludes conclusion 
+
+million millions millionaire 
+billion billions billionaire 
+
+general generator capacitor 
+generals generators capacitors 
+
+lived survived revived 
+living surviving reviving 
+
+become come welcome 
+becoming coming welcoming 
+
+become come welcome 
+becomes comes welcomes 
+
+company companies company's 
+corporation corporations corporation's 
+
+moved moves mover 
+traveled travels traveler 
+
+moved turned burned 
+moving turning burning 
+
+german germany germany's 
+swiss switzerland switzerland's 
+
+german polish turkish 
+germany's poland's turkey's 
+
+white whites white's 
+black blacks black's 
+
+award awards award-winning 
+prize prizes prize-winning 
+
+go come welcome 
+goes comes welcomes 
+
+go take stake 
+goes takes stakes 
+
+germany germans germany's 
+austria austrians austria's 
+
+father grandfather stepfather 
+mother grandmother stepmother 
+
+father fathers godfather 
+mother mothers godmother 
+
+father mother sister 
+father-in-law mother-in-law sister-in-law 
+
+father mother grandmother 
+son daughter granddaughter 
+
+central western eastern 
+north-central north-western north-eastern 
+
+australia australian australia's 
+victoria victorian victoria's 
+
+australia australasia polynesia 
+australian australasian polynesian 
+
+australia tasmania caledonia 
+australian tasmanian caledonian 
+
+western westerly westerners 
+northern northerly northerners 
+
+minister ministers ministries 
+administer administers administrations 
+
+0.0 0.00 0.0000 
+00.0 00.00 00.0000 
+
+europe asia indonesia 
+europe's asia's indonesia's 
+
+killed killing killer 
+murdered murdering murderer 
+
+killed injured drowned 
+killing injuring drowning 
+
+killed murdered kidnapped 
+killers murderers kidnappers 
+
+published publisher publishers 
+printed printer printers 
+
+published publisher publishers 
+edited editor editors 
+
+published publishing publish 
+printed printing print 
+
+published publication publications 
+illustrated illustration illustrations 
+
+light lighter lightest 
+bright brighter brightest 
+
+light lightly lightness 
+bright brightly brightness 
+
+similar assimilated manipulated 
+similarity assimilation manipulation 
+
+changed hanged ranged 
+changing hanging ranging 
+
+formed reformed revived 
+forming reforming reviving 
+
+formed merged emerged 
+forming merging emerging 
+
+formed performed danced 
+forming performing dancing 
+
+received perceived conceived 
+reception perception conception 
+
+received earned learned 
+receiving earning learning 
+
+received gained retained 
+receives gains retains 
+
+center centers centered 
+centre centres centred 
+
+center centers centered 
+enter enters entered 
+
+see find reveal 
+sees finds reveals 
+
+military militaries military's 
+naval navies navy's 
+
+six sixteen sixty 
+seven seventeen seventy 
+
+change changes changing 
+exchange exchanges exchanging 
+
+political politics politically 
+economical economics economically 
+
+politician politicians politically 
+economist economists economically 
+
+lost defeated defended 
+losing defeating defending 
+
+animals birds snakes 
+animal's bird's snake's 
+
+mother mother's mothers 
+sister sister's sisters 
+
+produced production productive 
+reproduced reproduction reproductive 
+
+produced production producing 
+introduced introduction introducing 
+
+comes welcomes incomes 
+coming welcoming incoming 
+
+caused cause causing 
+affected affect affecting 
+
+caused cause causing 
+resulted result resulting 
+
+wanted want wants 
+liked like likes 
+
+wanted promised demanded 
+wants promises demands 
+
+wanted convinced begged 
+wanting convincing begging 
+
+attack attacking attackers 
+invade invading invaders 
+
+royal royalty royalist 
+loyal loyalty loyalist 
+
+included includes inclusion 
+excluded excludes exclusion 
+
+done performed toured 
+doing performing touring 
+
+places placed placing 
+replaces replaced replacing 
+
+awards rewards regards 
+awarded rewarded regarded 
+
+director directors directions 
+projector projectors projections 
+
+director directors directions 
+sector sectors sections 
+
+appeared appear appearance 
+disappeared disappear disappearance 
+
+sold purchased leased 
+sell purchase lease 
+
+
+
+
+
+developed development innovation 
+redeveloped redevelopment renovation 
+
+located relocated renovated 
+location relocation renovation 
+
+considered consider considering 
+referred refer referring 
+
+considered considering considers 
+regarded regarding regards 
+
+hurricane tornado blizzard 
+hurricanes tornadoes blizzards 
+
+election elect electing 
+selection select selecting 
+
+election elected electing 
+vote voted voting 
+
+africa african africa's 
+asia asian asia's 
+
+color colorful coloration 
+colour colourful colouration 
+
+information formation deformation 
+informed formed deformed 
+
+elected selected reflected 
+elections selections reflections 
+
+writer writers writer's 
+author authors author's 
+
+writer writers writer's 
+poet poets poet's 
+
+need needed needs 
+require required requires 
+
+social socialism socially 
+racial racism racially 
+
+governor governors governor's 
+mayor mayors mayor's 
+
+close closer closes 
+lose loser loses 
+
+performed performer performers 
+danced dancer dancers 
+
+reached reaching reaches 
+peaked peaking peaks 
+
+reached approached poached 
+reaching approaching poaching 
+
+female females female's 
+male males male's 
+
+spanish portuguese maltese 
+spain portugal malta 
+
+helped encouraged begged 
+helping encouraging begging 
+
+students student student's 
+teachers teacher teacher's 
+
+students schools universities 
+student's school's university's 
+
+something someone somebody 
+anything anyone anybody 
+
+something anything everything 
+somewhere anywhere everywhere 
+
+position positions posing 
+proposition propositions proposing 
+
+charles charlotte charlie 
+charles's charlotte's charlie's 
+
+think thinks thoughts 
+feel feels feelings 
+
+think thinking thinks 
+know knowing knows 
+
+think thinking thinks 
+realize realizing realizes 
+
+think believe agree 
+thinking believing agreeing 
+
+decided agreed promised 
+deciding agreeing promising 
+
+decided convinced warned 
+decides convinces warns 
+
+decided refused promised 
+decides refuses promises 
+
+opened opens open-mid 
+closed closes close-mid 
+
+possible accessible sensible 
+possibility accessibility sensibility 
+
+lower lowest lowered 
+slower slowest slowed 
+
+russian russia russians 
+ukrainian ukraine ukrainians 
+
+smaller fewer newer 
+smallest fewest newest 
+
+sports passports imports 
+sport passport import 
+
+want wants wanting 
+let lets letting 
+
+win defeat defend 
+winning defeating defending 
+
+replaced placed displaced 
+replacement placement displacement 
+
+association associations association's 
+organization organizations organization's 
+
+association appreciation initiation 
+associated appreciated initiated 
+
+signed agreed negotiated 
+signing agreeing negotiating 
+
+parents parent parental 
+rents rent rental 
+
+discovered discovery discoveries 
+explored exploration explorations 
+
+discovered explored searched 
+discovering exploring searching 
+
+low slow quick 
+lowest slowest quickest 
+
+believed argued criticised 
+believe argue criticize 
+
+david stephen steven 
+davidson stephenson stevenson 
+
+designed redesigned redeveloped 
+design redesign redevelopment 
+
+education graduation enrollment 
+educated graduated enrolled 
+
+network networks network's 
+channel channels channel's 
+
+catholic catholics catholicism 
+protestant protestants protestantism 
+
+richard richards richard's 
+edward edwards edward's 
+
+musical vocal lyrical 
+musicals vocals lyrics 
+
+fourth fifth eighth 
+fourteenth fifteenth eighteenth 
+
+described describing descriptions 
+explained explaining explanations 
+
+described describing descriptions 
+defined defining definitions 
+
+described describe descriptions 
+prescribed prescribe prescriptions 
+
+described describe describing 
+identified identify identifying 
+
+professor profession professions 
+confessor confession confessions 
+
+mark marked marks 
+remark remarked remarks 
+
+1980s 80s mid-1980s 
+1950s 50s mid-1950s 
+
+appointed advised exercised 
+appoints advises exercises 
+
+piano pianist pianists 
+cello cellist cellists 
+
+physical mechanical optical 
+physics mechanics optics 
+
+training raining draining 
+trained rained drained 
+
+reviews reviewer reviewing 
+views viewer viewing 
+
+reviews review reviewed 
+views view viewed 
+
+structure construct reconstruct 
+structured constructed reconstructed 
+
+egypt egyptian egyptians 
+syria syrian syrians 
+
+heat heated heating 
+cheat cheated cheating 
+
+austria hungary albania 
+austrians hungarians albanians 
+
+depression depressions depressive 
+impression impressions impressive 
+
+depression oppression obsession 
+depressive oppressive obsessive 
+
+depression disturbance thunderstorm 
+depressions disturbances thunderstorms 
+
+market markets marketed 
+price prices priced 
+
+charge charged charges 
+discharge discharged discharges 
+
+remains remained remaining 
+retains retained retaining 
+
+collection collections collecting 
+reflection reflections reflecting 
+
+collection collections collecting 
+selection selections selecting 
+
+note denote footnote 
+notes denotes footnotes 
+
+
+
+brothers brother's brother-in-law 
+sisters sister's sister-in-law 
+
+products exports imports 
+producing exporting importing 
+
+split splits splitting 
+break breaks breaking 
+
+
+
+workers farmers owners 
+worker's farmer's owner's 
+
+view review comment 
+viewing reviewing commenting 
+
+
+
+
+
+conference reference preference 
+conferred referred preferred 
+
+attacks attacked attacker 
+invasions invaded invader 
+
+attacks attacked attacking 
+defenses defended defending 
+
+attacks bombings explosions 
+attacked bombed exploded 
+
+attacked attacker attackers 
+invaded invader invaders 
+
+attacked attacker attackers 
+defended defender defenders 
+
+
+
+
+contract contracts contractor 
+tract tracts tractor 
+
+contract tract extract 
+contraction traction extraction 
+
+positive positively gram-positive 
+negative negatively gram-negative 
+
+
+
+historical historian historians 
+archaeological archaeologist archaeologists 
+
+historical historians historically 
+geographical geographers geographically 
+
+
+
+
+
+break leak sneak 
+breaks leaks sneaks 
+
+
+
+protect protection protecting 
+prevent prevention preventing 
+
+
+
+southeast southeastern east-southeast 
+northwest northwestern west-northwest 
+
+chosen choose chooses 
+selected select selects 
+
+
+
+
+
+
+painting painted paints 
+printing printed prints 
+
+painting drawing illustrating 
+paintings drawings illustrations 
+
+leaders leadership dictatorship 
+readers readership censorship 
+
+entered encountered countered 
+enters encounters counters 
+
+
+
+brazil brazilian brazil's 
+argentina argentinian argentina's 
+
+brazil portugal sicily 
+brazilian portuguese sicilian 
+
+
+
+environment ecosystem ecoregion 
+environments ecosystems ecoregions 
+
+construction constructed constructions 
+instruction instructed instructions 
+
+construction constructors constructor 
+instruction instructors instructor 
+
+referred transferred transformed 
+referring transferring transforming 
+
+completed reconstructed instructed 
+completion reconstruction instruction 
+
+results resulted resulting 
+insults insulted insulting 
+
+planet asteroid steroid 
+planets asteroids steroids 
+
+planet jupiter saturn 
+planet's jupiter's saturn's 
+
+practice practiced practicing 
+practise practised practising 
+
+earned earn earns 
+gained gain gains 
+
+earned gained retained 
+earning gaining retaining 
+
+directly correctly perfectly 
+direction correction perfection 
+
+refers reference referring 
+prefers preference preferring 
+
+generation generated generate 
+regeneration regenerated regenerate 
+
+powers powered powering 
+lowers lowered lowering 
+
+invented experimented analyzed 
+inventing experimenting analyzing 
+
+matches matching matched 
+watches watching watched 
+
+matches catches pitches 
+matching catching pitching 
+
+count counts counting 
+account accounts accounting 
+
+wants asks promises 
+wanting asking promising 
+
+rain rains rained 
+drain drains drained 
+
+opening opens openings 
+ending ends endings 
+
+consists resists twists 
+consisting resisting twisting 
+
+carried transported exported 
+carrying transporting exporting 
+
+operation cooperation negotiation 
+operating cooperating negotiating 
+
+operation cooperation co-operation 
+operative cooperative co-operative 
+
+operation cooperation negotiation 
+operate cooperate negotiate 
+
+operation cooperation negotiation 
+operated cooperated negotiated 
+
+graduated graduate graduating 
+attended attend attending 
+
+thousands hundreds dozens 
+thousand hundred dozen 
+
+recognized recognizes recognizing 
+organized organizes organizing 
+
+paintings sculptures engravings 
+painter sculptor engraver 
+
+ordered attempted convinced 
+ordering attempting convincing 
+
+paid paying payment 
+employed employing employment 
+
+colony colonies colonists 
+settlement settlements settlers 
+
+
+
+
+
+planned planning planners 
+banned banning banners 
+
+
+appearance disappearance clearance 
+appearing disappearing clearing 
+
+
+agreed agree agreements 
+disagreed disagree disagreements 
+
+agreed promised persuaded 
+agrees promises persuades 
+
+agreed promised compromised 
+agreement promise compromise 
+
+agreed negotiated obliged 
+agreements negotiations obligations 
+
+agreed demanded seized 
+agreeing demanding seizing 
+
+
+
+
+
+
+
+engineering engineer engineered 
+pioneering pioneer pioneered 
+
+engineering engineer engineers 
+technical technician technicians 
+
+stated statement statements 
+commented comment comments 
+
+required permitted enforced 
+requiring permitting enforcing 
+
+
+
+provided guided raided 
+providing guiding raiding 
+
+journalist essayist biographer 
+journals essays biographies 
+
+journalist journal journalists 
+reporter report reporters 
+
+defined define defines 
+fined fine fines 
+
+defined defines defining 
+determined determines determining 
+
+colors colorful coloring 
+colours colourful colouring 
+
+accepted prompted proceeded 
+accepting prompting proceeding 
+
+sense senses sensor 
+tense tenses tensor 
+
+bush reagan nixon 
+bush's reagan's nixon's 
+
+administration administrator administer 
+administrations administrators administers 
+
+wrestler wrestlers wrestler's 
+opponent opponents opponent's 
+
+
+
+philosophy philosophers philosophical 
+theology theologians theological 
+
+
+
+
+
+ends sends arrives 
+ending sending arriving 
+
+singapore singapore's singaporean 
+indonesia indonesia's indonesian 
+
+writers readers publishers 
+writings readings publications 
+
+trial prosecution tribunal 
+trials prosecutions tribunals 
+
+trial jury conviction 
+trials juries convictions 
+
+trial criminal prosecutor 
+trials criminals prosecutors 
+
+elections elects electing 
+selections selects selecting 
+
+save restore resume 
+saved restored resumed 
+
+selected selects selections 
+collected collects collections 
+
+industrial economical anatomical 
+industrialist economist anatomist 
+
+defense defence defender 
+defenses defences defenders 
+
+defense defences defenses 
+offense offences offenses 
+
+defense defensive defenders 
+offense offensive offenders 
+
+defense defended defender 
+offense offended offender 
+
+convention conventions conventional 
+intention intentions intentional 
+
+convention invention mention 
+conventions inventions mentions 
+
+gained declined ruined 
+gaining declining ruining 
+
+bishop priest clergyman 
+bishops priests clergy 
+
+presented presenter presenting 
+commented commentator commenting 
+
+block blocks blocking 
+lock locks locking 
+
+block blocked blocker 
+lock locked locker 
+
+grammy nomination nominee 
+grammys nominations nominees 
+
+failed fails failing 
+attempted attempts attempting 
+
+purpose pose expose 
+purposes poses exposes 
+
+
+
+
+
+iran iranian iranians 
+syria syrian syrians 
+
+iran iranian iranians 
+arabia arabian arabs 
+
+comedian cinematographer dramatist 
+comedic cinematic dramatic 
+
+organized organizing organizers 
+organised organising organisers 
+
+mexican mexicans mexico's 
+brazilian brazilians brazil's 
+
+buy buying buyer 
+sell selling seller 
+
+edge wedge hedge 
+edges wedges hedges 
+
+element complement supplement 
+elementary complementary supplementary 
+
+floor door indoor 
+floors doors indoors 
+
+wear swear shave 
+wearing swearing shaving 
+
+accident disaster evacuation 
+accidents disasters evacuations 
+
+stand standing stands 
+sit sitting sits 
+
+particles neutrons photons 
+particle neutron photon 
+
+particles protons bosons 
+particle proton boson 
+
+useful reliable readable 
+usefulness reliability readability 
+
+painted sculpted arched 
+painter sculptor archer 
+
+tail neck shoulder 
+tails necks shoulders 
+
+reagan ronald reagan's 
+trump donald trump's 
+
+reagan obama candidacy 
+reagan's obama's party's 
+
+reagan roosevelt fitzgerald 
+reagan's roosevelt's fitzgerald's 
+
+functions sanctions petitions 
+functioned sanctioned petitioned 
+
+functions fractions proportions 
+functional fractional proportional 
+
+mathematics mathematician euler 
+astrophysics astrophysicist kepler 
+
+applied supplied relied 
+applying supplying relying 
+
+conservative conservation conserve 
+preservative preservation preserve 
+
+depending depended dependency 
+tending tended tendency 
+
+affected affects affection 
+infected infects infection 
+
+egyptian egyptians egypt's 
+iranian iranians iran's 
+
+liberal unionist loyalist 
+liberals unionists loyalists 
+
+teaching teachers teaches 
+learning learners learns 
+
+proposed proposal propose 
+approved approval approve 
+
+proposed proposition proponents 
+opposed opposition opponents 
+
+proposed suggested debated 
+propose suggestion debate 
+
+proposed suggested discussed 
+proposals suggestions discussions 
+
+proposed discussed debated 
+proposes discusses debates 
+
+
+
+discovery discover discovering 
+exploration explore exploring 
+
+surrounded surrounding surrounds 
+rounded rounding rounds 
+
+surrounded bounded grounded 
+surrounds bounds grounds 
+
+rise rising risen 
+arise arising arisen 
+
+settled emigrated immigrated 
+settler emigrant immigrant 
+
+settled emigrated immigrated 
+settlers emigrants immigrants 
+
+alternative progressive aggressive 
+alternatively progressively aggressively 
+
+anne catherine josephine 
+anne's catherine's joseph's 
+
+strength strengthened strengthen 
+intensity intensified intensify 
+
+atoms isotopes carbocations 
+atom isotope carbocation 
+
+warm warmer warmed 
+cool cooler cooled 
+
+federation federated federative 
+cooperation cooperated cooperative 
+
+federation co-operation consultation 
+federative co-operative consultative 
+
+federation liberation affiliation 
+federated liberated affiliated 
+
+tracks tracked tracker 
+cracks cracked cracker 
+
+classes clashes washes 
+classed clashed washed 
+
+bangladesh bengal sindh 
+bangla bengali sindhi 
+
+operations operated operative 
+federations federated federative 
+
+norway scandinavia frisia 
+norwegian scandinavian frisian 
+
+afghanistan afghan afghanistan's 
+iraq iraqi iraq's 
+
+visited travelled traveled 
+visitors travellers travelers 
+
+formation reformation transformation 
+forming reforming transforming 
+
+formation deposition proposition 
+formations prepositions propositions 
+
+
+
+performing performances performers 
+dancing dances dancers 
+
+suggested suggestions suggestion 
+concluded conclusions conclusion 
+
+suggested suggestions suggesting 
+indicated indications indicating 
+
+suggested speculated manipulated 
+suggestion speculation manipulation 
+
+suggested discussed questioned 
+suggestion discussion question 
+
+suggested explained questioned 
+suggestions explanations questions 
+
+suggested tested experimented 
+suggesting testing experimenting 
+
+inspired inspiration inspiring 
+imitated imitation imitating 
+
+inspired encouraged convinced 
+inspiring encouraging convincing 
+
+expected expect expects 
+experienced experience experiences 
+
+argentina colombia bolivia 
+argentinian colombian bolivian 
+
+argentina chile peru 
+argentinian chilean peruvian 
+
+argentina ecuador guatemala 
+argentinian ecuadorian guatemalan 
+
+guitarist keyboardist trumpeter 
+guitars keyboards trumpets 
+
+kennedy f. kennedy's 
+roosevelt d. roosevelt's 
+
+cambridge oxford hereford 
+cambridgeshire oxfordshire herefordshire 
+
+response trigger sensor 
+responses triggers sensors 
+
+translated translation translations 
+transcribed transcription transcriptions 
+
+fishing catching pitching 
+fisher catcher pitcher 
+
+personality personally personalities 
+nationality nationally nationalities 
+
+novels dramas comedies 
+novelist dramatist comedian 
+
+question questions questioning 
+answer answers answering 
+
+question questions questioning 
+debate debates debating 
+
+question answer guess 
+questioned answered guessed 
+
+question debate dispute 
+questioned debated disputed 
+
+refused persuaded urged 
+refuse persuade urge 
+
+refused promised convinced 
+refuse promise convince 
+
+refused invited convinced 
+refuses invites convinces 
+
+selling sells sellers 
+buying buys buyers 
+
+selling smuggling supplying 
+sellers dealers suppliers 
+
+selling purchasing borrowing 
+sells purchases borrows 
+
+persian persia persians 
+iranian iran iranians 
+
+persian persia persians 
+arabian arabia arabs 
+
+persian persia persians 
+syrian syria syrians 
+
+persian assyrian akkadian 
+persia assyria akkad 
+
+persian turkish kurdish 
+persians turks kurds 
+
+offered offering promising 
+differed differing arising 
+
+selena gaga beyonce 
+selena's gaga's beyonce's 
+
+watch watches watchmen 
+catch catches catchment 
+
+address addresses addressed 
+dress dresses dressed 
+
+supporting reporting investigating 
+supporters reporters investigators 
+
+reading readers reader 
+heading headers header 
+
+reading readers reader 
+listening listeners listener 
+
+boat boats boating 
+boa boasts surfing 
+
+boat sail lifeboat 
+boats sails lifeboats 
+
+boat crew screw 
+boats crews screws 
+
+pairs paired pairing 
+repairs repaired repairing 
+
+distribution distributor distributors 
+contribution contributor contributors 
+
+altitude latitude attitude 
+altitudes latitudes attitudes 
+
+genetic genetics geneticist 
+biological biology biologist 
+
+donald trump nixon 
+donald's trump's nixon's 
+
+printed printing prints 
+engraved engraving engravings 
+
+printed printing printer 
+illustrated illustrating illustrator 
+
+galaxy cluster spiral 
+galaxies clusters spirals 
+
+occupied invaded fled 
+occupying invading fleeing 
+
+mentioned questioned debated 
+mentioning questioning debating 
+
+caught thrown knocked 
+catching throwing knocking 
+
+economics ecology zoology 
+economical ecological zoological 
+
+dropped dropping droppings 
+topped topping toppings 
+
+fired hired recruited 
+firing hiring recruiting 
+
+measured calculated computed 
+measurements calculations computations 
+
+advanced improved improvised 
+advancement improvement improvisation 
+
+earthquake tornado typhoon 
+earthquakes tornadoes typhoons 
+
+turkish iranian albanian 
+turks iranians albanians 
+
+turkish armenian ukrainian 
+turks armenians ukrainians 
+
+additional additionally additions 
+exceptional exceptionally exceptions 
+
+additional optional intentional 
+additionally optionally intentionally 
+
+row arrow sparrow 
+rows arrows sparrows 
+
+organizations organisations federations 
+reorganization reorganisation confederation 
+
+organizations organize organizers 
+organisations organise organisers 
+
+organizations institutions constitutions 
+organizational institutional constitutional 
+
+structures constructions renovations 
+structured constructed renovated 
+
+filled fills fillings 
+billed bills billings 
+
+filled filling fills 
+drilled drilling drills 
+
+missing kissing embarrassing 
+missed kissed embarrassed 
+
+missing kissing possessing 
+misses kisses possesses 
+
+holiday friday tuesday 
+holidays fridays tuesdays 
+
+holiday sunday monday 
+holidays sundays mondays 
+
+sisters sister's sister-in-law 
+daughters daughter's daughter-in-law 
+
+hawaii alaska siberia 
+hawaiian alaskan siberian 
+
+extended extension extensions 
+expanded expansion expansions 
+
+extended intended pretended 
+extending intending pretending 
+
+reserve reserved reservation 
+conserve conserved conservation 
+
+necessary sufficient reasonable 
+necessarily sufficiently reasonably 
+
+necessary reasonable adequate 
+unnecessary unreasonable inadequate 
+
+represents representation representations 
+presents presentation presentations 
+
+cricket ticket wicket 
+crickets tickets wickets 
+
+inches centimetres litres 
+inch centimetre litre 
+
+hunting haunting renting 
+hunted haunted rented 
+
+lose losing loses 
+gain gaining gains 
+
+dancing balancing bouncing 
+dances balances bounces 
+
+dedicated donated renovated 
+dedication donation renovation 
+
+dedicated excommunicated communicated 
+dedication excommunication communication 
+
+arabic arabia arabs 
+turkic turkey turks 
+
+talking talks talked 
+walking walks walked 
+
+talking telling crying 
+talked told cried 
+
+solution solutions solving 
+resolution resolutions resolving 
+
+defence defenceman defences 
+fence fencer fences 
+
+revealed reveals revealing 
+healed heals healing 
+
+emergency evacuation renovation 
+emergencies evacuations renovations 
+
+emergency ambulance firefighter 
+emergencies ambulances firefighters 
+
+questions answers guesses 
+questioned answered guessed 
+
+questions explanations predictions 
+questioning explaining predicting 
+
+questions discussions conclusions 
+questioned discussed concluded 
+
+holding holder holders 
+folding folder folders 
+
+definition definitions defining 
+explanation explanations explaining 
+
+zero integer exponent 
+zeroes integers exponents 
+
+nomination nominations nominate 
+denomination denominations denominator 
+
+classification classifications classifying 
+modification modifications modifying 
+
+classification specification duplication 
+classifications specifications implications 
+
+classification qualification certification 
+classifications qualifications certifications 
+
+finding discovering experimenting 
+findings discoveries experiments 
+
+tests experiments researches 
+tested experimented researched 
+
+kilometres kilometers kilometer 
+millimetres millimeters millimeter 
+
+kilometres kilometers kilometre 
+centimetres centimeters centimetre 
+
+marked marking mark's 
+parked parking park's 
+
+twenty twenty-two twenty-six 
+thirty thirty-two thirty-six 
+
+twenty twenty-five twenty-three 
+thirty thirty-five thirty-three 
+
+signal signalling signalled 
+transmit transmitting transmitted 
+
+relations revelations notions 
+relation revelation notion 
+
+selection selecting selections 
+reflection reflecting reflections 
+
+socialist socialism socialite 
+marxist marxism marx 
+
+opposition proposition rejection 
+opposing proposing rejecting 
+
+reality realistic realism 
+nationality nationalistic nationalism 
+
+biology zoology topology 
+biological zoological topological 
+
+biology epidemiology pharmacology 
+biological epidemiological pharmaceutical 
+
+birthday friday thursday 
+birthdays fridays thursdays 
+
+plastic fabric ceramic 
+plastics fabrics ceramics 
+
+romania romanian romanians 
+armenia armenian armenians 
+
+identified identify identification 
+verified verify verification 
+
+divisions provisions constitutions 
+divisional provisional constitutional 
+
+hindu hindus hinduism 
+buddhist buddhists buddhism 
+
+gardens gardener gardeners 
+planted planter planters 
+
+spirit sacrifice sacrament 
+spirits sacrifices sacraments 
+
+descent descended descending 
+ascent ascended ascending 
+
+descent immigrant migrant 
+descended immigrated migrated 
+
+celebrated celebration celebrating 
+commemorated commemoration commemorating 
+
+fleet flee recapture 
+fleets flees captures 
+
+subjects rejects respects 
+subjected rejected respected 
+
+rangers bushrangers robbers 
+ranger bushranger robber 
+
+rangers dangers strangers 
+ranger danger stranger 
+
+neck elbow heel 
+necks elbows heels 
+
+neck toe claw 
+necks toes claws 
+
+committed accused abused 
+committing accusing abusing 
+
+committed murdered kidnapped 
+committing murdering kidnapping 
+
+committed admitted permitted 
+committing admitting permitting 
+
+dream dreams dreaming 
+scream screams screaming 
+
+classified modified specified 
+classifying modifying specifying 
+
+classified modified specified 
+classifications modifications specifications 
+
+roll rolls rolled 
+troll trolls patrolled 
+
+battles battling battled 
+raids raiding raided 
+
+impact affect infect 
+impacts affects infects 
+
+farming warming harming 
+farmed warmed harmed 
+
+farming harvesting consuming 
+farmed harvested consumed 
+
+faith doctrine congregation 
+faiths doctrines congregations 
+
+armenian armenia armenians 
+serbian serbia serbs 
+
+armenian armenia armenians 
+croatian croatia croats 
+
+armenian armenia armenians 
+hungarian hungary hungarians 
+
+armenian macedonian caledonian 
+armenia macedonia caledonia 
+
+explorer explore exploration 
+navigator navigate navigation 
+
+explorer explored exploring 
+surveyor surveyed surveying 
+
+residents presidents mayors 
+residential presidential mayoral 
+
+father's mother's sister's 
+father-in-law mother-in-law sister-in-law 
+
+father's brother's daughter's 
+father-in-law brother-in-law daughter-in-law 
+
+gain gaining gains 
+retain retaining retains 
+
+belief atheism anarchism 
+believers atheists anarchists 
+
+horror zombie ghoul 
+horrors zombies ghouls 
+
+
+
+interview interviews interviewed 
+comment comments commented 
+
+
+
+meter kilometer centimeter 
+metre kilometre centimetre 
+
+
+
+phrase noun morpheme 
+phrases nouns morphemes 
+
+mathematical mathematicians mathematically 
+theoretical theorists theoretically 
+
+walking hiking surfing 
+walkers hikers surfers 
+
+walking jumping pumping 
+walked jumped pumped 
+
+executed prosecuted offended 
+executioner prosecutor offender 
+
+executed persecuted circumcised 
+execution persecution circumcision 
+
+executed shouted begged 
+executing shouting begging 
+
+animation cartoon muppet 
+animations cartoons muppets 
+
+angle angles angular 
+triangle triangles triangular 
+
+angle angles angled 
+rectangle rectangles tangled 
+
+containing consisting assisting 
+contained consisted assisted 
+
+capacity facility utility 
+capacities facilities utilities 
+
+burned ruined starved 
+burning ruining starving 
+
+dating updating reverting 
+dated updated reverted 
+
+intended tended blended 
+intends tends blends 
+
+
+
+accused accuse accusing 
+murdered murderer murdering 
+
+accused convicted sentenced 
+accusations convictions sentences 
+
+accused alleged prosecuted 
+accusations allegations prosecutions 
+
+improved implemented supplemented 
+improvement implement supplement 
+
+improved implemented supplemented 
+improvements implements supplements 
+
+banned canned scanned 
+banning canning scanning 
+
+hungary bohemia silesia 
+hungarian bohemian silesian 
+
+expanded declined devastated 
+expanding declining devastating 
+
+revolutionary missionary mercenary 
+revolutionaries missionaries mercenaries 
+
+organisation organist organizer 
+organisations organists organizers 
+
+philosopher theologian evangelist 
+philosophical theological evangelical 
+
+philosopher sociologist paleontologist 
+philosophers sociologists palaeontologists 
+
+philosopher mathematician matheson 
+philosophers mathematicians mathers 
+
+philosopher aristotle euclid 
+philosopher's aristotle's euclid's 
+
+advance strategy simulation 
+advances strategies simulations 
+
+hearing fearing tearing 
+hears fears tears 
+
+combat fighter bomber 
+combatants fighters bombers 
+
+stored restored ruined 
+storing restoring ruining 
+
+converted conversion converting 
+reverted reversing reverting 
+
+converted transferred transformed 
+converter transfer transform 
+
+
+
+cousin nephew great-grandson 
+cousins nephews great-grandchildren 
+
+
+
+
+
+experiments researchers surveys 
+experimenting researching surveying 
+
+wounded rescued wrecked 
+wounding rescuing wrecking 
+
+processes processed procession 
+progresses progressed progression 
+
+protestant anglican clergyman 
+protestants anglicans clergy 
+
+rapper rapped raps 
+trapper trapped traps 
+
+rapper wrapper trapper 
+rapping wrapping trapping 
+
+designer designing designates 
+signer signing signature 
+
+wearing bearing clearing 
+wearer bearer clearer 
+
+invited invite inviting 
+welcomed welcome welcoming 
+
+invited convinced warned 
+invite convince warn 
+
+
+
+granted privileged obliged 
+grants privileges obligations 
+
+granted demanded negotiated 
+granting demanding negotiating 
+
+ottoman balkan carpathian 
+ottomans balkans carpathians 
+
+arranged arrange arranger 
+ranged range ranger 
+
+arranged arranging arranges 
+exchanged exchanging exchanges 
+
+constructed construct constructing 
+repaired repair repairing 
+
+constructed fortified excavated 
+constructions fortifications excavations 
+
+choir soloist oboe 
+choirs soloists oboes 
+
+loved laughed shouted 
+loving laughing shouting 
+
+loved annoyed disgusted 
+loving annoying disgusting 
+
+documentary document documented 
+commentary comment commented 
+
+respectively effectively actively 
+respective effective active 
+
+argued criticised commented 
+arguing criticizing commenting 
+
+researchers researcher researched 
+analysts analyst analysed 
+
+syria syriac syrians 
+arabia arabic arabs 
+
+syria syrian syrians 
+ethiopia ethiopian ethiopians 
+
+muscle muscles muscular 
+ventricle ventricles ventricular 
+
+riding hiding guiding 
+rides hides guides 
+
+determined determine determining 
+examined examine examining 
+
+determined determines determination 
+examined examines examination 
+
+documents document documentaries 
+comments comment commentaries 
+
+documents comments discussions 
+documented commented discussed 
+
+stick sticks sticking 
+kick kicks kicking 
+
+complicated duplicate replicate 
+complication duplication replication 
+
+
+
+instructions deductions contractions 
+instruction deduction contraction 
+
+joining merging emerging 
+joins merges emerges 
+
+
+
+respect respective respects 
+aspect perspective aspects 
+
+achieved achieve achievement 
+accomplished accomplish accomplishment 
+
+achieved regained resumed 
+achieve regain resume 
+
+
+
+explained explanation explanations 
+perceived perception perceptions 
+
+explained complained criticised 
+explaining complaining criticizing 
+
+explained questioned answered 
+explaining questioning answering 
+
+drawn viewed reviewed 
+drawing viewing reviewing 
+
+arabia morocco tunisia 
+arabian moroccan tunisian 
+
+rising raising praising 
+rises raises praises 
+
+escaped trapped rapped 
+escaping trapping rapping 
+
+escaped drowned wrecked 
+escaping drowning wrecking 
+
+lets chooses selects 
+letting choosing selecting 
+
+incorporated consolidated urbanized 
+incorporation consolidation urbanization 
+
+harder softer flatter 
+hardened softened flattened 
+
+harder hardly hardest 
+quicker quickly quickest 
+
+harder louder quieter 
+hardly loudly quietly 
+
+blocks locks decks 
+blocker locker decker 
+
+blocks locks knocks 
+blocked locked knocked 
+
+institution prostitution substitution 
+institutes prostitutes substitutes 
+
+
+
+minority priority capability 
+minorities priorities capabilities 
+
+pulled pull pulling 
+thrown throw throwing 
+
+pulled dragged begged 
+pulling dragging begging 
+
+pulled thrown blown 
+pulls throws blows 
+
+lights nights tights 
+lightly nightly tightly 
+
+mathematician theorist fundamentalist 
+mathematically theoretically fundamentally 
+
+pushed crushed smashed 
+pushing crushing smashing 
+
+pushed brushed curled 
+pushes brushes curls 
+
+pushed pumped squeezed 
+pushing pumping squeezing 
+
+pushed lifted drifted 
+pushing lifting drifting 
+
+currency rupee peso 
+currencies rupees pesos 
+
+spin spinning spins 
+pin pinning pins 
+
+raced racer racers 
+skied skier skiers 
+
+civilization civilizations fertilization 
+civilisation civilisations fertilisation 
+
+civilization colonization urbanization 
+civilized colonized urbanized 
+
+favorite favor favored 
+favourite favour favoured 
+
+mineral sediment condiment 
+minerals sediments condiments 
+
+notice notion caution 
+notices notions precautions 
+
+
+obtained obtain obtaining 
+acquired acquire acquiring 
+
+hide warn sneak 
+hides warns sneaks 
+
+budget salary wage 
+budgets salaries wages 
+
+budget debt payment 
+budgets debts payments 
+
+aviation navigation surveying 
+aviator navigator surveyor 
+
+print footprint fingerprint 
+prints footprints fingerprints 
+
+grade grades graded 
+upgrade upgrades upgraded 
+
+limits permits prohibits 
+limiting permitting prohibiting 
+
+colored coloring coloration 
+coloured colouring colouration 
+
+landed commanded demanded 
+landing commanding demanding 
+
+landed crashed washed 
+landing crashing washing 
+
+expression expressed expressive 
+oppression oppressed oppressive 
+
+expression impression suppression 
+expressed impressed suppressed 
+
+expression aggression obsession 
+expressive aggressive obsessive 
+
+processing processed procession 
+accessing accessed accession 
+
+processing processed processions 
+proceeding proceed proceedings 
+
+african-american mexican-american canadian-american 
+africans mexicans canadians 
+
+wagner strauss mahler 
+wagner's strauss's mahler's 
+
+bach mozart beethoven 
+bach's mozart's beethoven's 
+
+bach handel mahler 
+bach's handel's mahler's 
+
+heated cooled warmed 
+heating cooling warming 
+
+heated coated floated 
+heating coating floating 
+
+credited edited summarized 
+credits edits summaries 
+
+recognition reception receptions 
+cognition perception perceptions 
+
+potter pot pots 
+spotter spot spots 
+
+spots stripes crests 
+spotted striped crested 
+
+vocals drums keyboards 
+vocalist drummer keyboardist 
+
+vessels sails fleets 
+vessel sail fleet 
+
+horn thorn hawthorn 
+horne thorne hawthorne 
+
+promised persuaded advised 
+promise persuade advise 
+
+promised hoped feared 
+promises hopes fears 
+
+throw knock unlock 
+thrown knocked unlocked 
+
+
+
+iceland faroe frisia 
+icelandic faroese frisian 
+
+expressed expressing expresses 
+addressed addressing addresses 
+
+expressed progressed stressed 
+expresses progresses stresses 
+
+
+
+permission admission submission 
+permitted admitted submitted 
+
+vertical horizontal diagonal 
+vertically horizontally diagonally 
+
+thrown throwing throws 
+kicked kicking kicks 
+
+thrown kicked jumped 
+thrower kicker jumper 
+
+thrown knocked chased 
+throws knocks chases 
+
+
+
+handle handled handles 
+bundle bundled bundles 
+
+
+
+attraction attractions attracting 
+interaction interactions interacting 
+
+delivered gathered marched 
+delivering gathering marching 
+
+appeal repeal overturn 
+appealed repealed overturned 
+
+regiment volunteer recruit 
+regiments volunteers recruits 
+
+elephant jumbo barnum 
+elephant's jumbo's barnum's 
+
+creative innovative collaborative 
+creations innovations collaborations 
+
+croatia yugoslavia austria-hungary 
+croatian yugoslavian austro-hungarian 
+
+croatia dalmatia corsica 
+croatian dalmatian corsican 
+
+eliminated dominated fascinated 
+elimination domination fascination 
+
+watching catching hatching 
+watches catches hatches 
+
+installed install installing 
+loaded load loading 
+
+installed renovated refurbished 
+installation renovation refurbishment 
+
+installed renovated excavated 
+installations renovations excavations 
+
+praised criticised disliked 
+praise criticize dislike 
+
+praised acclaimed reclaimed 
+praise acclaim reclaim 
+
+receiving earning gaining 
+receives earns gains 
+
+defensive defender defenses 
+offensive offender offenses 
+
+explosion explode exploding 
+collision collide colliding 
+
+succession procession precession 
+succeeding proceeding preceding 
+
+succession possession confession 
+successes possesses confesses 
+
+occasionally occasions occasional 
+additionally additions additional 
+
+rush rushed rushing 
+crush crushed crushing 
+
+components exponents quantifiers 
+component exponent quantifier 
+
+progressive progression progresses 
+successive succession successes 
+
+progressive aggressive oppressive 
+progression aggression oppression 
+
+progressive impressive obsessive 
+progression impression obsession 
+
+rejected criticised reviewed 
+rejecting criticizing reviewing 
+
+wrestlers wrestled wrestle 
+feuds feuded feud 
+
+crashed crashes crashing 
+wrecked wrecks wrecking 
+
+crashed washed brushed 
+crashes washes brushes 
+
+crashed exploded exploited 
+crashes explodes exploits 
+
+fled flee fleeing 
+seized seize seizing 
+
+powder boiler mixer 
+powdered boiled mixed 
+
+measuring measurements measurable 
+comparing comparisons comparable 
+
+viewers viewed viewer 
+reviewers reviewed reviewer 
+
+tone semitone ketone 
+tones semitones ketones 
+
+varies varied varying 
+differs differed differing 
+
+specialized localized legalized 
+specially locally legally 
+
+keyboard percussion accompaniment 
+keyboardist percussionist accompanist 
+
+restored restoration restore 
+reconstructed reconstruction reconstruct 
+
+restored renovated excavated 
+restoration renovation excavation 
+
+blocked mocked sucked 
+blocking mocking sucking 
+
+blocked shocked kicked 
+blocking shocking kicking 
+
+blocked knocked wrecked 
+blocking knocking wrecking 
+
+blocked checked invoked 
+blocking checking invoking 
+
+clock lock knock 
+clocks locks knocks 
+
+geographical geographically geographers 
+geological geologically geologists 
+
+geographical geography geographer 
+biographical biography biographer 
+
+larvae tadpoles bullfrogs 
+larva tadpole bullfrog 
+
+romanian serbian albanian 
+romanians serbs albanians 
+
+
+
+kidney lymphoma esophageal 
+kidneys lymphocytes oesophagus 
+
+carrier barrier terrier 
+carriers barriers terriers 
+
+accounts counts mounts 
+accounted counted mounted 
+
+anywhere somewhere wherever 
+anyway somehow whenever 
+
+anywhere somewhere everywhere 
+anybody somebody everybody 
+
+markets marketing marketed 
+consumers consumer consumed 
+
+encouraged discouraged outraged 
+encourage discourage outrage 
+
+encouraged practised exercised 
+encouraging practising exercising 
+
+moral oral literal 
+morally orally literally 
+
+noticed guessed stressed 
+notices guesses stresses 
+
+noticed discussed debated 
+noticing discussing debating 
+
+gospel apostle psalm 
+gospels apostles psalms 
+
+pointed disappointed annoyed 
+pointing disappointing annoying 
+
+jamaica bahamas barbados 
+jamaican bahamian barbadian 
+
+triangle triangular triangles 
+rectangle rectangular rectangles 
+
+publication duplication indication 
+publications implications indications 
+
+liberation cooperation integration 
+liberated cooperated integrated 
+
+mozart mahler mussorgsky 
+mozart's mahler's mussorgsky's 
+
+mozart verdi puccini 
+mozart's verdi's puccini's 
+
+pull push pump 
+pulling pushing pumping 
+
+assault assaulted assaults 
+offender offended offenders 
+
+rope elbow ankle 
+ropes elbows ankles 
+
+friendship friend's friendships 
+partnership partner's partnerships 
+
+doubles troubles struggles 
+doubled troubled struggled 
+
+vector detector pulsar 
+vectors detectors pulsars 
+
+please lease cease 
+pleased leased ceased 
+
+achievement improvement advancement 
+achievements improvements advances 
+
+waiting exiting terminating 
+waited exited terminated 
+
+waiting shouting embarrassing 
+waited shouted embarrassed 
+
+eruption disruption interruption 
+erupted disrupted interrupted 
+
+lock locked locking 
+knock knocked knocking 
+
+lock locked locking 
+mock mocked mocking 
+
+exception reception interception 
+exceptions receptions interceptions 
+
+processor processors processed 
+compressor compressors compressed 
+
+defended defenders defenses 
+offended offenders offenses 
+
+establish establishment establishing 
+adopt adoption adopting 
+
+nigeria tunisia frisia 
+nigerian tunisian frisian 
+
+
+
+astronomers meteorologists archeologists 
+astronomical meteorological archeological 
+
+isolated insulated inflated 
+isolation insulation inflation 
+
+jaw claw paw 
+jaws claws paws 
+
+realized worried cried 
+realizes worries cries 
+
+abolished demolished reconstructed 
+abolition demolition reconstruction 
+
+benefits profits debts 
+benefit profit debt 
+
+benefits guarantees ensures 
+benefited guaranteed ensured 
+
+infected infect infects 
+defected defect defects 
+
+climb climbing climbers 
+hike hiking hikers 
+
+archaeological geological meteorological 
+archaeologists geologists meteorologists 
+
+explanation interpretation imitation 
+explanations interpretations limitations 
+
+explanation interpretation imitation 
+explaining interpreting imitating 
+
+physiology zoology morphology 
+physiological zoological morphological 
+
+rape kidnapping stabbing 
+raped kidnapped stabbed 
+
+emotional emotion prejudice 
+devotional devotion obedience 
+
+emotional sensational improvisational 
+emotion sensation improvisation 
+
+cake pancake doughnut 
+cakes pancakes doughnuts 
+
+geological zoological epidemiological 
+geology zoology epidemiology 
+
+tribute tribune tributes 
+contribute contributor contributes 
+
+tribute tribune tributes 
+distribute distributor distributes 
+
+employed deployed unemployed 
+employment deployment unemployment 
+
+photographer photography photographed 
+choreographer choreography choreographed 
+
+wonder wondered wondering 
+wander wandered wandering 
+
+probability liability vulnerability 
+probable liable vulnerable 
+
+jumping lifting shifting wrapping 
+jumped lifted shifted wrapped 
+jumps lifts shifts wraps 
+
+jumping trapping wrapping 
+jumped trapped wrapped 
+
+jumping throwing leaping 
+jumps throws leaps 
+
+discrimination discriminated discriminate 
+violation violated violate 
+
+relation relate relates 
+relaxation relax relaxes 
+
+collapsed collided drifted 
+collapsing colliding drifting 
+
+collapsed recovered repaired 
+collapsing recovering repairing 
+
+radical feminist anarchist 
+radicals feminists anarchists 
+
+theology zoology cosmology 
+theological zoological cosmological 
+
+theology ethics mystics 
+theological ethical mystical 
+
+directions directive directives 
+objections objective objectives 
+
+integer decimal numeral 
+integers decimals numerals 
+
+trapped sucked chewed 
+trapping sucking chewing 
+
+trapped traps trapper 
+wrapped wraps wrapper 
+
+trapped ripped slipped 
+trapper ripper slipper 
+
+trapped pumped floated 
+trapping pumping floating 
+
+trapped mapped analysed 
+trapping mapping analyzing 
+
+decorated decorate decorating 
+commemorated commemorate commemorating 
+
+decorated decoration decorative 
+commemorated commemoration commemorative 
+
+decorated decorations decorating 
+carved carvings carving 
+
+climbing camping surfing 
+climbers campers surfers 
+
+hoped persuaded begged 
+hopes persuades begs 
+
+rod reel eel 
+rods reels eels 
+
+
+
+algeria ethiopia assyria 
+algerian ethiopian assyrian 
+
+assassination kidnapping rescuing 
+assassinated kidnapped rescued 
+
+circulation circulated circulating 
+calculation calculated calculating 
+
+circulation circulated circulating 
+regulation regulated regulating 
+
+circulation ejaculation stimulation 
+circulate ejaculate stimulate 
+
+worried worry worries 
+hated hate hates 
+
+worried feared betrayed 
+worries fears betrays 
+
+baptist anglican pelican 
+baptists anglicans pelicans 
+
+bleeding vomiting sweating 
+bleed vomit sweat 
+
+stays lays hatches 
+staying laying hatching 
+
+technologies ideologies skepticism 
+technological ideological skeptical 
+
+julia emilia giulia 
+julio emilio giulio 
+
+pack package add-on 
+packs packages add-ons 
+
+pack packed packs 
+sack sacked sacks 
+
+reverse revert revere 
+reversed reverted revered 
+
+upgraded updated downloaded 
+upgrading updating downloading 
+
+hormones stimulants opioids 
+hormone stimulant opioid 
+
+lesbian feminist unionist 
+lesbians feminists unionists 
+
+dried drying dryer 
+boiled boiling boiler 
+
+autobiography biography pornography 
+autobiographical biographical pornographic 
+
+hiding escaping kidnapping 
+hid escaped kidnapped 
+
+interpretation interpreted interpretations 
+quotation quoted quotations 
+
+discussed commented reviewed 
+discussing commenting reviewing 
+
+commentator spectator gladiator 
+commentators spectators gladiators 
+
+calculated calculate calculation 
+computed compute computation 
+
+calculated calculate calculation 
+simulated simulate simulation 
+
+calculated calculate calculation 
+accumulated accumulate accumulation 
+
+calculated calculating calculators 
+computed computing computers 
+
+calculated calculators calculator 
+accumulated accumulators accumulator 
+
+immigration migration emigration 
+immigrant migrant emigrant 
+
+dressed dresses dressing 
+pressed presses pressing 
+
+dressed addressed accessed 
+dressing addressing accessing 
+
+dressed kissed laughed 
+dressing kissing laughing 
+
+mention intention intervention 
+mentions intentions interventions 
+
+illustrated illustrator illustration 
+narrated narrator narration 
+
+illustrated frustrated castrated 
+illustration frustration castration 
+
+package packages packaged 
+packet packets packed 
+
+aggressive impressive recessive 
+aggression impression recession 
+
+addresses addressed addressing 
+presses pressed pressing 
+
+addresses dresses kisses 
+addressing dressing kissing 
+
+exclusive exclusion excluding 
+inclusive inclusion including 
+
+melody chord oboe 
+melodies chords oboes 
+
+copied coded sequenced 
+copying coding sequencing 
+
+explore explored exploration 
+exploit exploited exploitation 
+
+requirements requiring requirement 
+implements implementing implement 
+
+requirements guarantees ensures 
+requirement guarantee ensure 
+
+lift shaft turbine 
+lifts shafts turbines 
+
+carved engraved sculpted 
+carvings engravings sculptures 
+
+carved paved shaved 
+carving paving shaving 
+
+cannon mortar handgun 
+cannons mortars handguns 
+
+
+
+kidnapped rescued disguised 
+kidnaps rescues disguises 
+
+kidnapped betrayed cursed 
+kidnaps betrays curse 
+
+shipping mapping wrapping 
+shipped mapped wrapped 
+
+updated uploaded reloaded 
+updating uploading reloading 
+
+soup dessert sausage 
+soups desserts sausages 
+
+soup snack noodle 
+soups snacks noodles 
+
+migration migrate migrants 
+emigration emigrate emigrants 
+
+respected responded replied 
+respects responds replies 
+
+presents presentation presenting 
+preserves preservation preserving 
+
+portrayed betrayed confronted 
+portrayal betrayal confrontation 
+
+restricted restrictions restriction 
+regulated regulations regulation 
+
+rotation rotating rotate 
+acceleration accelerating accelerate 
+
+rotation vibration penetration 
+rotating vibrating penetrating 
+
+kick knee elbow 
+kicks knees elbows 
+
+legislation legislatures legislator 
+delegation delegates delegate 
+
+punished wished cried 
+punishes wishes cries 
+
+denied permitted prohibited 
+denying permitting prohibiting 
+
+infinite infinitely infinitive 
+definite definitely definitive 
+
+passion recession progression 
+passive recessive progressive 
+
+buying stealing kidnapping 
+buys steals kidnaps 
+
+convinced convince convinces 
+persuaded persuade persuades 
+
+convinced confronted corrupted 
+convince confront corrupt 
+
+pupils organists violinists 
+pupil organist violinist 
+
+lizards tortoises octopuses 
+lizard tortoise octopus 
+
+cooling cooled cools 
+boiling boiled boils 
+
+cooling melting drifting 
+cooled melted drifted 
+
+retreat retreated retreating 
+withdraw withdrawn withdrawing 
+
+retreat flee kidnap 
+retreating fleeing kidnapping 
+
+canon canoe geyser 
+canons canoes geysers 
+
+closing closure closures 
+exposing exposure exposures 
+
+activists feminists atheists 
+activism feminism atheism 
+
+ignored rendered invoked 
+ignoring rendering invoking 
+
+interaction integration implementation 
+interacting integrating implementing 
+
+throwing bowing punching 
+throws bows punches 
+
+throwing rushing crashing 
+throws rushes crashes 
+
+throwing blowing slowing 
+throws blows slows 
+
+throwing pulling bending 
+throws pulls bends 
+
+equality morality spirituality 
+equally morally spiritually 
+
+listening frightening annoying 
+listened frightened annoyed 
+
+planted harvested roasted 
+planting harvesting roasting 
+
+separates splits merges 
+separating splitting merging 
+
+dividing splitting merging 
+divides splits merges 
+
+witness witnesses witnessed 
+confess confesses confessed 
+
+blamed blame blaming 
+insulted insult insulting 
+
+citation imitation temptation 
+citations limitations temptations 
+
+republicans nationalists capitalists 
+republicanism nationalism capitalism 
+
+enforcement enforce enforcing 
+reinforcement reinforce reinforcing 
+
+enforcement obligation negotiation 
+enforced obliged negotiated 
+
+journalism journalists journalistic 
+nationalism nationalists nationalistic 
+
+journalism socialism feminism 
+journalists socialists feminists 
+
+bella isabella camilla 
+belle isabelle camille 
+
+rodents squirrels squids 
+rodent squirrel squid 
+
+collaboration collaborated collaborative 
+cooperation cooperated cooperative 
+
+witnesses guesses presses 
+witnessed guessed pressed 
+
+ratified proclaimed reclaimed 
+ratification proclamation reclamation 
+
+flyers dodgers blazers 
+flyer dodger blazer 
+
+pronunciation syllable consonant 
+pronunciations syllables consonants 
+
+dictator dictatorship dictators 
+fascist fascism fascists 
+
+prayers praying prayed 
+blessings blessing blessed 
+
+possession obsession fascination 
+possessed obsessed fascinated 
+
+dimensions rectangles wedges 
+dimension rectangle wedge 
+
+funding financing negotiating 
+funded financed negotiated 
+
+defender defenders defences 
+offender offenders offences 
+
+quantity fraction fracture 
+quantities fractions fractures 
+
+stealing steals stealth 
+healing heals health 
+
+integrated integration integrate 
+manipulated manipulation manipulate 
+
+integrated implemented evaluated 
+integration implementation evaluation 
+
+bottle bottles bottled 
+slice slices sliced 
+
+bottle toilet cleaner 
+bottles toilets cleaners 
+
+cooperation cooperative cooperated 
+initiation initiative initiated 
+
+cooperation cooperated cooperating 
+coordination coordinated coordinating 
+
+cooperation integration computation 
+cooperating integrating computing 
+
+sardinia corsica veneto 
+sardinian corsican venetian 
+
+regulations regulation regulated 
+simulations simulation simulated 
+
+regulations regulation regulating 
+violations violation violating 
+
+regulations regulated regulates 
+violations violated violates 
+
+accumulator accumulators accumulated 
+insulator insulators insulated 
+
+accumulator accumulation accumulates 
+calculator calculation calculates 
+
+scout scouts scouting 
+recruit recruits recruiting 
+
+boiling boil boils 
+melting melt melts 
+
+pump lump stump 
+pumps lumps stumps 
+
+1870s 1880s 1860s 
+70s 80s 60s 
+
+assassinated assaulted harassed 
+assassin assault harass 
+
+corresponding correspond corresponds 
+responding respond responds 
+
+locked locks locking 
+shocked shocks shocking 
+
+attributed referenced summarized 
+attributes references summaries 
+
+noun adjective consonant 
+nouns adjectives consonants 
+
+detected detector detectors 
+accelerated accelerator accelerators 
+
+detected corrected correlated 
+detection correction correlation 
+
+biologist anthropologist paleontologist 
+biologists anthropologists palaeontologists 
+
+torture kidnapping accusing 
+tortured kidnapped accused 
+
+pushing flashing flapping 
+pushes flashes flaps 
+
+pushing washing crashing 
+pushes washes crashes 
+
+pushing blowing bowing 
+pushes blows bows 
+
+rescued drowned downed 
+rescuing drowning downing 
+
+calculations calculation calculators 
+computations computation computers 
+
+eruptions explosions collisions 
+erupted exploded collided 
+
+backing packing sucking 
+backed packed sucked 
+
+backing kicking knocking 
+backed kicked knocked 
+
+backing locking wrecking 
+backed locked wrecked 
+
+backing backed backs 
+lacking lacked lacks 
+
+consumption consumed consuming 
+assumption assumed assuming 
+
+contracts contracted contracting 
+contrasts contrasted contrasting 
+
+biography choreography cartography 
+biographer choreographer cartographer 
+
+fraction exponent coefficient 
+fractions exponents coefficients 
+
+fraction contraction transaction 
+fractions contractions transactions 
+
+psychologist paleontologist geologist 
+psychologists palaeontologists geologists 
+
+protective objective reflective 
+protections objections reflections 
+
+stretched stretching stretches 
+touched touching touches 
+
+touches pushes bends 
+touching pushing bending 
+
+touches washes sprays 
+touched washed sprayed 
+
+siberia liberia iberia 
+siberian liberian iberian 
+
+siberia eurasia mesoamerica 
+siberian eurasian mesoamerican 
+
+jumps knocks stacks 
+jumped knocked stacked 
+
+flavor flavored savory 
+flavour flavoured savoury 
+
+export import impose 
+exporting importing imposing 
+
+thunderstorms typhoons blizzards 
+thunderstorm typhoon blizzard 
+
+inauguration commemoration consecration 
+inaugurated commemorated consecrated 
+
+yankees dodgers marlins 
+yankee dodger marlin 
+
+sorts sorted sorting 
+imports imported importing 
+
+boarding guarding awarding 
+boarded guarded awarded 
+
+knocked knocking knocks 
+shocked shocking shocks 
+
+knocked kicked tricked 
+knocks kicks tricks 
+
+reformation reformer reformers 
+transformation transformer transformers 
+
+washed crushed chewed 
+washing crushing chewing 
+
+locks knocks punches 
+locking knocking punching 
+
+regulation regulated regulating 
+stimulation stimulated stimulating 
+
+impressed impressive impression 
+oppressed oppressive oppression 
+
+filter cleaner sewer 
+filters cleaners sewers 
+
+expect expecting expects 
+intend intending intends 
+
+assisted insisted resisted 
+assists insists resists 
+
+assisted recruited waited 
+assisting recruiting waiting 
+
+shifted drifted exited 
+shifting drifting exiting 
+
+loaded uploaded tagged 
+loading uploading tagging 
+
+loaded downloaded reloaded 
+loading downloading reloading 
+
+trademark trademarked trademarks 
+remark remarked remarks 
+
+presentation imitation expectation 
+presentations limitations expectations 
+
+archaeologists palaeontologists sociologists 
+archaeology palaeontology sociology 
+
+feared cleared stared 
+fearing clearing staring 
+
+partition petition obligation 
+partitions petitions obligations 
+
+revived revive reviving 
+revolved revolve revolving 
+
+revived revive reviving 
+thrived thrive thriving 
+
+elimination domination termination 
+eliminating dominating terminating 
+
+elimination domination termination 
+eliminate dominate terminate 
+
+demonstration frustration admiration 
+demonstrated frustrated admired 
+
+demonstration initiation negotiation 
+demonstrated initiated negotiated 
+
+employment enjoyment encouragement 
+employing enjoying encouraging 
+
+linguistics anthropology palaeontology 
+linguists anthropologists palaeontologists 
+
+gaga rihanna aaliyah 
+gaga's rihanna's aaliyah's 
+
+volunteer recruit enlist 
+volunteered recruited enlisted 
+
+investigated investigate investigator 
+examined examine examiner 
+
+investigated investigations investigators 
+researched researches researchers 
+
+investigated invested financed 
+investigator investor financier 
+
+eminem beyonce rihanna 
+eminem's beyonce's rihanna's 
+
+washing rushing wishing 
+washes rushes wishes 
+
+tricks picks sucks 
+tricked picked sucked 
+
+lifted lifts lifting 
+exited exits exiting 
+
+ecological neurological chronological 
+ecology neurology chronology 
+
+sociology microbiology pharmacology 
+sociologist microbiologist pharmacist 
+
+buck bucket sticker 
+bucks buckets stickers 
+
+demonstrated protested revolted 
+demonstrates protests revolts 
+
+float flip wrapper 
+floated flipped wrapped 
+
+climbed climbs climber 
+jumped jumps jumper 
+
+rotating rotated rotor 
+accelerating accelerated accelerator 
+
+imported imports importing 
+transported transports transporting 
+
+imported importing imposing 
+exported exporting exposing 
+
+neurons ventricles follicles 
+neuron ventricle follicle 
+
+tracking cracking sucking 
+tracked cracked sucked 
+
+exciting exposing imposing 
+excited exposed imposed 
+
+marched retreated raided 
+marching retreating raiding 
+
+qualification specification fortification 
+qualifications specifications fortifications 
+
+qualification modification indication 
+qualifications modifications indications 
+
+acceleration accelerating accelerates 
+vibration vibrating vibrates 
+
+acceleration ionization polarization 
+accelerated ionized polarized 
+
+meditation imitation improvisation 
+meditate imitate improvise 
+
+crushed rubbed sewn 
+crushing rubbing sewing 
+
+perception interception inning 
+perceptions interceptions innings 
+
+pigment dye perfume 
+pigments dyes perfumes 
+
+pigment texture condiment 
+pigments textures condiments 
+
+compromise negotiate initiate 
+compromised negotiated initiated 
+
+protestants atheists fascists 
+protestantism atheism fascism 
+
+traps wraps flaps 
+trapping wrapping flapping 
+
+admired appreciated fascinated 
+admiration appreciation fascination 
+
+veins arteries capillaries 
+vein artery capillary 
+
+deleted delete deleting 
+uploaded upload uploading 
+
+coordinate coordinated coordination 
+evaluate evaluated evaluation 
+
+mesopotamia babylonia akkad 
+mesopotamian babylonian akkadian 
+
+resurrection crucifixion martyrdom 
+resurrected crucified martyred 
+
+resurrection erection correction 
+resurrected erected corrected 
+
+nails sails wrecks 
+nailed sailed wrecked 
+
+shocked mocked begged 
+shocking mocking begging 
+
+shocked shouted shaved 
+shocking shouting shaving 
+
+capitalism realism modernism 
+capitalization realization modernization 
+
+capitalism fascism nazism 
+capitalists fascists nazis 
+
+astronaut meteorologist astrologer 
+astronautical meteorological astrological 
+
+bubbles pebbles marbles 
+bubble pebble marble 
+
+evacuation renovation redevelopment 
+evacuated renovated redeveloped 
+
+evacuation relocation affiliation 
+evacuated relocated affiliated 
+
+consonants pronouns adverbs 
+consonant pronoun adverb 
+
+consonants phonemes morphemes 
+consonant phoneme morpheme 
+
+twist fist wrist 
+twists fists wrists 
+
+kilogram centimeter millimeter 
+kilograms centimetres millimetres 
+
+criticised commented tweeted 
+criticisms comments tweets 
+
+fascist zionist expressionist 
+fascism zionism expressionism 
+
+objective objected objections 
+selective selected selections 
+
+filmmaker printmaker engraver 
+filmmaking printmaking engraving 
+
+pedal octave semitone 
+pedals octaves semitones 
+
+booth saddle paddle 
+booths saddles paddles 
+
+kicked stabbed beheaded 
+kicking stabbing beheading 
+
+naturalist realist stylist 
+naturalized realized stylized 
+
+realistic nationalistic journalistic 
+realist nationalist journalist 
+
+packed lacked stacked 
+packs lacks stacks 
+
+packed packs packing 
+tracked tracks tracking 
+
+compression impression progression 
+compressed impressed progressed 
+
+compression suppression oppression 
+compressed suppressed oppressed 
+
+integration integrate integrating 
+coordination coordinate coordinating 
+
+injection injected injecting 
+inhalation inhaled inhaling 
+
+raids rebellions conquests 
+raided rebelled conquered 
+
+enabled ensured overwhelmed 
+enabling ensuing overwhelming 
+
+decorations decorate decorating 
+depictions depict depicting 
+
+decorations ceilings engravings 
+decorating ceiling engraving 
+
+interrupted interrupt interruption 
+interned intern internment 
+
+interrupted disrupted corrupted 
+interrupt disrupt corrupt 
+
+acronym idiom morpheme 
+acronyms idioms morphemes 
+
+illustrations depictions reflections 
+illustrating depicting reflecting 
+
+richardson robertson stephenson 
+richard's robert's stephen's 
+
+secured negotiated cooperated 
+securing negotiating cooperating 
+
+spike groove bump 
+spikes grooves bumps 
+
+tiles piles pebbles 
+tile pile pebble 
+
+extract extraction extracting 
+subtract subtraction subtracting 
+
+separator separatist fundamentalist 
+separators separatists fundamentalists 
+
+reflection illustration outline 
+reflections illustrations outlines 
+
+specify verify notify 
+specification verification notification 
+
+targeted marketed advertised 
+targeting marketing advertising 
+
+tuned plucked chewed 
+tuning plucking chewing 
+
+limitations violations accusations 
+limiting violating accusing 
+
+examined researched analysed 
+examines researches analyses 
+
+examined surveyed mapped 
+examining surveying mapping 
+
+robbed stabbed dragged 
+robbing stabbing dragging 
+
+robbed grabbed rubbed 
+robbing grabbing rubbing 
+
+transcription transcribed transcriptions 
+prescription prescribed prescriptions 
+
+stripped ripped skipped 
+stripper ripper skipper 
+
+stripped dipped slipped 
+stripper dipper slipper 
+
+catalyst reagent carbocation 
+catalysts reagents carbocations 
+
+melted boiled coiled 
+melts boils coils 
+
+arches marches clashes 
+arched marched clashed 
+
+boiled coiled nailed 
+boils coils nails 
+
+employers buyers suppliers 
+employing buying supplying 
+
+recruited deployed detached 
+recruitment deployment detachment 
+
+africans cubans brazilians 
+africa's cuba's brazil's 
+
+addicted addict addictions 
+prescribed prescribe prescriptions 
+
+
+
+godfather stepfather grandfather's 
+godmother stepmother grandmother's 
+
+atheist taoist calvinist 
+atheism taoism calvinism 
+
+cared annoyed laughed 
+caring annoying laughing 
+
+violations violation violated 
+prosecutions prosecution prosecuted 
+
+poster rooster hamster 
+posters roosters hamsters 
+
+stabbed grabbed rubbed 
+stabs grabs rubs 
+
+fortifications renovations outstations 
+fortification renovation outstation 
+
+fortifications reinforcements engagements 
+fortification reinforcement engagement 
+
+assessment assess assessments 
+assignment assign assignments 
+
+octave oboe trombone 
+octaves oboes trombones 
+
+glue scratch scrap 
+glued scratched scraped 
+
+possessed possessions possesses 
+confessed confessions confesses 
+
+wrap bump stump 
+wraps bumps stumps 
+
+accomplished improvised imitated 
+accomplish improvise imitate 
+
+attachment catchment watchmen 
+attaching catching watching 
+
+brackets packets buckets 
+bracket packet bucket 
+
+brewery brewers breweries 
+bakery bakers bakeries 
+
+modification modify modifications 
+specification specify specifications 
+
+cracked slipped flipped 
+crackers slippers flippers 
+
+chimpanzees neanderthals lineages 
+chimpanzee neanderthal lineage 
+
+mackenzie mackay macleod 
+mckenzie mckay mcleod 
+
+pillars piles projectiles 
+pillar pile projectile 
+
+initiated affiliated accredited 
+initiation affiliation accreditation 
+
+emissions emission emitting 
+transmissions transmission transmitting 
+
+parable fable miserable 
+parables fables miserables 
+
+coating rubbing stabbing 
+coated rubbed stabbed 
+
+passive expressive reflective 
+passions expressions reflections 
+
+marsupials echidnas zebras 
+marsupial echidna zebra 
+
+warwick buckingham hertford 
+warwickshire buckinghamshire hertfordshire 
+
+cobra zebra raccoon 
+cobras zebras raccoons 
+
+pits exits waits 
+pitted exited waited 
+
+swelling sweating squeezing 
+swell sweat squeeze 
+
+frisian silesian sardinian 
+frisia silesia sardinia 
+
+overture fugue leitmotif 
+overtures fugues leitmotifs 
+
+chasing fleeing freeing 
+chases flees frees 
+
+preceded proceeded seceded 
+precession procession secession 
+
+clips clippers clipper 
+slips slippers slipper 
+
+rented paved engraved 
+renting paving engraving 
+
+projection correction dissection 
+projected corrected dissected 
+
+projection erection affection 
+projected erected affected 
+
+offense offence prosecutors 
+self-defense self-defence defendants 
+
+outfit outlaw gangster 
+outfits outlaws gangsters 
+
+shake shaking shaken 
+shave shaving shaved 
+
+padding wrapping inserting 
+padded wrapped inserted 
+
+donations examinations preparations 
+donation examination preparation 
+
+activated motivated manipulated 
+activation motivation manipulation 
+
+avengers scavengers cannibals 
+avenger scavenger cannibal 
+
+evangelist zionist taoist 
+evangelism zionism taoism 
+
+canadian-american german-american polish-american 
+canadian-born german-born polish-born 
+
+canadian-american italian-american anglo-american 
+canadian-born italian-born english-born 
+
+betrayed disguised cried 
+betrays disguises cries 
+
+capabilities utilities hostilities 
+capability utility hostility 
+
+pretending annoying haunting 
+pretended annoyed haunted 
+
+depicting reflecting rejecting 
+depiction reflection rejection 
+
+mapping tapping whipping 
+mapped tapped whipped 
+
+pancakes desserts biscuits 
+pancake dessert biscuit 
+
+crying annoying noticing 
+cried annoyed noticed 
+
+crying begging embarrassing 
+cried begged embarrassed 
+
+crying laughing frightening 
+cried laughed frightened 
+
+owed taxed privileged 
+owes taxes privileges 
+
+bending tending intending 
+bends tends intends 
+
+chewing rubbing dragging 
+chewed rubbed dragged 
+
+terminator termination terminating 
+coordinator coordination coordinating 
+
+simulation stimulation manipulation 
+simulate stimulate manipulate 
+
+bumps lumps chimneys 
+bump lump chimney 
+
+pressures presses stresses 
+pressured pressed stressed 
+
+physiological biochemical anatomical 
+physiologist biochemist anatomist 
+
+lobsters oysters roosters 
+lobster oyster rooster 
+
+lobsters hamsters eaters 
+lobster hamster eater 
+
+brakes axles paddles 
+brake axle paddle 
+
+logging rigging dragging 
+logged rigged dragged 
+
+floats sucks sprays 
+floated sucked sprayed 
+
+oyster hamster woodpecker 
+oysters hamsters woodpeckers 
+
+consulting insulting accusing 
+consulted insulted accused 
+
+confessed kissed begged 
+confesses kisses begs 
+
+
+
+
+
+
+
+
+
+saturated dehydrated intoxicated 
+saturation dehydration intoxication 
+
+coordinated terminated culminated 
+coordinating terminating culminating 
+
+
+
+kisses cries heals 
+kissed cried healed 
+
+
+
+anarchists feminists creationists 
+anarchism feminism creationism 
+
+roasted tasted disgusted 
+roasting tasting disgusting 
+
+
+
+conservation conservatory conserved 
+observation observatory observed 
+
+travelled travelling traveller 
+traveled traveling traveler 
+
+abuse abused abusive 
+addiction addicted addictive 
+
+
+
+
+
+
+
+
+
+
+
+rescue rescues rescuers 
+kidnap kidnaps kidnappers 
+
+understanding explaining realizing 
+understood explained realized 
+
+
+
+
+
+translation quotation imitation 
+translations quotations limitations 
+
+shaped curved curled 
+shapes curves curls 
+
+disaster disasters disastrous 
+hazard hazards hazardous 
+
+
+
+church baptist jesuit 
+churches baptists jesuits 
+
+served serve serves 
+reserved reserve reserves 
+
+served conserved deserved 
+serve conserve deserve 
+
+
+
+
+
+
+
+needed proceeded exceeded 
+needing proceeding exceeding 
+
+code coding coded 
+encode encoding encoded 
+
+albums singles billboards 
+album's single's billboard's 
+
+
+
+
+
+sweden swedish sweden's 
+norway norwegian norway's 
+
+sweden finland iceland 
+sweden's finland's iceland's 
+
+
+
+success succession successive 
+recess recession recessive 
+
+raised praised commented 
+raising praising commenting 
+
+author authors author's 
+poet poets poet's 
+
+kill kills killings 
+shoot shoots shootings 
+
+kill killing killers 
+shoot shooting shooters 
+
+leave enter exit 
+leaving entering exiting 
+
+rivers drivers constructors 
+river's driver's constructor's 
+
+
+asked asks asking 
+convinced convinces convincing 
+
+asked promised advised 
+asks promises advises 
+
+asked answered wondered 
+asking answering wondering 
+
+boy boys boy's 
+girl girls girl's 
+
+port ports ported 
+export exports exported 
+
+constitution constitutions constituted 
+institution institutions instituted 
+
+constitution constitute constitutes 
+institution institute institutes 
+
+orchestra orchestras orchestration 
+conductor conductors conduction 
+
+
+
+organization organizations organizing 
+organisation organisations organising 
+
+organization urbanization characterization 
+organized urbanized characterized 
+
+organization organisation organised 
+reorganization reorganisation reorganised 
+
+organization organizes organizers 
+organisation organises organisers 
+
+organization organized organize 
+organisation organised organise 
+
+destroyed damaged repaired 
+destroying damaging repairing 
+
+destroyed ruined mined 
+destroying ruining mining 
+
+destroyed abandoned retreated 
+destroying abandoning retreating 
+
+
+
+dance dancer danced 
+choreography choreographer choreographed 
+
+thought think thinking 
+considered consider considering 
+
+term describe prescribe 
+termed described prescribed 
+
+songs singles billboards 
+song's single's billboard's 
+
+light lights lighting 
+sight sights sighting 
+
+wanted invited disappointed 
+wanting inviting disappointing 
+
+wanted attempted prompted 
+wanting attempting prompting 
+
+
+
+night nights night's 
+knight knights knight's 
+
+
+
+students colleges institutes 
+student's college's institute's 
+
+
+
+chemical biochemical anatomical 
+chemist biochemist anatomist 
+
+divided split merged 
+divides splits merges 
+
+directed corrected dissected 
+direction correction dissection 
+
+directed corrected objected 
+directions corrections objections 
+
+signed agreed promised 
+signing agreeing promising 
+
+
+
+
+
+
+
+established merged reformed 
+establishing merging reforming 
+
+independent dependent correspondent 
+independence dependence correspondence 
+
+tried ordered bordered 
+trying ordering bordering 
+
+michael andrew patrick 
+michael's andrew's patrick's 
+
+told wondered wandered 
+telling wondering wandering 
+
+described description descriptions 
+prescribed prescription prescriptions 
+
+
+
+ireland scotland cornwall 
+irish scottish cornish 
+
+available accessible compatible 
+availability accessibility compatibility 
+
+generally specially locally 
+generalized specialized localized 
+
+nations federations considerations 
+nation federation consideration 
+
+tells knows pretends 
+telling knowing pretending 
+
+constitution prostitution substitution 
+constitutes prostitutes substitutes 
+
+orchestra orchestras orchestral 
+choir choirs choral 
+
+orchestra quartet oboe 
+orchestras quartets oboes 
+
+destroyed abandoned resumed 
+destroy abandon resume 
+
+
+
+involved participated anticipated 
+involvement participation anticipation 
+
+religion faith doctrine 
+religions faiths doctrines 
+
+scientists scientist scientifically 
+economists economist economically 
+
+moon moons moon's 
+planet planets planet's 
+
+
+
+object objective objected 
+subject subjective subjected 
+
+forced attempted convinced 
+forcing attempting convincing 
+
+composer composers composing 
+conductor conductors conducting 
+
+egypt greece persia 
+egyptians greeks persians 
+
+note notes noted 
+denote denotes denoted 
+
+note notes noted 
+quote quotes quoted 
+
+distance distances distantly 
+instance instances instantly 
+
+brothers fathers mothers 
+brother's father's mother's 
+
+objects subjects rejects 
+objected subjected rejected 
+
+taught teaching teachers 
+practiced practicing practitioners 
+
+influence interest importance 
+influenced interested important 
+
+attacked captured escaped 
+attacking capturing escaping 
+
+attacked backed lacked 
+attacking backing lacking 
+
+computers compute computed 
+calculators calculate calculated 
+
+computers computing computation 
+calculators calculating calculation 
+
+saying statement commitment 
+sayings statements commitments 
+
+justice justices justified 
+judge judges judged 
+
+store stored storing 
+restore restored restoring 
+
+construction demolition refurbishment 
+constructed demolished refurbished 
+
+
+
+provide promote prompt 
+providing promoting prompting 
+
+count counted counting 
+account accounted accounting 
+
+describe prescribe scribe 
+descriptions prescriptions scripts 
+
+
+
+influenced influences influencing 
+experienced experiences experiencing 
+
+harry potter tolkien 
+harry's potter's tolkien's 
+
+singing performing entertaining 
+singers performers entertainers 
+
+agreed agreements agreeing 
+negotiated negotiations negotiating 
+
+controlled controller controlling 
+rolled roller rolling 
+
+engineering aviation navigation 
+engineer aviator navigator 
+
+stated statement statements 
+argued argument arguments 
+
+required require requirements 
+recommended recommend recommendations 
+
+required recommended requested 
+requirement recommendation request 
+
+arrested committed accused 
+arresting committing accusing 
+
+journalist journalism journalistic 
+realist realism realistic 
+
+journalist nationalist zionist 
+journalism nationalism zionism 
+
+american americans america's 
+canadian canadians canada's 
+
+american americans america's 
+african africans africa's 
+
+american african asian 
+america africa asia 
+
+movie film kubrick 
+movie's film's kubrick's 
+
+national international rational 
+nationale internazionale rationale 
+
+make makes makers 
+produce produces producers 
+
+album band coldplay 
+album's band's coldplay's 
+
+said stated imitated 
+saying stating imitating 
+
+york chicago boston 
+york's chicago's boston's 
+
+german germans germany's 
+norwegian norwegians norway's 
+
+germany belgium norway 
+germans belgians norwegians 
+
+making speaking breaking 
+makers speakers breakers 
+
+light lights lighting 
+highlight highlights highlighting 
+
+
+
+wanted intended pretended 
+wanting intending pretending 
+
+china chinese china's 
+korea korean korea's 
+
+average beverage calorie 
+averages beverages calories 
+
+storm depression disturbance 
+storms depressions disturbances 
+
+sent ordered murdered 
+sending ordering murdering 
+
+
+
+elected voted debated 
+electing voting debating 
+
+writer writers writings 
+translator translators translations 
+
+writer poet biographer 
+writing poetry biography 
+
+helped tried promised 
+helps tries promises 
+
+helped helps helpers 
+managed manages managers 
+
+robert robertson robert's 
+stephen stephenson stephen's 
+
+think argue criticize 
+thinking arguing criticizing 
+
+chemical chemists chemically 
+biological biologists biologically 
+
+directed acted contacted 
+directs acts contacts 
+
+directed acted attracted 
+directing acting attracting 
+
+signed signs signing 
+assigned assigns assigning 
+
+discovered covered surrounded 
+discovering covering surrounding 
+
+established reformed transformed 
+establishing reforming transforming 
+
+david stephen harold 
+david's stephen's harold's 
+
+tried persuaded wished 
+tries persuades wishes 
+
+education enrollment accreditation 
+educated enrolled accredited 
+
+
+
+
+described mentioned questioned 
+describing mentioning questioning 
+
+
+
+awarded regarded boarded 
+awarding regarding boarding 
+
+awarded guarded beheaded 
+awarding guarding beheading 
+
+african rican argentinian 
+africa's rica's argentina's 
+
+african asian indonesian 
+africa's asia's indonesia's 
+
+scotland scottish scotland's 
+norway norwegian norway's 
+
+nominated eliminated discriminated 
+nomination elimination discrimination 
+
+
+
+institute institution institutes 
+prostitute prostitution prostitutes 
+
+americans cubans brazilians 
+america's cuba's brazil's 
+
+americans europeans italians 
+america's europe's italy's 
+
+piano percussion clarinet 
+pianist percussionist clarinetist 
+
+training trained trainers 
+learning learned learners 
+
+heat heating emitting 
+cheat cheating admitting 
+
+austria bavaria bohemia 
+austrian bavarian bohemian 
+
+officer commander legion 
+officers commanders legions 
+
+widely widespread widest 
+rarely rare rarest 
+
+failure lure pasture 
+failures lures pastures 
+
+competition repetition cognition 
+competitive repetitive cognitive 
+
+listed consisted resisted 
+listing consisting resisting 
+
+historical geographical biographical 
+historian geographer biographer 
+
+poet poets poetic 
+scholar scholars scholastic 
+
+file profile smile 
+files profiles smiles 
+
+painting pointing disappointing 
+painted pointed disappointed 
+
+dog dogs dog's 
+horse horses horse's 
+
+graduated graduate graduation 
+educated educate education 
+
+ordered attempted hoped 
+ordering attempting hoping 
+
+serving serves servers 
+observing observes observers 
+
+beautiful proud gentle 
+beautifully proudly gently 
+
+agreed convinced disappointed 
+agreeing convincing disappointing 
+
+module mod gadget 
+modules mods gadgets 
+
+sense sensation aspiration 
+senses sensations aspirations 
+
+meeting meets meetings 
+arrival arrives arrivals 
+
+liquid solvent reagent 
+liquids solvents reagents 
+
+philosophy philosophers philosophical 
+psychology psychologists psychological 
+
+candidate nomination oscar 
+candidates nominations oscars 
+
+writers readers wonders 
+writer's reader's wonder's 
+
+steel reel eel 
+steels reels eels 
+
+nominated nomination nominate 
+dominated domination dominate 
+
+pope popes pope's 
+bishop bishops bishop's 
+
+committee commission commitment 
+committees commissions commitments 
+
+jewish israeli palestinian 
+jews israelites palestinians 
+
+fighting sighting highlighting 
+fights sights highlights 
+
+fighting fighter fights 
+lighting lighter lights 
+
+defeated defeating undefeated 
+beaten beating unbeaten 
+
+defeated defeating defeats 
+battled battling battles 
+
+defeated battled besieged 
+defeat battle siege 
+
+addition edition expedition 
+additions editions expeditions 
+
+involved involves involving 
+revolved revolves revolving 
+
+involved solved resolved 
+involving solving resolving 
+
+involved focused relied 
+involves focuses relies 
+
+institute institutional instituted 
+constitute constitutional constituted 
+
+owned purchased acquired 
+owning purchasing acquiring 
+
+scientists scientist scientifically 
+mathematicians mathematician mathematically 
+
+scientists biologists geologists 
+scientifically biologically geologically 
+
+stopped topped whipped 
+stopping topping whipping 
+
+stopped dropped stepped 
+stopping dropping stepping 
+
+moon planet neptune 
+moon's planet's neptune's 
+
+shot stabbed grabbed 
+shooting stabbing grabbing 
+
+towards outwards inwards 
+toward outward inward 
+
+marriage marriages marrying 
+carriage carriages carrying 
+
+object objects objected 
+subject subjects subjected 
+
+forced reinforced enforced 
+forcing reinforcing enforcing 
+
+forced refused demanded 
+forcing refusing demanding 
+
+forced attempted prompted 
+forcing attempting prompting 
+
+further farther colder 
+furthest farthest coldest 
+
+castle fortress fortification 
+castles fortresses fortifications 
+
+composer violinist soloist 
+composers violinists soloists 
+
+effect affect defect 
+effects affects defects 
+
+swedish norwegian finnish 
+swedes norwegians finns 
+
+revolution revolutionary revolved 
+evolution evolutionary evolved 
+
+revolution revolving revolve 
+evolution evolving evolve 
+
+1970s 1980s 1950s 
+mid-1970s mid-1980s mid-1950s 
+
+northwest northeast northwestern 
+south-west south-east south-western 
+
+matches matching matched 
+hatches hatching hatched 
+
+press pressed pressing 
+suppress suppressed suppression 
+
+philosophy sociology palaeontology 
+philosophers sociologists palaeontologists 
+
+ends spends tends 
+ending spending tending 
+
+candidate delegate legislator 
+candidates delegates legislatures 
+
+defense defendant conviction 
+defenses defendants convictions 
+
+bishop bishops bishop's 
+priest priests priestess 
+
+particles atoms molecules 
+particle atom molecule 
+
+sell purchase lease 
+selling purchasing leasing 
+
+treated cheated insulted 
+treating cheating insulting 
+
+faster heavier rarer 
+fastest heaviest rarest 
+
+depending spending enjoying 
+depends spends enjoys 
+
+affected dissected subdued 
+affection dissection subduction 
+
+affected damaged devastated 
+affecting damaging devastating 
+
+suffered suffering suffers 
+recovered recovering recovers 
+
+egyptian israeli iraqi 
+egypt's israel's iraq's 
+
+anne jane elizabethan 
+anne's jane's elizabeth's 
+
+wrong correct incorrect 
+wrongly correctly incorrectly 
+
+afghanistan syria assyria 
+afghans syrians assyrians 
+
+default fault vault 
+defaults faults vaults 
+
+compete competing competitors 
+participate participating participants 
+
+radiation ionization polarization 
+radiated ionized polarized 
+
+romantic dramatic theatrical 
+romantically dramatically theatrically 
+
+governments parliaments monarchies 
+government's parliament's monarch's 
+
+refused refuse refusing 
+convinced convince convincing 
+
+refused persuaded disappointed 
+refusal persuasion disappointment 
+
+refused promised fulfilled 
+refuse promise fulfill 
+
+invasion invade invading 
+occupation occupy occupying 
+
+invasion evasion expulsion 
+invade evade expel 
+
+invasion occupation annexation 
+invaded occupied annexed 
+
+conflict conflicts conflicting 
+struggle struggles struggling 
+
+mentioned documented commented 
+mentions documents comments 
+
+ceremony celebration carnival 
+ceremonies celebrations carnivals 
+
+additional additions additive 
+positional positions positive 
+
+organizations agencies corporations 
+organization's agency's corporation's 
+
+sisters sister's sister-in-law 
+fathers father's father-in-law 
+
+punjab kashmir bihar 
+punjabi kashmiri bihari 
+
+dancing fencing archery 
+dancer fencer archer 
+
+talking walking stalking 
+talks walks stalks 
+
+fantasy adventure venture 
+fantasies adventures ventures 
+
+speaker loudspeaker breaker 
+speakers loudspeakers breakers 
+
+thinking liking biking 
+thinks likes bikes 
+
+thinking seeing waking 
+thinks sees wakes 
+
+twenty sixty seventy 
+twenties sixties seventies 
+
+relations conflicts negotiations 
+relating conflicting negotiating 
+
+biology microbiology pharmacology 
+biologist microbiologist pharmacist 
+
+wine vine grape 
+wines vines grapes 
+
+gallery sculpture jewellery 
+galleries sculptures jewels 
+
+answer ask convince 
+answered asked convinced 
+
+neck ligament filament 
+necks ligaments filaments 
+
+committed harassed interrogated 
+commitment harassment interrogation 
+
+farming farmers farmed 
+planting planters planted 
+
+farming planting gardening 
+farmer planter gardener 
+
+explain explanation explaining 
+predict prediction predicting 
+
+explorer exploring explorations 
+discoverer discovering discoveries 
+
+father's grandfather father-in-law 
+daughter's granddaughter daughter-in-law 
+
+gain earn steal 
+gains earns steals 
+
+animation cinematography cartography 
+animator cinematographer cartographer 
+
+ukraine armenia albania 
+ukrainians armenians albanians 
+
+accused insulted disgusted 
+accusing insulting disgusting 
+
+phone email password 
+phones emails passwords 
+
+hungary estonia caledonia 
+hungarian estonian caledonian 
+
+drivers riders gliders 
+driving riding gliding 
+
+opponent fist wrist 
+opponents fists wrists 
+
+converted reverted reloaded 
+converting reverting reloading 
+
+skiing skating weightlifting 
+skier skater weightlifter 
+
+presidency inauguration reelection 
+presided inaugurated reelected 
+
+invited invite inviting 
+convinced convince convincing 
+
+granted trusted rewarded 
+grants trusts rewards 
+
+loved loves loving 
+cared cares caring 
+
+loved laughed apologized 
+loves laugh apologize 
+
+talks walks sleeps 
+talked walked slept 
+
+effective respective collective 
+effectively respectively collectively 
+
+pianist cellist clarinetist 
+pianos cellos clarinets 
+
+abuse abortion miscarriage 
+abuses abortions miscarriages 
+
+mechanical dynamic cosmological 
+mechanics dynamics cosmology 
+
+distributed distributors distributing 
+contributed contributors contributing 
+
+distributed distributions distributor 
+contributed contributions contributor 
+
+heavily heavier heaviest 
+strongly stronger strongest 
+
+artificial unofficial colloquial 
+artificially unofficially colloquially 
+
+syria syrian syrians 
+palestine palestinian palestinians 
+
+defense guard bodyguard 
+defenses guards bodyguards 
+
+prevent prevents preventing 
+remove removes removing 
+
+mexican mexicans mexico's 
+cuban cubans cuba's 
+
+renamed merged reformed 
+renaming merging reforming 
+
+treated retreated starved 
+treating retreating starving 
+
+liberal libertarian anarchist 
+liberals libertarians anarchists 
+
+longest shortest lengths 
+strongest weakest strengths 
+
+proposed imposed exercised 
+proposing imposing exercising 
+
+universities academies ecoles 
+universite academie ecole 
+
+corporation subsidiary shareholder 
+corporations subsidies shareholders 
+
+commander surrender invader 
+commanded surrendered invaded 
+
+electrical electromagnetism electrically 
+mechanical mechanics mechanically 
+
+bangladesh nepal myanmar 
+bangladeshi nepalese burmese 
+
+aired paired repaired 
+airing pairing repairing 
+
+molecules protons isotopes 
+molecule proton isotope 
+
+suggested indicated mutated 
+suggestions indications mutations 
+
+inspired commented debated 
+inspiring commenting debating 
+
+expected expectations expects 
+predicted predictions predicts 
+
+distribution distributed distributors 
+contribution contributed contributors 
+
+hitler stalin tsar 
+hitler's stalin's tsar's 
+
+bear wolf werewolf 
+bears wolves werewolves 
+
+extended intended enabled 
+extending intending enabling 
+
+succeeded proceeded seceded 
+succession procession secession 
+
+priest monk jesuit 
+priests monks jesuits 
+
+punjab sindh bihar 
+punjabi sindhi bihari 
+
+necessary essential substantial 
+necessarily essentially substantially 
+
+hunting hunted hunters 
+counting counted counters 
+
+questions debates advocates 
+questioned debated advocated 
+
+twenty seventy ninety 
+twenties seventies nineties 
+
+signal signature designation 
+signals signatures designations 
+
+socialist libertarian atheist 
+socialists libertarians atheists 
+
+biology genetics aesthetics 
+biologically genetically aesthetically 
+
+identified surveyed mapped 
+identifying surveying mapping 
+
+academic scholar researcher 
+academics scholars researchers 
+
+statue pyramid pharaoh 
+statues pyramids pharaohs 
+
+walking walked walkers 
+climbing climbed climbers 
+
+challenge elimination domination 
+challenging eliminating dominating 
+
+equation theorem boson 
+equations theorems bosons 
+
+ukraine lithuania bohemia 
+ukrainian lithuanian bohemian 
+
+visible accessible readable 
+visibility accessibility readability 
+
+accused accuse accusing 
+blamed blame blaming 
+
+accused abused insulted 
+accusing abusing insulting 
+
+experiment experimented experimenting 
+sample sampled sampling 
+
+rarely hardly loudly 
+rarer harder louder 
+
+satellite probe astronaut 
+satellites probes astronauts 
+
+organisation reorganization consolidation 
+organised reorganized consolidated 
+
+philosopher philosophers philosophical 
+linguist linguists linguistic 
+
+fear hate worry 
+feared hated worried 
+
+convicted imprisoned tortured 
+conviction imprisonment torture 
+
+transportation portage deportation 
+transported ported deported 
+
+distributed acquired rented 
+distributing acquiring renting 
+
+taxes privileges trustees 
+taxed privileged trusted 
+
+bomb explode erupt 
+bombings explosions eruptions 
+
+determined evaluated optimized 
+determination evaluation optimization 
+
+nepal lanka cambodia 
+nepalese lankan cambodian 
+
+conquered conquer conquering 
+fled flee fleeing 
+
+explained explanation explanations 
+predicted prediction predictions 
+
+arabia palestine assyria 
+arabs palestinians assyrians 
+
+escaped starved stared 
+escaping starving staring 
+
+lets sends arrives 
+letting sending arriving 
+
+investigation inspection coordination 
+investigator inspector coordinator 
+
+pulled collided drifted 
+pulling colliding drifting 
+
+pulled trapped sucked 
+pulling trapping sucking 
+
+pushed pushing pushes 
+thrown throwing throws 
+
+exposed excited exited 
+exposing exciting exiting 
+
+processing pressing dressing 
+processed pressed dressed 
+
+credited edited collaborated 
+creditors editors collaborators 
+
+lanka myanmar mozambique 
+lankan burmese mozambican 
+
+promised convinced surprised 
+promise convince surprise 
+
+promised wished cried 
+promises wishes cries 
+
+finance consultant supervisor 
+finances consultants supervisors 
+
+expressed progressed guessed 
+expresses progresses guesses 
+
+siege retreat recapture 
+besieged retreated recaptured 
+
+tiger badger dodger 
+tigers badgers dodgers 
+
+explained explanations explaining 
+examined examinations examining 
+
+escaped hid searched 
+escapes hides searches 
+
+lets sends pretends 
+letting sending pretending 
+
+punishment imprisonment conviction 
+punished imprisoned convicted 
+
+harder hardly hardness 
+louder loudly loudness 
+
+pushed slowed bowed 
+pushing slowing bowing 
+
+drawing depicting reflecting 
+drawings depictions reflections 
+
+obtained obtain obtaining 
+retained retain retaining 
+
+serbia lithuania bohemia 
+serbian lithuanian bohemian 
+
+budget expense expectation 
+budgets expenses expectations 
+
+expression oppression assimilation 
+expressed oppressed assimilated 
+
+expression aggression recession 
+expressive aggressive recessive 
+
+attacking destroying occupying 
+attackers destroyers occupants 
+
+promised demanded prompted 
+promising demanding prompting 
+
+promised convinced urged 
+promise convince urge 
+
+expressed pressed kissed 
+expressing pressing kissing 
+
+thrown lifted floated 
+throwing lifting floating 
+
+diplomat embassy hostage 
+diplomats embassies hostages 
+
+eliminated elimination eliminating 
+terminated termination terminating 
+
+abandoned ruined drained 
+abandoning ruining draining 
+
+buddhism hinduism sikhism 
+buddhists hindus sikhs 
+
+europeans africans cubans 
+europe's africa's cuba's 
+
+installed stalled stacked 
+install stall stack 
+
+originated dominated culminated 
+originating dominating culminating 
+
+infections injections addictions 
+infected injected addicted 
+
+explosion explosions exploded 
+eruption eruptions erupted 
+
+engineers pioneers inventors 
+engineered pioneered invented 
+
+coral reef shipwreck 
+corals reefs shipwrecks 
+
+sixteen sixty sixties 
+nineteen ninety nineties 
+
+geographical geographically geographers 
+economical economically economists 
+
+geographical geographer geographers 
+botanical botanist botanists 
+
+witch stitch stump 
+witches stitches stumps 
+
+markets exports imports 
+marketed exported imported 
+
+encouraged persuaded confronted 
+encouragement persuasion confrontation 
+
+terrorist militant insurgent 
+terrorists militants insurgents 
+
+pitch pitched pitches 
+pit pitted pits 
+
+spelling idiom morpheme 
+spellings idioms morphemes 
+
+inventor inventing inventors 
+maker making makers 
+
+shoulder toe spike 
+shoulders toes spikes 
+
+participate participating participation 
+invite inviting invitation 
+
+isolated assimilated correlated 
+isolation assimilation correlation 
+
+ports exports extracts 
+ported exported extracted 
+
+bombing evacuation renovation 
+bombed evacuated renovated 
+
+arabian syrian assyrian 
+arabs syrians assyrians 
+
+photographer photography photographic 
+biographer biography biographical 
+
+publications journals commentaries 
+publicist journalist commentator 
+
+theology calvinism evangelism 
+theologian calvinist evangelist 
+
+trapped wrecked floated 
+trapping wrecking floating 
+
+hoped convinced persuaded 
+hopes convinces persuades 
+
+dominated emerged thrived 
+dominating emerging thriving 
+
+decimal exponent derivative 
+decimals exponents derivatives 
+
+algeria siberia eurasia 
+algerian siberian eurasian 
+
+strengthened dissipated devastated 
+strengthening dissipating devastating 
+
+baptist baptism baptists 
+preacher preach preachers 
+
+upgraded updated uploaded 
+upgrading updating uploading 
+
+crater glacier sediment 
+craters glaciers sediments 
+
+nationalist nationalism nationalists 
+feminist feminism feminists 
+
+congo ghana namibia 
+congolese ghanaian namibian 
+
+sticks wraps flaps 
+sticking wrapping flapping 
+
+interpretation integration implementation 
+interpreting integrating implementing 
+
+discussed discussions discussing 
+commented comments commenting 
+
+discussed debated advocated 
+discusses debates advocates 
+
+calculated computed optimized 
+calculation computation optimization 
+
+calculated evaluated analysed 
+calculation evaluation analysis 
+
+
+
+requirements supplements suppliers 
+requirement supplement supplier 
+
+engaged staged screened 
+engaging staging screening 
+
+sitting waiting letting 
+sit wait let 
+
+physicist anthropologist paleontologist 
+physicists anthropologists palaeontologists 
+
+eliminated culminated feuded 
+eliminating culminating feuding 
+
+praised improvised imitated 
+praise improvise imitate 
+
+originated emerged thrived 
+originating emerging thriving 
+
+tunnel ditch chimney 
+tunnels ditches chimneys 
+
+repeated reversed reverted 
+repeating reversing reverting 
+
+rejected denied permitted 
+rejecting denying permitting 
+
+purchased rented paved 
+purchasing renting paving 
+
+voltage volt resistor 
+voltages volts resistors 
+
+descendants migrants emigrants 
+descended migrated emigrated 
+
+bulgaria iberia assyria 
+bulgarian iberian assyrian 
+
+shoes gloves baskets 
+shoe glove basket 
+
+loud louder loudly 
+quiet quieter quietly 
+
+mozart handel mendel 
+mozart's handel's mendel's 
+
+sultan mughal vassal 
+sultans mughals vassals 
+
+reformed reformer reformers 
+transformed transformer transformers 
+
+reformed transformed deformed 
+reformation transformation deformation 
+
+ticket fee payment 
+tickets fees payments 
+
+favor favorable favored 
+favour favourable favoured 
+
+grandson son-in-law stepson 
+grandmother mother-in-law stepmother 
+
+arabian syrian albanian 
+arabs syrians albanians 
+
+occasions exceptions fractions 
+occasional exceptional fractional 
+
+tasks risks avoids 
+tasked risked avoided 
+
+probability quantity fraction 
+probabilities quantities fractions 
+
+bow elbow hinge 
+bows elbows hinges 
+
+jumping camping fencing 
+jumped camped fenced 
+
+jumping jumped jumper 
+climbing climbed climber 
+
+radical feminist unionist 
+radicals feminists unionists 
+
+economist geographer statistician 
+economical geographical statistical 
+
+albania estonia caledonia 
+albanian estonian caledonian 
+
+computing compute computations 
+calculating calculate calculations 
+
+trapped pumped drilled 
+trapping pumping drilling 
+
+disappeared disappointed annoyed 
+disappearing disappointing annoying 
+
+worried hated bullied 
+worries hates bullies 
+
+deck wreck yacht 
+decks wrecks yachts 
+
+nationalist realist futurist 
+nationalistic realistic futuristic 
+
+dried drier driest 
+cooled cooler coolest 
+
+calculated calculate calculates 
+accumulated accumulate accumulates 
+
+calculated accumulated insulated 
+calculators accumulators insulators 
+
+invented existed evolved 
+invention existence evolution 
+
+solutions solving solves 
+revolutions revolving revolves 
+
+dressed pressed stressed 
+dresses presses stresses 
+
+dressed blessed worshiped 
+dressing blessing worshipping 
+
+debt investment shareholder 
+debts investments shareholders 
+
+mercia northumbria anglia 
+mercian northumbrian anglian 
+
+gathered marched retreated 
+gathering marching retreating 
+
+aggressive impressive passive 
+aggression impression passion 
+
+nineteenth eleventh fourteenth 
+nineteen eleven fourteen 
+
+nineteenth twelfth eighteenth 
+nineteen twelve eighteen 
+
+sailors mariners harbors 
+sailor mariner harbor 
+
+beethoven chopin mahler 
+beethoven's chopin's mahler's 
+
+beethoven strauss handel 
+beethoven's strauss's handel's 
+
+kidnapped tortured prosecuted 
+kidnapping torture prosecution 
+
+communism socialism feminism 
+communists socialists feminists 
+
+uprising raiding rioting 
+uprisings raids riots 
+
+portrayed depicted pictured 
+portrayal depiction picture 
+
+portrayed dubbed rubbed 
+portraying dubbing rubbing 
+
+toll atoll cay 
+tolls atolls cays 
+
+rotation polarization generalization 
+rotated polarized generalized 
+
+buying buyers commodities 
+supplying suppliers supplements 
+
+buying banking employing 
+buyers bankers employers 
+
+convinced convince convinces 
+urged urge urges 
+
+convinced persuaded advised 
+convince persuade advise 
+
+ignored disappointed embarrassed 
+ignoring disappointing embarrassing 
+
+planted cultivated pollinated 
+planters cultivators pollinators 
+
+colonists separatists fascists 
+colonialism separatism fascism 
+
+knee toe paw 
+knees toes pawns 
+
+dictator spectator gladiator 
+dictators spectators gladiators 
+
+payment pension expense 
+payments pensions expenses 
+
+macedonia silesia frisia 
+macedonian silesian frisian 
+
+cooperation affiliation accreditation 
+cooperated affiliated accredited 
+
+
+
+accumulator accumulators accumulates 
+calculator calculators calculates 
+
+accumulator accumulators accumulation 
+insulator insulators insulation 
+
+accumulator insulator resistor 
+accumulated insulated resisted 
+
+boiling melting squeezing 
+boiled melted squeezed 
+
+cleaning clearing ruining 
+cleaned cleared ruined 
+
+detected detects detectives 
+objected objects objectives 
+
+organist violinist tenor 
+organists violinists tenors 
+
+gifts crafts drafts 
+gifted crafted drafted 
+
+kidnapped robbed grabbed 
+kidnapping robbing grabbing 
+
+revolt riot patriot 
+revolts riots patriots 
+
+drops pushes blows 
+dropping pushing blowing 
+
+convinced persuaded pursued 
+convince persuade pursue 
+
+serbian albanian frisian 
+serbs albanians frisians 
+
+volunteers volunteer volunteered 
+recruits recruit recruited 
+
+interaction integration coordination 
+interacting integrating coordinating 
+
+throwing pushing flashing 
+throws pushes flashes 
+
+tuscany sardinia corsica 
+tuscan sardinian corsican 
+
+nuts peanuts desserts 
+nut peanut dessert 
+
+mixing boiling filling 
+mixer boiler filler 
+
+significantly consequently reluctantly 
+significance consequence reluctance 
+
+journalism nationalism conservatism 
+journalists nationalists conservatives 
+
+
+
+sacrifice crucifixion martyrdom 
+sacrificed crucified martyred 
+
+
+
+
+
+flavor flavour salty 
+flavored flavoured salted 
+
+
+
+
+
+requested checked clicked 
+requesting checking clicking 
+
+restrictions restriction restrictive 
+protections protection protective 
+
+
+
+addiction injection intoxication 
+addicted injected intoxicated 
+
+bedford gloucester buckingham 
+bedfordshire gloucestershire buckinghamshire 
+
+banking banker bankers 
+employing employer employers 
+
+
+
+loaded loads loading 
+downloaded downloads downloading 
+
+gaining maintaining retaining 
+gains maintains retains 
+
+strauss stravinsky mussorgsky 
+strauss's stravinsky's mussorgsky's 
+
+
+
+
+
+
+
+
+
+
+evaporation absorption saturation 
+evaporates absorbs saturated 
+
+speculation speculated speculative 
+motivation motivated motive 
+
+north-west south-west east-west 
+northerly southerly easterly 
+
+indicated indicted corrupted 
+indication indictment corruption 
+
+
+
+
+
+siberia iberia frisia 
+siberian iberian frisian 
+
+
+
+
+
+
+
+
+
+
+bowing slowing drifting 
+bowed slowed drifted 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ionization polarization generalization 
+ionized polarized generalized 
+
+kicking sticking locking 
+kicker sticker locker 
+
+
+
+conductivity conduction conductive 
+productivity production productive 
+
+
+
+british-american italian-american polish-american 
+british-born italian-born polish-born 
+
+symbolism romanticism classicism 
+symbolically romantically classically 
+
+
+
+polarization characterization categorization 
+polarized characterized categorized 
+
+
+
+separatists extremists fascists 
+separatist extremist fascist 
+
+doughnuts coconuts almonds 
+doughnut coconut almond 
+
+romanization urbanization characterization 
+romanized urbanized characterized 
+
+
+rapping wrapping whipping 
+rapped wrapped whipped 
+
+knocking locking stockings 
+knocks locks stocks 
+
+
+
+babylonians assyrians ethiopians 
+babylonia assyria ethiopia 
+
+
+
+phonemes pronunciations morphemes 
+phoneme pronunciation morpheme 
+
+
+
+halides alkenes carbocations 
+halide alkene carbocation 
+
+stimulant opioid antidepressant 
+stimulants opioids antidepressants 
+
+
+
+
+
+
+
+
+
+
+
+
+have their them 
+had his him 
+
+louder softer tighter 
+loudly softly tightly 
+
+
+boiled boil boils 
+coiled coil coils 
+
+arches searches surveys 
+arched searched surveyed 
+
+consequence reluctance willingness 
+consequently reluctantly willingly 
+
+
+muslims christians catholics 
+islam christianity catholicism 
+
+
+
+#----------------------
+# correct - intersting
+#----------------------
+
+punished commit punish 
+forgiven confess forgive 
+
+cars drivers driving 
+bicycles cyclists riding 
+
+went came stayed 
+sent brought kept 
+
+water silt humus 
+evaporation weathering decomposition 
+
+
+
+color colors coloration 
+colour colours colouration 
+
+color colored colorless 
+colour coloured colourless 
+
+
+#----------------------
+# verbs
+#----------------------
+
+
+
+
+
+#----------------------
+# verbs - nouns
+#---------------------
+
+
+fortified excavated reconstructed 
+fortification excavation reconstruction 
+
+retirement resignation abdication 
+retire resign abdicate 
+
+written write verse 
+sung sing chorus 
+
+invasion bombing evacuation 
+invaded bombed evacuated 
+
+announced decided promised 
+announcement decision promise 
+
+development developing develops 
+growth growing grows 
+
+development growth migration 
+develop grow migrate 
+
+teaching learning communication 
+teach learn communicate 
+
+criticized praised admired 
+criticism praise admiration 
+
+defeated invaded annexed 
+defeat invasion annexation 
+
+reported estimated measured 
+reports estimates measurements 
+
+rape robbery kidnapping 
+raped robbed kidnapped 
+
+burning explosion collision 
+burn explode collide 
+
+abuse addiction bullying 
+abused addicted bullied 
+
+measure calculate predict 
+measurements calculations predictions 
+
+ranked rated certified 
+ranking rating certification 
+
+read learn understand 
+reading learning understanding 
+
+developed established restored 
+development establishment restoration 
+
+appeared performed recorded 
+appearances performances recordings 
+
+damage flooding erosion 
+damaged flooded eroded 
+
+rule occupation colonization 
+ruled occupied colonized 
+
+discovered discovery discovering 
+invented invention inventing 
+
+
+
+
+
+
+
+acting performing conducting 
+actors performers conductors 
+
+
+
+level speed depth 
+higher faster deeper 
+
+italian argentine chilean 
+italy argentina chile 
+
+
+
+
+
+done performed sung 
+doing performing singing 
+
+attack invasion occupation 
+attacked invaded occupied 
+
+attack retreat evacuation 
+attacked retreated evacuated 
+
+produced directed choreographed 
+producer filmmaker choreographer 
+
+art literature translations 
+exhibitions publications editions 
+
+battle invasion siege 
+fought invaded besieged 
+
+killed injured wounded 
+killing injuring wounding 
+
+australia canada mexico 
+australians canadians mexicans 
+
+take throw knock 
+taken thrown knocked 
+
+worked acted sang 
+working acting singing 
+
+worked travelled walked 
+working travelling walking 
+
+thought think thinks 
+seen see sees 
+
+
+
+
+
+
+
+
+
+work worked working 
+study studied studying 
+
+use using uses 
+create creating creates 
+
+use using uses 
+combine combining combines 
+
+do use give 
+done used given 
+
+died murdered assassinated 
+death murder assassination 
+
+
+created creation creating 
+developed development developing 
+
+
+
+
+killed kidnapped abducted 
+killing kidnapping abduction 
+
+
+political governmental organizational 
+politicians governments organizations 
+
+
+
+produced developed redeveloped 
+production development redevelopment 
+
+attack attacked attackers 
+defend defended defenders 
+
+china mongolia tajikistan 
+chinese mongolian tajik 
+
+
+russian moldovan tajik 
+russia moldova tajikistan 
+
+research genetics neurology 
+researcher geneticist neurologist 
+
+
+
+writing writers essays 
+editing editors articles 
+
+involved involving involve 
+revolved revolving revolve 
+
+
+
+republican libertarian anarchist 
+republicans libertarians anarchists 
+
+composer organist cellist 
+composers organists cellists 
+
+
+
+
+
+reviews reviewed reviewing 
+views viewed viewing 
+
+presidential presidency presidents 
+residential residency residents 
+
+
+
+honor honors honorable 
+honour honours honourable 
+
+bbc nbc abc 
+bbc's nbc's abc's 
+
+
+
+brazil angola namibia 
+brazilian angolan namibian 
+
+associated associate associates 
+affiliated affiliate affiliates 
+
+physics astrophysics microbiology 
+physicist astrophysicist microbiologist 
+
+protect preserve reconstruct 
+protection preservation reconstruction 
+
+historical geographical botanical 
+historians geographers botanists 
+
+historical archaeological archeological 
+historians archaeologists archeologists 
+
+guitar drums keyboards 
+guitarist drummer keyboardist 
+
+operating operational operative 
+cooperating cooperation cooperative 
+
+protection protecting protective 
+detection detecting detective 
+
+protection protects protectors 
+detection detects detectors 
+
+engineering engineers engineered 
+pioneering pioneers pioneered 
+
+arrested convicted prosecuted 
+arrests convictions prosecutions 
+
+defense defensive defenses 
+offense offensive offenses 
+
+defense defended defenders 
+offense offended offenders 
+
+
+
+
+
+mathematics biochemistry microbiology 
+mathematician biochemist microbiologist 
+
+conservative nationalist separatist 
+conservatives nationalists separatists 
+
+conductor organist violinist 
+conductors organists violinists 
+
+bangladesh lanka cambodia 
+bangladeshi lankan cambodian 
+
+metres kilometres centimetres 
+meter kilometer centimeter 
+
+afghanistan syria tajikistan 
+afghans syrians tajiks 
+
+afghanistan azerbaijan armenia 
+afghans azerbaijanis armenians 
+
+norway romania ukraine 
+norwegians romanians ukrainians 
+
+daniel danielle daniela 
+gabriel gabrielle gabriela 
+
+
+
+
+argentina colombia bolivia 
+argentine colombian bolivian 
+
+philippines indonesia malaysia 
+philippine indonesian malaysian 
+
+oxford worcester hereford 
+oxfordshire worcestershire herefordshire 
+
+christianity protestantism anarchism 
+christians protestants anarchists 
+
+christianity buddhism hinduism 
+christians buddhists hindus 
+
+ranges ranging ranged 
+arranges arranging arranged 
+
+intended intends intending 
+tended tends tending 
+
+sunday saturday monday 
+sundays saturdays mondays 
+
+father's mother's daughter's 
+father-in-law mother-in-law daughter-in-law 
+
+ukraine tajikistan kurdistan 
+ukrainian tajik kurdish 
+
+murdered assassinated clashed 
+murders assassinations clashes 
+
+designer signer campaigner 
+designing signing campaigning 
+
+psychology genetics microbiology 
+psychologist geneticist microbiologist 
+
+biological geological archeological 
+biologists geologists archeologists 
+
+convicted prosecuted indicted 
+conviction prosecution indictment 
+
+immigrants migrants emigrants 
+immigration migration emigration 
+
+chloride chlorine chlorate 
+bromide bromine bromate 
+
+pushed thrown smashed 
+pushing throwing smashing 
+
+thirteen fourteen seventeen 
+thirteenth fourteenth seventeenth 
+
+thirteen sixteen eighteen 
+thirteenth sixteenth eighteenth 
+
+collections reflections selections 
+collective reflective selective 
+
+johann franz johannes 
+bach liszt brahms 
+
+expression expresses expressive 
+progression progresses progressive 
+
+expression expressionism expressionist 
+impression impressionism impressionist 
+
+expression expressed expressive 
+impression impressed impressive 
+
+credited credits creditors 
+edited edits editors 
+
+
+accounts accounting accounted 
+counts counting counted 
+
+mozart beethoven mahler 
+mozart's beethoven's mahler's 
+
+mozart handel britten 
+mozart's handel's britten's 
+
+sixteen seventeen nineteen 
+sixteenth seventeenth nineteenth 
+
+concerto overture oratorio 
+concertos overtures oratorios 
+
+contributions contributor contributing 
+distributions distributor distributing 
+
+progressive progression progressively 
+aggressive aggression aggressively 
+
+
+
+blocked blocking blocker 
+locked locking locker 
+
+
+
+ports exports imports 
+ported exported imported 
+
+
+
+immigration immigrant immigrated immigrates immigrating immigrate
+emigration emigrant emigrated emigrates emigrating emigrate
+
+collecting reflecting selecting 
+collective reflective selective 
+
+north-east north-western north-central 
+south-east south-western south-central 
+
+russians asians indonesians 
+russia's asia's indonesia's 
+
+nuts peanuts coconuts 
+nut peanut coconut 
+
+pancreatic ovarian cervical 
+pancreas ovaries cervix 
+
+searching searched searches 
+researching researched researches 
+
+fraction fracture ligament 
+fractions fractures ligaments 
+
+contracts attracts interacts 
+contracting attracting interacting 
+
+tchaikovsky stravinsky mussorgsky 
+tchaikovsky's stravinsky's mussorgsky's 
+
+siberia eurasia australasia 
+siberian eurasian australasian 
+
+trumpet oboe viol 
+trumpets oboes viols 
+
+export exports exporting 
+import imports importing 
+
+cambodia uganda rwanda 
+cambodian ugandan rwandan 
+
+
+
+worshipped shipped whipped 
+worshipping shipping whipping 
+
+collective selective reflective 
+collects selects reflects 
+
+traps wraps raps 
+trapping wrapping rapping 
+
+tendency tended tendencies 
+dependency depended dependencies 
+
+robbed stabbed grabbed 
+robbing stabbing grabbing 
+
+prelude overture fugue cantata
+preludes overtures fugues cantatas
+
+ejaculation stimulation penetration 
+ejaculate stimulate penetrate 
+
+flavors flavored flavoured 
+favors favored favoured 
+
+tender tended tending 
+pretender pretended pretending 
+
+institutes constitutes substitutes 
+instituted constituted substituted 
+
+prosecution persecution deportation 
+prosecuted persecuted deported 
+
+dynamic thermodynamic aerodynamic 
+dynamics thermodynamics aerodynamics 
+
+gaga beyonce rihanna 
+gaga's beyonce's rihanna's 
+
+regulation simulation stimulation 
+regulate simulate stimulate 
+
+impressed depressed obsessed 
+impressive depressive obsessive 
+
+contracts contraction contracting 
+extracts extraction extracting 
+
+contracts contraction contractor 
+tracts traction tractor 
+
+dreaming streaming teaming 
+dreamed streamed teamed 
+
+berry cherry strawberry 
+berries cherries strawberries 
+
+
+north-west north-eastern north-central 
+south-west south-eastern south-central 
+
+carnivorous omnivorous insectivorous 
+carnivores omnivores insectivores 
+
+biologists geologists geographers 
+biologically geologically geographically 
+
+interaction contraction subtraction 
+interacting contracting subtracting 
+
+calculated formulated simulated 
+calculation formulation simulation 
+
+commanded commands commanding 
+demanded demands demanding 
+
+astronomers geologists meteorologists 
+astronomical geological meteorological 
+
+
+
+corruption disruption interruption 
+corrupted disrupted interrupted 
+
+shoulder knee ankle 
+shoulders knees ankles 
+
+reproduction reproduce reproduced 
+fertilization fertilize fertilised 
+
+genetics biochemistry astrophysics 
+geneticist biochemist astrophysicist 
+
+genetics zoology paleontology 
+geneticist zoologist paleontologist 
+
+geometry geometric geometrical 
+symmetry symmetric symmetrical 
+
+buddhism buddhist buddhists 
+jainism jain jains 
+
+buddhism protestantism paganism 
+buddhists protestants pagans 
+
+attraction attractions attracts 
+contraction contractions contracts 
+
+attraction attractive attracting 
+interaction interactive interacting 
+
+attraction attracted attracting 
+contraction contracted contracting 
+
+attraction traction extraction 
+attracts tracts extracts 
+
+protests rebellions revolts 
+protested rebelled revolted 
+
+thirteen fifteen twenty-five 
+thirteenth fifteenth twenty-fifth 
+
+fifteen fourteen nineteen 
+fifteenth fourteenth nineteenth 
+
+fifteen eighteen seventeen 
+fifteenth eighteenth seventeenth 
+
+muscle ventricle follicle 
+muscles ventricles follicles 
+
+constructed rebuilt restored 
+constructing rebuilding restoring 
+
+conservation preservation reservations 
+conserved preserved reserved 
+
+organisation organised organize 
+reorganisation reorganised reorganize 
+
+converted convert conversion 
+inverted invert inversion 
+
+stored processed exported 
+storing processing exporting 
+
+ukraine croatia albania 
+ukrainians croats albanians 
+
+ukraine tajikistan baltistan 
+ukrainians tajiks balti 
+
+express expressive expressionist 
+impress impressive impressionist 
+
+succeeded succeeding succeeds 
+proceeded proceedings proceeds 
+
+identified identification identifying 
+classified classification classifying 
+
+turkish iranian azerbaijani 
+turkey's iran's azerbaijan's 
+
+reserve reserves reserved 
+preserve preserves preserved 
+
+reserve preserve conserve 
+reservation preservation conservation 
+
+distribution distributes distributing 
+contribution contributes contributing 
+
+resistance resisted resisting 
+assistance assisted assisting 
+
+selling best-selling bestselling 
+seller best-seller bestseller 
+
+governments institutions constitutions 
+governmental institutional constitutional 
+
+afghanistan persia babylonia 
+afghans persians babylonians 
+
+creating establishing punishing 
+creations establishments punishments 
+
+arrested executed assassinated 
+arrests executions assassinations 
+
+defined definite definitely 
+undefined indefinite indefinitely 
+
+singapore philippines indonesia 
+singaporeans filipinos indonesians 
+
+johnson wilson wright 
+johnson's wilson's wright's 
+
+poet translator illustrator 
+poems translations illustrations 
+
+historical biographical autobiographical 
+histories biography autobiography 
+
+joseph antoni silvio 
+josepha antonia silvia 
+
+smith wilson anderson 
+smith's wilson's anderson's 
+
+presidential presidents president's 
+mayoral mayors mayor's 
+
+host hosted hosts 
+co-host co-hosted co-hosts 
+
+temperature density altitude 
+temperatures densities altitudes 
+
+friends daughters uncles 
+friend's daughter's uncle's 
+
+russia austria croatia 
+russians austrians croats 
+
+development production introduction 
+develops produces introduces 
+
+daughter grandfather grandmother 
+daughter's grandfather's grandmother's 
+
+final semi-final semifinal 
+finals semi-finals semifinals 
+
+chicago cincinnati milwaukee 
+illinois ohio wisconsin 
+
+chicago baltimore houston 
+illinois maryland texas 
+
+sold exported harvested 
+selling exporting harvesting 
+
+see seen sees 
+hear heard hears 
+
+took taken taking 
+undertook undertaken undertaking 
+
+book essay illustration 
+author essayist illustrator 
+
+city county town 
+city's county's town's 
+
+was he his 
+were they their 
+
+he his him 
+they their them 
+
+was became gained 
+being becoming gaining 
+
+long tall thick 
+longer taller thicker 
+
+minister commissioner adviser 
+ministry commission agency 
+
+killed destroyed damaged 
+deaths destruction damage 
+
+attack bombing landings 
+attacked bombed landed 
+
+wanted want agree 
+needed need apply 
+
+hard soft thick 
+harder softer thicker 
+
+workers farmers miners 
+factories farms mines 
+
+allows provides transmits 
+lets gives sends 
+
+creating putting removing 
+creates puts removes 
+
+conquered annexed colonized 
+conquest annexation colonization 
+
+inches ft centimeters 
+ounces lb kilograms 
+
+justice justices tribunals 
+commissioner commissioners commissions 
+
+went going goes 
+travelled travelling travels 
+
+
+
+
+
+
+
+major minor tenor 
+majors minors tenors 
+
+german german-born german-american 
+polish polish-born polish-american 
+
+blue yellow pink 
+bluish yellowish pinkish 
+
+sex sexual sexuality 
+same-sex homosexual homosexuality 
+
+
+
+eggs larvae tadpoles 
+egg larva tadpole 
+
+impressionist modernist calvinist 
+impressionism modernism calvinism 
+
+tap wrap strap 
+taps wraps straps 
+
+stranger bushranger scavenger 
+strangers bushrangers scavengers 
+
+colonization modernization generalization 
+colonized modernized generalized 
+
+colonization urbanization reorganization 
+colonized urbanized reorganized 
+
+numerals numerical numeric 
+alphabets alphabetical alphabetic 
+
+identification specification indication 
+identifies specifies indicates 
+
+identification modification specification 
+identifying modifying specifying 
+
+
+
+expressions expressionism expressive 
+impressions impressionism impressive 
+
+
+national international 
+nationals internationals 
+
+album song 
+album's song's 
+
+name named 
+nickname nicknamed
+
+
+different various 
+differently variously 
+
+different various 
+differing varying 
+
+different variety 
+differed varied 
+
+different similar 
+differences similarities 
+
+
+north northern 
+south-east south-eastern 
+
+released release 
+leased lease 
+
+started joined 
+restarted rejoined 
+
+work works 
+working workings 
+
+named names 
+nicknamed nicknames 
+
+said saying 
+stated stating 
+
+said saying 
+claimed claiming 
+
+said thought 
+sayings thoughts 
+
+family families 
+subfamily subfamilies 
+
+
+
+
+important importance 
+prominent prominence 
+
+
+water waterway 
+seawater seaway 
+
+
+west east 
+south-west south-east 
+
+west east 
+north-west north-east 
+
+west east 
+southwest southeast 
+
+population populated 
+manipulation manipulated 
+
+king queen 
+king's queen's 
+
+
+
+early late 
+earliest latest 
+
+
+
+include inclusive 
+exclude exclusive 
+
+million billion 
+millions billions 
+
+million billion 
+millionaire billionaire 
+
+region regions 
+ecoregion ecoregions 
+
+region regions 
+legion legions 
+
+lost defeated 
+losing defeating 
+
+mother parents 
+grandmother grandparents 
+
+mother brother 
+mother's brother's 
+
+mother sister 
+mother's sister's 
+
+produced producing 
+reproduced reproducing 
+
+produced production 
+reproduced reproduction 
+
+produced production 
+introduced introduction 
+
+produced productive 
+reproduced reproductive 
+
+force forced 
+reinforce reinforced 
+
+force forced 
+enforce enforced 
+
+wanted wants 
+promised promises 
+
+
+included excluded 
+inclusive exclusive 
+
+attack invade 
+attacker invader 
+
+attack invade 
+attackers invaders 
+
+royal royals 
+royalty royalties 
+
+royal loyal 
+royalty loyalty 
+
+royal loyal 
+royalist loyalist 
+
+republic republican 
+republics republicans 
+
+current currents 
+rent rents 
+
+current currency 
+currents currencies 
+
+founded founding 
+funded funding 
+
+founded founding 
+sounded sounding 
+
+founded foundation 
+funded fund 
+
+center centers 
+cent cents 
+
+center centre 
+centered centred 
+
+building build 
+rebuilding rebuild 
+
+building builders 
+constructing constructors 
+
+building builder 
+bodybuilding bodybuilder 
+
+
+
+change changing 
+exchange exchanging 
+
+human humans 
+non-human non-humans 
+
+single singles 
+shingle shingles 
+
+
+
+race races 
+trace traces 
+
+changed changes 
+exchanged exchanges 
+
+light lights 
+highlight highlights 
+
+history historic 
+prehistory prehistoric 
+
+
+
+take takes 
+stake stakes 
+
+american america 
+mesoamerican mesoamerica 
+
+american america 
+african africa 
+
+american african 
+america's africa's 
+
+later late 
+earlier early 
+
+wrote written 
+co-wrote co-written 
+
+light lighting 
+highlight highlighting 
+
+released releasing 
+pleased pleasing 
+
+is are 
+has have 
+
+his her 
+father's mother's 
+
+national nation 
+nationals nations 
+
+
+national nations 
+organizational organizations 
+
+president presidency 
+resident residency 
+
+president presidential 
+resident residential 
+
+president resident 
+presided resided 
+
+given taken 
+gives takes 
+
+province municipality 
+provincial municipal 
+
+general generals 
+generator generators 
+
+father mother 
+stepfather stepmother 
+
+movies films 
+movie's film's 
+
+australia australian 
+tasmania tasmanian 
+
+australia australian 
+victoria victorian 
+
+public republic 
+public's republic's 
+
+western southern 
+westerners southerners 
+
+
+
+passed passing 
+surpassed surpassing 
+
+port ports 
+import imports 
+
+port import 
+ported imported 
+
+
+
+chicago boston toronto montreal edmonton vancouver philadelphia
+blackhawks bruins leafs canadiens oilers canucks flyers
+
+
+
+
+
+
+illustrator printmaker cartographer 
+illustration printmaking cartography 
+
+
+
+testicles ovaries pancreas 
+testicular ovarian pancreatic 
+
+
+
+
+
+modification modifications modifying 
+specification specifications specifying 
+
+renovated renovation renovations 
+excavated excavation excavations 
+
+simulation simulate simulated 
+stimulation stimulate stimulated 
+
+
+paleontologist zoologist microbiologist 
+paleontology zoology microbiology 
+
+
+wreck wrecked wrecks 
+shipwreck shipwrecked shipwrecks 
+
+
+modernized romanized urbanized 
+modernization romanization urbanization 
+
+
+proceeds proceeded proceeding 
+exceeds exceeded exceeding 
+
+
+elimination eliminate eliminating 
+domination dominate dominating 
+
+demonstration demonstrate demonstrates 
+illustration illustrate illustrates 
+
+
+attending pretending intending 
+attends pretends intends 
+
+counter countered counters 
+encounter encountered encounters 
+
+attractive attracts attracting 
+interactive interacts interacting 
+
+carnivorous herbivorous insectivorous 
+carnivores herbivores insectivores 
+
+botanical botany botanist 
+zoological zoology zoologist 
+
+realize realise realises 
+specialize specialise specialises 
+
+bedford worcester gloucester 
+bedfordshire worcestershire gloucestershire 
+
+socialism nationalism separatism 
+socialists nationalists separatists 
+
+loaded uploaded reloaded 
+loading uploading reloading 
+
+washing crashing flashing 
+washes crashes flashes 
+
+relating violating regulating 
+relates violates regulates 
+
+imported transported exported 
+importing transporting exporting 
+
+tracking tracked tracker 
+cracking cracked cracker 
+
+emigrated emigrants emigrant 
+migrated migrants migrant 
+
+feminism anarchism republicanism 
+feminists anarchists republicans 
+
+husband's daughter's uncle's 
+husbands daughters uncles 
+
+leicester worcester hereford 
+leicestershire worcestershire herefordshire 
+
+wetlands grasslands uplands 
+wetland grassland upland 
+
+regulate regulated regulating 
+stimulate stimulated stimulating 
+
+regulate regulated regulating 
+circulate circulated circulating 
+
+bulldogs wildcats badgers 
+bulldog wildcat badger 
+
+attraction attractions attracting 
+contraction contractions contracting 
+
+
+operates generates accelerates 
+operators generators accelerators 
+
+consisting assisting resisting 
+consisted assisted resisted 
+
+contributions contributing contributors 
+distributions distributing distributors 
+
+consisted consist consistent 
+persisted persist persistent 
+
+archaeological archaeologists archaeology 
+geological geologists geology 
+
+viewed viewing viewer 
+reviewed reviewing reviewer 
+
+photographer photography photographic 
+geographer geography geographic 
+
+
+immigration migration emigration 
+immigrated migrated emigrated 
+
+exhibition exhibits exhibited 
+prohibition prohibits prohibited 
+
+immigrants immigrant immigrated 
+emigrants emigrant emigrated 
+
+immigrants immigrant immigrated 
+migrants migrant migrated 
+
+threatened threatening threaten 
+frightened frightening frighten 
+
+syria syrian syrians 
+assyria assyrian assyrians 
+
+determined determine determines 
+examined examine examines 
+
+rising rises risen 
+arising arises arisen 
+
+solve solved solving 
+resolve resolved resolving 
+
+collections collecting collective 
+reflections reflecting reflective 
+
+collections collecting collects 
+selections selecting selects 
+
+publishing publish publishes 
+establishing establish establishes 
+
+breeding breeders breeder 
+feeding feeders feeder 
+
+mw.ustring.gsub mw.ustring.find mw.ustring.sub 
+string.gsub string.find string.sub 
+
+generated generate generating 
+regenerated regenerate regeneration 
+
+generated generating generators 
+accelerated accelerating accelerators 
+
+migration migrate migrant 
+emigration emigrate emigrant 
+
+interaction interactions interacting 
+contraction contractions contracting 
+
+functional functioning functioned 
+positional positioning positioned 
+
+generate generator generating 
+accelerate accelerator accelerating 
+
+qualifying qualifications qualifies 
+specifying specifications specifies 
+
+rains raining rained 
+drains draining drained 
+
+conclusion conclude concluding 
+exclusion exclude excluding 
+
+
+romania romanian romanians 
+hungary hungarian hungarians 
+
+romania romanian romanians 
+croatia croatian croats 
+
+operated operate operative 
+cooperated cooperate cooperative 
+
+armenian armenia armenians 
+albanian albania albanians 
+
+armenian armenia armenians 
+assyrian assyria assyrians 
+
+armenian armenia armenians 
+syrian syria syrians 
+
+executed execution executions 
+prosecuted prosecution prosecutions 
+
+constitutional constitutions constituted 
+institutional institutions instituted 
+
+representing presenting implementing 
+representations presentations implementations 
+
+presidency presidents presided 
+residency residents resided 
+
+involves involving involve 
+revolves revolving revolve 
+
+
+distribution distributions distributes 
+contribution contributions contributes 
+
+distribution distributor distributing 
+contribution contributor contributing 
+
+mentioned questioned functioned 
+mentioning questioning functioning 
+
+
+organizations associations corporations 
+organization's association's corporation's 
+
+succeeded succeeding succeeds 
+proceeded proceeding proceeds 
+
+biology geology palaeontology 
+biologists geologists palaeontologists 
+
+biology biological biologically 
+geology geological geologically 
+
+
+singapore indonesia malaysia 
+singaporeans indonesians malays 
+
+iran iranian iranians 
+armenia armenian armenians 
+
+
+accident accidents accidental 
+incident incidents incidental 
+
+
+discovery discover discovers 
+recovery recover recovers 
+
+
+belgium norway hungary 
+belgians norwegians hungarians 
+
+muslims buddhists jains 
+islam buddhism jainism 
+
+novels poems essays 
+novelist poet essayist 
+
+biology biological biologists 
+psychology psychological psychologists 
+
+
+construction constructed construct 
+reconstruction reconstructed reconstruct 
+
+refers reference references 
+prefers preference preferences 
+
+describe explain predict 
+descriptions explanations predictions 
+
+operating operate operators 
+generating generate generators 
+
+represented representing representation 
+presented presenting presentation 
+
+represented represents representations 
+presented presents presentations 
+
+
+agreed agreement agreements 
+disagreed disagreement disagreements 
+
+jews muslims hindus 
+judaism islam hinduism 
+
+memorial cemetery basilica 
+memorials cemeteries basilicas 
+
+belgian belgium belgians 
+austrian austria austrians 
+
+
+produce producing productive 
+reproduce reproducing reproductive 
+
+
+
+
+appear appears appearance 
+disappear disappears disappearance 
+
+honor honored honors 
+honour honoured honours 
+
+historical geographical economical 
+historians geographers economists 
+
+poet poetry poets 
+scholar scholarly scholars 
+
+literature philosophy astronomy 
+writers philosophers astronomers 
+
+
+
+ireland wales tasmania 
+irish welsh tasmanian 
+
+production produce produces 
+introduction introduce introduces 
+
+
+damage deaths casualties 
+damaged killed wounded 
+
+
+organization organizations organizational 
+institution institutions institutional 
+
+organization organized organised 
+reorganization reorganized reorganised 
+
+
+
+jewish protestant anglican 
+jews protestants anglicans 
+
+
+
+
+
+help protect prevent 
+helps protects prevents 
+
+help bring send 
+helps brings sends 
+
+australia australian australians 
+malaysia malaysian malays 
+
+russian russia russians 
+hungarian hungary hungarians 
+
+russian russia russians 
+romanian romania romanians 
+
+pakistan pakistan's pakistanis 
+afghanistan afghanistan's afghans 
+
+discovered discovery discovering 
+recovered recovery recovering 
+
+russia russians russia's 
+austria austrians austria's 
+
+soldiers soldier soldier's 
+officers officer officer's 
+
+hurricane cyclone typhoon 
+hurricanes cyclones typhoons 
+
+africa asia australasia 
+african asian australasian 
+
+greek greece greeks 
+babylonian babylonia babylonians 
+
+
+director directors directorial 
+editor editors editorial 
+
+storm cyclone typhoon 
+storms cyclones typhoons 
+
+
+take carry collect 
+taken carried collected 
+
+europe asia eurasia 
+european asian eurasian 
+
+killed kill killing 
+injured injure injuring 
+
+political politics politically 
+cultural culture culturally 
+
+attack capture recapture 
+attacked captured recaptured 
+
+canada canadian canadian-american 
+britain british british-american 
+
+
+government governments government's 
+parliament parliaments parliament's 
+
+
+
+used use uses 
+made make makes 
+
+made created formed 
+make create form 
+
+music piano violin 
+musicians pianists violinists 
+
+music pop rap 
+composer singer rapper 
+
+national nationals nationally 
+international internationals internationally 
+
+
+
+advised advise advisors 
+supervised supervise supervisors 
+
+
+
+
+
+
+
+
+

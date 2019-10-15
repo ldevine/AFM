@@ -1,0 +1,129 @@
+
+west westernmost west-central westward westwards westerly westbound westerner westerners western
+east easternmost east-central eastward eastwards easterly eastbound easterner easterners eastern
+south southernmost south-central southward southwards southerly southbound southerner southerners southern
+north northernmost north-central northward northwards northerly northbound northerner northerners northern
+
+southward northward westward eastward inward outward onward upward downward backward forward
+southwards northwards westwards eastwards inwards outwards onwards upwards downwards backwards forwards
+
+south north east west northeast northwest southeast southwest
+southern northern eastern western northeastern northwestern southeastern southwestern
+
+northwest southwest west-northwest 
+north-central south-central west-central 
+
+south southwest southward 
+north northwest northward 
+
+southwest southwestern south-west 
+northeast northeastern north-east 
+
+north-west north-western 
+southwest southwestern 
+south-east south-eastern 
+south-west south-western 
+north-east north-eastern 
+west western 
+northwest northwestern 
+southeast southeastern 
+northeast northeastern 
+south southern 
+
+
+south southeast southwest 
+north northeast northwest 
+
+south south-east south-west 
+north north-east north-west 
+
+south south-southeast southerly 
+north north-northeast northerly 
+
+western eastern northwestern 
+south-western south-eastern southwest 
+
+western north-western westernmost 
+eastern north-eastern easternmost 
+
+western southwestern northwestern 
+eastern southeastern northeastern 
+
+south northeast north-east 
+southern northeastern north-eastern 
+
+south southwest south-west 
+southern southwestern south-western 
+
+east southeast northeast 
+eastern southeastern northeastern 
+
+east southwest south-east 
+eastern southwestern south-eastern 
+
+east northwest north-west 
+eastern northwestern north-western 
+
+southeast southwest north-east 
+southeastern southwestern north-eastern 
+
+southeast northwest south-east 
+southeastern northwestern south-eastern 
+
+southeast southwestern southernmost 
+northeast northwestern northernmost 
+
+west east northeast 
+westwards eastwards northeastward 
+
+west west-northwest westerly 
+east east-southeast easterly 
+
+south-west south-central southerly 
+east-west east-central easterly 
+
+south-west southward southbound 
+east-west eastward eastbound 
+
+north-west north-central northerly 
+east-west east-central easterly 
+
+
+download downloaded downloading 
+upload uploaded uploading 
+
+ 
+highlands lowlands uplands downlands 
+highland lowland upland downland
+
+
+western northern southern 
+westerners northerners southerners 
+
+western south-western westernmost 
+eastern south-eastern easternmost 
+
+
+west south-west south-western 
+east south-east south-eastern 
+
+east northeast south-east 
+eastern northeastern south-eastern 
+
+east southwest north-east 
+eastern southwestern north-eastern 
+
+
+northwest northwestward north-northwest 
+northeast northeastward north-northeast 
+
+northwest south-east south-west 
+northwestern south-eastern south-western 
+
+
+southeast south-eastern south-southeast 
+southwest south-western south-southwest 
+
+northwest southwest northeast 
+northwestern southwestern northeastern 
+
