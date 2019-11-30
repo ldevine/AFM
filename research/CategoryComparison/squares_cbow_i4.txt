@@ -1,0 +1,1245 @@
+he his himself 
+she her herself 
+
+people someone anyone 
+things something anything 
+
+can will needs 
+could would needed 
+
+can needs wants 
+could needed wanted 
+
+can allows requires 
+could allowed required 
+
+had got gave 
+having getting giving 
+
+made making makes 
+gave giving gives 
+
+made make making 
+gave give giving 
+
+made gave brought 
+making giving bringing 
+
+made gave brought 
+make give bring 
+
+city town settlement 
+cities towns settlements 
+
+city neighborhood neighbourhood 
+cities neighborhoods neighbourhoods 
+
+years months weeks 
+year month week 
+
+years weeks decades 
+year week decade 
+
+movie movies westerns 
+film films bollywood 
+
+would could needed 
+will can needs 
+
+would wanted tried 
+will wants tries 
+
+would did continued 
+will does continues 
+
+will lets letting 
+expected able unable 
+
+do want try 
+did wanted tried 
+
+make making makes 
+give giving gives 
+
+make making makes 
+get getting gets 
+
+make create develop 
+making creating developing 
+
+make give bring 
+making giving bringing 
+
+make give bring 
+makes gives brings 
+
+make get give 
+making getting giving 
+
+make get give 
+makes gets gives 
+
+won competed qualified 
+win compete qualify 
+
+album albums eps 
+song songs remixes 
+
+said told asked 
+saying telling asking 
+
+said says saying 
+told tells telling 
+
+said say says 
+told tell tells 
+
+said believed knew 
+say believe know 
+
+county parish borough 
+counties parishes boroughs 
+
+government governments agencies 
+parliament parliaments committees 
+
+get give bring 
+getting giving bringing 
+
+get give bring 
+gets gives brings 
+
+get give bring 
+got gave brought 
+
+get gets getting 
+give gives giving 
+
+get got getting 
+give gave giving 
+
+get bring send 
+getting bringing sending 
+
+get go travel 
+gets goes travels 
+
+get go travel 
+got went traveled 
+
+get keep protect 
+getting keeping protecting 
+
+get lose steal 
+gets loses steals 
+
+live stay remain 
+lived stayed remained 
+
+live lived lives 
+spend spent spends 
+
+live spend enjoy 
+lives spends enjoys 
+
+left returned entered 
+leaving returning entering 
+
+book novel tale 
+books novels tales 
+
+book poem tale 
+books poems tales 
+
+book story tale 
+books stories tales 
+
+french italian spanish 
+france italy spain 
+
+french german austrian 
+france germany austria 
+
+went returned travelled 
+going returning travelling 
+
+went came got 
+going coming getting 
+
+went came brought 
+go come bring 
+
+went going goes 
+travelled travelling travels 
+
+went going goes 
+came coming comes 
+
+went going goes 
+ran running runs 
+
+went sent brought 
+go send bring 
+
+went stayed arrived 
+go stay arrive 
+
+went go going 
+came come coming 
+
+went go goes 
+sent send sends 
+
+went go goes 
+brought bring brings 
+
+went go goes 
+got get gets 
+
+went go goes 
+ran run runs 
+
+went got gave 
+go get give 
+
+region province municipality 
+regions provinces municipalities 
+
+written mentioned explained 
+writes mentions explains 
+
+written write verse 
+sung sing chorus 
+
+language dialect accent 
+languages dialects accents 
+
+given give giving 
+taken take taking 
+
+given gave giving 
+awarded received receiving 
+
+given gave giving 
+taken took taking 
+
+given gives giving 
+taken takes taking 
+
+took take taking 
+gave give giving 
+
+took takes taking 
+gave gives giving 
+
+took taken taking 
+gave given giving 
+
+took gave brought 
+take give bring 
+
+took stayed arrived 
+take stay arrive 
+
+took got gave 
+takes gets gives 
+
+league club stadium 
+leagues clubs stadiums 
+
+came brought gathered 
+come bring gather 
+
+came got gave 
+coming getting giving 
+
+came got gave 
+comes gets gives 
+
+came moved turned 
+coming moving turning 
+
+play perform sing 
+playing performing singing 
+
+german austrian prussian 
+germany austria prussia 
+
+german germany berlin 
+austrian austria vienna 
+
+german italian spanish 
+germany italy spain 
+
+award prize recipient 
+awards prizes recipients 
+
+go travel send 
+goes travels sends 
+
+go going goes 
+come coming comes 
+
+go stay sit 
+bring keep hold 
+
+go move turn 
+goes moves turns 
+
+go goes brings 
+pass passes carries 
+
+go come move 
+going coming moving 
+
+go come give 
+goes comes gives 
+
+go bring send 
+goes brings sends 
+
+father brother sons 
+mother sister daughters 
+
+america australia canada 
+america's australia's canada's 
+
+thought believed seems 
+think believe seem 
+
+thought think thinks 
+believed believe believes 
+
+thought considered referred 
+think consider refer 
+
+son daughter daughters 
+brother sister sisters 
+
+son sons daughters 
+brother brothers sisters 
+
+son brother brothers 
+daughter sister sisters 
+
+got received gave 
+gets receives gives 
+
+got gave brought 
+getting giving bringing 
+
+got gets getting 
+gave gives giving 
+
+man woman girl 
+men women girls 
+
+man men boys 
+woman women girls 
+
+take takes taking 
+give gives giving 
+
+take taken taking 
+give given giving 
+
+take give bring 
+taking giving bringing 
+
+take give bring 
+takes gives brings 
+
+europe americas europeans 
+britain colonies colonists 
+
+europe africa asia 
+european african asian 
+
+making getting giving 
+makes gets gives 
+
+making giving keeping 
+makes gives keeps 
+
+making becoming getting 
+makes becomes gets 
+
+women woman pregnant 
+girls girl baby 
+
+story tale myth 
+stories tales myths 
+
+story novel tale 
+stories novels tales 
+
+story poem tale 
+stories poems tales 
+
+japanese chinese korean 
+japan china korea 
+
+received gave brought 
+receive give bring 
+
+received receive receives 
+earned earn earns 
+
+received receive receives 
+gave give gives 
+
+gave give giving 
+brought bring bringing 
+
+gave brought gathered 
+give bring gather 
+
+comes goes travels 
+come go travel 
+
+comes come coming 
+goes go going 
+
+caused causing sudden 
+affected damaging intense 
+
+wanted tried asked 
+want try ask 
+
+wanted tried managed 
+wants tries manages 
+
+wanted want willing 
+tried try attempting 
+
+wanted want wants 
+needed need needs 
+
+wanted wants willing 
+tried tries attempting 
+
+wanted allowed want 
+needed required need 
+
+sold sell selling 
+bought buy buying 
+
+sent send sending 
+brought bring bringing 
+
+sent send sends 
+carried carry carries 
+
+sent send sends 
+travelled travel travels 
+
+sent sending sends 
+brought bringing brings 
+
+sent brought gathered 
+send bring gather 
+
+sent carried gathered 
+send carry gather 
+
+chicago boston philadelphia 
+illinois massachusetts pennsylvania 
+
+run stand sit 
+ran stood sat 
+
+run travel send 
+runs travels sends 
+
+joined met visited 
+join meet visit 
+
+joined stayed settled 
+join stay settle 
+
+move travel walk 
+moving travelling walking 
+
+move travel send 
+moves travels sends 
+
+give bring send 
+giving bringing sending 
+
+give bring send 
+gives brings sends 
+
+give send prepare 
+giving sending preparing 
+
+give gives giving 
+bring brings bringing 
+
+give gives giving 
+send sends sending 
+
+give receive offer 
+gives receives offers 
+
+give raise prepare 
+giving raising preparing 
+
+give carry send 
+gives carries sends 
+
+village parish borough 
+villages parishes boroughs 
+
+africa african africans 
+korea korean koreans 
+
+daughter sons daughters 
+sister brothers sisters 
+
+say think seem 
+saying felt seemed 
+
+say says saying 
+tell tells telling 
+
+say tell reveal 
+says tells reveals 
+
+say tell understand 
+saying telling thinking 
+
+need require involve 
+needs requires involves 
+
+need needed required 
+want wanted allowed 
+
+need want try 
+needs wants tries 
+
+council parliament assembly 
+councils parliaments constituent 
+
+road bridge highway 
+roads bridges highways 
+
+performed perform performing 
+sung sing singing 
+
+car driver rider 
+cars drivers riders 
+
+brother brothers sons 
+sister sisters daughters 
+
+writing reading listening 
+write read listen 
+
+something anything everything 
+someone anyone everyone 
+
+months weeks minutes 
+month week hour 
+
+allowed intended willing 
+forced attempt hoping 
+
+allowed want anymore 
+required need properly 
+
+hard easy safe 
+harder easier safer 
+
+hard fast loud 
+harder faster louder 
+
+opera orchestra conductor 
+operas orchestras conductors 
+
+museum library journal 
+museums libraries journals 
+
+museum monument shrine 
+museums monuments shrines 
+
+museum garden hotel 
+museums gardens hotels 
+
+takes gives brings 
+taking giving bringing 
+
+want try manage 
+wants tries manages 
+
+want wants willing 
+try tries attempting 
+
+site monument shrine 
+sites monuments shrines 
+
+stop prevent remove 
+stopping preventing removing 
+
+stop keep protect 
+stopping keeping protecting 
+
+stop keep remain 
+stopped kept remained 
+
+stop stopped stopping 
+keep kept keeping 
+
+keep keeping keeps 
+protect protecting protects 
+
+keep keeping keeps 
+bring bringing brings 
+
+keep protect destroy 
+keeping protecting destroying 
+
+keep stay remain 
+kept stayed remained 
+
+keep bring send 
+keeping bringing sending 
+
+keep bring send 
+keeps brings sends 
+
+keep raise collect 
+keeping raising collecting 
+
+association organization committee 
+associations organizations committees 
+
+artist musician performer 
+artists musicians performers 
+
+bridge dam tunnel 
+bridges dams tunnels 
+
+parliament assembly legislature 
+mps constituencies governors 
+
+parliament congress assembly 
+mps delegates constituencies 
+
+tried try tries 
+asked ask asks 
+
+tried asked refused 
+try ask refuse 
+
+tried managed sought 
+tries manages seeks 
+
+buildings monuments landmarks 
+homes villages neighborhoods 
+
+buildings residential infrastructure 
+rooms dining accommodation 
+
+schools campuses classrooms 
+teachers graduates classroom 
+
+gets gives brings 
+getting giving bringing 
+
+laws constitution amendments 
+segregation compromise resolutions 
+
+festival concert recital 
+festivals concerts recitals 
+
+festival holiday parade 
+festivals holidays parades 
+
+festival ceremony feast 
+festivals ceremonies prayers 
+
+contains contain contained 
+consists consist consisted 
+
+met stayed arrived 
+meet stay arrive 
+
+sweden finland denmark 
+stockholm helsinki copenhagen 
+
+magazine newspaper journal 
+magazines newspapers journals 
+
+kill catch steal 
+kills catches steals 
+
+kill save steal 
+kills saves steals 
+
+gives keeps brings 
+giving keeping bringing 
+
+gives sends brings 
+giving sending bringing 
+
+gives offers collects 
+giving offering collecting 
+
+novel tale myth 
+novels tales myths 
+
+novel poem tale 
+novels poems tales 
+
+19th 16th mid-19th 
+21st 10th twenty-first 
+
+tells sees feels 
+telling seeing feeling 
+
+tells finds steals 
+tell find steal 
+
+asked agreed submitted 
+encouraged sought initiated 
+
+asked ask asking 
+refused refuse refusing 
+
+spent stayed arrived 
+spend stay arrive 
+
+constitution referendum compromise 
+amendments delegates resolutions 
+
+feet metres centimetres 
+weighed kg grams 
+
+ship boat airplane 
+ships boats airplanes 
+
+ship airplane destroyer 
+ships airplanes submarines 
+
+defeated defended withdrew 
+defeat defend withdraw 
+
+runs passes travels 
+running passing traveling 
+
+letters sentences clauses 
+letter sentence clause 
+
+read reading readers 
+listen listening listeners 
+
+turn push blow 
+turns pulls blows 
+
+pay paying repay 
+buy buying borrow 
+
+pay buy collect 
+paying buying collecting 
+
+pay fee salary 
+repay mortgage earnings 
+
+pay tax tariffs 
+buy purchase import 
+
+temple mosque shrine 
+temples mosques shrines 
+
+temple tomb shrine 
+temples tombs shrines 
+
+temple monument tomb 
+temples monuments tombs 
+
+buried tomb ceiling 
+cemetery monument dome 
+
+basketball athletics lacrosse 
+wheelchair skiing curling 
+
+engine vehicle elevator 
+engines vehicles elevators 
+
+austria prussia bavaria 
+austrian prussian bavarian 
+
+room hotel restaurant 
+rooms hotels restaurants 
+
+room shop restaurant 
+rooms shops restaurants 
+
+note chord prelude 
+notes chords tunes 
+
+happen occur affect 
+happens occurs affects 
+
+else anything anyone 
+there's really nobody 
+
+method procedure precedent 
+methods procedures jurisdictions 
+
+cathedral chapel tomb 
+cathedrals chapels tombs 
+
+speak learn hear 
+spoke learned heard 
+
+scientific practical discipline 
+journals textbooks curriculum 
+
+remained stayed settled 
+remain stay settle 
+
+assembly legislature bundestag 
+constituency electorate landtag 
+
+library journal lecture 
+libraries journals lectures 
+
+learn hear listen 
+learned heard listened 
+
+poet painter architect 
+poets painters architects 
+
+championships competed skier 
+competitions competing skiers 
+
+painting drawing photography 
+paintings prints posters 
+
+plane bomb helicopter 
+planes bombs helicopters 
+
+store grocery dining 
+stores supermarkets hotels 
+
+store shop restaurant 
+stores shops restaurants 
+
+store restaurant warehouse 
+stores restaurants malls 
+
+planet galaxy comet 
+planets galaxies comets 
+
+treaty agreement ceasefire 
+treaties agreements sanctions 
+
+dog cat pet 
+dogs cats pets 
+
+dog horse rider 
+dogs horses riders 
+
+newspaper journal lecture 
+newspapers journals lectures 
+
+provide maintain obtain 
+provides maintaining requires 
+
+provide obtain guarantee 
+provides requires guarantees 
+
+describe describes describing 
+explain explains explaining 
+
+physics mathematics psychology 
+physicists mathematicians psychologists 
+
+broke fell crashed 
+breaking falling crashes 
+
+carry send gather 
+carried sent gathered 
+
+colony settlement neighbourhood 
+colonies settlements neighbourhoods 
+
+understand explain solve 
+understood explained solved 
+
+singing performing composing 
+sing perform compose 
+
+singing sing sings 
+performing perform performs 
+
+singing sang sing 
+listening listened listen 
+
+singing listening composing 
+sing listen compose 
+
+increased increase unemployment 
+decreased decrease mortality 
+
+declared ratified negotiated 
+declare ratify negotiate 
+
+direction path tunnel 
+directions paths tunnels 
+
+garden hotel restaurant 
+gardens hotels restaurants 
+
+desert arctic shelf 
+sahara greenland continental 
+
+hotel shop restaurant 
+hotels shops restaurants 
+
+bring bringing brings 
+send sending sends 
+
+meeting ceremony feast 
+meetings ceremonies prayers 
+
+philosophy economics psychology 
+philosophers economists psychologists 
+
+philosophy mathematics psychology 
+philosophers mathematicians psychologists 
+
+escape hide steal 
+escaped hiding stole 
+
+escape catch hide 
+escaped caught hiding 
+
+escape arrive gather 
+escaped arrived gathered 
+
+device camera disk 
+devices cameras disks 
+
+visit trip journey 
+tourists trips journeys 
+
+save catch steal 
+saves catches steals 
+
+gained gaining regained 
+achieved achieving attained 
+
+buy collect collects 
+offer provide provides 
+
+perform sing compose 
+performing singing composing 
+
+perform performing performs 
+sing singing sings 
+
+accident incident explosion 
+accidents incidents explosions 
+
+stand standing stood 
+sit sitting sat 
+
+stand standing stood 
+walk walking walked 
+
+stand walk climb 
+standing walking climbing 
+
+stand walk climb 
+stood walked climbed 
+
+broadcast broadcasting cnn 
+aired itv winfrey 
+
+brand sponsor competitor 
+brands sponsors competitors 
+
+officers militia militias 
+commanders garrison partisans 
+
+occur affect depend 
+occurs affects depends 
+
+slaves colonies settlements 
+slave colony settlement 
+
+flying dive runners 
+airplane takeoff tyres 
+
+knew noticed worried 
+hated impressed unhappy 
+
+knew knows nobody 
+loved loves everybody 
+
+muslims christians catholics 
+islam christianity catholicism 
+
+guns bullets balloons 
+cannon bolt balloon 
+
+chance hopes promises 
+expected hoped promised 
+
+walk walked walks 
+climb climbed climbs 
+
+standing walking sitting 
+stood walked sat 
+
+standing stands stood 
+sitting sits sat 
+
+cemetery monument shrine 
+memorials monuments shrines 
+
+poem poems poets 
+essay essays literary 
+
+poem tale myth 
+poems tales myths 
+
+christianity catholicism denomination 
+christians catholics baptists 
+
+christianity christians denominations 
+hinduism hindus sects 
+
+painter architect designer 
+painters architects designers 
+
+tax payment customer 
+taxes paying customers 
+
+resigned withdrew regained 
+resign withdraw regain 
+
+poems writings essay 
+poets philosophers kant 
+
+poems writings philosophers 
+autobiography essay kant 
+
+pink violet topaz 
+purple color#ffffff> name4 
+
+focus promote encourage 
+focusing promoting encouraging 
+
+earthquake eruption crater 
+earthquakes eruptions craters 
+
+allied armies retreat 
+invading rebels flee 
+
+capture retreat invade 
+warn evacuate threaten 
+
+talking talked disagreed 
+telling told convinced 
+
+horses riders skiers 
+chariot bike downhill 
+
+improve maintain establish 
+improving maintaining establishing 
+
+factory shop restaurant 
+factories shops restaurants 
+
+factory factories manufacturing 
+shop shops retail 
+
+birthday anniversary friday 
+feast celebrated easter 
+
+athlete skier cross-country 
+wheelchair skiers ski 
+
+athlete skater cross-country 
+wheelchair skating ski 
+
+trip journey voyage 
+trips journeys voyages 
+
+celebrated easter feast 
+anniversary friday birthday 
+
+explain explained explaining 
+solve solved solving 
+
+gain obtain guarantee 
+gains requires guarantees 
+
+depends relies conducts 
+depend rely enhance 
+
+walking pool picnic 
+rides indoor amusement 
+
+thinks knows loves 
+worried knew loved 
+
+stops keeps breaks 
+stopping keeping breaking 
+
+combat tactics morale 
+sniper tactic firepower 
+
+shop restaurant warehouse 
+shops restaurants malls 
+
+shop cafe grocery 
+shops cafes convenience 
+
+settlers pilgrims missionaries 
+italians jews protestants 
+
+skiing cross-country curling 
+athletics bandy lacrosse 
+
+skiing wheelchair curling 
+athletics basketball lacrosse 
+
+designer maker manufacturer 
+designers makers manufacturers 
+
+require involve rely 
+requires involves relies 
+
+require involve exercises 
+obtain achieve skill 
+
+camera tape tapes 
+screens discs dvds 
+
+feeling seeing telling 
+feels sees tells 
+
+promote encourage organize 
+promoting encouraging organizing 
+
+sanders nominee delegate 
+polls candidates delegates 
+
+legislative legislature parliaments 
+judicial statute statutes 
+
+involves creates carries 
+requires adds receives 
+
+vary depend rely 
+varies depends relies 
+
+raise collect attract 
+raising collecting attracting 
+
+mosque monument shrine 
+mosques monuments shrines 
+
+disaster explosion eruption 
+disasters explosions eruptions 
+
+bomb helicopter battleship 
+bombs helicopters battleships 
+
+keeping protecting preventing 
+keeps protects prevents 
+
+keeping bringing sending 
+keeps brings sends 
+
+legislature legislation agreements 
+parliamentary reform cooperation 
+
+monument tomb shrine 
+monuments tombs shrines 
+
+monument shrine monastery 
+monuments shrines monasteries 
+
+returning rushed waited 
+arriving evacuated camped 
+
+pulled throwing jumps 
+pushed turning moves 
+
+throw throwing throws 
+push pushing pushes 
+
+throw thrown throwing 
+push pushed pushing 
+
+balls bullets bolt 
+swords guns cannon 
+
+ski wheelchair skiers 
+cross-country athlete skier 
+
+ss guards militia 
+einsatzgruppen protesters militias 
+
+boxing skating wheelchair 
+boxer skater athlete 
+
+tournaments competitors competitor 
+conferences sponsors sponsor 
+
+fund monetary taxation 
+non-profit non-governmental lobbying 
+
+fund non-profit maintains 
+monetary non-governmental governmental 
+
+goaltender pitcher baseman 
+defenceman catcher shortstop 
+
+surrender retreat withdraw 
+surrendered retreated withdrew 
+
+surrender withdraw regain 
+surrendered withdrew regained 
+
+benefits improving maintaining 
+benefit improve maintain 
+
+radical racism racist 
+equality discrimination transgender 
+
+reforms taxation lobbying 
+cooperation monetary non-governmental 
+
+moses prophecy israelites 
+elijah voldemort ahab 
+
+conflicts intervention non-violent 
+disputes immigration abolition 
+
+sculptures tombs artifacts 
+galleries memorials exhibits 
+
+lap touchdown shutout 
+laps touchdowns shutouts 
+
+payment savings mortgage 
+payments investments shareholders 
+
+helicopters crews firefighters 
+destroyers marines policemen 
+
+chord prelude bach's 
+chords tunes choirs 
+
+geek queer patriotism 
+profanity taboo biased 
+
+tbs weekdays uhf 
+sideline nightly sveriges 
+

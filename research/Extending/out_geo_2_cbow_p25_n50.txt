@@ -1,0 +1,20 @@
+sweden swedish stockholm 
+egypt egyptian cairo 
+iran iranian tehran 
+austria austrian vienna 
+hungary hungarian budapest 
+armenia armenian yerevan 
+turkey turkish istanbul 
+spain spanish madrid 
+switzerland swiss zurich 
+russia russian moscow 
+serbia serbian belgrade 
+germany german berlin 
+denmark danish copenhagen 
+netherlands dutch amsterdam 
+romania romanian bucharest 
+azerbaijan azerbaijani baku 
+pakistan pakistani karachi 
+norway norwegian oslo 
+france french paris 
+

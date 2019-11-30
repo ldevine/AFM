@@ -1,0 +1,6 @@
+germany german berlin 
+france french paris 
+russia russian moscow 
+austria austrian vienna 
+spain spanish madrid 
+

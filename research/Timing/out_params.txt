@@ -1,0 +1,1323 @@
+
+C:\aaThesis\Experiments\Chap_5\Timing>AFMFind -vecs1 "vecs_simple_0.bin" -frames "squares.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 30 -p 0.3 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.3
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+30 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.077
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 23
+
+200
+Number of frames: 76
+
+300
+Number of frames: 154
+
+400
+Number of frames: 240
+
+500
+Number of frames: 283
+
+600
+Number of frames: 330
+
+700
+Number of frames: 362
+
+800
+Number of frames: 411
+
+900
+Number of frames: 436
+
+1000
+Number of frames: 456
+
+2000
+Number of frames: 616
+
+3000
+Number of frames: 695
+
+4000
+Number of frames: 755
+
+5000
+Number of frames: 797
+
+6000
+Number of frames: 810
+
+7000
+Number of frames: 818
+
+8000
+Number of frames: 825
+
+9000
+Number of frames: 829
+
+10000
+Number of frames: 832
+
+11000
+Number of frames: 835
+
+12000
+Number of frames: 835
+
+13000
+Number of frames: 838
+
+14000
+Number of frames: 839
+
+15000
+Number of frames: 840
+
+16000
+Number of frames: 840
+
+17000
+Number of frames: 840
+
+18000
+Number of frames: 841
+
+19000
+Number of frames: 843
+
+20000
+Number of frames: 843
+
+21000
+Number of frames: 843
+
+22000
+Number of frames: 843
+
+23000
+Number of frames: 843
+
+24000
+Number of frames: 843
+
+25000
+Number of frames: 843
+
+26000
+Number of frames: 843
+
+27000
+Number of frames: 843
+
+28000
+Number of frames: 843
+
+29000
+Number of frames: 843
+
+
+Frames: 843
+
+Number of frames: 843
+
+Time = 8.148
+
+C:\aaThesis\Experiments\Chap_5\Timing>AFMFind -vecs1 "vecs_simple_0.bin" -frames "squares.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 30 -p 0.4 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.4
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+30 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.042
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 16
+
+200
+Number of frames: 45
+
+300
+Number of frames: 92
+
+400
+Number of frames: 138
+
+500
+Number of frames: 158
+
+600
+Number of frames: 182
+
+700
+Number of frames: 192
+
+800
+Number of frames: 212
+
+900
+Number of frames: 222
+
+1000
+Number of frames: 230
+
+2000
+Number of frames: 279
+
+3000
+Number of frames: 290
+
+4000
+Number of frames: 301
+
+5000
+Number of frames: 306
+
+6000
+Number of frames: 308
+
+7000
+Number of frames: 308
+
+8000
+Number of frames: 308
+
+9000
+Number of frames: 308
+
+10000
+Number of frames: 308
+
+11000
+Number of frames: 308
+
+12000
+Number of frames: 308
+
+13000
+Number of frames: 308
+
+14000
+Number of frames: 308
+
+15000
+Number of frames: 308
+
+16000
+Number of frames: 308
+
+17000
+Number of frames: 308
+
+18000
+Number of frames: 308
+
+19000
+Number of frames: 308
+
+20000
+Number of frames: 308
+
+21000
+Number of frames: 308
+
+22000
+Number of frames: 308
+
+23000
+Number of frames: 308
+
+24000
+Number of frames: 308
+
+25000
+Number of frames: 308
+
+26000
+Number of frames: 308
+
+27000
+Number of frames: 308
+
+28000
+Number of frames: 308
+
+29000
+Number of frames: 308
+
+
+Frames: 308
+
+Number of frames: 308
+
+Time = 5.609
+
+C:\aaThesis\Experiments\Chap_5\Timing>AFMFind -vecs1 "vecs_simple_0.bin" -frames "squares.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 30 -p 0.5 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.5
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+30 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 6.978
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 6
+
+200
+Number of frames: 14
+
+300
+Number of frames: 36
+
+400
+Number of frames: 52
+
+500
+Number of frames: 56
+
+600
+Number of frames: 62
+
+700
+Number of frames: 62
+
+800
+Number of frames: 66
+
+900
+Number of frames: 67
+
+1000
+Number of frames: 67
+
+2000
+Number of frames: 69
+
+3000
+Number of frames: 70
+
+4000
+Number of frames: 70
+
+5000
+Number of frames: 70
+
+6000
+Number of frames: 70
+
+7000
+Number of frames: 70
+
+8000
+Number of frames: 70
+
+9000
+Number of frames: 70
+
+10000
+Number of frames: 70
+
+11000
+Number of frames: 70
+
+12000
+Number of frames: 70
+
+13000
+Number of frames: 70
+
+14000
+Number of frames: 70
+
+15000
+Number of frames: 70
+
+16000
+Number of frames: 70
+
+17000
+Number of frames: 70
+
+18000
+Number of frames: 70
+
+19000
+Number of frames: 70
+
+20000
+Number of frames: 70
+
+21000
+Number of frames: 70
+
+22000
+Number of frames: 70
+
+23000
+Number of frames: 70
+
+24000
+Number of frames: 70
+
+25000
+Number of frames: 70
+
+26000
+Number of frames: 70
+
+27000
+Number of frames: 70
+
+28000
+Number of frames: 70
+
+29000
+Number of frames: 70
+
+
+Frames: 70
+
+Number of frames: 70
+
+Time = 5.029
+
+C:\aaThesis\Experiments\Chap_5\Timing>AFMFind -vecs1 "vecs_simple_0.bin" -frames "squares.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 40 -p 0.3 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.3
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+40 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.305
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 24
+
+200
+Number of frames: 100
+
+300
+Number of frames: 189
+
+400
+Number of frames: 294
+
+500
+Number of frames: 350
+
+600
+Number of frames: 408
+
+700
+Number of frames: 443
+
+800
+Number of frames: 508
+
+900
+Number of frames: 539
+
+1000
+Number of frames: 572
+
+2000
+Number of frames: 809
+
+3000
+Number of frames: 920
+
+4000
+Number of frames: 990
+
+5000
+Number of frames: 1042
+
+6000
+Number of frames: 1064
+
+7000
+Number of frames: 1075
+
+8000
+Number of frames: 1085
+
+9000
+Number of frames: 1091
+
+10000
+Number of frames: 1096
+
+11000
+Number of frames: 1099
+
+12000
+Number of frames: 1102
+
+13000
+Number of frames: 1107
+
+14000
+Number of frames: 1108
+
+15000
+Number of frames: 1110
+
+16000
+Number of frames: 1110
+
+17000
+Number of frames: 1110
+
+18000
+Number of frames: 1111
+
+19000
+Number of frames: 1114
+
+20000
+Number of frames: 1114
+
+21000
+Number of frames: 1114
+
+22000
+Number of frames: 1114
+
+23000
+Number of frames: 1114
+
+24000
+Number of frames: 1114
+
+25000
+Number of frames: 1114
+
+26000
+Number of frames: 1114
+
+27000
+Number of frames: 1114
+
+28000
+Number of frames: 1114
+
+29000
+Number of frames: 1114
+
+
+Frames: 1114
+
+Number of frames: 1114
+
+Time = 11.806
+
+C:\aaThesis\Experiments\Chap_5\Timing>AFMFind -vecs1 "vecs_simple_0.bin" -frames "squares.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 40 -p 0.4 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.4
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+40 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.083
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 17
+
+200
+Number of frames: 53
+
+300
+Number of frames: 105
+
+400
+Number of frames: 164
+
+500
+Number of frames: 188
+
+600
+Number of frames: 216
+
+700
+Number of frames: 228
+
+800
+Number of frames: 256
+
+900
+Number of frames: 269
+
+1000
+Number of frames: 279
+
+2000
+Number of frames: 356
+
+3000
+Number of frames: 376
+
+4000
+Number of frames: 390
+
+5000
+Number of frames: 397
+
+6000
+Number of frames: 400
+
+7000
+Number of frames: 401
+
+8000
+Number of frames: 401
+
+9000
+Number of frames: 401
+
+10000
+Number of frames: 401
+
+11000
+Number of frames: 401
+
+12000
+Number of frames: 401
+
+13000
+Number of frames: 401
+
+14000
+Number of frames: 401
+
+15000
+Number of frames: 401
+
+16000
+Number of frames: 401
+
+17000
+Number of frames: 401
+
+18000
+Number of frames: 401
+
+19000
+Number of frames: 401
+
+20000
+Number of frames: 401
+
+21000
+Number of frames: 401
+
+22000
+Number of frames: 401
+
+23000
+Number of frames: 401
+
+24000
+Number of frames: 401
+
+25000
+Number of frames: 401
+
+26000
+Number of frames: 401
+
+27000
+Number of frames: 401
+
+28000
+Number of frames: 401
+
+29000
+Number of frames: 401
+
+
+Frames: 401
+
+Number of frames: 401
+
+Time = 7.805
+
+C:\aaThesis\Experiments\Chap_5\Timing>AFMFind -vecs1 "vecs_simple_0.bin" -frames "squares.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 40 -p 0.5 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.5
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+40 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.009
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 7
+
+200
+Number of frames: 20
+
+300
+Number of frames: 47
+
+400
+Number of frames: 65
+
+500
+Number of frames: 70
+
+600
+Number of frames: 76
+
+700
+Number of frames: 77
+
+800
+Number of frames: 82
+
+900
+Number of frames: 83
+
+1000
+Number of frames: 83
+
+2000
+Number of frames: 87
+
+3000
+Number of frames: 88
+
+4000
+Number of frames: 88
+
+5000
+Number of frames: 88
+
+6000
+Number of frames: 88
+
+7000
+Number of frames: 88
+
+8000
+Number of frames: 88
+
+9000
+Number of frames: 88
+
+10000
+Number of frames: 88
+
+11000
+Number of frames: 88
+
+12000
+Number of frames: 88
+
+13000
+Number of frames: 88
+
+14000
+Number of frames: 88
+
+15000
+Number of frames: 88
+
+16000
+Number of frames: 88
+
+17000
+Number of frames: 88
+
+18000
+Number of frames: 88
+
+19000
+Number of frames: 88
+
+20000
+Number of frames: 88
+
+21000
+Number of frames: 88
+
+22000
+Number of frames: 88
+
+23000
+Number of frames: 88
+
+24000
+Number of frames: 88
+
+25000
+Number of frames: 88
+
+26000
+Number of frames: 88
+
+27000
+Number of frames: 88
+
+28000
+Number of frames: 88
+
+29000
+Number of frames: 88
+
+
+Frames: 88
+
+Number of frames: 88
+
+Time = 7.165
+
+C:\aaThesis\Experiments\Chap_5\Timing>AFMFind -vecs1 "vecs_simple_0.bin" -frames "squares.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 50 -p 0.3 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.3
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+50 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.02
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 26
+
+200
+Number of frames: 114
+
+300
+Number of frames: 214
+
+400
+Number of frames: 324
+
+500
+Number of frames: 387
+
+600
+Number of frames: 463
+
+700
+Number of frames: 505
+
+800
+Number of frames: 582
+
+900
+Number of frames: 618
+
+1000
+Number of frames: 657
+
+2000
+Number of frames: 950
+
+3000
+Number of frames: 1093
+
+4000
+Number of frames: 1184
+
+5000
+Number of frames: 1246
+
+6000
+Number of frames: 1281
+
+7000
+Number of frames: 1297
+
+8000
+Number of frames: 1310
+
+9000
+Number of frames: 1318
+
+10000
+Number of frames: 1325
+
+11000
+Number of frames: 1330
+
+12000
+Number of frames: 1335
+
+13000
+Number of frames: 1342
+
+14000
+Number of frames: 1344
+
+15000
+Number of frames: 1346
+
+16000
+Number of frames: 1347
+
+17000
+Number of frames: 1347
+
+18000
+Number of frames: 1348
+
+19000
+Number of frames: 1351
+
+20000
+Number of frames: 1351
+
+21000
+Number of frames: 1351
+
+22000
+Number of frames: 1351
+
+23000
+Number of frames: 1351
+
+24000
+Number of frames: 1351
+
+25000
+Number of frames: 1351
+
+26000
+Number of frames: 1351
+
+27000
+Number of frames: 1351
+
+28000
+Number of frames: 1351
+
+29000
+Number of frames: 1351
+
+
+Frames: 1351
+
+Number of frames: 1351
+
+Time = 15.056
+
+C:\aaThesis\Experiments\Chap_5\Timing>AFMFind -vecs1 "vecs_simple_0.bin" -frames "squares.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 50 -p 0.4 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.4
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+50 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.012
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 18
+
+200
+Number of frames: 62
+
+300
+Number of frames: 116
+
+400
+Number of frames: 178
+
+500
+Number of frames: 208
+
+600
+Number of frames: 246
+
+700
+Number of frames: 261
+
+800
+Number of frames: 297
+
+900
+Number of frames: 312
+
+1000
+Number of frames: 325
+
+2000
+Number of frames: 418
+
+3000
+Number of frames: 444
+
+4000
+Number of frames: 459
+
+5000
+Number of frames: 466
+
+6000
+Number of frames: 470
+
+7000
+Number of frames: 471
+
+8000
+Number of frames: 472
+
+9000
+Number of frames: 472
+
+10000
+Number of frames: 472
+
+11000
+Number of frames: 472
+
+12000
+Number of frames: 472
+
+13000
+Number of frames: 473
+
+14000
+Number of frames: 474
+
+15000
+Number of frames: 474
+
+16000
+Number of frames: 474
+
+17000
+Number of frames: 474
+
+18000
+Number of frames: 474
+
+19000
+Number of frames: 474
+
+20000
+Number of frames: 474
+
+21000
+Number of frames: 474
+
+22000
+Number of frames: 474
+
+23000
+Number of frames: 474
+
+24000
+Number of frames: 474
+
+25000
+Number of frames: 474
+
+26000
+Number of frames: 474
+
+27000
+Number of frames: 474
+
+28000
+Number of frames: 474
+
+29000
+Number of frames: 474
+
+
+Frames: 474
+
+Number of frames: 474
+
+Time = 9.902
+
+C:\aaThesis\Experiments\Chap_5\Timing>AFMFind -vecs1 "vecs_simple_0.bin" -frames "squares.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 50 -p 0.5 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.5
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+50 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.025
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 7
+
+200
+Number of frames: 23
+
+300
+Number of frames: 52
+
+400
+Number of frames: 71
+
+500
+Number of frames: 79
+
+600
+Number of frames: 86
+
+700
+Number of frames: 87
+
+800
+Number of frames: 92
+
+900
+Number of frames: 93
+
+1000
+Number of frames: 93
+
+2000
+Number of frames: 98
+
+3000
+Number of frames: 99
+
+4000
+Number of frames: 99
+
+5000
+Number of frames: 99
+
+6000
+Number of frames: 99
+
+7000
+Number of frames: 99
+
+8000
+Number of frames: 99
+
+9000
+Number of frames: 99
+
+10000
+Number of frames: 99
+
+11000
+Number of frames: 99
+
+12000
+Number of frames: 99
+
+13000
+Number of frames: 99
+
+14000
+Number of frames: 99
+
+15000
+Number of frames: 99
+
+16000
+Number of frames: 99
+
+17000
+Number of frames: 99
+
+18000
+Number of frames: 99
+
+19000
+Number of frames: 99
+
+20000
+Number of frames: 99
+
+21000
+Number of frames: 99
+
+22000
+Number of frames: 99
+
+23000
+Number of frames: 99
+
+24000
+Number of frames: 99
+
+25000
+Number of frames: 99
+
+26000
+Number of frames: 99
+
+27000
+Number of frames: 99
+
+28000
+Number of frames: 99
+
+29000
+Number of frames: 99
+
+
+Frames: 99
+
+Number of frames: 99
+
+Time = 9.08

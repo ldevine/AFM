@@ -1,0 +1,4068 @@
+is was being 
+has had having 
+
+is was being 
+becomes became becoming 
+
+is has exists 
+are have exist 
+
+was became got 
+being becoming getting 
+
+was had got 
+being having getting 
+
+it which itself 
+they these themselves 
+
+it they you 
+its their your 
+
+it they not 
+it's you n't 
+
+it its itself 
+they their themselves 
+
+he she selena 
+his her selena's 
+
+he his himself 
+she her herself 
+
+his him himself 
+their them themselves 
+
+his their one's 
+him them oneself 
+
+his their its 
+himself themselves itself 
+
+they you we 
+their your our 
+
+or something someone 
+any anything anyone 
+
+people person person's 
+women woman woman's 
+
+people everyone anyone 
+things everything anything 
+
+people someone anyone 
+things something anything 
+
+can will lets 
+could would let 
+
+can does wants 
+could did wanted 
+
+had got gave 
+having getting giving 
+
+used use using 
+added add adding 
+
+used using uses 
+added adding adds 
+
+used needed required 
+use need require 
+
+used added removed 
+use add remove 
+
+used added placed 
+using adding placing 
+
+made making makes 
+produced producing produces 
+
+made making makes 
+gave giving gives 
+
+made make making 
+gave give giving 
+
+made brought gathered 
+make bring gather 
+
+made gave gained 
+making giving gaining 
+
+made gave offered 
+make give offer 
+
+made gave brought 
+makes gives brings 
+
+city town settlement 
+cities towns settlements 
+
+city area region 
+cities areas regions 
+
+american australian canadian 
+america's australia's canada's 
+
+became becoming becomes 
+got getting gets 
+
+became remained stayed 
+become remain stay 
+
+became got received 
+becoming getting receiving 
+
+became got received 
+becomes gets receives 
+
+years decades generations 
+year decade generation 
+
+years weeks decades 
+year week decade 
+
+name nickname surname 
+names nicknames surnames 
+
+movie movies novels 
+documentary documentaries essays 
+
+movie documentary soundtrack 
+movies documentaries soundtracks 
+
+movie sequel spin-off 
+movies sequels spin-offs 
+
+would could needed 
+will can need 
+
+would did could 
+will does can 
+
+would wanted tried 
+will wants tries 
+
+do did does 
+want wanted wants 
+
+do need require 
+does needs requires 
+
+do want try 
+does wants tries 
+
+do want try 
+did wanted tried 
+
+do try decide 
+did tried decided 
+
+use using uses 
+add adding adds 
+
+use require involve 
+uses requires involves 
+
+use combine interact 
+uses combines interacts 
+
+use add remove 
+using adding removing 
+
+use add combine 
+uses adds combines 
+
+make making makes 
+produce producing produces 
+
+make making makes 
+give giving gives 
+
+make making makes 
+keep keeping keeps 
+
+make create produce 
+making creating producing 
+
+make create combine 
+makes creates combines 
+
+make get give 
+making getting giving 
+
+make produce develop 
+making producing developing 
+
+make produce generate 
+makes produces generates 
+
+make give send 
+making giving sending 
+
+make give provide 
+makes gives provides 
+
+make build bring 
+makes builds brings 
+
+make keep protect 
+making keeping protecting 
+
+make keep protect 
+makes keeps protects 
+
+played play playing 
+sang sing singing 
+
+played play playing 
+performed perform performing 
+
+played appeared acted 
+playing appearing acting 
+
+played performed toured 
+playing performing touring 
+
+released soundtrack re-released 
+album song remix 
+
+often usually sometimes 
+frequently typically occasionally 
+
+area region province 
+areas regions provinces 
+
+university college campus 
+universities colleges campuses 
+
+won win winning 
+earned earn earning 
+
+won earned gained 
+win earn gain 
+
+won competed participated 
+win compete participate 
+
+found discovered explored 
+find discover explore 
+
+found seen understood 
+find see understand 
+
+found collected gathered 
+find collect gather 
+
+did could meant 
+does can means 
+
+did wanted tried 
+does wants tries 
+
+album ep remix 
+albums eps remixes 
+
+album song remix 
+albums songs remixes 
+
+group organization agency 
+groups organizations agencies 
+
+started start starts 
+stopped stop stops 
+
+team teams team's 
+club clubs club's 
+
+river downstream shoreline 
+rivers streams lagoons 
+
+said told asked 
+saying telling asking 
+
+said told asked 
+says tells asks 
+
+said told asked 
+say tell ask 
+
+said says saying 
+told tells telling 
+
+said thought believed 
+say think believe 
+
+said believed claimed 
+say believe claim 
+
+said say says 
+told tell tells 
+
+said say says 
+knew know knows 
+
+said knew hated 
+says knows hates 
+
+president governor mayor 
+presidents governors mayors 
+
+president governor governors 
+congress legislature legislatures 
+
+british britain britain's 
+canadian canada canada's 
+
+british scottish danish 
+britain scotland denmark 
+
+british australian canadian 
+britain's australia's canada's 
+
+school college campus 
+schools colleges campuses 
+
+school teacher student 
+schools teachers students 
+
+end start stop 
+ends starts stops 
+
+town village neighborhood 
+towns villages neighborhoods 
+
+get getting gotten 
+go going gone 
+
+get gets getting 
+give gives giving 
+
+get gets getting 
+bring brings bringing 
+
+get gets getting 
+go goes going 
+
+get gets getting 
+keep keeps keeping 
+
+get gets getting 
+take takes taking 
+
+get got getting 
+give gave giving 
+
+get got getting 
+go went going 
+
+get got getting 
+take took taking 
+
+get give send 
+getting giving sending 
+
+get give provide 
+gets gives provides 
+
+get give bring 
+got gave brought 
+
+get find solve 
+getting finding solving 
+
+get bring send 
+getting bringing sending 
+
+get bring send 
+got brought sent 
+
+get go travel 
+getting going travelling 
+
+get go travel 
+gets goes travels 
+
+get go travel 
+got went traveled 
+
+get keep protect 
+getting keeping protecting 
+
+get keep protect 
+gets keeps protects 
+
+get gain earn 
+got gained earned 
+
+get lose gain 
+gets loses gains 
+
+get reach climb 
+gets reaches climbs 
+
+get take give 
+getting taking giving 
+
+get take give 
+gets takes gives 
+
+get take give 
+got took gave 
+
+person man woman 
+person's man's woman's 
+
+began continued ceased 
+begin continue cease 
+
+east northeast north-east 
+eastern southeastern south-eastern 
+
+king ruler pharaoh 
+kings rulers pharaohs 
+
+king pharaoh caliph 
+kings pharaohs caliphs 
+
+live stay remain 
+lived stayed remained 
+
+live visit explore 
+lived visited explored 
+
+member leader unionist 
+members leaders unions 
+
+band soundgarden supergroup 
+bands grunge rockabilly 
+
+you your yourself 
+we our ourselves 
+
+you somebody heshe 
+your someone's hisher 
+
+left leave leaving 
+returned return returning 
+
+left stayed arrived 
+leave stay arrive 
+
+book books volumes 
+poem poems stanzas 
+
+book novel poem 
+books novels poems 
+
+book biography pamphlet 
+books biographies pamphlets 
+
+book essay preface 
+books essays anthologies 
+
+book tale myth 
+books tales myths 
+
+book poem hymn 
+books poems hymns 
+
+book story tale 
+books stories tales 
+
+house apartment bathroom 
+houses apartments bathrooms 
+
+house castle chapel 
+houses castles chapels 
+
+french spanish portuguese 
+france spain portugal 
+
+french belgian danish 
+france belgium denmark 
+
+french dutch portuguese 
+france netherlands portugal 
+
+french german polish 
+france germany poland 
+
+french italian spanish 
+france italy spain 
+
+popular successful acclaimed 
+popularity success acclaim 
+
+include included includes 
+contain contained contains 
+
+include included includes 
+consist consisted consists 
+
+include contain consist 
+includes contains consists 
+
+england ireland britain 
+england's ireland's britain's 
+
+went moved traveled 
+go move travel 
+
+went came brought 
+go come bring 
+
+went came got 
+going coming getting 
+
+went came got 
+goes comes gets 
+
+went traveled walked 
+go travel walk 
+
+went go going 
+moved move moving 
+
+went go going 
+came come coming 
+
+went go going 
+returned return returning 
+
+went go goes 
+sent send sends 
+
+went go goes 
+stayed stay stays 
+
+went go going 
+ran run running 
+
+went go goes 
+walked walk walks 
+
+went go going 
+got get getting 
+
+went sent brought 
+go send bring 
+
+went going goes 
+moved moving moves 
+
+went going goes 
+came coming comes 
+
+went going goes 
+travelled travelling travels 
+
+went going goes 
+ran running runs 
+
+went going goes 
+got getting gets 
+
+went stayed waited 
+go stay wait 
+
+went continued remained 
+go continue remain 
+
+went ran stood 
+go run stand 
+
+went walked rode 
+go walk ride 
+
+went entered arrived 
+go enter arrive 
+
+went took gave 
+go take give 
+
+went got received 
+go get receive 
+
+went got gave 
+going getting giving 
+
+went got received 
+goes gets receives 
+
+region province municipality 
+regions provinces municipalities 
+
+written write writes 
+sung sing sings 
+
+written translated interpreted 
+write translate interpret 
+
+children sons daughters 
+child son daughter 
+
+given gave giving 
+taken took taking 
+
+given give giving 
+taken take taking 
+
+given give gives 
+provided provide provides 
+
+given gives giving 
+taken takes taking 
+
+given taken carried 
+give take carry 
+
+given taken carried 
+gives takes carries 
+
+province municipality comune 
+provinces municipalities comuni 
+
+took take taking 
+gave give giving 
+
+took take takes 
+stayed stay stays 
+
+took take takes 
+came come comes 
+
+took take taking 
+got get getting 
+
+took take taking 
+ran run running 
+
+took takes taking 
+gave gives giving 
+
+took takes taking 
+got gets getting 
+
+took takes taking 
+ran runs running 
+
+took taken taking 
+gave given giving 
+
+took gave offered 
+taking giving offering 
+
+took gave offered 
+take give offer 
+
+took gave offered 
+takes gives offers 
+
+took gave chose 
+taken given chosen 
+
+took stayed waited 
+take stay wait 
+
+took came fell 
+take come fall 
+
+took came brought 
+takes comes brings 
+
+took got received 
+taking getting receiving 
+
+took got received 
+take get receive 
+
+took got received 
+takes gets receives 
+
+took ran drove 
+taking running driving 
+
+took lasted occurred 
+takes lasts occurs 
+
+good bad poor 
+better worse richer 
+
+good easy cheap 
+better easier cheaper 
+
+good strong close 
+better stronger closer 
+
+good safe healthy 
+better safer healthier 
+
+things ways kinds 
+thing way kind 
+
+things objects materials 
+something object material 
+
+company manufacturer retailer 
+companies manufacturers retailers 
+
+army regiment battalion 
+armies regiments battalions 
+
+using adding combining 
+uses adds combines 
+
+came brought gathered 
+come bring gather 
+
+came brought carried 
+comes brings carries 
+
+came comes come 
+brought brings bring 
+
+came comes coming 
+got gets getting 
+
+came got received 
+coming getting receiving 
+
+came got received 
+comes gets receives 
+
+came moved entered 
+coming moving entering 
+
+play plays playing 
+perform performs performing 
+
+play sing compose 
+playing singing composing 
+
+play perform sing 
+playing performing singing 
+
+play perform sing 
+plays performs sings 
+
+moved traveled walked 
+move travel walk 
+
+moved move moving 
+traveled travel travelling 
+
+moved move moving 
+turned turn turning 
+
+moved stayed arrived 
+move stay arrive 
+
+moved turned dropped 
+moving turning dropping 
+
+moved turned pushed 
+move turn push 
+
+moved sent brought 
+move send bring 
+
+moved entered arrived 
+move enter arrive 
+
+word verb noun 
+words verbs nouns 
+
+church chapel basilica 
+churches chapels basilicas 
+
+church monastery basilica 
+churches monasteries basilicas 
+
+german germany berlin 
+polish poland warsaw 
+
+german germany berlin 
+austrian austria vienna 
+
+german germany germany's 
+russian russia russia's 
+
+german polish lithuanian 
+germany poland lithuania 
+
+german austrian swiss 
+germany austria switzerland 
+
+german dutch portuguese 
+germany netherlands portugal 
+
+german prussian austro-hungarian 
+germany prussia austria-hungary 
+
+german russian polish 
+germany russia poland 
+
+german russian polish 
+berlin moscow warsaw 
+
+german danish finnish 
+germany denmark finland 
+
+award medal prize 
+awards medals prizes 
+
+go travel enter 
+going travelling entering 
+
+go travel send 
+goes travels sends 
+
+go going goes 
+travel travelling travels 
+
+go going goes 
+move moving moves 
+
+go going goes 
+come coming comes 
+
+go going goes 
+run running runs 
+
+go move travel 
+going moving travelling 
+
+go move travel 
+goes moves travels 
+
+go stay spend 
+goes stays spends 
+
+go send steal 
+goes sends steals 
+
+go come send 
+going coming sending 
+
+go come bring 
+goes comes brings 
+
+go bring send 
+goes brings sends 
+
+go walk climb 
+goes walks climbs 
+
+go pass connect 
+goes passes connects 
+
+go run stand 
+goes runs stands 
+
+father uncle father's 
+mother aunt mother's 
+
+father brother sons 
+mother sister daughters 
+
+served appointed resigned 
+serve appoint resign 
+
+held taken carried 
+hold take carry 
+
+help helps helping 
+try tries trying 
+
+help try manage 
+helps tries manages 
+
+help try manage 
+helped tried managed 
+
+help manage hire 
+helps manages hires 
+
+help helped helps 
+try tried tries 
+
+help helped helps 
+manage managed manages 
+
+help protect prevent 
+helps protects prevents 
+
+america australia canada 
+america's australia's canada's 
+
+thought think thinking 
+felt feel feeling 
+
+thought considered believed 
+think consider believe 
+
+thought understood interpreted 
+think understand interpret 
+
+son daughter cousin 
+sons daughters cousins 
+
+son daughter daughters 
+brother sister sisters 
+
+son sons daughters 
+brother brothers sisters 
+
+son brother half-brother 
+daughter sister half-sister 
+
+son brother cousin 
+sons brothers cousins 
+
+actor actress dancer 
+actors actresses dancers 
+
+got gets getting 
+received receives receiving 
+
+got gets getting 
+gave gives giving 
+
+got received gained 
+getting receiving gaining 
+
+got received gained 
+gets receives gains 
+
+got gave gained 
+getting giving gaining 
+
+got gave brought 
+gets gives brings 
+
+australia australian australia's 
+canada canadian canada's 
+
+australia canada uk 
+australia's canada's uk's 
+
+australia uk eu 
+australia's uk's country's 
+
+take taken taking 
+give given giving 
+
+take taken takes 
+carry carried carries 
+
+take takes taking 
+give gives giving 
+
+take takes taking 
+hold holds holding 
+
+take give send 
+taking giving sending 
+
+take give provide 
+taken given provided 
+
+take give provide 
+takes gives provides 
+
+take stay spend 
+takes stays spends 
+
+take carry deliver 
+taken carried delivered 
+
+take carry send 
+takes carries sends 
+
+take hold carry 
+taking holding carrying 
+
+take bring gather 
+taken brought gathered 
+
+take keep hold 
+taken kept held 
+
+take keep protect 
+takes keeps protects 
+
+take come bring 
+takes comes brings 
+
+take leave stay 
+taking leaving staying 
+
+kingdom uk britain 
+kingdom's uk's britain's 
+
+india pakistan iran 
+indian pakistani iranian 
+
+india china korea 
+india's china's korea's 
+
+minister secretary commissioner 
+ministers secretaries commissioners 
+
+minister mp councillor 
+ministers mps councillors 
+
+europe africa asia 
+european african asian 
+
+making giving putting 
+makes gives puts 
+
+making keeping protecting 
+makes keeps protects 
+
+making becoming getting 
+makes becomes gets 
+
+killed escaped chased 
+kills escapes chases 
+
+killed caught chased 
+kills catches chases 
+
+story tale myth 
+stories tales myths 
+
+story poem hymn 
+stories poems hymns 
+
+story novel poem 
+stories novels poems 
+
+japanese japan japan's 
+chinese china china's 
+
+japanese japan tokyo 
+korean korea seoul 
+
+japanese chinese mongolian 
+japan china mongolia 
+
+japan china korea 
+japan's china's korea's 
+
+career retiring retire 
+tenure resigning resign 
+
+put putting puts 
+turned turning turns 
+
+put bring raise 
+puts brings raises 
+
+put turned pulled 
+puts turns pulls 
+
+put break throw 
+puts breaks throws 
+
+changed added removed 
+changing adding removing 
+
+received earned gained 
+receive earn gain 
+
+received earned gained 
+receives earns gains 
+
+received receiving receives 
+earned earning earns 
+
+received receiving receives 
+gave giving gives 
+
+received gained achieved 
+receiving gaining achieving 
+
+received receive receives 
+earned earn earns 
+
+received receive receives 
+gave give gives 
+
+received offered donated 
+receive offer donate 
+
+received gave earned 
+receiving giving earning 
+
+received gave offered 
+receive give offer 
+
+received gave brought 
+receives gives brings 
+
+received achieved obtained 
+receiving achieving obtaining 
+
+center centre hub 
+centers centres hubs 
+
+gave gives giving 
+offered offers offering 
+
+gave gives giving 
+brought brings bringing 
+
+gave give gives 
+offered offer offers 
+
+gave give giving 
+gained gain gaining 
+
+gave give giving 
+brought bring bringing 
+
+gave earned gained 
+give earn gain 
+
+gave gained obtained 
+giving gaining obtaining 
+
+gave gained attained 
+give gain attain 
+
+gave brought gathered 
+give bring gather 
+
+roman greek egyptian 
+romans greeks egyptians 
+
+start stop prevent 
+starts stops prevents 
+
+comes goes travels 
+come go travel 
+
+comes goes gets 
+coming going getting 
+
+comes come coming 
+goes go going 
+
+comes brings steals 
+come bring steal 
+
+comes takes gives 
+come take give 
+
+caused cause causes 
+affected affect affects 
+
+caused occurred arose 
+cause occur arise 
+
+wanted tried failed 
+wants tries fails 
+
+wanted decided tried 
+wants decides tries 
+
+wanted asked invited 
+want ask invite 
+
+wanted asked promised 
+wants asks promises 
+
+wanted asked refused 
+wanting asking refusing 
+
+wanted chose refused 
+want choose refuse 
+
+wanted want wants 
+tried try tries 
+
+wanted want wants 
+asked ask asks 
+
+wanted want wanting 
+refused refuse refusing 
+
+wanted want wants 
+needed need needs 
+
+wanted promised sought 
+wants promises seeks 
+
+wanted refused invited 
+want refuse invite 
+
+wanted helped tried 
+wants helps tries 
+
+wanted agreed refused 
+want agree refuse 
+
+studied taught learned 
+study teach learn 
+
+china chinese beijing 
+korea korean seoul 
+
+china china's guangzhou 
+korea korea's incheon 
+
+china mongolia tibet 
+chinese mongolian tibetan 
+
+china vietnam sudan 
+chinese vietnamese sudanese 
+
+return returned returning 
+leave left leaving 
+
+return leave stay 
+returning leaving staying 
+
+return join meet 
+returned joined met 
+
+canada uk eu 
+canada's uk's country's 
+
+hockey nhl bruins 
+basketball nba celtics 
+
+find tell reveal 
+finds tells reveals 
+
+find solve resolve 
+finding solving resolving 
+
+find save steal 
+finds saves steals 
+
+god prophets worshipping 
+jesus disciples baptism 
+
+sold bought shipped 
+selling buying importing 
+
+sold bought rented 
+sells buys renting 
+
+sold selling sales 
+bought buying profits 
+
+sent sending sends 
+brought bringing brings 
+
+sent send sending 
+brought bring bringing 
+
+sent send sends 
+arrived arrive arrives 
+
+sent brought gathered 
+send bring gather 
+
+sent brought carried 
+sends brings carries 
+
+sent traveled walked 
+send travel walk 
+
+run ran running 
+stand stood standing 
+
+run stand sit 
+running standing sitting 
+
+run stand sit 
+ran stood sat 
+
+run serve remain 
+ran served remained 
+
+joined join joining 
+entered enter entering 
+
+joined entered arrived 
+joining entering arriving 
+
+joined entered arrived 
+join enter arrive 
+
+joined met visited 
+join meet visit 
+
+joined met remarried 
+joins meets marries 
+
+joined returned arrived 
+joining returning arriving 
+
+move moving moves 
+travel travelling travels 
+
+move moving moves 
+turn turning turns 
+
+move travel enter 
+moving travelling entering 
+
+move travel send 
+moves travels sends 
+
+move turn push 
+moves turns pushes 
+
+give gives giving 
+bring brings bringing 
+
+give gives giving 
+receive receives receiving 
+
+give gives giving 
+raise raises raising 
+
+give gives giving 
+keep keeps keeping 
+
+give provide contribute 
+gives provides contributes 
+
+give carry send 
+gives carries sends 
+
+give bring send 
+giving bringing sending 
+
+give bring send 
+gives brings sends 
+
+give receive earn 
+giving receiving earning 
+
+give receive offer 
+gives receives offers 
+
+give raise steal 
+giving raising stealing 
+
+give raise collect 
+gives raises collects 
+
+give gain achieve 
+giving gaining achieving 
+
+give keep protect 
+giving keeping protecting 
+
+give keep protect 
+gives keeps protects 
+
+give add combine 
+gives adds combines 
+
+event competition tournament 
+events competitions tournaments 
+
+village neighborhood suburb 
+villages neighborhoods suburbs 
+
+village parish borough 
+villages parishes boroughs 
+
+elected appointed proclaimed 
+elects appoints declares 
+
+say think believe 
+says thinks believes 
+
+say believe consider 
+says believes considers 
+
+say says saying 
+tell tells telling 
+
+say know tell 
+says knows tells 
+
+say agree reject 
+says agrees rejects 
+
+say tell reveal 
+says tells reveals 
+
+italian spanish portuguese 
+italy spain portugal 
+
+cause causes causing 
+affect affects affecting 
+
+cause affect depend 
+causes affects depends 
+
+cause happen occur 
+causes happens occurs 
+
+cause occur affect 
+causes occurs affects 
+
+italy rome sicily 
+greece athens crete 
+
+italy spain hungary 
+sicily castile wallachia 
+
+need needs required 
+want wants allowed 
+
+need needed needs 
+want wanted wants 
+
+need require involve 
+needs requires involves 
+
+need want try 
+needs wants tries 
+
+need want ask 
+needed wanted asked 
+
+need allow require 
+needs allows requires 
+
+need allow require 
+needed allowed required 
+
+greek greece greeks 
+egyptian egypt egyptians 
+
+road bridge tunnel 
+roads bridges tunnels 
+
+strong fast loud 
+stronger faster louder 
+
+governor secretary commissioner 
+governors secretaries commissioners 
+
+performed perform performing 
+sung sing singing 
+
+reached reach reaching 
+entered enter entering 
+
+reached entered arrived 
+reaching entering arriving 
+
+reached entered arrived 
+reach enter arrive 
+
+reached achieved attained 
+reach achieve attain 
+
+reached gained achieved 
+reach gain achieve 
+
+program programme mini-series 
+programs programmes specials 
+
+program project redevelopment 
+programs projects developments 
+
+program network protocol 
+programs networks protocols 
+
+car truck bicycle 
+cars trucks bicycles 
+
+car vehicle truck 
+cars vehicles trucks 
+
+car driver drivers 
+motorcycle cyclist cyclists 
+
+brother brothers sons 
+sister sisters daughters 
+
+spanish portuguese moroccan 
+spain portugal morocco 
+
+spanish dutch portuguese 
+spain netherlands portugal 
+
+helped tried managed 
+helps tries manages 
+
+writing teaching learning 
+write teach learn 
+
+students teachers professors 
+student teacher lecturer 
+
+students schools colleges 
+student school college 
+
+something anything everything 
+someone anyone everyone 
+
+says tells explains 
+saying telling explaining 
+
+think believe agree 
+thinks believes agrees 
+
+think know agree 
+thinks knows agrees 
+
+think feel worry 
+thinks feels worries 
+
+think thinking thinks 
+feel feeling feels 
+
+decided tried failed 
+decides tries fails 
+
+decided asked promised 
+decides asks promises 
+
+decided told asked 
+decides tells asks 
+
+look feel seem 
+looks feels seems 
+
+look behave interact 
+looks behaves interacts 
+
+look appear seem 
+looks appears seems 
+
+look fit behave 
+looks fits behaves 
+
+added add adding 
+removed remove removing 
+
+added removed recovered 
+add remove recover 
+
+allowed allow allows 
+required require requires 
+
+allowed needed required 
+allow need require 
+
+allowed want wants 
+required need needs 
+
+hard easy safe 
+harder easier safer 
+
+hard fast loud 
+harder faster louder 
+
+russian ukrainian azerbaijani 
+moscow kiev baku 
+
+russian russia moscow 
+polish poland warsaw 
+
+russian russia moscow 
+turkish turkey istanbul 
+
+russian russia moscow 
+finnish finland helsinki 
+
+russian polish lithuanian 
+russia poland lithuania 
+
+russian serbian azerbaijani 
+moscow belgrade baku 
+
+russian turkish iranian 
+russia turkey iran 
+
+russian armenian azerbaijani 
+moscow yerevan baku 
+
+museum gallery exhibition 
+museums galleries exhibitions 
+
+museum library gallery 
+museums libraries galleries 
+
+museum collection library 
+museums collections libraries 
+
+takes gives receives 
+taking giving receiving 
+
+takes gets becomes 
+taking getting becoming 
+
+want try manage 
+wants tries manages 
+
+want ask refuse 
+wanting asking refusing 
+
+going moving travelling 
+goes moves travels 
+
+going getting putting 
+goes gets puts 
+
+society association organization 
+societies associations organizations 
+
+society organization institution 
+societies organizations institutions 
+
+development growth migration 
+develop grow migrate 
+
+stop prevent remove 
+stopped prevented removed 
+
+stop prevent remove 
+stopping preventing removing 
+
+stop prevent remove 
+stops prevents removes 
+
+stop stopped stopping 
+prevent prevented preventing 
+
+stop stopped stopping 
+keep kept keeping 
+
+stop keep stay 
+stopped kept stayed 
+
+stop keep protect 
+stopping keeping protecting 
+
+stop keep stay 
+stops keeps stays 
+
+stop stops stopping 
+keep keeps keeping 
+
+win earn achieve 
+winning earning achieving 
+
+win finish earn 
+winning finishing earning 
+
+mexico brazil chile 
+mexican brazilian chilean 
+
+keep keeping keeps 
+protect protecting protects 
+
+keep protect prevent 
+keeping protecting preventing 
+
+keep protect prevent 
+keeps protects prevents 
+
+keep maintain establish 
+keeping maintaining establishing 
+
+keep maintain govern 
+kept maintained governed 
+
+keep stay remain 
+kept stayed remained 
+
+keep stay spend 
+keeps stays spends 
+
+keep prevent reduce 
+keeps prevents reduces 
+
+keep preserve restore 
+keeping preserving restoring 
+
+keep remain retain 
+kept remained retained 
+
+pakistan afghanistan iraq 
+pakistani afghan iraqi 
+
+pakistan muslim muslims 
+punjab sikh sikhs 
+
+pakistan iran afghanistan 
+pakistani iranian afghan 
+
+association organization agency 
+associations organizations agencies 
+
+association committee agency 
+associations committees agencies 
+
+know tell reveal 
+knows tells reveals 
+
+know tell learn 
+knew told learned 
+
+know knew knows 
+tell told tells 
+
+continued remained stayed 
+continue remain stay 
+
+discovered discovery discoveries 
+invented invention inventions 
+
+texas florida louisiana 
+waco sarasota shreveport 
+
+texas louisiana arkansas 
+waco shreveport fayetteville 
+
+artist musician entertainer 
+artists musicians entertainers 
+
+artist performer entertainer 
+artists performers entertainers 
+
+theory explanation interpretation 
+theories explanations interpretations 
+
+soldiers civilians casualties 
+guards unarmed inflicted 
+
+bridge highway motorway 
+bridges highways motorways 
+
+parliament elections referendum 
+mps candidates voters 
+
+tried try tries 
+managed manage manages 
+
+tried managed hired 
+tries manages hires 
+
+tried asked promised 
+tries asks promises 
+
+tried promised sought 
+tries promises seeks 
+
+fight defend retain 
+fought defended retained 
+
+fight defeat surrender 
+fought defeated surrendered 
+
+told asked chose 
+telling asking choosing 
+
+told asked hired 
+tells asks hires 
+
+told tells telling 
+asked asks asking 
+
+told tells tell 
+knew knows know 
+
+told knew cared 
+telling knowing caring 
+
+told knew hated 
+tells knows hates 
+
+told tell telling 
+asked ask asking 
+
+told tell telling 
+knew know knowing 
+
+described describes describing 
+explained explains explaining 
+
+described explained expressed 
+describing explaining expressing 
+
+described mentioned explained 
+describes mentions explains 
+
+russia finland norway 
+moscow helsinki oslo 
+
+russia turkey crimea 
+moscow istanbul kiev 
+
+democratic conservative democrats 
+socialist right-wing socialists 
+
+my your someone's 
+me you somebody 
+
+gets receives sends 
+getting receiving sending 
+
+gets puts brings 
+getting putting bringing 
+
+gets gives receives 
+getting giving receiving 
+
+gets keeps protects 
+getting keeping protecting 
+
+eat eating eats 
+feed feeding feeds 
+
+eat bite swallow 
+eats bites swallows 
+
+laws amendment legislation 
+enforced violated enacted 
+
+brought bring brings 
+carried carry carries 
+
+brought carried pulled 
+bring carry pull 
+
+believe consider assume 
+believes considers assumes 
+
+territory principality duchies 
+sovereignty monarchy monarchies 
+
+contains consists represents 
+contain consist represent 
+
+contains produces generates 
+contain produce generate 
+
+emperor ruler pharaoh 
+emperors rulers pharaohs 
+
+met visited explored 
+meet visit explore 
+
+met attended participated 
+meet attend participate 
+
+met stayed waited 
+meet stay wait 
+
+stadium arena venue 
+stadiums arenas venues 
+
+create combine interact 
+creates combines interacts 
+
+create produce generate 
+creates produces generates 
+
+create produce develop 
+creating producing developing 
+
+create develop promote 
+creating developing promoting 
+
+create build bring 
+creates builds brings 
+
+create establish restore 
+creating establishing restoring 
+
+create provide offer 
+creates provides offers 
+
+create provide maintain 
+creating providing maintaining 
+
+create generate transmit 
+creates generates transmits 
+
+create creating creates 
+produce producing produces 
+
+create creating creates 
+provide providing provides 
+
+create introduce propose 
+creating introducing proposing 
+
+create promote organize 
+creating promoting organizing 
+
+create add combine 
+creates adds combines 
+
+producer songwriter entertainer 
+producers songwriters entertainers 
+
+write sing hear 
+writes sings hears 
+
+sweden norway estonia 
+stockholm oslo tallinn 
+
+sweden norway scandinavia 
+swedish norwegian scandinavian 
+
+sweden denmark scandinavia 
+swedish danish scandinavian 
+
+sweden finland norway 
+stockholm helsinki oslo 
+
+sweden finland norway 
+swedish finnish norwegian 
+
+damage flooding erosion 
+damaged flooded eroded 
+
+damage repairs renovations 
+damaged repaired renovated 
+
+kept keeping keeps 
+stopped stopping stops 
+
+kept stopped prevented 
+keeping stopping preventing 
+
+kept stopped prevented 
+keeps stops prevents 
+
+illinois tennessee arkansas 
+evanston knoxville fayetteville 
+
+comedy drama sitcom 
+comedies dramas sitcoms 
+
+comedy comedies comedic 
+sitcom sitcoms recurring 
+
+comedy sitcom spin-off 
+comedies sitcoms spin-offs 
+
+magazine journal essay 
+magazines journals essays 
+
+magazine newspaper journal 
+magazines newspapers journals 
+
+kill shoot throw 
+kills shoots throws 
+
+kill destroy steal 
+kills destroys steals 
+
+kill destroy restore 
+killing destroying restoring 
+
+kill killing kills 
+destroy destroying destroys 
+
+kill killing kills 
+steal stealing steals 
+
+kill catch throw 
+kills catches throws 
+
+kill escape steal 
+kills escapes steals 
+
+kill save steal 
+kills saves steals 
+
+leave join enter 
+leaving joining entering 
+
+gives receives sends 
+giving receiving sending 
+
+gives puts brings 
+giving putting bringing 
+
+gives brings spreads 
+giving bringing spreading 
+
+gives keeps protects 
+giving keeping protecting 
+
+novel poem essay 
+novels poems essays 
+
+novel tale myth 
+novels tales myths 
+
+happened occurred arose 
+happen occur arise 
+
+happened happen happens 
+occurred occur occurs 
+
+happened lasted occurred 
+happens lasts occurs 
+
+tells tell telling 
+asks ask asking 
+
+tells realizes reveals 
+tell realize reveal 
+
+tells learns hears 
+tell learn hear 
+
+tells reveals steals 
+tell reveal steal 
+
+tells knows hears 
+tell know hear 
+
+tells sees hears 
+tell see hear 
+
+tells decides asks 
+tell decide ask 
+
+tells explains reveals 
+tell explain reveal 
+
+tells finds reveals 
+tell find reveal 
+
+asked ask asks 
+invited invite invites 
+
+asked ask asking 
+refused refuse refusing 
+
+asked ask asks 
+agreed agree agrees 
+
+asked refused invited 
+ask refuse invite 
+
+asked promised sought 
+asks promises seeks 
+
+asked chose refused 
+ask choose refuse 
+
+grow reach climb 
+grows reaches climbs 
+
+spent spend spends 
+stayed stay stays 
+
+spent stayed arrived 
+spend stay arrive 
+
+orchestra choir congregation 
+conductor organist pastor 
+
+organization agency commission 
+organizations agencies commissions 
+
+organization committee commission 
+organizations committees commissions 
+
+organization institution clinic 
+organizations institutions clinics 
+
+simple easy cheap 
+simpler easier cheaper 
+
+article essay biography 
+articles essays biographies 
+
+try manage hire 
+tries manages hires 
+
+try decide ask 
+tries decides asks 
+
+destroyed recovered healed 
+destroy recover heal 
+
+board committee agency 
+boards committees agencies 
+
+material object lens 
+materials objects lenses 
+
+fought attacked marched 
+fighting attacking marching 
+
+fought marched retreated 
+fighting marching retreating 
+
+dutch netherlands amsterdam 
+danish denmark copenhagen 
+
+dutch portuguese galician 
+netherlands portugal galicia 
+
+dutch danish finnish 
+netherlands denmark finland 
+
+dutch norwegian finnish 
+netherlands norway finland 
+
+fall break throw 
+fell broke threw 
+
+committee agency commission 
+committees agencies commissions 
+
+ship ships sailors 
+boat boats fishermen 
+
+ship boat yacht 
+ships boats yachts 
+
+turned pushed chased 
+turns pushes chases 
+
+turned pushed thrown 
+turn push throw 
+
+turned turn turns 
+pushed push pushes 
+
+turned dropped knocked 
+turning dropping knocking 
+
+defeated surrendered retreated 
+defeat surrender retreat 
+
+dynasty ruler pharaoh 
+dynasties rulers pharaohs 
+
+becoming getting giving 
+becomes gets gives 
+
+object lens sensor 
+objects lenses sensors 
+
+produce generate transmit 
+produces generates transmits 
+
+produce contain combine 
+produces contains combines 
+
+produce provide contribute 
+produces provides contributes 
+
+hold carry send 
+holding carrying sending 
+
+hold stand sit 
+holds stands sits 
+
+castle chapel tomb 
+castles chapels tombs 
+
+composer conductor pianist 
+composers conductors pianists 
+
+turn push accelerate 
+turns pushes expands 
+
+covered surrounded filled 
+covers surrounds fills 
+
+pay paid paying 
+buy bought buying 
+
+pay buy collect 
+paying buying collecting 
+
+temple shrine deity 
+temples shrines deities 
+
+netherlands belgium denmark 
+amsterdam brussels copenhagen 
+
+appointed appointment appoint 
+resigned resignation resign 
+
+allow require apply 
+allows requires applies 
+
+allow allows allowing 
+let lets letting 
+
+egypt egyptian egyptians 
+greece greek greeks 
+
+egypt egyptian cairo 
+iran iranian tehran 
+
+egypt iran syria 
+egyptian iranian syrian 
+
+egypt iran saudi 
+cairo tehran riyadh 
+
+buried dug excavated 
+burial mounds megalithic 
+
+build bring send 
+builds brings sends 
+
+travel explore colonize 
+travelled explored colonized 
+
+travel send steal 
+travels sends steals 
+
+travel pass connect 
+travels passes connects 
+
+travel walk ride 
+traveled walked rode 
+
+israel lebanon libya 
+israeli lebanese libyan 
+
+israel iraq lebanon 
+israeli iraqi lebanese 
+
+israel iran iraq 
+israeli iranian iraqi 
+
+austria hungary serbia 
+austrian hungarian serbian 
+
+austria prussia austria-hungary 
+austrian prussian austro-hungarian 
+
+austria poland ukraine 
+austrian polish ukrainian 
+
+austria switzerland finland 
+austrian swiss finnish 
+
+coach manager owner 
+coaches managers owners 
+
+room apartment bathroom 
+rooms apartments bathrooms 
+
+room hotel restaurant 
+rooms hotels restaurants 
+
+fast easy cheap 
+faster easier cheaper 
+
+appear seem suggest 
+appears seems suggests 
+
+doing perform accomplish 
+watching entertain impress 
+
+happen occur affect 
+happens occurs affects 
+
+happen affect depend 
+happens affects depends 
+
+weapons firearms handguns 
+weapon firearm caliber 
+
+cathedral chapel basilica 
+cathedrals chapels basilicas 
+
+cathedral monastery basilica 
+cathedrals monasteries basilicas 
+
+speak sing hear 
+speaks sings hears 
+
+removed recovered healed 
+remove recover heal 
+
+remained stayed waited 
+remain stay wait 
+
+remained retained regained 
+remain retain regain 
+
+remained existed arose 
+remain exist arise 
+
+remained survived recovered 
+remain survive recover 
+
+bought donated invested 
+buy donate invest 
+
+poland hungary lithuania 
+polish hungarian lithuanian 
+
+poland romania ukraine 
+polish romanian ukrainian 
+
+poland ukraine lithuania 
+polish ukrainian lithuanian 
+
+poland polish warsaw 
+ukraine ukrainian kiev 
+
+library gallery exhibition 
+libraries galleries exhibitions 
+
+stay remain retain 
+stayed remained retained 
+
+stay meet attend 
+stayed met attended 
+
+stay continue begin 
+stayed continued began 
+
+learn teach encourage 
+learned taught encouraged 
+
+learn teach meditate 
+learning teaching meditation 
+
+learn understand communicate 
+learning understanding communication 
+
+learn understand interpret 
+learnt understood interpreted 
+
+learn learning skills 
+educate educational opportunities 
+
+learn realize forget 
+learned realized forgot 
+
+join enter arrive 
+joining entering arriving 
+
+poet philosopher theologian 
+poets philosophers theologians 
+
+protect prevent reduce 
+protects prevents reduces 
+
+protect prevent reduce 
+protecting preventing reducing 
+
+protect protects protecting 
+prevent prevents preventing 
+
+protect protects protecting 
+destroy destroys destroying 
+
+protect destroy steal 
+protects destroys steals 
+
+protect remove destroy 
+protects removes destroys 
+
+reach enter arrive 
+reaching entering arriving 
+
+reach gain achieve 
+reaching gaining achieving 
+
+reach pass connect 
+reaches passes connects 
+
+polish ukrainian azerbaijani 
+warsaw kiev baku 
+
+entered enter entering 
+arrived arrive arriving 
+
+entered stayed waited 
+enter stay wait 
+
+store shop grocery 
+stores shops supermarkets 
+
+referred defined measured 
+refer define measure 
+
+planet planets extrasolar 
+galaxy galaxies ngc 
+
+representatives delegates councillors 
+representative delegate councillor 
+
+add adding adds 
+combine combining combines 
+
+add remove insert 
+adding removing inserting 
+
+dog cat pet 
+dogs cats pets 
+
+dog pet pig 
+dogs pets pigs 
+
+earned earn earns 
+gained gain gains 
+
+earned gained achieved 
+earn gain achieve 
+
+earned offered donated 
+earn offer donate 
+
+earned achieved attained 
+earn achieve attain 
+
+newspaper journal essay 
+newspapers journals essays 
+
+southwest northeast eastward 
+east-southeast north-northeast northwestward 
+
+connected connects connecting 
+separated separates separating 
+
+connected separated surrounded 
+connects separates surrounds 
+
+refers refer adhere 
+relates relate satisfy 
+
+refers indicates determines 
+refer indicate determine 
+
+refers belongs represents 
+refer belong represent 
+
+meet arrive sneak 
+meets arrives sneaks 
+
+exist occur affect 
+exists occurs affects 
+
+exist existed exists 
+occur occurred occurs 
+
+captured escaped fled 
+capture escape flee 
+
+captured surrendered retreated 
+capture surrender retreat 
+
+captured invaded seized 
+capture invade seize 
+
+captured seized overthrown 
+capture seize overthrow 
+
+captured fled surrendered 
+capture flee surrender 
+
+provide maintain establish 
+providing maintaining establishing 
+
+provide maintain implement 
+provided maintained implemented 
+
+provide require apply 
+provides requires applies 
+
+provide improve reduce 
+providing improving reducing 
+
+provide offer require 
+provides offers requires 
+
+describe define classify 
+describes defines classifies 
+
+describe identify define 
+describes identifies defines 
+
+describe explain solve 
+describing explaining solving 
+
+describe describes describing 
+explain explains explaining 
+
+physics mathematics astronomy 
+physicists mathematicians astronomers 
+
+physics chemistry mathematics 
+physicists chemists mathematicians 
+
+physics astronomy meteorology 
+physicists astronomers meteorologists 
+
+carry carrying carries 
+send sending sends 
+
+carry carrying carries 
+collect collecting collects 
+
+carry send steal 
+carries sends steals 
+
+carry send deliver 
+carried sent delivered 
+
+carry carried carries 
+send sent sends 
+
+carry carried carries 
+bring brought brings 
+
+carry bring send 
+carries brings sends 
+
+carry bring send 
+carried brought sent 
+
+carry collect earn 
+carries collects earns 
+
+competed compete competes 
+participated participate organizes 
+
+colony colonies colonists 
+settlement settlements settlers 
+
+muslim muslims islam 
+hindu hindus hinduism 
+
+muslim hindu sikh 
+muslims hindus sikhs 
+
+missouri arkansas fayetteville 
+kansas oklahoma tulsa 
+
+understand explain interpret 
+understood explained interpreted 
+
+understand define interpret 
+understood defined interpreted 
+
+singing sing sung 
+performing perform performed 
+
+singing sang singers 
+dancing danced dancers 
+
+singing performing attending 
+sing perform attend 
+
+singing performing attending 
+sings performs attends 
+
+singing dancing skating 
+singers dancers skaters 
+
+anything anyone anywhere 
+everything everyone everywhere 
+
+agreed refused invited 
+agree refuse invite 
+
+agreed agree agrees 
+rejected reject rejects 
+
+controlled governed organised 
+controls governs organizes 
+
+claimed argued warned 
+claim argue deny 
+
+memorial monument tomb 
+memorials monuments tombs 
+
+increased reduce reduces 
+improved improve improves 
+
+declared abolished ratified 
+declare abolish ratify 
+
+teeth canine incisors 
+bones femur ribs 
+
+killing destroying escaping 
+kills destroys escapes 
+
+journalist reporter sideline 
+broadcaster announcer play-by-play 
+
+heard hear noises 
+sung sing clap 
+
+defined measured calculated 
+define measure calculate 
+
+attended attend attending 
+visited visit visiting 
+
+attended visited explored 
+attending visiting exploring 
+
+hotel restaurant brewery 
+hotels restaurants breweries 
+
+hotel shop restaurant 
+hotels shops restaurants 
+
+hotel nightclub brothel 
+hotels nightclubs brothels 
+
+bring bringing brings 
+send sending sends 
+
+bring send steal 
+brings sends steals 
+
+bring gain achieve 
+bringing gaining achieving 
+
+wrestler boxer golfer 
+wrestlers boxers golfers 
+
+everyone everything everywhere 
+anyone anything anywhere 
+
+gun bullet sniper 
+guns bullets snipers 
+
+mammals reptiles pterosaurs 
+mammal reptile pterosaur 
+
+liquid substance pigment 
+liquids substances pigments 
+
+philosophy economics psychology 
+philosophers economists psychologists 
+
+begins continues manages 
+begin continue manage 
+
+begins stops keeps 
+begin stop keep 
+
+driver cyclist golfer 
+drivers cyclists golfers 
+
+driver rider climber 
+drivers riders climbers 
+
+escape escapes escaping 
+destroy destroys destroying 
+
+escape destroy steal 
+escapes destroys steals 
+
+escape destroy defend 
+escaping destroying attacking 
+
+escape escaped escapes 
+save saved saves 
+
+escape capture flee 
+escaped captured fled 
+
+escape save steal 
+escapes saves steals 
+
+escape invade conquer 
+escaping invading conquering 
+
+communist socialist fascist 
+communism socialism fascism 
+
+device calculator typewriter 
+devices calculators typewriters 
+
+visit visited visiting 
+attend attended attending 
+
+visit explore colonize 
+visited explored colonized 
+
+visit attend participate 
+visited attended participated 
+
+save saved saves 
+rescue rescued rescues 
+
+save destroy recover 
+saved destroyed recovered 
+
+save destroy steal 
+saves destroys steals 
+
+save catch throw 
+saves catches throws 
+
+cat pet pig 
+cats pets pigs 
+
+turkey iran afghanistan 
+istanbul tehran kabul 
+
+turkey iran afghanistan 
+turkish iranian afghan 
+
+turkey lebanon tunisia 
+istanbul beirut tunis 
+
+turkey lebanon sudan 
+turkish lebanese sudanese 
+
+turkey hungary serbia 
+turkish hungarian serbian 
+
+turkey azerbaijan serbia 
+turkish azerbaijani serbian 
+
+gained achieved obtained 
+gaining achieving obtaining 
+
+gained achieved attained 
+gain achieve attain 
+
+gained gain gaining 
+achieved achieve achieving 
+
+gained retained attained 
+gain retain attain 
+
+bishop bishops councillors 
+diocese dioceses wards 
+
+bishop priest pastor 
+bishops priests pastors 
+
+prevent prevents preventing 
+remove removes removing 
+
+prevent prevented preventing 
+remove removed removing 
+
+prevent remove destroy 
+prevents removes destroys 
+
+iran afghanistan iraq 
+iranian afghan iraqi 
+
+iran iraq lebanon 
+iranian iraqi lebanese 
+
+iran syria sudan 
+iranian syrian sudanese 
+
+iran lebanon sudan 
+iranian lebanese sudanese 
+
+iran saudi qatar 
+tehran riyadh doha 
+
+iran armenia belarus 
+iranian armenian ukrainian 
+
+comedian songwriter entertainer 
+comedians songwriters entertainers 
+
+perform performing performs 
+sing singing sings 
+
+perform performing performs 
+attend attending attends 
+
+perform sing hear 
+performs sings hears 
+
+perform sing compose 
+performing singing composing 
+
+accident accidents crashes 
+explosion explosions exploding 
+
+accident incident explosion 
+accidents incidents explosions 
+
+accident explosion eruption 
+accidents explosions eruptions 
+
+accident disaster incident 
+accidents disasters incidents 
+
+stand sit lie 
+stands sits lies 
+
+stand stands stood 
+sit sits sat 
+
+stand walk sit 
+standing walking sitting 
+
+stand walk sit 
+stood walked sat 
+
+particles electrons molecules 
+particle electron molecule 
+
+toronto montreal vancouver 
+leafs canadiens canucks 
+
+toronto quebec vancouver 
+leafs nordiques canucks 
+
+develop promote preserve 
+developing promoting preserving 
+
+reagan obama nixon 
+reagan's obama's nixon's 
+
+reagan clinton obama 
+reagan's clinton's obama's 
+
+reagan trump obama 
+reagan's trump's obama's 
+
+reagan kennedy roosevelt 
+reagan's kennedy's roosevelt's 
+
+lies lie lying 
+sits sit sitting 
+
+mathematics astronomy archaeology 
+mathematicians astronomers archaeologists 
+
+template templates html 
+parameter parameters numeric 
+
+nazi nazis stalin 
+ustashe ustase broz 
+
+occur occurs occurred 
+involve involves resulted 
+
+occur occurs occurred 
+undergo undergoes undergone 
+
+occur affect depend 
+occurs affects depends 
+
+occur involve consist 
+occurs involves consists 
+
+minnesota minneapolis timberwolves 
+indiana bloomington pacers 
+
+egyptian iranian azerbaijani 
+cairo tehran baku 
+
+finland romania ukraine 
+helsinki bucharest kiev 
+
+finland romania serbia 
+finnish romanian serbian 
+
+teaching learning meditation 
+teach learn meditate 
+
+universities institutions organisations 
+courses facilities activities 
+
+knew hated shocked 
+knows hates hears 
+
+knew loved hated 
+knows loves hates 
+
+knew felt hated 
+knows feels hates 
+
+knew convinced hated 
+knows agrees hates 
+
+settled settlers settle 
+explored explorers explore 
+
+settled fled emigrated 
+settle flee emigrate 
+
+settled explored colonized 
+settle explore colonize 
+
+activist educator polish-born 
+reformer theologian physiologist 
+
+atoms molecules enzymes 
+atom molecule enzyme 
+
+atoms electrons molecules 
+atom electron molecule 
+
+electrons protons bosons 
+electron proton boson 
+
+electrons molecules enzymes 
+electron molecule enzyme 
+
+muslims christians catholics 
+islam christianity catholicism 
+
+muslims catholics protestants 
+islam catholicism protestantism 
+
+bangladesh afghanistan iraq 
+dhaka kabul baghdad 
+
+norway iceland estonia 
+oslo reykjavik tallinn 
+
+afghanistan iraq libya 
+kabul baghdad tripoli 
+
+afghanistan iraq lebanon 
+afghan iraqi lebanese 
+
+represent indicate imply 
+represents indicates implies 
+
+represent refer indicate 
+represents refers indicates 
+
+represent reflect rely 
+represents reflects relies 
+
+passengers flights buses 
+cargo airplanes trucks 
+
+deputy treasurer councillor 
+commissioners governors councillors 
+
+provides creates brings 
+providing creating bringing 
+
+walk climb dig 
+walking climbing digging 
+
+turns breaks sends 
+turning breaking sending 
+
+turns puts sends 
+turning putting sending 
+
+kennedy f. kennedy's 
+roosevelt d. roosevelt's 
+
+cemetery monument tomb 
+cemeteries monuments tombs 
+
+fishing farming mining 
+fishermen farmers miners 
+
+belong refer differ 
+belongs refers differs 
+
+montreal edmonton saskatchewan 
+canadiens oilers kamloops 
+
+montreal edmonton winnipeg 
+quebec alberta manitoba 
+
+montreal vancouver edmonton 
+canadiens canucks oilers 
+
+refused rejected denied 
+refuse reject deny 
+
+crash explosion collision 
+crashed exploded collided 
+
+philippines manila luzon 
+indonesia jakarta sumatra 
+
+philippines indonesia thailand 
+manila jakarta bangkok 
+
+invasion invaded invade 
+invasions conquered conquer 
+
+invasion siege bombing 
+invaded besieged bombed 
+
+conflict dispute disagreement 
+conflicts disputes disagreements 
+
+survived recovered healed 
+survive recover heal 
+
+safe safer unsafe 
+healthy healthier unhealthy 
+
+reading readers reader 
+listening listeners listener 
+
+reading readers reader 
+watching viewers viewer 
+
+reading watching listening 
+readers viewers listeners 
+
+vehicles trucks carts 
+vehicle truck cart 
+
+christianity protestant puritans 
+orthodoxy lutheran quakers 
+
+decide ask invite 
+decides asks invites 
+
+decide agree reject 
+decides agrees rejects 
+
+decide prepare hire 
+decides prepares hires 
+
+denmark hungary serbia 
+danish hungarian serbian 
+
+resigned withdrew regained 
+resign withdraw regain 
+
+sang singers soprano 
+danced dancers ballerina 
+
+receive earn achieve 
+receiving earning achieving 
+
+receive offer require 
+receives offers requires 
+
+receive receiving receives 
+earn earning earns 
+
+receive collect earn 
+receives collects earns 
+
+remove destroy steal 
+removes destroys steals 
+
+quebec vancouver edmonton 
+nordiques canucks oilers 
+
+sing hear remember 
+sings hears remembers 
+
+injured injuring fatally 
+wounded wounding mortally 
+
+earthquake disaster incident 
+earthquakes disasters incidents 
+
+earthquake explosion eruption 
+earthquakes explosions eruptions 
+
+colonies americas hispaniola 
+colonists europeans spaniards 
+
+ruler pharaoh caliph 
+rulers pharaohs caliphs 
+
+trump obama nixon 
+trump's obama's nixon's 
+
+trump clinton obama 
+trump's clinton's obama's 
+
+priest pastor theologian 
+priests pastors theologians 
+
+marry promises forgive 
+marrying vows forgiven 
+
+cricket golf gymnastics 
+cricketer golfer gymnast 
+
+lose gain earn 
+loses gains earns 
+
+dancing dancer dancers 
+skating skater skaters 
+
+baltimore cincinnati minneapolis 
+ravens bengals timberwolves 
+
+capture invade conquer 
+capturing invading conquering 
+
+capture destroy restore 
+capturing destroying restoring 
+
+produces creates brings 
+producing creating bringing 
+
+engineer inventor maker 
+engineers inventors makers 
+
+engineer architect designer 
+engineers architects designers 
+
+engineer designer maker 
+engineers designers makers 
+
+pilot fighter bomber 
+pilots fighters bombers 
+
+historian essayist theologian 
+biographer amis clergyman 
+
+iraq lebanon sudan 
+iraqi lebanese sudanese 
+
+improve improving productivity 
+reduce reducing emissions 
+
+improve reduce decrease 
+improves reduces decreases 
+
+improve maintain establish 
+improving maintaining establishing 
+
+improve promote preserve 
+improving promoting preserving 
+
+improve preserve restore 
+improving preserving restoring 
+
+biology psychology psychiatry 
+biologist psychologist psychiatrist 
+
+architect designer maker 
+architects designers makers 
+
+catch throw steal 
+catching throwing stealing 
+
+catch throw pull 
+catches throws pulls 
+
+catch shoot throw 
+catches shoots throws 
+
+catch hunt graze 
+catching hunting grazing 
+
+b. f. d. 
+lyndon kennedy's roosevelt's 
+
+athlete judo iaaf 
+cyclist motocross uci 
+
+trip expedition voyage 
+trips expeditions voyages 
+
+chemicals microorganisms chloroplasts 
+fertilizers nutrient chlorophyll 
+
+hindu buddhist tibetan 
+hindus buddhists tibetans 
+
+sentence verb pronoun 
+sentences verbs pronouns 
+
+sentence phrase verb 
+sentences phrases verbs 
+
+uncle grandfather half-brother 
+aunt maternal half-sister 
+
+suggests indicates reflects 
+suggest indicate reflect 
+
+historians philosophers intellectuals 
+libertarians marxism left-wing 
+
+clinton obama nixon 
+clinton's obama's nixon's 
+
+committed executed murdered 
+committing treason murdering 
+
+committed assassinated overthrown 
+commit assassinate overthrow 
+
+explain explained explaining 
+solve solved solving 
+
+explain solve resolve 
+explained solved resolved 
+
+explain demonstrate examine 
+explained demonstrated examined 
+
+armenian albanian ethiopian 
+armenia albania ethiopia 
+
+armenian serbian azerbaijani 
+yerevan belgrade baku 
+
+armenian ukrainian kurdish 
+armenians ukrainians kurds 
+
+offer require involve 
+offers requires involves 
+
+retirement resignation abdication 
+retire resign abdicate 
+
+truck trucks wagon 
+taxi buses amtrak 
+
+statue tomb altar 
+statues tombs altars 
+
+statue monument tomb 
+statues monuments tombs 
+
+videos dvds streaming 
+animations laserdisc high-definition 
+
+breaking turning stopping 
+breaks turns stops 
+
+depends relies contributes 
+depend rely contribute 
+
+depends affects contributes 
+depend affect contribute 
+
+depends varies differs 
+depend vary differ 
+
+phrase noun pronoun 
+phrases nouns pronouns 
+
+phrase verb noun 
+phrases verbs nouns 
+
+phrase pronoun adverb 
+phrases pronouns adverbs 
+
+applications browsers routers 
+application browser firewall 
+
+chapel tomb basilica 
+chapels tombs basilicas 
+
+executed punished forgiven 
+execute punish forgive 
+
+executed sentenced acquitted 
+execution imprisonment conviction 
+
+thinks knows loves 
+worried knew loved 
+
+ukraine croatia lithuania 
+ukrainian croatian lithuanian 
+
+seem realize forget 
+seemed realized forgot 
+
+stops keeps breaks 
+stopping keeping breaking 
+
+volcano eruption crater 
+volcanoes eruptions craters 
+
+volcano mt. mauna 
+vesuvius carmel stromlo 
+
+affect depend rely 
+affects depends relies 
+
+hungary serbia estonia 
+budapest belgrade tallinn 
+
+hungary budapest sopron 
+crimea kiev odessa 
+
+philosopher theologian thinker 
+philosophers theologians thinkers 
+
+philosopher scholar theologian 
+philosophers scholars theologians 
+
+philosopher theorist thinker 
+philosophers theorists thinkers 
+
+jump throw push 
+jumping throwing pushing 
+
+businesses agencies corporations 
+customers employees shareholders 
+
+murdered raped abused 
+murdering raping abusing 
+
+frequency wavelength photon 
+frequencies wavelengths photons 
+
+cave fountain waterfall 
+caves fountains waterfalls 
+
+require involve consist 
+requires involves consists 
+
+critic reviewer sun-times 
+columnist newsweek tribune 
+
+loved hated shocked 
+loves hates hears 
+
+promote preserve restore 
+promoting preserving restoring 
+
+involves requires applies 
+involve require apply 
+
+indonesia malaysia thailand 
+jakarta kuala bangkok 
+
+signals sensory auditory 
+neurons cerebellum temporal 
+
+abuse rape torture 
+abused raped tortured 
+
+armenia macedonia anatolia 
+belarus moldova uzbekistan 
+
+armenia macedonia tunisia 
+yerevan skopje tunis 
+
+armenia belarus estonia 
+yerevan minsk tallinn 
+
+vary depend differ 
+varies depends differs 
+
+invaded seized overthrown 
+invade seize overthrow 
+
+immigrants immigrant working-class 
+merchants merchant wealthy 
+
+mosque shrine monastery 
+mosques shrines monasteries 
+
+mosque citadel overlooking 
+temples ruins picturesque 
+
+saved stolen rescued 
+saves steals rescues 
+
+disaster incident controversy 
+disasters incidents controversies 
+
+putting throwing knocking 
+puts throws knocks 
+
+putting bringing spreading 
+puts brings spreads 
+
+putting turning pushing 
+puts turns pushes 
+
+putting sending knocking 
+puts sends knocks 
+
+bomb explosion eruption 
+bombs explosions eruptions 
+
+determined determine determines 
+indicated indicate indicates 
+
+transferred transported evacuated 
+restored repaired destroyed 
+
+keeping protecting preventing 
+keeps protects prevents 
+
+snake spider creature 
+snakes spiders creatures 
+
+achieved regained attained 
+achieve regain attain 
+
+monument tomb basilica 
+monuments tombs basilicas 
+
+monument shrine basilica 
+monuments shrines basilicas 
+
+drop pull knock 
+drops pulls knocks 
+
+drop throw knock 
+drops throws knocks 
+
+drop blow explode 
+drops blows explodes 
+
+drop knock sneak 
+drops knocks sneaks 
+
+dollars shillings rupees 
+dollar shilling rupee 
+
+monster creature demon 
+monsters creatures demons 
+
+dialect accent consonant 
+dialects accents consonants 
+
+solve resolve negotiate 
+solved resolved negotiated 
+
+solve prove interpret 
+solved proven interpreted 
+
+breaks torn slows 
+throws thrown pushes 
+
+shoot throw pull 
+shoots throws pulls 
+
+shoot knock sneak 
+chases knocks sneaks 
+
+pulled pushed thrown 
+pull push throw 
+
+pulled pushed thrown 
+pulling pushing throwing 
+
+pulled pushed thrown 
+pulls pushes throws 
+
+pulled pull pulling 
+pushed push pushing 
+
+pulled pull pulling 
+thrown throw throwing 
+
+pulled pull pulling 
+knocked knock knocking 
+
+pulled pulling pulls 
+thrown throwing throws 
+
+pulled pulling pulls 
+knocked knocking knocks 
+
+pulled thrown knocked 
+pull throw knock 
+
+pulled thrown knocked 
+pulls throws knocks 
+
+pulled knocked chased 
+pulls knocks chases 
+
+pulled lifted climbed 
+pull lift climb 
+
+pushed pushing pushes 
+thrown throwing throws 
+
+pushed push pushing 
+thrown throw throwing 
+
+pushed thrown knocked 
+pushes throws knocks 
+
+pushed thrown knocked 
+push throw knock 
+
+pushed knocked chased 
+pushes knocks chases 
+
+determine calculate analyze 
+determining calculating computational 
+
+tomb shrine monastery 
+tombs shrines monasteries 
+
+shrine monastery basilica 
+shrines monasteries basilicas 
+
+incident explosion eruption 
+incidents explosions eruptions 
+
+barcelona mallorca valladolid 
+catalonia balearic extremadura 
+
+galaxies clusters nebulae 
+virgo cluster cygnus 
+
+warsaw kiev novgorod 
+lublin kharkiv brest 
+
+haiti haitian port-au-prince 
+nicaragua nicaraguan managua 
+
+resort recreation boating 
+disneyland amusement rides 
+
+throw knock sneak 
+throws knocks sneaks 
+
+throw throwing throws 
+knock knocking knocks 
+
+throw throwing throws 
+pull pulling pulls 
+
+throw throwing throws 
+push pushing pushes 
+
+throw throwing throws 
+steal stealing steals 
+
+throw pull knock 
+throws pulls knocks 
+
+throw pull push 
+throwing pulling pushing 
+
+throw pull push 
+thrown pulled pushed 
+
+throw thrown throws 
+knock knocked knocks 
+
+throw thrown throwing 
+pull pulled pulling 
+
+throw thrown throwing 
+push pushed pushing 
+
+throw threw throws 
+blow blew blows 
+
+throw push knock 
+throwing pushing knocking 
+
+throw push knock 
+thrown pushed knocked 
+
+throw blow explode 
+throws blows explodes 
+
+thrown throws pushes 
+torn breaks slows 
+
+thrown driven blown 
+threw drove blew 
+
+pounds grams centimetres 
+pound ounce centimetre 
+
+sitting sit sits 
+lying lie lies 
+
+canadiens leafs flyers 
+expos raptors 76ers 
+
+attend retire resign 
+graduation retirement resignation 
+
+creatures monsters demons 
+creature monster demon 
+
+regiment battalion squadron 
+regiments battalions squadrons 
+
+boxing intercontinental nakamura 
+wrestlers wwf sheamus 
+
+morocco algeria kuwait 
+moroccan algerian iraqi 
+
+astronomy geology archaeology 
+astronomers geologists archaeologists 
+
+bruins flyers canucks 
+celtics 76ers grizzlies 
+
+explosion eruption crater 
+explosions eruptions craters 
+
+bringing sending knocking 
+brings sends knocks 
+
+fled surrendered retreated 
+flee surrender retreat 
+
+buses taxi amtrak 
+trucks truck wagon 
+
+tone accent consonant 
+tones accents consonants 
+
+maintain establish organize 
+maintaining establishing organizing 
+
+tanks ammunition muskets 
+anti-tank shotgun flintlock 
+
+pet pig cow 
+pets pigs cows 
+
+criticism criticizing accusing 
+acceptance accepting denying 
+
+involving involve relate 
+requiring require apply 
+
+websites email webpages 
+wikis http javascript 
+
+mechanism component diode 
+mechanisms components resistors 
+
+cena michaels sheamus 
+layfield shawn dolph 
+
+beetles moths salamanders 
+beetle moth salamander 
+
+pull push knock 
+pulling pushing knocking 
+
+pull pulling pulls 
+knock knocking knocks 
+
+pull knock sneak 
+pulls knocks sneaks 
+
+skating skater skaters 
+gymnastics gymnast gymnasts 
+
+skating gymnastics motocross 
+skater gymnast cyclist 
+
+constituency mp councillor 
+constituencies mps councillors 
+
+tons litres megawatts 
+ton litre horsepower 
+
+drove threw blew 
+driven thrown blown 
+
+judaism hinduism jainism 
+torah vedas upanishads 
+
+judaism sikhism zoroastrianism 
+scripture granth pali 
+
+establish preserve restore 
+establishing preserving restoring 
+
+maker manufacturer retailer 
+makers manufacturers retailers 
+
+astronomers mathematicians physicists 
+kepler euler schrodinger 
+
+surrender retreat flee 
+surrendered retreated fled 
+
+surrender withdraw regain 
+surrendered withdrew regained 
+
+surrender flee seize 
+surrendered fled seized 
+
+surrender conquer overthrow 
+surrendered conquered overthrown 
+
+metre centimetres centimetre 
+kilogram grams ounce 
+
+regime ustase gaddafi 
+nationalists serbs hutu 
+
+explanation interpretation precedent 
+explanations interpretations jurisdictions 
+
+bombing evacuation massacres 
+bombed evacuated massacred 
+
+rape transgender bisexual 
+torture homosexuals homosexual 
+
+nurse surgeon dentist 
+nurses surgeons dentists 
+
+protects prevents removes 
+protecting preventing removing 
+
+discussion debates seminars 
+comment speeches lectures 
+
+discussion discussing criticizing 
+disagreement disagree disagreed 
+
+astronomer botanist cartographer 
+astrophysicist microbiologist polish-born 
+
+divide extend stretch 
+divides extends stretches 
+
+concerned disagree disagreed 
+aware unsure disliked 
+
+maurice claude frederic 
+ravel debussy chopin 
+
+download downloads streamed 
+itunes heatseekers spanish-language 
+
+curve sphere spacetime 
+tangent hyperbolic minkowski 
+
+recovered regained attained 
+recover regain attain 
+
+frankfurt dresden bonn 
+neckar chemnitz rhineland-palatinate 
+
+manage prepare hire 
+manages prepares hires 
+
+archipelago polynesia aleutian 
+azores guadeloupe leeward 
+
+governors councillors commissioners 
+treasurer councillor deputy 
+
+concepts hypotheses theorems 
+notion hypothesis conjecture 
+
+orchestras soloist ensembles 
+symphonies concerto sonatas 
+
+rider riders bike 
+climber climbers biking 
+
+rider climber jumper 
+bike biking ski 
+
+dome fountain waterfall 
+domes fountains waterfalls 
+
+verb noun pronoun 
+verbs nouns pronouns 
+
+verb adjective adverb 
+verbs adjectives adverbs 
+
+verb pronoun adverb 
+verbs pronouns adverbs 
+
+cluster virgo cygnus 
+clusters galaxies nebulae 
+
+interpretation morality naturalism 
+observational epistemology analytic 
+
+elisabeth d'orleans blois 
+leopold philippe odo 
+
+elisabeth leopold ferdinando 
+d'orleans philippe noailles 
+
+helicopter airliner single-engine 
+helicopters airliners fixed-wing 
+
+filed complaint lawsuits 
+indicted perjury offenses 
+
+philippe leopold umberto 
+d'orleans elisabeth farnese 
+
+vagina testicles urethra 
+uterus ovaries fallopian 
+
+turtles crabs snails 
+turtle crab snail 
+
+withdrew regained attained 
+withdraw regain attain 
+
+withdrew expired negotiated 
+withdraw renew negotiate 
+
+explore explored explorers 
+settle settled settlers 
+
+membrane membranes mucus 
+cytoplasm granules watery 
+
+locomotive carriage elevator 
+locomotives carriages elevators 
+
+gifts blessing prayed 
+lectures sermons preached 
+
+sculptures decorative mosaics 
+monumental architectural romanesque 
+
+pipes wires rods 
+plumbing wiring insulation 
+
+detect detected detects 
+sensors infrared sensor 
+
+detect detected detects 
+transmit transmitted transmits 
+
+detect generate transmit 
+detects generates transmits 
+
+retreat invade conquer 
+retreated invaded conquered 
+
+retreat withdraw regain 
+retreated withdrew regained 
+
+synthetic fibers pigments 
+biodiesel fibre oils 
+
+throwing pulling knocking 
+throws pulls knocks 
+
+mountainous hilly lowlands 
+forested wooded grasslands 
+
+architectural romanesque monumental 
+decorative mosaics sculptures 
+
+governor-general appointment resign 
+viceroy accession abdicate 
+
+essay biography pamphlet 
+essays biographies pamphlets 
+
+eu referendum fein 
+nato ceasefire ira 
+
+flyers whl lethbridge 
+76ers blazers belleville 
+
+transmitted transmit transmits 
+detected detect detects 
+
+macedonia slovenia estonia 
+skopje ljubljana tallinn 
+
+accumulator registers eax 
+architectures processors 64-bit 
+
+noun pronoun adverb 
+nouns pronouns adverbs 
+
+couples marriages same-sex 
+heterosexual incest homosexuality 
+
+rides amusement disneyland 
+boating recreation resort 
+
+rituals deities scriptures 
+puja kali gita 
+
+cyclist cyclists uci 
+golfer golfers pga 
+
+chateau saint-cloud bathilde 
+sainte clotilde therese 
+
+hyderabad amritsar agra 
+nizam maharaja jahangir 
+
+cbe godfrey canadian-born 
+frs cartographer polish-born 
+
+pastor theologian calvinist 
+pastors theologians anglicans 
+
+crocodiles crabs snails 
+crocodile crab snail 
+
+grams kilogram ounce 
+centimetres metre centimetre 
+
+clinical psychologists specialize 
+psychiatric psychiatrists dentists 
+
+receiver antenna amplifier 
+receivers antennas amplifiers 
+
+loaded lifted grabbed 
+loading lift ladder 
+
+sikh thapa nepalese 
+sikhs rajputs kashmiri 
+
+biblical vedas upanishads 
+monotheistic hinduism jainism 
+
+eminem beyonce stevie 
+eminem's beyonce's wonder's 
+
+hanged gaol goldfields 
+tortured inmates miners 
+
+disagree discussing unsure 
+disagreed criticizing disliked 
+
+snails molluscs mussels 
+snail mollusc mussel 
+
+exo mini-album teaser 
+coldplay self-titled paramore 
+
+exo s.m. baekhyun 
+teaser 2008 2014 
+
+pyramids tombs basilicas 
+giza necropolis acropolis 
+
+adjective pronoun adverb 
+adjectives pronouns adverbs 
+
+grasslands forested wooded 
+lowlands mountainous hilly 
+
+parma modena calabria 
+mantua ferrara apulia 
+
+erie niagara dearborn 
+okeechobee klamath dekalb 
+
+self-titled coldplay paramore 
+mini-album exo teaser 
+
+rectangular exterior mosaics 
+courtyard facade frescoes 
+
+choirs bach's polyphonic 
+soloists concerto accompaniment 
+
+pasadena inglewood indio 
+playhouse uptown boulevard 
+
+raf squadron frigates 
+luftwaffe convoy warships 
+
+mvp teammate stover 
+qmjhl plante whl 
+
+testicles clitoris urethra 
+ovaries ovary fallopian 
+
+generating generators megawatts 
+braking brakes horsepower 
+
+bantu nahuatl algonquian 
+tainos taino lenape 
+
+nagorno-karabakh abkhazia aliyev 
+kurds uzbek kemal 
+
+anthology ballads lyrical 
+anthologies poems poetic 
+
+implementation simplify verify 
+decryption decode decrypt 
+
+jesuit benedictine franciscan 
+chaplain abbot friar 
+
+swelling diarrhea jaundice 
+blockage dehydration cirrhosis 
+
+diaghilev nijinsky grisi 
+impresario tamara carlotta 
+
+lb tonne yd 
+lbs tonnes ft 
+
+golfer gymnast kournikova 
+pga all-around wta 
+
+name1_us name2_us yd 
+ml 00.0000 m2 
+
+nom pinyin loanwords 
+quotations punctuation phrases 
+
+gallons litres tonne 
+sym_us m3 0.0000000000000000 
+
+euler riemann analytic 
+copernicus heliocentric aristotle's 
+
+duchies saxe-coburg saxe-weimar 
+principalities wallachia benevento 
+
+rupee franc peso 
+rupees francs pesos 
+
+rupee peso shilling 
+rupees pesos shillings 
+
+javascript wikis http 
+webpages websites email 
+
+southwark hackney lewisham 
+archway southbound dlr 
+
+azua higuey sabaneta 
+valverde cabrera ignacio 
+
+m2 ml 00.0000 
+yd name1_us name2_us 
+
+shillings rupees pesos 
+shilling rupee peso 
+
+shillings francs pesos 
+shilling franc peso 
+
+franc peso shilling 
+francs pesos shillings 
+

@@ -1,0 +1,7804 @@
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>ECHO %%%%%% 
+%%%%%%
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>ECHO CBOW Window 2 
+CBOW Window 2
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>ECHO %%%%%% 
+%%%%%%
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method attribute 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+3.64201
+
+attracts revolves nucleus charge atom electron electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+3.20695
+
+water flows pressure bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+3.52134
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+4.33886
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+2.41366
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+4.50088
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+3.1052
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+3.25015
+
+moving balls billiards speed table slow fast bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+4.03754
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+0.720235
+
+slot_machines winning spinning reels losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+1.45042
+
+attacks defeat destroy fighting war soldier weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.428571
+===========
+
+Problem: 12
+1.57237
+
+buyer merchandise returning selling buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+1.88062
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+1.51419
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+3.15209
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+2.14214
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+2.07688
+
+machine working turned_on broken turned_off power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+1.54099
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+2.52097
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+2.72569
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.678056
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method parallel 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+30.1097
+
+attracts revolves nucleus charge atom electron electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+34.2642
+
+water flows pressure bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+36.6773
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+39.2776
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+24.9602
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+31.6114
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+27.7713
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+35.0117
+
+moving balls billiards speed table slow fast bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+46.9479
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+11.2583
+
+slot_machines winning spinning reels losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+25.1251
+
+attacks defeat destroy fighting war soldier weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.428571
+===========
+
+Problem: 12
+24.3784
+
+buyer merchandise returning selling buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+18.0467
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+25.6878
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+19.9473
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+26.5972
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+24.8706
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+11.6812
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+35.2729
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+19.6904
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.678056
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads1 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+60.0849
+
+attracts revolves nucleus charge atom electron electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+73.1457
+
+water flows pressure bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+75.0072
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+81.0206
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+54.0364
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+63.821
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+55.2444
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+74.7363
+
+moving balls billiards speed table slow fast bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+99.7681
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+24.4345
+
+slot_machines winning spinning reels losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+55.7132
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+55.3981
+
+buyer merchandise returning selling buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+38.523
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+52.4372
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+42.2089
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+54.9
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+53.361
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+25.8338
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+72.6241
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+42.5846
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.685198
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads2 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+58
+
+attracts revolves nucleus charge atom electron electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+46
+
+water filling flows bucket water_tower pressure emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.375
+===========
+
+Problem: 3
+66
+
+waves breakwater reflects shore water crashing calm rough 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.375
+===========
+
+Problem: 4
+65
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+39
+
+sound horn low echoes loud quiet high 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+64
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+65
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+52
+
+moving balls billiards speed table fast slow bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.75
+===========
+
+Problem: 9
+67
+
+memory processing computer erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.555556
+===========
+
+Problem: 10
+17
+
+slot_machines winning spinning reels losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+41
+
+defeat soldier destroy fighting war attacks weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.714286
+===========
+
+Problem: 12
+26
+
+buyer selling buying merchandise returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+34
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+46
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+41
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+51
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+31
+
+machine working turned_on broken turned_off power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+17
+
+light weigh hold heavy object 
+idea understand analyze important trivial 
+
+Score: 0.2
+===========
+
+Problem: 19
+53
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+39
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.63623
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>REM backoff 
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method parallel -backoff 1 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+25.9082
+
+attracts revolves nucleus charge atom electron electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+29.9005
+
+water flows pressure bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+32.0863
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+34.4607
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+21.3027
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+27.4018
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+23.6763
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+30.5794
+
+moving balls billiards speed table slow fast bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+41.9886
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+8.58203
+
+slot_machines reels spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 1
+===========
+
+Problem: 11
+21.2932
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+20.6152
+
+buyer merchandise returning selling buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+14.6801
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+21.7903
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+16.3136
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+22.7526
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+21.1624
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+8.932
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+30.8118
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+16.215
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.705198
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads1 -backoff 1 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+51.9773
+
+attracts revolves nucleus charge atom electron electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+63.9634
+
+water flows pressure bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+65.2793
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+71.4366
+
+carbon_dioxide oxygen combustion burning fuel fire hot intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.75
+===========
+
+Problem: 5
+46.4642
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+55.6734
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+47.5158
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+65.8804
+
+moving balls billiards speed table slow fast bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+88.9233
+
+memory computer processing erasing write read outputs inputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 1
+===========
+
+Problem: 10
+18.8847
+
+reels slot_machines spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+47.5399
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+46.8351
+
+buyer merchandise selling returning buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.571429
+===========
+
+Problem: 13
+31.3597
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+44.2477
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+34.1753
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+47.1377
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+44.9941
+
+power machine turned_off turned_on broken working repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.285714
+===========
+
+Problem: 18
+19.6335
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+63.3739
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+34.8644
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.673988
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads2 -backoff 1 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+57
+
+attracts revolves nucleus charge atom electron electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+46
+
+water pressure flows bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.5
+===========
+
+Problem: 3
+65
+
+waves breakwater reflects shore water crashing calm rough 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.375
+===========
+
+Problem: 4
+65
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+39
+
+sound horn high echoes loud quiet low 
+light red violet reflects bright dim lens 
+
+Score: 0.714286
+===========
+
+Problem: 6
+64
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+63
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+52
+
+moving balls billiards speed table fast slow bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.75
+===========
+
+Problem: 9
+67
+
+memory processing computer erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.555556
+===========
+
+Problem: 10
+16
+
+slot_machines reels spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 1
+===========
+
+Problem: 11
+40
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+26
+
+buyer selling buying merchandise returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+32
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+45
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+36
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+50
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+30
+
+power machine broken turned_on turned_off working repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.142857
+===========
+
+Problem: 18
+17
+
+light weigh hold heavy object 
+idea understand analyze important trivial 
+
+Score: 0.2
+===========
+
+Problem: 19
+53
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+38
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.633909
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method parallel -backoff 2 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+21.3637
+
+attracts revolves nucleus charge atom electron electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+25.4005
+
+water flows pressure bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+27.3063
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+29.4762
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+17.4101
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+22.5523
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+19.3396
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+25.938
+
+moving balls billiards speed table fast slow bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.75
+===========
+
+Problem: 9
+36.7203
+
+memory computer processing erasing write read outputs inputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 1
+===========
+
+Problem: 10
+5.89981
+
+slot_machines reels spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 1
+===========
+
+Problem: 11
+17.2551
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+16.7295
+
+buyer merchandise returning selling buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+11.1294
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+17.7339
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+12.4783
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+18.5161
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+17.3272
+
+machine working broken turned_on turned_off power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.571429
+===========
+
+Problem: 18
+6.02278
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+26.1455
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+12.5523
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.715417
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads1 -backoff 2 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+42.815
+
+attracts revolves electron charge atom nucleus electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+54.2854
+
+water flows pressure bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+55.2488
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+61.2466
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+38.0514
+
+sound horn high echoes loud quiet low 
+light red violet reflects bright dim lens 
+
+Score: 0.714286
+===========
+
+Problem: 6
+46.1394
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+38.9375
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+56.0277
+
+moving balls bouncing speed table billiards slow fast 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.75
+===========
+
+Problem: 9
+77.5585
+
+memory computer processing erasing write read outputs inputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 1
+===========
+
+Problem: 10
+12.998
+
+reels slot_machines spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+38.648
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+38.0647
+
+buyer merchandise buying returning selling valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+23.9057
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+35.8019
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+26.0342
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+38.5111
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+36.5813
+
+power machine turned_off turned_on broken working repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.285714
+===========
+
+Problem: 18
+13.324
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+53.5832
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+26.6206
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.70256
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads2 -backoff 2 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+52
+
+attracts revolves nucleus electron atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.571429
+===========
+
+Problem: 2
+46
+
+water filling flows bucket water_tower pressure emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.375
+===========
+
+Problem: 3
+62
+
+waves breakwater reflects shore water crashing calm rough 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.375
+===========
+
+Problem: 4
+62
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+39
+
+sound horn low echoes loud quiet high 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+56
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+55
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+52
+
+moving balls bouncing speed table fast slow billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+67
+
+memory processing computer erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.555556
+===========
+
+Problem: 10
+14
+
+slot_machines reels spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 1
+===========
+
+Problem: 11
+38
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+25
+
+buyer worthless selling buying returning merchandise valuable 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.285714
+===========
+
+Problem: 13
+27
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+41
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+30
+
+money allocate budget effective expensive cheap 
+time invest schedule efficient quick slow 
+
+Score: 0.666667
+===========
+
+Problem: 16
+46
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+30
+
+power machine broken turned_on turned_off working repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.142857
+===========
+
+Problem: 18
+15
+
+heavy weigh hold light object 
+idea understand analyze important trivial 
+
+Score: 0
+===========
+
+Problem: 19
+53
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+32
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.587599
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>ECHO %%%%%% 
+%%%%%%
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>ECHO CBOW Window 5 
+CBOW Window 5
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>ECHO %%%%%% 
+%%%%%%
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method attribute 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+3.4628
+
+attracts revolves nucleus charge atom electron electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+3.02362
+
+water flows pressure bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+3.3432
+
+rough breakwater reflects shore water crashing calm waves 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.25
+===========
+
+Problem: 4
+4.07343
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+2.15788
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+4.43593
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+2.97601
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+3.03147
+
+moving balls billiards speed table slow fast bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+3.77758
+
+memory computer outputs erasing read write inputs processing bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.444444
+===========
+
+Problem: 10
+0.575361
+
+slot_machines winning spinning reels losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+1.10667
+
+attacks defeat destroy fighting war soldier weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.428571
+===========
+
+Problem: 12
+1.33454
+
+buyer merchandise returning selling buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+1.5934
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+1.17402
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+2.99262
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+1.93277
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+1.91485
+
+machine working turned_on broken turned_off power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+1.345
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+2.29648
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+2.6335
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.642639
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method parallel 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+30.0041
+
+attracts revolves nucleus charge atom electron electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+34.0689
+
+water flows pressure bucket emptying water_tower filling hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.5
+===========
+
+Problem: 3
+36.7326
+
+rough breakwater reflects shore water crashing calm waves 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.25
+===========
+
+Problem: 4
+39.1526
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+24.6779
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+31.7105
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+27.8125
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+34.9512
+
+moving balls billiards speed table slow fast bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+46.2215
+
+memory computer inputs erasing write read processing outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.666667
+===========
+
+Problem: 10
+11.2822
+
+slot_machines winning spinning reels losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+24.5247
+
+attacks defeat destroy fighting war soldier weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.428571
+===========
+
+Problem: 12
+24.174
+
+buyer merchandise returning selling buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+17.9958
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+25.1405
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+19.9317
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+26.5184
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+24.9407
+
+machine working turned_off broken turned_on power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.571429
+===========
+
+Problem: 18
+11.668
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+34.7513
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+19.7606
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.634107
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads1 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+59.4426
+
+attracts revolves nucleus charge atom electron electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+72.6721
+
+water flows pressure bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+74.609
+
+rough breakwater reflects shore water crashing calm waves 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.25
+===========
+
+Problem: 4
+79.8865
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+53.3022
+
+sound horn high echoes loud quiet low 
+light red violet reflects bright dim lens 
+
+Score: 0.714286
+===========
+
+Problem: 6
+63.6241
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+54.6448
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+73.8492
+
+moving balls billiards speed table slow fast bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+98.1033
+
+memory computer inputs erasing write read processing outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.666667
+===========
+
+Problem: 10
+24.1307
+
+slot_machines winning spinning reels losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+55.0528
+
+attacks defeat destroy fighting war soldier weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.428571
+===========
+
+Problem: 12
+54.7188
+
+buyer merchandise returning selling buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+37.6162
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+51.2571
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+41.6708
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+54.2734
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+52.8637
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+25.2793
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+71.6595
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+42.3113
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.660893
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads2 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+55
+
+attracts revolves nucleus electron atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.571429
+===========
+
+Problem: 2
+47
+
+water pressure flows bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.5
+===========
+
+Problem: 3
+61
+
+rough breakwater reflects shore water crashing calm waves 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.25
+===========
+
+Problem: 4
+63
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+31
+
+low horn loud echoes quiet sound high 
+light red violet reflects bright dim lens 
+
+Score: 0.142857
+===========
+
+Problem: 6
+62
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+60
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+51
+
+moving balls billiards speed table bouncing slow fast 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 1
+===========
+
+Problem: 9
+60
+
+memory computer outputs erasing write read inputs processing bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.666667
+===========
+
+Problem: 10
+18
+
+slot_machines winning spinning reels losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+33
+
+defeat soldier destroy fighting war attacks weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.714286
+===========
+
+Problem: 12
+26
+
+buyer valuable buying selling returning merchandise worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+29
+
+weak foundations supporting solid buildings crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.5
+===========
+
+Problem: 14
+41
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+39
+
+money allocate budget effective expensive cheap 
+time invest schedule efficient quick slow 
+
+Score: 0.666667
+===========
+
+Problem: 16
+51
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+32
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+16
+
+light weigh hold heavy object 
+idea understand analyze important trivial 
+
+Score: 0.2
+===========
+
+Problem: 19
+52
+
+understand speaker simple misunderstood argument digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.5
+===========
+
+Problem: 20
+37
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.60875
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>REM backoff 
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method parallel -backoff 1 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+25.8212
+
+attracts revolves nucleus charge atom electron electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+29.7524
+
+water flows pressure bucket emptying water_tower filling hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.5
+===========
+
+Problem: 3
+32.099
+
+rough breakwater reflects shore water crashing calm waves 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.25
+===========
+
+Problem: 4
+34.3423
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+21.0481
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+27.5516
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+23.6844
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+30.4772
+
+moving balls billiards speed table slow fast bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+41.313
+
+memory computer outputs erasing write read inputs processing bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.666667
+===========
+
+Problem: 10
+8.58016
+
+slot_machines winning spinning reels losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+20.7435
+
+attacks defeat destroy fighting war soldier weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.428571
+===========
+
+Problem: 12
+20.4151
+
+buyer merchandise returning selling buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+14.6192
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+21.3251
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+16.3138
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+22.6499
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+21.2603
+
+machine working turned_off broken turned_on power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.571429
+===========
+
+Problem: 18
+8.86588
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+30.3097
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+16.3055
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.634107
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads1 -backoff 1 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+51.5958
+
+attracts revolves electron charge atom nucleus electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+63.7897
+
+water flows pressure bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+65.044
+
+rough breakwater reflects shore water crashing calm waves 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.25
+===========
+
+Problem: 4
+70.2977
+
+carbon_dioxide oxygen combustion burning fuel fire hot intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.75
+===========
+
+Problem: 5
+45.8591
+
+sound horn high echoes loud quiet low 
+light red violet reflects bright dim lens 
+
+Score: 0.714286
+===========
+
+Problem: 6
+55.7864
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+47.1615
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+65.0114
+
+moving balls billiards speed table slow fast bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+87.5453
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+18.574
+
+reels slot_machines spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+46.8953
+
+attacks defeat destroy fighting war soldier weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.428571
+===========
+
+Problem: 12
+46.3948
+
+buyer merchandise selling returning buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.571429
+===========
+
+Problem: 13
+30.7151
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+43.2679
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+33.8433
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+46.6613
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+44.7268
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+19.2259
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+62.4847
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+34.735
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.665556
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads2 -backoff 1 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+55
+
+attracts revolves nucleus electron atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.571429
+===========
+
+Problem: 2
+47
+
+water pressure flows bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.5
+===========
+
+Problem: 3
+60
+
+rough breakwater reflects shore water crashing calm waves 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.25
+===========
+
+Problem: 4
+63
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+31
+
+low horn loud echoes quiet sound high 
+light red violet reflects bright dim lens 
+
+Score: 0.142857
+===========
+
+Problem: 6
+62
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+59
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+51
+
+moving balls fast speed table bouncing slow billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.75
+===========
+
+Problem: 9
+60
+
+memory computer outputs erasing write read inputs processing bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.666667
+===========
+
+Problem: 10
+17
+
+slot_machines reels spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 1
+===========
+
+Problem: 11
+33
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+26
+
+buyer valuable returning selling buying merchandise worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.428571
+===========
+
+Problem: 13
+29
+
+weak foundations supporting solid buildings crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.5
+===========
+
+Problem: 14
+40
+
+travelling destination route traveller obstructions companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 0.714286
+===========
+
+Problem: 15
+37
+
+money allocate budget effective expensive cheap 
+time invest schedule efficient quick slow 
+
+Score: 0.666667
+===========
+
+Problem: 16
+50
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+32
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+16
+
+light weigh hold heavy object 
+idea understand analyze important trivial 
+
+Score: 0.2
+===========
+
+Problem: 19
+52
+
+understand speaker simple misunderstood argument digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.5
+===========
+
+Problem: 20
+36
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.580536
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method parallel -backoff 2 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+21.3426
+
+attracts revolves electron charge atom nucleus electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+25.3023
+
+water flows pressure bucket emptying water_tower filling hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.5
+===========
+
+Problem: 3
+27.2679
+
+rough breakwater reflects shore water crashing calm waves 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.25
+===========
+
+Problem: 4
+29.3463
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+17.1888
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+22.7145
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+19.3644
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+25.888
+
+moving balls billiards speed table bouncing slow fast 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 1
+===========
+
+Problem: 9
+36.1434
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+5.87044
+
+slot_machines reels spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 1
+===========
+
+Problem: 11
+16.7997
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+16.5156
+
+buyer merchandise returning selling buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+11.1159
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+17.3218
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+12.5116
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+18.4469
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+17.416
+
+machine working broken turned_on turned_off power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.571429
+===========
+
+Problem: 18
+5.96213
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+25.7224
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+12.6112
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.685556
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads1 -backoff 2 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+42.7278
+
+attracts revolves electron charge atom nucleus electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.428571
+===========
+
+Problem: 2
+54.3385
+
+water flows pressure bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+55.0285
+
+rough breakwater reflects shore water crashing calm waves 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.25
+===========
+
+Problem: 4
+60.3295
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+37.6459
+
+sound horn high echoes loud quiet low 
+light red violet reflects bright dim lens 
+
+Score: 0.714286
+===========
+
+Problem: 6
+46.3922
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+38.7938
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+55.3312
+
+moving balls billiards speed table bouncing slow fast 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 1
+===========
+
+Problem: 9
+76.3744
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+12.7543
+
+reels slot_machines spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+38.1379
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+37.7233
+
+buyer merchandise buying returning selling valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+23.5406
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+35.0337
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+25.7418
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+37.9588
+
+seeds blossom fruitful fruit grow wither planted 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.714286
+===========
+
+Problem: 17
+36.5247
+
+machine power turned_off turned_on broken working repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.428571
+===========
+
+Problem: 18
+13.075
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+52.9338
+
+understand speaker simple argument misunderstood digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.625
+===========
+
+Problem: 20
+26.5548
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.678056
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads2 -backoff 2 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565520
+20
+===========
+
+Problem: 1
+50
+
+attracts revolves nucleus electron atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.571429
+===========
+
+Problem: 2
+47
+
+water pressure flows bucket water_tower filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.5
+===========
+
+Problem: 3
+57
+
+waves breakwater reflects shore water crashing calm rough 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.375
+===========
+
+Problem: 4
+61
+
+carbon_dioxide oxygen combustion hot fuel fire burning intense 
+carbon_dioxide oxygen respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+29
+
+low horn quiet echoes loud high sound 
+light red violet reflects bright dim lens 
+
+Score: 0.285714
+===========
+
+Problem: 6
+56
+
+gravity attracts earth trajectory air parabolic projectile 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.571429
+===========
+
+Problem: 7
+50
+
+breeds selection conformance artificial popularity breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 1
+===========
+
+Problem: 8
+50
+
+moving fast balls speed table bouncing slow billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+60
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+14
+
+slot_machines reels winning spinning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 0.6
+===========
+
+Problem: 11
+32
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+26
+
+buyer valuable buying selling returning merchandise worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+26
+
+solid foundations supporting buildings weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.5
+===========
+
+Problem: 14
+37
+
+travelling destination route traveller obstructions companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 0.714286
+===========
+
+Problem: 15
+32
+
+money allocate budget effective expensive cheap 
+time invest schedule efficient quick slow 
+
+Score: 0.666667
+===========
+
+Problem: 16
+45
+
+planted blossom fruitful fruit grow wither seeds 
+ideas inspired productive product develop fail succeed 
+
+Score: 0.571429
+===========
+
+Problem: 17
+30
+
+machine working broken turned_on turned_off power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.571429
+===========
+
+Problem: 18
+13
+
+light weigh hold heavy object 
+idea understand analyze important trivial 
+
+Score: 0.2
+===========
+
+Problem: 19
+52
+
+understand speaker simple misunderstood argument digresses complicated listener 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.5
+===========
+
+Problem: 20
+30
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.580377
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>ECHO %%%%%% 
+%%%%%%
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>ECHO SGD Window 2 
+SGD Window 2
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>ECHO %%%%%% 
+%%%%%%
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method attribute 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+3.71796
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+3.10092
+
+water flows pressure water_tower bucket filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 1
+===========
+
+Problem: 3
+3.34545
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+4.42577
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+2.40572
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+4.40238
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+3.17289
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+3.21083
+
+moving balls slow speed table bouncing fast billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+4.08501
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+1.37845
+
+slot_machines winning losing spinning reels 
+bacteria genes mutating reproducing dying 
+
+Score: 0.2
+===========
+
+Problem: 11
+2.09035
+
+weapon soldier destroy fighting defeat attacks war 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.714286
+===========
+
+Problem: 12
+2.1536
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+2.0713
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+2.17718
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+2.90698
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+2.58194
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+2.16248
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+1.50151
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+2.88192
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+2.65799
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.746448
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method parallel 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+29.2119
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+32.5881
+
+water flows pressure water_tower bucket filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 1
+===========
+
+Problem: 3
+34.112
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+38.4018
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+23.9531
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+31.1044
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+26.613
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+33.7492
+
+moving balls slow speed table bouncing fast billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+45.2638
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+10.926
+
+slot_machines winning losing spinning reels 
+bacteria genes mutating reproducing dying 
+
+Score: 0.2
+===========
+
+Problem: 11
+23.5876
+
+weapon soldier destroy fighting defeat attacks war 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.714286
+===========
+
+Problem: 12
+23.6987
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+17.5181
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+24.4442
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+19.0111
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+25.3908
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+23.3496
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+10.9178
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+33.4189
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+18.6472
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.746448
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads1 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+60.5286
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+72.5194
+
+water flows pressure water_tower bucket filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 1
+===========
+
+Problem: 3
+73.7064
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+81.1749
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+54.218
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+63.4125
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+55.8668
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+73.5883
+
+moving balls slow speed table bouncing fast billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+98.8267
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+25.1751
+
+slot_machines winning losing spinning reels 
+bacteria genes mutating reproducing dying 
+
+Score: 0.2
+===========
+
+Problem: 11
+54.647
+
+weapon soldier destroy fighting defeat attacks war 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.714286
+===========
+
+Problem: 12
+55.2604
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+38.3415
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+53.5245
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+40.831
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+55.3648
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+52.5889
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+24.8825
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+72.5804
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+41.25
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.746448
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads2 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+52
+
+attracts revolves nucleus electron atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.571429
+===========
+
+Problem: 2
+45
+
+water flows pressure bucket filling water_tower emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.625
+===========
+
+Problem: 3
+62
+
+waves breakwater reflects water shore rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.75
+===========
+
+Problem: 4
+65
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+35
+
+sound horn high echoes loud quiet low 
+light red violet reflects bright dim lens 
+
+Score: 0.714286
+===========
+
+Problem: 6
+63
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+58
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+49
+
+moving balls fast speed table bouncing slow billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.75
+===========
+
+Problem: 9
+63
+
+memory processing computer erasing read write inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.333333
+===========
+
+Problem: 10
+20
+
+slot_machines reels losing spinning winning 
+bacteria genes mutating reproducing dying 
+
+Score: 0.4
+===========
+
+Problem: 11
+35
+
+attacks war destroy fighting defeat weapon soldier 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.428571
+===========
+
+Problem: 12
+29
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+36
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+46
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+39
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+49
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+27
+
+machine working turned_off turned_on power broken repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.428571
+===========
+
+Problem: 18
+16
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+55
+
+understand speaker argument misunderstood listener digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.75
+===========
+
+Problem: 20
+40
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.686905
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>REM backoff 
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method parallel -backoff 1 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+25.0864
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+28.2703
+
+water flows pressure water_tower bucket filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 1
+===========
+
+Problem: 3
+29.7949
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+33.6968
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+20.1909
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+26.8398
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+22.5582
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+29.4306
+
+moving balls slow speed table bouncing fast billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+40.3084
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+8.31663
+
+slot_machines winning losing spinning reels 
+bacteria genes mutating reproducing dying 
+
+Score: 0.2
+===========
+
+Problem: 11
+19.8782
+
+weapon soldier destroy fighting defeat attacks war 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.714286
+===========
+
+Problem: 12
+19.9813
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+14.1368
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+20.6506
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+15.5506
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+21.5145
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+19.6832
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+8.3381
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+29.0039
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+15.2918
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.746448
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads1 -backoff 1 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+52.0791
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+62.984
+
+water flows pressure water_tower bucket filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 1
+===========
+
+Problem: 3
+64.1243
+
+waves breakwater reflects water shore rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.75
+===========
+
+Problem: 4
+71.6211
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+45.7781
+
+sound horn high echoes loud quiet low 
+light red violet reflects bright dim lens 
+
+Score: 0.714286
+===========
+
+Problem: 6
+54.988
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+47.5473
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+64.0893
+
+moving balls billiards speed table slow fast bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+87.6639
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+19.2388
+
+slot_machines winning losing spinning reels 
+bacteria genes mutating reproducing dying 
+
+Score: 0.2
+===========
+
+Problem: 11
+46.1267
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+46.6471
+
+buyer merchandise returning selling buying valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+30.9514
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+44.9479
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+33.0437
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+46.8539
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+44.3026
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+18.866
+
+light weigh hold heavy object 
+idea understand analyze important trivial 
+
+Score: 0.2
+===========
+
+Problem: 19
+62.9491
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+33.6099
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.718413
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads2 -backoff 1 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+52
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+45
+
+water flows pressure bucket filling water_tower emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.625
+===========
+
+Problem: 3
+62
+
+waves breakwater reflects water shore rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.75
+===========
+
+Problem: 4
+65
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+35
+
+sound horn high echoes loud quiet low 
+light red violet reflects bright dim lens 
+
+Score: 0.714286
+===========
+
+Problem: 6
+63
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+57
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+49
+
+moving balls fast speed table bouncing slow billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.75
+===========
+
+Problem: 9
+63
+
+memory processing computer erasing read write inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.333333
+===========
+
+Problem: 10
+19
+
+slot_machines reels losing spinning winning 
+bacteria genes mutating reproducing dying 
+
+Score: 0.4
+===========
+
+Problem: 11
+35
+
+attacks war destroy fighting defeat weapon soldier 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.428571
+===========
+
+Problem: 12
+29
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+34
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+45
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+37
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+49
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+27
+
+machine working turned_off turned_on power broken repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.428571
+===========
+
+Problem: 18
+16
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+55
+
+understand speaker argument misunderstood listener digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.75
+===========
+
+Problem: 20
+39
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.694048
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method parallel -backoff 2 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+20.7666
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+23.8724
+
+water flows pressure water_tower bucket filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 1
+===========
+
+Problem: 3
+25.275
+
+waves breakwater reflects water shore rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.75
+===========
+
+Problem: 4
+28.8495
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+16.3365
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+22.121
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+18.403
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+24.967
+
+moving balls slow speed table bouncing fast billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+35.1617
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+5.66751
+
+slot_machines reels spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 1
+===========
+
+Problem: 11
+16.0835
+
+weapon soldier destroy fighting defeat attacks war 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.714286
+===========
+
+Problem: 12
+16.179
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+10.6917
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+16.7021
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+11.8357
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+17.4491
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+15.914
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+5.6434
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+24.4769
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+11.7402
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.792699
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads1 -backoff 2 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+43.0859
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+53.2321
+
+water water_tower pressure flows bucket filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+54.1807
+
+waves breakwater reflects water shore rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.75
+===========
+
+Problem: 4
+61.3253
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+37.0692
+
+sound horn high echoes loud quiet low 
+light red violet reflects bright dim lens 
+
+Score: 0.714286
+===========
+
+Problem: 6
+45.4638
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+38.8662
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+54.4395
+
+moving balls billiards speed table slow fast bouncing 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+76.17
+
+memory computer processing erasing write read outputs inputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 1
+===========
+
+Problem: 10
+13.1662
+
+slot_machines reels spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 1
+===========
+
+Problem: 11
+37.5594
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+37.7672
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+23.463
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+36.2264
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+25.129
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+38.0735
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+35.808
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+12.7908
+
+light weigh hold heavy object 
+idea understand analyze important trivial 
+
+Score: 0.2
+===========
+
+Problem: 19
+53.0604
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+25.6261
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.77131
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads2 -backoff 2 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+49
+
+attracts revolves atom nucleus electron charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 1
+===========
+
+Problem: 2
+45
+
+water flows pressure bucket filling water_tower emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.625
+===========
+
+Problem: 3
+61
+
+waves breakwater reflects water shore rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.75
+===========
+
+Problem: 4
+62
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+34
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+56
+
+gravity attracts earth trajectory air parabolic projectile 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.571429
+===========
+
+Problem: 7
+49
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+49
+
+moving balls slow speed table bouncing fast billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+63
+
+memory computer outputs erasing write read processing inputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+15
+
+slot_machines reels losing spinning winning 
+bacteria genes mutating reproducing dying 
+
+Score: 0.4
+===========
+
+Problem: 11
+34
+
+attacks defeat destroy fighting weapon war soldier 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.285714
+===========
+
+Problem: 12
+28
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+30
+
+buildings foundations weak solid supporting crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.333333
+===========
+
+Problem: 14
+40
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+31
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+46
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+26
+
+machine working turned_off turned_on power broken repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.428571
+===========
+
+Problem: 18
+14
+
+object weigh hold heavy light 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+54
+
+understand speaker argument misunderstood listener digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.75
+===========
+
+Problem: 20
+32
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.68621
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>ECHO %%%%%% 
+%%%%%%
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>ECHO SGD Window 5 
+SGD Window 5
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>ECHO %%%%%% 
+%%%%%%
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method attribute 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+3.7718
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+3.24738
+
+water flows pressure water_tower bucket filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 1
+===========
+
+Problem: 3
+3.43174
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+4.50548
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+2.47789
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+4.40709
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+3.32606
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+3.24025
+
+moving balls slow speed table bouncing fast billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+4.15196
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+1.41987
+
+slot_machines winning losing spinning reels 
+bacteria genes mutating reproducing dying 
+
+Score: 0.2
+===========
+
+Problem: 11
+2.16243
+
+attacks weapon destroy fighting war defeat soldier 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.285714
+===========
+
+Problem: 12
+2.33591
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+2.11354
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+2.3235
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+2.96248
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+2.71335
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+2.37909
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+1.62287
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+2.95922
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+2.79249
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.72502
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method parallel 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+29.226
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+32.9109
+
+filling flows pressure water_tower bucket water emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+33.8666
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+38.3707
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+23.718
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+30.7463
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+26.767
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+33.5516
+
+moving balls slow speed table bouncing fast billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+44.6557
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+10.8415
+
+slot_machines winning losing spinning reels 
+bacteria genes mutating reproducing dying 
+
+Score: 0.2
+===========
+
+Problem: 11
+23.485
+
+attacks weapon destroy fighting war defeat soldier 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.285714
+===========
+
+Problem: 12
+23.6798
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+17.299
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+24.3492
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+18.9452
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+25.3785
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+23.4472
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+11.0744
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+32.9395
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+18.7043
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.71252
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads1 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+61.0077
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+73.896
+
+water flows pressure water_tower bucket filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 1
+===========
+
+Problem: 3
+74.3021
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+81.9271
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+54.6838
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+63.4398
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+56.6567
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+74.1832
+
+moving balls slow speed table bouncing fast billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+99.1095
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+25.3783
+
+slot_machines winning losing spinning reels 
+bacteria genes mutating reproducing dying 
+
+Score: 0.2
+===========
+
+Problem: 11
+55.7035
+
+attacks weapon destroy fighting war defeat soldier 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.285714
+===========
+
+Problem: 12
+56.2222
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+38.4558
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+54.109
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+41.1371
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+56.0129
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+53.3757
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+25.4032
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+73.0423
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+41.8234
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.72502
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads2 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+55
+
+attracts revolves electron atom nucleus charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.571429
+===========
+
+Problem: 2
+48
+
+water filling pressure flows bucket water_tower emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.625
+===========
+
+Problem: 3
+55
+
+waves breakwater reflects water shore crashing calm rough 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.5
+===========
+
+Problem: 4
+66
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+30
+
+sound loud high echoes quiet low horn 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+63
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+61
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+50
+
+moving bouncing table speed billiards slow fast balls 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.25
+===========
+
+Problem: 9
+55
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+18
+
+slot_machines reels losing spinning winning 
+bacteria genes mutating reproducing dying 
+
+Score: 0.4
+===========
+
+Problem: 11
+36
+
+attacks defeat destroy fighting war weapon soldier 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.285714
+===========
+
+Problem: 12
+27
+
+buyer merchandise selling buying returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+33
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+45
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+36
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+50
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+30
+
+machine working turned_off turned_on power broken repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.428571
+===========
+
+Problem: 18
+16
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+50
+
+understand speaker argument misunderstood listener digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.75
+===========
+
+Problem: 20
+37
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.643056
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>REM backoff 
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method parallel -backoff 1 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+25.0836
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+28.6287
+
+filling flows pressure water_tower bucket water emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.75
+===========
+
+Problem: 3
+29.5578
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+33.6481
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+20.0398
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+26.5678
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+22.6866
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+29.2348
+
+moving balls slow speed table bouncing fast billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+39.7418
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+8.23523
+
+slot_machines winning losing spinning reels 
+bacteria genes mutating reproducing dying 
+
+Score: 0.2
+===========
+
+Problem: 11
+19.8222
+
+attacks weapon destroy fighting war defeat soldier 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.285714
+===========
+
+Problem: 12
+19.9719
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+14.0113
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+20.5459
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+15.4824
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+21.4904
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+19.7572
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+8.4333
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+28.6139
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+15.3809
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.71252
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads1 -backoff 1 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+52.4315
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+64.33
+
+flows filling pressure water_tower bucket water emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.625
+===========
+
+Problem: 3
+64.5159
+
+waves breakwater reflects water shore rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.75
+===========
+
+Problem: 4
+72.0957
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+46.2809
+
+sound horn high echoes loud quiet low 
+light red violet reflects bright dim lens 
+
+Score: 0.714286
+===========
+
+Problem: 6
+55.0046
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+48.1758
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+64.6616
+
+moving balls billiards speed table bouncing slow fast 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 1
+===========
+
+Problem: 9
+87.9531
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+19.3428
+
+slot_machines winning losing spinning reels 
+bacteria genes mutating reproducing dying 
+
+Score: 0.2
+===========
+
+Problem: 11
+47.1666
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+47.4533
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+31.108
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+45.4534
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+33.2575
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+47.3431
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+45.054
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+19.2166
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+63.3307
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+34.0933
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.752698
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads2 -backoff 1 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+54
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+48
+
+flows filling pressure water_tower bucket water emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.625
+===========
+
+Problem: 3
+55
+
+waves breakwater reflects shore water rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.625
+===========
+
+Problem: 4
+66
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+30
+
+sound loud high echoes quiet low horn 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+62
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+57
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+50
+
+moving bouncing table speed billiards fast slow balls 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.375
+===========
+
+Problem: 9
+55
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+18
+
+slot_machines winning losing spinning reels 
+bacteria genes mutating reproducing dying 
+
+Score: 0.2
+===========
+
+Problem: 11
+36
+
+attacks defeat destroy fighting war weapon soldier 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.285714
+===========
+
+Problem: 12
+27
+
+buyer merchandise selling buying returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+31
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+43
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+34
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+50
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+30
+
+machine working turned_off turned_on power broken repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.428571
+===========
+
+Problem: 18
+15
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+50
+
+understand speaker argument misunderstood listener digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.75
+===========
+
+Problem: 20
+36
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.652698
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method parallel -backoff 2 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+20.7844
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+24.1776
+
+water flows pressure water_tower bucket filling emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 1
+===========
+
+Problem: 3
+25.0389
+
+waves breakwater reflects water shore rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.75
+===========
+
+Problem: 4
+28.8047
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+16.2009
+
+low horn high echoes loud quiet sound 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+21.9409
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+18.4986
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+24.8103
+
+moving balls slow speed table bouncing fast billiards 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.625
+===========
+
+Problem: 9
+34.6609
+
+memory computer processing erasing write read inputs outputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+5.55633
+
+slot_machines winning losing spinning reels 
+bacteria genes mutating reproducing dying 
+
+Score: 0.2
+===========
+
+Problem: 11
+16.1009
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+16.1623
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+10.6311
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+16.6167
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+11.8255
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+17.4012
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+15.9525
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+5.69844
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+24.1927
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+11.7896
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.745556
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads1 -backoff 2 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+43.2582
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+54.473
+
+flows filling pressure water_tower bucket water emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.625
+===========
+
+Problem: 3
+54.4506
+
+waves breakwater reflects water shore rough calm crashing 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.75
+===========
+
+Problem: 4
+61.6272
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+37.5192
+
+sound low high echoes loud quiet horn 
+light red violet reflects bright dim lens 
+
+Score: 1
+===========
+
+Problem: 6
+45.561
+
+gravity attracts earth trajectory projectile parabolic air 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.714286
+===========
+
+Problem: 7
+39.3824
+
+breeds selection popularity artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.714286
+===========
+
+Problem: 8
+54.9101
+
+moving balls billiards speed table bouncing slow fast 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 1
+===========
+
+Problem: 9
+76.4011
+
+memory computer outputs erasing write read processing inputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+13.1552
+
+slot_machines reels spinning winning losing 
+bacteria genes mutating reproducing dying 
+
+Score: 1
+===========
+
+Problem: 11
+38.4083
+
+attacks soldier destroy fighting war defeat weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.571429
+===========
+
+Problem: 12
+38.4204
+
+buyer merchandise buying selling returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 1
+===========
+
+Problem: 13
+23.623
+
+buildings foundations supporting solid weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.666667
+===========
+
+Problem: 14
+36.6379
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+25.2451
+
+money allocate budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 1
+===========
+
+Problem: 16
+38.3706
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+36.488
+
+machine working turned_off turned_on broken power repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.714286
+===========
+
+Problem: 18
+12.9821
+
+light hold weigh heavy object 
+idea understand analyze important trivial 
+
+Score: 0.6
+===========
+
+Problem: 19
+53.4841
+
+understand speaker argument listener misunderstood digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 1
+===========
+
+Problem: 20
+25.9573
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.806984
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/MappingProblemsTurney.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format turney -method quads2 -backoff 2 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327920
+20
+===========
+
+Problem: 1
+49
+
+attracts revolves electron nucleus atom charge electromagnetism 
+attracts revolves solar_system sun planet mass gravity 
+
+Score: 0.714286
+===========
+
+Problem: 2
+48
+
+flows filling pressure water_tower bucket water emptying hydrodynamics 
+heat transfers temperature burner kettle heating cooling thermodynamics 
+
+Score: 0.625
+===========
+
+Problem: 3
+55
+
+waves breakwater reflects water shore crashing calm rough 
+sounds wall echoes air insulation loud quiet vibrating 
+
+Score: 0.5
+===========
+
+Problem: 4
+63
+
+oxygen carbon_dioxide combustion hot fuel fire burning intense 
+oxygen carbon_dioxide respiration animal food breathing living vigorous 
+
+Score: 0.625
+===========
+
+Problem: 5
+30
+
+sound loud high echoes quiet low horn 
+light red violet reflects bright dim lens 
+
+Score: 0.571429
+===========
+
+Problem: 6
+56
+
+gravity attracts earth trajectory air parabolic projectile 
+gravity attracts planet orbit sun elliptical space 
+
+Score: 0.571429
+===========
+
+Problem: 7
+49
+
+breeds popularity selection artificial conformance breeding domesticated 
+species competition adaptation natural fitness mating wild 
+
+Score: 0.571429
+===========
+
+Problem: 8
+50
+
+moving bouncing table speed billiards slow fast balls 
+moving molecules gas temperature container pressing cold hot 
+
+Score: 0.25
+===========
+
+Problem: 9
+55
+
+memory computer processing erasing read write outputs inputs bug 
+memory mind thinking forgetting memorize remember muscles senses mistake 
+
+Score: 0.777778
+===========
+
+Problem: 10
+15
+
+slot_machines reels losing spinning winning 
+bacteria genes mutating reproducing dying 
+
+Score: 0.4
+===========
+
+Problem: 11
+34
+
+attacks defeat destroy fighting war soldier weapon 
+argument debater refute arguing acceptance criticizes logic 
+
+Score: 0.428571
+===========
+
+Problem: 12
+27
+
+buyer merchandise selling buying returning valuable worthless 
+believer belief accepting advocating rejecting true false 
+
+Score: 0.714286
+===========
+
+Problem: 13
+27
+
+solid foundations supporting buildings weak crack 
+reasons theories confirming rational dubious flaw 
+
+Score: 0.5
+===========
+
+Problem: 14
+38
+
+obstructions destination route traveller travelling companion arriving 
+difficulties goal plan person problem_solving partner succeeding 
+
+Score: 1
+===========
+
+Problem: 15
+28
+
+allocate money budget effective cheap expensive 
+time invest schedule efficient quick slow 
+
+Score: 0.666667
+===========
+
+Problem: 16
+45
+
+seeds planted fruitful fruit grow wither blossom 
+ideas inspired productive product develop fail succeed 
+
+Score: 1
+===========
+
+Problem: 17
+28
+
+machine working turned_off turned_on power broken repair 
+mind thinking awake asleep confused intelligence therapy 
+
+Score: 0.428571
+===========
+
+Problem: 18
+13
+
+heavy weigh hold light object 
+idea understand analyze important trivial 
+
+Score: 0
+===========
+
+Problem: 19
+49
+
+understand speaker argument misunderstood listener digresses complicated simple 
+follow leader path follower lost wanders twisted straight 
+
+Score: 0.75
+===========
+
+Problem: 20
+30
+
+explaining knowledge understanding confusion interpretation secret 
+seeing light illuminating darkness view hidden 
+
+Score: 0.666667
+===========
+
+
+Average score: 0.588056
+

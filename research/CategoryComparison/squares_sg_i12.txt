@@ -1,0 +1,846 @@
+and also both 
+or sometimes either 
+
+is was being 
+has had having 
+
+is was been 
+goes went gone 
+
+is are can 
+was were could 
+
+is has can 
+was had could 
+
+is has contains 
+are have contain 
+
+is contains consists 
+are contain consist 
+
+was became joined 
+being becoming joining 
+
+it its itself 
+they their themselves 
+
+he his himself 
+she her herself 
+
+are can will 
+were could would 
+
+his him himself 
+their them themselves 
+
+his their its 
+himself themselves itself 
+
+be can could 
+been has had 
+
+has contains consists 
+have contain consist 
+
+not want know 
+could wanted knew 
+
+not need want 
+does needs wants 
+
+can will does 
+could would did 
+
+can needs wants 
+could needed wanted 
+
+can does wants 
+could did wanted 
+
+made make making 
+produced produce producing 
+
+made make making 
+created create creating 
+
+made created developed 
+make create develop 
+
+made created developed 
+making creating developing 
+
+city town village 
+cities towns villages 
+
+became become becomes 
+began begin begins 
+
+became began went 
+becomes begins goes 
+
+became got received 
+becomes gets receives 
+
+would could meant 
+will can means 
+
+would wanted tried 
+will wants tries 
+
+would did could 
+will does can 
+
+do did does 
+try tried tries 
+
+do know learn 
+did knew learned 
+
+do get go 
+doing getting going 
+
+use need want 
+uses needs wants 
+
+make making makes 
+create creating creates 
+
+make making makes 
+produce producing produces 
+
+make making makes 
+give giving gives 
+
+make create produce 
+making creating producing 
+
+make create build 
+makes creates builds 
+
+make get go 
+making getting going 
+
+make give bring 
+making giving bringing 
+
+make give provide 
+makes gives provides 
+
+found find finds 
+seen see sees 
+
+did could meant 
+does can means 
+
+did wanted tried 
+does wants tries 
+
+did failed managed 
+does fails manages 
+
+did decided tried 
+does decides tries 
+
+did tried failed 
+does tries fails 
+
+did helped tried 
+does helps tries 
+
+said told asked 
+saying telling asking 
+
+said told asked 
+say tell ask 
+
+said told asked 
+says tells asks 
+
+said say says 
+told tell tells 
+
+said says saying 
+told tells telling 
+
+large largest larger 
+big biggest bigger 
+
+get gets getting 
+go goes going 
+
+get gets getting 
+find finds finding 
+
+get got getting 
+go went going 
+
+get got gets 
+receive received receives 
+
+get got gets 
+give gave gives 
+
+get got gets 
+take took takes 
+
+get go enter 
+getting going entering 
+
+get go take 
+gets goes takes 
+
+get go enter 
+got went entered 
+
+get find try 
+gets finds tries 
+
+get bring send 
+gets brings sends 
+
+get receive lose 
+gets receives loses 
+
+get receive earn 
+got received earned 
+
+get give provide 
+gets gives provides 
+
+get give receive 
+got gave received 
+
+get take give 
+gets takes gives 
+
+get take give 
+got took gave 
+
+get need want 
+gets needs wants 
+
+get keep stay 
+gets keeps stays 
+
+book novel rudyard 
+books novels anthologies 
+
+book story novel 
+books stories novels 
+
+french german dutch 
+france germany netherlands 
+
+french spanish portuguese 
+france spain portugal 
+
+went go going 
+came come coming 
+
+went go goes 
+stayed stay stays 
+
+went go going 
+moved move moving 
+
+went go going 
+traveled travel travelling 
+
+went go goes 
+took take takes 
+
+went go goes 
+sent send sends 
+
+went go going 
+got get getting 
+
+went go going 
+entered enter entering 
+
+went came brought 
+go come bring 
+
+went came moved 
+going coming moving 
+
+went came got 
+goes comes gets 
+
+went moved stayed 
+go move stay 
+
+went moved returned 
+going moving returning 
+
+went going goes 
+came coming comes 
+
+went going goes 
+got getting gets 
+
+went continued remained 
+go continue remain 
+
+went took came 
+go take come 
+
+went took came 
+goes takes comes 
+
+went sent tried 
+goes sends tries 
+
+went got received 
+go get receive 
+
+went got gave 
+going getting giving 
+
+went got received 
+goes gets receives 
+
+went entered arrived 
+go enter arrive 
+
+created create creating 
+developed develop developing 
+
+created create creating 
+produced produce producing 
+
+given gave give 
+taken took take 
+
+took take takes 
+came come comes 
+
+took take taking 
+gave give giving 
+
+took take takes 
+stayed stay stays 
+
+took take taking 
+got get getting 
+
+took takes taking 
+gave gives giving 
+
+took takes taking 
+got gets getting 
+
+took came brought 
+take come bring 
+
+took came got 
+takes comes gets 
+
+took gave helped 
+take give help 
+
+took gave offered 
+takes gives offers 
+
+took got received 
+take get receive 
+
+took got gave 
+taking getting giving 
+
+took got received 
+takes gets receives 
+
+largest biggest tallest 
+larger bigger taller 
+
+using putting sending 
+uses puts sends 
+
+came got received 
+comes gets receives 
+
+came moved returned 
+coming moving returning 
+
+moved returned stayed 
+move leave stay 
+
+german germany berlin 
+austrian austria vienna 
+
+german germany germany's 
+swedish sweden sweden's 
+
+german polish lithuanian 
+germany poland lithuania 
+
+german austrian swiss 
+germany austria switzerland 
+
+german hungarian latvian 
+germany hungary latvia 
+
+go going goes 
+come coming comes 
+
+go travel send 
+goes travels sends 
+
+go take give 
+goes takes gives 
+
+go stay spend 
+goes stays spends 
+
+go send receive 
+goes sends receives 
+
+go bring send 
+goes brings sends 
+
+germany hungary serbia 
+munich budapest belgrade 
+
+father son brother 
+mother daughter sister 
+
+help try decide 
+helped tried decided 
+
+help keep hold 
+helps keeps holds 
+
+help want try 
+helped wanted tried 
+
+help allow let 
+helps allows lets 
+
+movies starred sequels 
+sitcoms guest-starred spin-offs 
+
+got received gave 
+gets receives gives 
+
+got gave helped 
+gets gives helps 
+
+australia australian australia's 
+canada canadian canada's 
+
+australia canada uk 
+australia's canada's uk's 
+
+man woman girl 
+men women girls 
+
+take takes taking 
+give gives giving 
+
+take takes taking 
+put puts putting 
+
+take give bring 
+taking giving bringing 
+
+take give provide 
+takes gives provides 
+
+take leave enter 
+taking leaving entering 
+
+take put add 
+taking putting adding 
+
+minister secretary commissioner 
+ministers secretaries commissioners 
+
+making putting sending 
+makes puts sends 
+
+making giving putting 
+makes gives puts 
+
+making becoming reaching 
+makes becomes reaches 
+
+making taking putting 
+makes takes puts 
+
+killed kill killing 
+destroyed destroy destroying 
+
+story novel poem 
+stories novels poems 
+
+japanese japan japan's 
+korean korea korea's 
+
+japanese chinese korean 
+japan china korea 
+
+put sent brought 
+puts sends brings 
+
+received earned gained 
+receive earn gain 
+
+received receive receives 
+gave give gives 
+
+received receiving receives 
+gave giving gives 
+
+see find try 
+sees finds tries 
+
+gave give gives 
+helped help helps 
+
+gave asked chose 
+give ask choose 
+
+gave helped tried 
+give help try 
+
+gave helped tried 
+gives helps tries 
+
+led helped tried 
+leads helps tries 
+
+led brought carried 
+leads brings carries 
+
+comes come coming 
+goes go going 
+
+comes goes gets 
+come go get 
+
+comes goes gets 
+coming going getting 
+
+comes takes gives 
+come take give 
+
+wanted tried asked 
+want try ask 
+
+wanted tried failed 
+wants tries fails 
+
+wanted want wants 
+tried try tries 
+
+wanted asked chose 
+want ask choose 
+
+wanted asked agreed 
+wants asks agrees 
+
+wanted told asked 
+wants tells asks 
+
+hockey defenceman goaltenders 
+baseball outfielder batters 
+
+hockey canadiens defenceman 
+baseball dodgers outfielder 
+
+find try decide 
+finds tries decides 
+
+sold sell selling 
+bought buy buying 
+
+chicago boston philadelphia 
+illinois massachusetts pennsylvania 
+
+chicago cincinnati milwaukee 
+illinois ohio wisconsin 
+
+chicago philadelphia detroit 
+illinois pennsylvania michigan 
+
+chicago dallas tampa 
+illinois texas florida 
+
+joined returned stayed 
+join leave stay 
+
+give provide offer 
+gives provides offers 
+
+give send receive 
+gives sends receives 
+
+give receive lose 
+gives receives loses 
+
+need needed needs 
+want wanted wants 
+
+support provide serve 
+supports provides serves 
+
+helped tried failed 
+helps tries fails 
+
+soviet russian moscow 
+czechoslovakia czech prague 
+
+think agree accept 
+thinks agrees accepts 
+
+decided tried asked 
+decides tries asks 
+
+decided decide decides 
+tried try tries 
+
+added add adding 
+removed remove removing 
+
+russian ukrainian moldovan 
+russia ukraine moldova 
+
+russian polish lithuanian 
+russia poland lithuania 
+
+takes gives puts 
+taking giving putting 
+
+takes gets gives 
+taking getting giving 
+
+going getting finding 
+goes gets finds 
+
+stop keep protect 
+stops keeps protects 
+
+keep protect prevent 
+keeps protects prevents 
+
+keep hold carry 
+keeps holds carries 
+
+returned entered stayed 
+leave enter stay 
+
+continued remained stayed 
+continue remain stay 
+
+texas florida georgia 
+dallas tampa atlanta 
+
+artist musician dancer 
+artists musicians dancers 
+
+artist painter architect 
+artists painters architects 
+
+tried failed managed 
+tries fails manages 
+
+tried asked agreed 
+tries asks agrees 
+
+told asked invited 
+telling asking inviting 
+
+told asked agreed 
+tells asks agrees 
+
+told tells telling 
+asked asks asking 
+
+russia armenia serbia 
+moscow yerevan belgrade 
+
+gets puts sends 
+getting putting sending 
+
+sweden norway estonia 
+gothenburg oslo tallinn 
+
+sweden norway iceland 
+swedish norwegian icelandic 
+
+leave join enter 
+leaving joining entering 
+
+gives puts sends 
+giving putting sending 
+
+novel novels novelist 
+poem poems poet 
+
+tells finds sees 
+tell find see 
+
+dutch netherlands zeeland 
+swedish sweden gotland 
+
+dutch danish finnish 
+netherlands denmark finland 
+
+baseball mlb phillies 
+basketball nba 76ers 
+
+austria switzerland belgium 
+austrian swiss belgian 
+
+boston philadelphia atlanta 
+bruins flyers thrashers 
+
+boston philadelphia detroit 
+massachusetts pennsylvania michigan 
+
+boston toronto montreal 
+bruins leafs canadiens 
+
+pennsylvania massachusetts rhode 
+philadelphia boston providence 
+
+pennsylvania michigan tennessee 
+philadelphia detroit nashville 
+
+poland hungary serbia 
+polish hungarian serbian 
+
+poland ukraine moldova 
+polish ukrainian moldovan 
+
+poland croatia slovenia 
+polish croatian slovenian 
+
+poet painter architect 
+poets painters architects 
+
+protect prevent reduce 
+protects prevents reduces 
+
+painting sculpture printmaking 
+painter sculptor engraver 
+
+brazil argentina chile 
+brazilian argentine chilean 
+
+brazil chile colombia 
+brazilian chilean colombian 
+
+physics mathematics economics 
+physicist mathematician economist 
+
+physics biology paleontology 
+physicist biologist paleontologist 
+
+belgian austrian swiss 
+belgium austria switzerland 
+
+turkey armenia serbia 
+istanbul yerevan belgrade 
+
+turkey iran armenia 
+istanbul tehran yerevan 
+
+turkey turkish istanbul 
+azerbaijan azerbaijani baku 
+
+turkey turkish istanbul 
+serbia serbian belgrade 
+
+turkey hungary serbia 
+turkish hungarian serbian 
+
+chemistry mathematics economics 
+chemist mathematician economist 
+
+toronto montreal edmonton 
+leafs canadiens oilers 
+
+muslims hindus buddhists 
+islam hinduism buddhism 
+
+muslims christians hindus 
+islam christianity hinduism 
+
+afghanistan afghan kandahar 
+iraq iraqi mosul 
+
+send sending sends 
+receive receiving receives 
+
+argentina ecuador uruguay 
+buenos guayaquil montevideo 
+
+montreal chicoutimi laval 
+canadiens vezina qmjhl 
+
+azerbaijan armenia macedonia 
+azerbaijani armenian macedonian 
+
+azerbaijan ukraine serbia 
+azerbaijani ukrainian serbian 
+
+chile colombia venezuela 
+chilean colombian venezuelan 
+
+romania hungary latvia 
+romanian hungarian latvian 
+
+hindu hindus hinduism 
+buddhist buddhists buddhism 
+
+armenian armenia yerevan 
+serbian serbia belgrade 
+
+armenian serbian azerbaijani 
+armenia serbia azerbaijan 
+
+ukraine hungary serbia 
+ukrainian hungarian serbian 
+
+hungary bulgaria lithuania 
+hungarian bulgarian lithuanian 
+
+hungary serbia latvia 
+hungarian serbian latvian 
+
+hungary serbia bosnia 
+budapest belgrade sarajevo 
+
+philosopher theologian theorist 
+philosophers theologians theorists 
+
+scholars philosophers theologians 
+scholar philosopher theologian 
+
+scholars poets painters 
+scholar poet painter 
+
+armenia serbia bosnia 
+yerevan belgrade sarajevo 
+
+serbia albania macedonia 
+novi tirana skopje 
+
+buddhism buddhist buddhists 
+hinduism hindu hindus 
+
+metamorphic limestones basaltic 
+precambrian oligocene phanerozoic 
+
+settler osage tarin 
+lenape algonquian balti 
+
+mato gerais jalisco 
+campo horizonte guadalajara 
+
+thanjavur cuddalore kaveri 
+taluks kannur zhob 
+

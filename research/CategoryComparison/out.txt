@@ -1,0 +1,1975 @@
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>AFMFind -vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_sg_i4.bin" -frames "squares_sg_i4.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 50 -p 0.3 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.3
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+50 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.667
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 1
+
+200
+Number of frames: 4
+
+300
+Number of frames: 8
+
+400
+Number of frames: 14
+
+500
+Number of frames: 16
+
+600
+Number of frames: 17
+
+700
+Number of frames: 17
+
+800
+Number of frames: 18
+
+900
+Number of frames: 18
+
+1000
+Number of frames: 19
+
+2000
+Number of frames: 25
+
+3000
+Number of frames: 27
+
+4000
+Number of frames: 29
+
+5000
+Number of frames: 29
+
+6000
+Number of frames: 30
+
+7000
+Number of frames: 30
+
+8000
+Number of frames: 30
+
+9000
+Number of frames: 30
+
+10000
+Number of frames: 31
+
+11000
+Number of frames: 31
+
+12000
+Number of frames: 31
+
+13000
+Number of frames: 31
+
+14000
+Number of frames: 31
+
+15000
+Number of frames: 31
+
+16000
+Number of frames: 31
+
+17000
+Number of frames: 32
+
+18000
+Number of frames: 32
+
+19000
+Number of frames: 32
+
+20000
+Number of frames: 33
+
+21000
+Number of frames: 33
+
+22000
+Number of frames: 33
+
+23000
+Number of frames: 33
+
+24000
+Number of frames: 33
+
+25000
+Number of frames: 33
+
+26000
+Number of frames: 33
+
+27000
+Number of frames: 33
+
+28000
+Number of frames: 33
+
+29000
+Number of frames: 33
+
+
+Frames: 33
+
+Number of frames: 33
+
+Time = 11.6
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>FrameStoreCompare.exe -real-vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_sg_i4.bin" -max-vecs 30000 -frames "squares_sg_i4.txt" -positives ../positives -negatives ../negatives 
+
+Parsing options ... 
+
+Number of terms: 30000
+30000
+VStore: number of terms: 30000
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Number of positive frames: 4121
+
+1
+
+2
+Number of negative frames: 759
+Number of frames to evaluate: 33
+
+Negative hits: 1
+
+Complete hits: 25
+1 18
+2 3
+3 0
+4 0
+5 0
+6 1
+7 1
+8 1
+9 4
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 4
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>AFMFind -vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_sg_i12.bin" -frames "squares_sg_i12.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 50 -p 0.3 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.3
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+50 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 6.985
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 20
+
+200
+Number of frames: 55
+
+300
+Number of frames: 102
+
+400
+Number of frames: 146
+
+500
+Number of frames: 172
+
+600
+Number of frames: 194
+
+700
+Number of frames: 198
+
+800
+Number of frames: 211
+
+900
+Number of frames: 222
+
+1000
+Number of frames: 224
+
+2000
+Number of frames: 255
+
+3000
+Number of frames: 268
+
+4000
+Number of frames: 277
+
+5000
+Number of frames: 278
+
+6000
+Number of frames: 278
+
+7000
+Number of frames: 278
+
+8000
+Number of frames: 278
+
+9000
+Number of frames: 278
+
+10000
+Number of frames: 278
+
+11000
+Number of frames: 278
+
+12000
+Number of frames: 278
+
+13000
+Number of frames: 278
+
+14000
+Number of frames: 279
+
+15000
+Number of frames: 279
+
+16000
+Number of frames: 279
+
+17000
+Number of frames: 281
+
+18000
+Number of frames: 282
+
+19000
+Number of frames: 282
+
+20000
+Number of frames: 282
+
+21000
+Number of frames: 282
+
+22000
+Number of frames: 282
+
+23000
+Number of frames: 282
+
+24000
+Number of frames: 282
+
+25000
+Number of frames: 282
+
+26000
+Number of frames: 282
+
+27000
+Number of frames: 282
+
+28000
+Number of frames: 282
+
+29000
+Number of frames: 282
+
+
+Frames: 282
+
+Number of frames: 282
+
+Time = 8.984
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>FrameStoreCompare.exe -real-vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_sg_i12.bin" -max-vecs 30000 -frames "squares_sg_i12.txt" -positives ../positives -negatives ../negatives 
+
+Parsing options ... 
+
+Number of terms: 30000
+30000
+VStore: number of terms: 30000
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Number of positive frames: 4121
+
+1
+
+2
+Number of negative frames: 759
+Number of frames to evaluate: 282
+
+Negative hits: 1
+
+Complete hits: 253
+1 180
+2 12
+3 0
+4 1
+5 2
+6 12
+7 2
+8 1
+9 45
+10 0
+11 0
+12 3
+13 0
+14 0
+15 0
+16 2
+17 0
+18 48
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>AFMFind -vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_sg_i48.bin" -frames "squares_sg_i48.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 50 -p 0.3 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.3
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+50 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 6.714
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 35
+
+200
+Number of frames: 107
+
+300
+Number of frames: 203
+
+400
+Number of frames: 300
+
+500
+Number of frames: 350
+
+600
+Number of frames: 387
+
+700
+Number of frames: 403
+
+800
+Number of frames: 429
+
+900
+Number of frames: 450
+
+1000
+Number of frames: 460
+
+2000
+Number of frames: 530
+
+3000
+Number of frames: 544
+
+4000
+Number of frames: 549
+
+5000
+Number of frames: 549
+
+6000
+Number of frames: 549
+
+7000
+Number of frames: 549
+
+8000
+Number of frames: 549
+
+9000
+Number of frames: 549
+
+10000
+Number of frames: 549
+
+11000
+Number of frames: 549
+
+12000
+Number of frames: 549
+
+13000
+Number of frames: 549
+
+14000
+Number of frames: 549
+
+15000
+Number of frames: 550
+
+16000
+Number of frames: 550
+
+17000
+Number of frames: 550
+
+18000
+Number of frames: 550
+
+19000
+Number of frames: 550
+
+20000
+Number of frames: 550
+
+21000
+Number of frames: 550
+
+22000
+Number of frames: 550
+
+23000
+Number of frames: 550
+
+24000
+Number of frames: 550
+
+25000
+Number of frames: 550
+
+26000
+Number of frames: 550
+
+27000
+Number of frames: 550
+
+28000
+Number of frames: 550
+
+29000
+Number of frames: 550
+
+
+Frames: 550
+
+Number of frames: 550
+
+Time = 8.23
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>FrameStoreCompare.exe -real-vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_sg_i48.bin" -max-vecs 30000 -frames "squares_sg_i48.txt" -positives ../positives -negatives ../negatives 
+
+Parsing options ... 
+
+Number of terms: 30000
+30000
+VStore: number of terms: 30000
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Number of positive frames: 4121
+
+1
+
+2
+Number of negative frames: 759
+Number of frames to evaluate: 550
+
+Negative hits: 4
+
+Complete hits: 509
+1 298
+2 42
+3 0
+4 3
+5 8
+6 37
+7 4
+8 1
+9 121
+10 0
+11 0
+12 4
+13 0
+14 0
+15 0
+16 5
+17 0
+18 99
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>REM ===================================== 
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>AFMFind -vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_cbow_i4.bin" -frames "squares_cbow_i4.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 50 -p 0.3 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.3
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+50 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.727
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 6
+
+200
+Number of frames: 33
+
+300
+Number of frames: 69
+
+400
+Number of frames: 113
+
+500
+Number of frames: 132
+
+600
+Number of frames: 163
+
+700
+Number of frames: 180
+
+800
+Number of frames: 205
+
+900
+Number of frames: 216
+
+1000
+Number of frames: 223
+
+2000
+Number of frames: 321
+
+3000
+Number of frames: 363
+
+4000
+Number of frames: 391
+
+5000
+Number of frames: 404
+
+6000
+Number of frames: 409
+
+7000
+Number of frames: 411
+
+8000
+Number of frames: 412
+
+9000
+Number of frames: 413
+
+10000
+Number of frames: 413
+
+11000
+Number of frames: 413
+
+12000
+Number of frames: 413
+
+13000
+Number of frames: 413
+
+14000
+Number of frames: 413
+
+15000
+Number of frames: 413
+
+16000
+Number of frames: 413
+
+17000
+Number of frames: 413
+
+18000
+Number of frames: 414
+
+19000
+Number of frames: 415
+
+20000
+Number of frames: 415
+
+21000
+Number of frames: 415
+
+22000
+Number of frames: 415
+
+23000
+Number of frames: 415
+
+24000
+Number of frames: 415
+
+25000
+Number of frames: 415
+
+26000
+Number of frames: 415
+
+27000
+Number of frames: 415
+
+28000
+Number of frames: 415
+
+29000
+Number of frames: 415
+
+
+Frames: 415
+
+Number of frames: 415
+
+Time = 16.823
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>FrameStoreCompare.exe -real-vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_cbow_i4.bin" -max-vecs 30000 -frames "squares_cbow_i4.txt" -positives ../positives -negatives ../negatives 
+
+Parsing options ... 
+
+Number of terms: 30000
+30000
+VStore: number of terms: 30000
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Number of positive frames: 4121
+
+1
+
+2
+Number of negative frames: 759
+Number of frames to evaluate: 415
+
+Negative hits: 2
+
+Complete hits: 291
+1 199
+2 76
+3 0
+4 0
+5 1
+6 7
+7 6
+8 3
+9 10
+10 0
+11 1
+12 1
+13 1
+14 0
+15 0
+16 1
+17 0
+18 50
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>AFMFind -vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_cbow_i12.bin" -frames "squares_cbow_i12.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 50 -p 0.3 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.3
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+50 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.027
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 22
+
+200
+Number of frames: 104
+
+300
+Number of frames: 200
+
+400
+Number of frames: 319
+
+500
+Number of frames: 382
+
+600
+Number of frames: 459
+
+700
+Number of frames: 506
+
+800
+Number of frames: 575
+
+900
+Number of frames: 612
+
+1000
+Number of frames: 654
+
+2000
+Number of frames: 950
+
+3000
+Number of frames: 1095
+
+4000
+Number of frames: 1178
+
+5000
+Number of frames: 1240
+
+6000
+Number of frames: 1281
+
+7000
+Number of frames: 1301
+
+8000
+Number of frames: 1315
+
+9000
+Number of frames: 1322
+
+10000
+Number of frames: 1328
+
+11000
+Number of frames: 1333
+
+12000
+Number of frames: 1339
+
+13000
+Number of frames: 1343
+
+14000
+Number of frames: 1347
+
+15000
+Number of frames: 1350
+
+16000
+Number of frames: 1350
+
+17000
+Number of frames: 1352
+
+18000
+Number of frames: 1353
+
+19000
+Number of frames: 1356
+
+20000
+Number of frames: 1356
+
+21000
+Number of frames: 1356
+
+22000
+Number of frames: 1356
+
+23000
+Number of frames: 1356
+
+24000
+Number of frames: 1356
+
+25000
+Number of frames: 1356
+
+26000
+Number of frames: 1356
+
+27000
+Number of frames: 1356
+
+28000
+Number of frames: 1356
+
+29000
+Number of frames: 1356
+
+
+Frames: 1356
+
+Number of frames: 1356
+
+Time = 14.932
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>FrameStoreCompare.exe -real-vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_cbow_i12.bin" -max-vecs 30000 -frames "squares_cbow_i12.txt" -positives ../positives -negatives ../negatives 
+
+Parsing options ... 
+
+Number of terms: 30000
+30000
+VStore: number of terms: 30000
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Number of positive frames: 4121
+
+1
+
+2
+Number of negative frames: 759
+Number of frames to evaluate: 1356
+
+Negative hits: 14
+
+Complete hits: 1093
+1 738
+2 196
+3 0
+4 1
+5 7
+6 31
+7 6
+8 2
+9 101
+10 0
+11 5
+12 7
+13 0
+14 0
+15 0
+16 22
+17 0
+18 223
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>AFMFind -vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_cbow_i48.bin" -frames "squares_cbow_i48.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 50 -p 0.3 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.3
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+50 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 6.728
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 31
+
+200
+Number of frames: 215
+
+300
+Number of frames: 417
+
+400
+Number of frames: 609
+
+500
+Number of frames: 729
+
+600
+Number of frames: 841
+
+700
+Number of frames: 904
+
+800
+Number of frames: 995
+
+900
+Number of frames: 1032
+
+1000
+Number of frames: 1075
+
+2000
+Number of frames: 1321
+
+3000
+Number of frames: 1352
+
+4000
+Number of frames: 1371
+
+5000
+Number of frames: 1376
+
+6000
+Number of frames: 1377
+
+7000
+Number of frames: 1379
+
+8000
+Number of frames: 1379
+
+9000
+Number of frames: 1379
+
+10000
+Number of frames: 1379
+
+11000
+Number of frames: 1379
+
+12000
+Number of frames: 1379
+
+13000
+Number of frames: 1380
+
+14000
+Number of frames: 1381
+
+15000
+Number of frames: 1381
+
+16000
+Number of frames: 1381
+
+17000
+Number of frames: 1381
+
+18000
+Number of frames: 1381
+
+19000
+Number of frames: 1381
+
+20000
+Number of frames: 1381
+
+21000
+Number of frames: 1381
+
+22000
+Number of frames: 1381
+
+23000
+Number of frames: 1381
+
+24000
+Number of frames: 1381
+
+25000
+Number of frames: 1381
+
+26000
+Number of frames: 1381
+
+27000
+Number of frames: 1381
+
+28000
+Number of frames: 1381
+
+29000
+Number of frames: 1381
+
+
+Frames: 1381
+
+Number of frames: 1381
+
+Time = 11.893
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>FrameStoreCompare.exe -real-vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_cbow_i48.bin" -max-vecs 30000 -frames "squares_cbow_i48.txt" -positives ../positives -negatives ../negatives 
+
+Parsing options ... 
+
+Number of terms: 30000
+30000
+VStore: number of terms: 30000
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Number of positive frames: 4121
+
+1
+
+2
+Number of negative frames: 759
+Number of frames to evaluate: 1381
+
+Negative hits: 20
+
+Complete hits: 1317
+1 930
+2 173
+3 0
+4 7
+5 29
+6 68
+7 6
+8 3
+9 115
+10 0
+11 3
+12 6
+13 0
+14 1
+15 0
+16 26
+17 0
+18 230
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>REM ============================= 
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>AFMFind -vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_subword_i4.bin" -frames "squares_subword_i4.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 50 -p 0.3 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.3
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+50 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.374
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 4
+
+200
+Number of frames: 76
+
+300
+Number of frames: 179
+
+400
+Number of frames: 276
+
+500
+Number of frames: 374
+
+600
+Number of frames: 461
+
+700
+Number of frames: 567
+
+800
+Number of frames: 689
+
+900
+Number of frames: 802
+
+1000
+Number of frames: 849
+
+2000
+Number of frames: 1743
+
+3000
+Number of frames: 2472
+
+4000
+Number of frames: 3051
+
+5000
+Number of frames: 3547
+
+6000
+Number of frames: 4026
+
+7000
+Number of frames: 4388
+
+8000
+Number of frames: 4669
+
+9000
+Number of frames: 4908
+
+10000
+Number of frames: 5080
+
+11000
+Number of frames: 5244
+
+12000
+Number of frames: 5389
+
+13000
+Number of frames: 5526
+
+14000
+Number of frames: 5648
+
+15000
+Number of frames: 5717
+
+16000
+Number of frames: 5769
+
+17000
+Number of frames: 5812
+
+18000
+Number of frames: 5842
+
+19000
+Number of frames: 5877
+
+20000
+Number of frames: 5904
+
+21000
+Number of frames: 5921
+
+22000
+Number of frames: 5929
+
+23000
+Number of frames: 5939
+
+24000
+Number of frames: 5945
+
+25000
+Number of frames: 5945
+
+26000
+Number of frames: 5949
+
+27000
+Number of frames: 5949
+
+28000
+Number of frames: 5949
+
+29000
+Number of frames: 5949
+
+
+Frames: 5949
+
+Number of frames: 5949
+
+Time = 19.122
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>FrameStoreCompare.exe -real-vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_subword_i4.bin" -max-vecs 30000 -frames "squares_subword_i4.txt" -positives ../positives -negatives ../negatives 
+
+Parsing options ... 
+
+Number of terms: 30000
+30000
+VStore: number of terms: 30000
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Number of positive frames: 4121
+
+1
+
+2
+Number of negative frames: 759
+Number of frames to evaluate: 5949
+
+Negative hits: 429
+
+Complete hits: 4341
+1 989
+2 1330
+3 38
+4 123
+5 57
+6 417
+7 9
+8 28
+9 229
+10 42
+11 9
+12 3
+13 7
+14 55
+15 15
+16 70
+17 1
+18 2610
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>AFMFind -vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_subword_i12.bin" -frames "squares_subword_i12.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 50 -p 0.3 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.3
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+50 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 7.028
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 30
+
+200
+Number of frames: 123
+
+300
+Number of frames: 231
+
+400
+Number of frames: 358
+
+500
+Number of frames: 479
+
+600
+Number of frames: 568
+
+700
+Number of frames: 654
+
+800
+Number of frames: 755
+
+900
+Number of frames: 829
+
+1000
+Number of frames: 884
+
+2000
+Number of frames: 1524
+
+3000
+Number of frames: 1983
+
+4000
+Number of frames: 2372
+
+5000
+Number of frames: 2699
+
+6000
+Number of frames: 2940
+
+7000
+Number of frames: 3103
+
+8000
+Number of frames: 3260
+
+9000
+Number of frames: 3413
+
+10000
+Number of frames: 3510
+
+11000
+Number of frames: 3606
+
+12000
+Number of frames: 3673
+
+13000
+Number of frames: 3753
+
+14000
+Number of frames: 3821
+
+15000
+Number of frames: 3851
+
+16000
+Number of frames: 3884
+
+17000
+Number of frames: 3911
+
+18000
+Number of frames: 3927
+
+19000
+Number of frames: 3948
+
+20000
+Number of frames: 3956
+
+21000
+Number of frames: 3969
+
+22000
+Number of frames: 3972
+
+23000
+Number of frames: 3978
+
+24000
+Number of frames: 3978
+
+25000
+Number of frames: 3978
+
+26000
+Number of frames: 3979
+
+27000
+Number of frames: 3979
+
+28000
+Number of frames: 3979
+
+29000
+Number of frames: 3979
+
+
+Frames: 3979
+
+Number of frames: 3979
+
+Time = 14.777
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>FrameStoreCompare.exe -real-vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_subword_i12.bin" -max-vecs 30000 -frames "squares_subword_i12.txt" -positives ../positives -negatives ../negatives 
+
+Parsing options ... 
+
+Number of terms: 30000
+30000
+VStore: number of terms: 30000
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Number of positive frames: 4121
+
+1
+
+2
+Number of negative frames: 759
+Number of frames to evaluate: 3979
+
+Negative hits: 93
+
+Complete hits: 3085
+1 765
+2 895
+3 21
+4 70
+5 48
+6 479
+7 14
+8 38
+9 261
+10 48
+11 4
+12 8
+13 6
+14 79
+15 22
+16 73
+17 1
+18 1412
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>AFMFind -vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_subword_i48.bin" -frames "squares_subword_i48.txt" -extend2 0 -extend3 0 -nns 30 -ext-nns 50 -p 0.3 -max-vecs 30000 -threads 8 
+
+Parsing options ... 
+
+Parallel threshold: 0.3
+
+Loading vectors ... 
+Number of terms: 30000
+
+Preparing vectors ... 
+
+Vector dimensionality: 250
+Max vectors to process: 30000
+
+Number ids: 30000
+
+50 30000
+
+Computing approximate nearest neighbours ... 
+
+Time = 6.752
+
+30000
+30000
+Searching frames ... 
+
+100
+Number of frames: 37
+
+200
+Number of frames: 129
+
+300
+Number of frames: 243
+
+400
+Number of frames: 375
+
+500
+Number of frames: 444
+
+600
+Number of frames: 499
+
+700
+Number of frames: 540
+
+800
+Number of frames: 585
+
+900
+Number of frames: 622
+
+1000
+Number of frames: 648
+
+2000
+Number of frames: 894
+
+3000
+Number of frames: 1090
+
+4000
+Number of frames: 1232
+
+5000
+Number of frames: 1336
+
+6000
+Number of frames: 1416
+
+7000
+Number of frames: 1476
+
+8000
+Number of frames: 1548
+
+9000
+Number of frames: 1600
+
+10000
+Number of frames: 1646
+
+11000
+Number of frames: 1673
+
+12000
+Number of frames: 1699
+
+13000
+Number of frames: 1731
+
+14000
+Number of frames: 1769
+
+15000
+Number of frames: 1780
+
+16000
+Number of frames: 1794
+
+17000
+Number of frames: 1801
+
+18000
+Number of frames: 1806
+
+19000
+Number of frames: 1812
+
+20000
+Number of frames: 1813
+
+21000
+Number of frames: 1817
+
+22000
+Number of frames: 1819
+
+23000
+Number of frames: 1821
+
+24000
+Number of frames: 1822
+
+25000
+Number of frames: 1822
+
+26000
+Number of frames: 1822
+
+27000
+Number of frames: 1822
+
+28000
+Number of frames: 1822
+
+29000
+Number of frames: 1822
+
+
+Frames: 1822
+
+Number of frames: 1822
+
+Time = 10.769
+
+C:\aaThesis\Experiments\Chap_5\CategoryCompareModels>FrameStoreCompare.exe -real-vecs1 "C:/aaThesis/Thesis_Aug2019/vecs_simple_subword_i48.bin" -max-vecs 30000 -frames "squares_subword_i48.txt" -positives ../positives -negatives ../negatives 
+
+Parsing options ... 
+
+Number of terms: 30000
+30000
+VStore: number of terms: 30000
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Number of positive frames: 4121
+
+1
+
+2
+Number of negative frames: 759
+Number of frames to evaluate: 1822
+
+Negative hits: 13
+
+Complete hits: 1653
+1 433
+2 450
+3 10
+4 25
+5 8
+6 378
+7 9
+8 19
+9 221
+10 30
+11 1
+12 7
+13 3
+14 48
+15 13
+16 24
+17 1
+18 546

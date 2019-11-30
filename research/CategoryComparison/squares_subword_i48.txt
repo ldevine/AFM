@@ -1,0 +1,5466 @@
+the all three 
+also many several 
+
+. is was 
+and are were 
+
+and also both 
+or sometimes either 
+
+is was been 
+goes went gone 
+
+is has contains 
+was had contained 
+
+is has which 
+are have these 
+
+is are consists 
+was were consisted 
+
+is makes produces 
+be make produce 
+
+is becomes stays 
+was became stayed 
+
+is comes goes 
+was came went 
+
+is also which 
+are many these 
+
+was had got 
+being having getting 
+
+it its itself 
+they their themselves 
+
+it has its 
+they have their 
+
+he she father 
+his her father's 
+
+he his himself 
+she her herself 
+
+he father son 
+she mother daughter 
+
+he father grandfather 
+his father's grandfather's 
+
+are includes contains 
+were included contained 
+
+his him himself 
+their them themselves 
+
+his their its 
+himself themselves itself 
+
+his father son 
+her mother daughter 
+
+be can could 
+been has had 
+
+has its itself 
+have their themselves 
+
+has contains consists 
+have contain consist 
+
+not want intend 
+does wants intends 
+
+not want know 
+could wanted knew 
+
+not need want 
+does needs wants 
+
+have their them 
+had his him 
+
+she mother grandmother 
+her mother's grandmother's 
+
+she father mother 
+her father's mother's 
+
+people women soldiers 
+person woman soldier 
+
+people everyone anyone 
+some all any 
+
+can will does 
+could would did 
+
+can does wants 
+could did wanted 
+
+had got gave 
+having getting giving 
+
+had took gave 
+having taking giving 
+
+used use uses 
+made make makes 
+
+used using uses 
+made making makes 
+
+used made produced 
+use make produce 
+
+used made created 
+uses makes creates 
+
+made making makes 
+produced producing produces 
+
+made making makes 
+created creating creates 
+
+made make making 
+produced produce producing 
+
+made make making 
+created create creating 
+
+made make makes 
+gave give gives 
+
+made produced reproduced 
+making producing reproducing 
+
+made produced distributed 
+make produce distribute 
+
+made created formed 
+making creating forming 
+
+made created formed 
+make create form 
+
+made created produced 
+makes creates produces 
+
+made brought carried 
+make bring carry 
+
+made gave asked 
+make give ask 
+
+made gave offered 
+makes gives offers 
+
+made added removed 
+make add remove 
+
+made turned pulled 
+makes turns pulls 
+
+city town village 
+cities towns villages 
+
+city county town 
+cities counties towns 
+
+city village municipality 
+cities villages municipalities 
+
+city municipality principality 
+cities municipalities principalities 
+
+became remained stayed 
+become remain stay 
+
+became began ended 
+becomes begins ends 
+
+became stayed arrived 
+becomes stays arrives 
+
+became went came 
+becomes goes comes 
+
+became got received 
+becomes gets receives 
+
+name named names 
+nickname nicknamed nicknames 
+
+movie television movies 
+sequel series sequels 
+
+movie soundtrack compilation 
+movies soundtracks compilations 
+
+movie sequel soundtrack 
+movies sequels soundtracks 
+
+would could wanted 
+will can wants 
+
+would wanted decided 
+will wants decides 
+
+would did wanted 
+will does wants 
+
+would decided tried 
+will decides tries 
+
+music piano violin 
+musicians pianists violinists 
+
+music pop rap 
+composer singer rapper 
+
+music musician musicians 
+piano pianist pianists 
+
+south east southeast 
+southern eastern southeastern 
+
+south southeast northeast 
+southern southeastern northeastern 
+
+south northeast north-east 
+southern northeastern north-eastern 
+
+south southwest northeast 
+southern southwestern northeastern 
+
+south south-east north-west 
+southern south-eastern north-western 
+
+south north-east south-east 
+southern north-eastern south-eastern 
+
+do did does 
+try tried tries 
+
+do get go 
+doing getting going 
+
+do use apply 
+done used applied 
+
+use using uses 
+make making makes 
+
+use make produce 
+uses makes produces 
+
+national nationals nationally 
+international internationals internationally 
+
+make making makes 
+create creating creates 
+
+make making makes 
+produce producing produces 
+
+make making makes 
+get getting gets 
+
+make making makes 
+give giving gives 
+
+make create produce 
+making creating producing 
+
+make create build 
+makes creates builds 
+
+make produce reproduce 
+making producing reproducing 
+
+make get go 
+making getting going 
+
+make get go 
+makes gets goes 
+
+make give bring 
+making giving bringing 
+
+make give provide 
+makes gives provides 
+
+make build bring 
+makes builds brings 
+
+make help keep 
+makes helps keeps 
+
+make provide operate 
+makes provides operates 
+
+played play playing 
+performed perform performing 
+
+university school college 
+universities schools colleges 
+
+found discovered recovered 
+find discover recover 
+
+found find finds 
+seen see sees 
+
+found seen observed 
+find see observe 
+
+did wanted decided 
+does wants decides 
+
+did could wanted 
+does can wants 
+
+did decided tried 
+does decides tries 
+
+did tried failed 
+does tries fails 
+
+did helped tried 
+does helps tries 
+
+series sequel sequels 
+television movie movies 
+
+00000 million billion 
+thousands millions billions 
+
+album song soundtrack 
+albums songs soundtracks 
+
+album soundtrack compilation 
+albums soundtracks compilations 
+
+group family subfamily 
+groups families subfamilies 
+
+started stopped restarted 
+start stop restart 
+
+started ended stopped 
+starts ends stops 
+
+started went stayed 
+starts goes stays 
+
+started start starts 
+ended end ends 
+
+river valley creek 
+rivers valleys creeks 
+
+river lake reservoir 
+rivers lakes reservoirs 
+
+said told asked 
+says tells asks 
+
+said say says 
+told tell tells 
+
+said thought believed 
+say think believe 
+
+said says saying 
+told tells telling 
+
+said believed knew 
+say believe know 
+
+said asked agreed 
+says asks agrees 
+
+president elected reelected 
+presidential election reelection 
+
+president governor mayor 
+presidents governors mayors 
+
+county town district 
+counties towns districts 
+
+county district municipality 
+counties districts municipalities 
+
+british french german 
+britain france germany 
+
+british britain britain's 
+irish ireland ireland's 
+
+british scottish danish 
+britain scotland denmark 
+
+british irish scottish 
+britain ireland scotland 
+
+government governments government's 
+parliament parliaments parliament's 
+
+important popular successful 
+importance popularity success 
+
+long length shorter 
+thick thickness thicker 
+
+song soundtrack compilation 
+songs soundtracks compilations 
+
+town village municipality 
+towns villages municipalities 
+
+town district municipality 
+towns districts municipalities 
+
+town municipality principality 
+towns municipalities principalities 
+
+town settlement outstation 
+towns settlements outstations 
+
+west east northwest 
+western eastern northwestern 
+
+get gets getting 
+go goes going 
+
+get gets getting 
+give gives giving 
+
+get gets getting 
+find finds finding 
+
+get gets getting 
+take takes taking 
+
+get gets getting 
+receive receives receiving 
+
+get got getting 
+go went going 
+
+get got getting 
+give gave giving 
+
+get got gets 
+bring brought brings 
+
+get got getting 
+take took taking 
+
+get got getting 
+receive received receiving 
+
+get got gets 
+earn earned earns 
+
+get go enter 
+getting going entering 
+
+get go enter 
+gets goes enters 
+
+get go travel 
+got went traveled 
+
+get give bring 
+getting giving bringing 
+
+get give provide 
+gets gives provides 
+
+get give receive 
+got gave received 
+
+get find try 
+gets finds tries 
+
+get bring send 
+gets brings sends 
+
+get bring send 
+got brought sent 
+
+get take give 
+getting taking giving 
+
+get take give 
+gets takes gives 
+
+get take give 
+got took gave 
+
+get obtain attain 
+got obtained attained 
+
+get keep protect 
+gets keeps protects 
+
+get receive earn 
+gets receives earns 
+
+get receive earn 
+got received earned 
+
+get need want 
+gets needs wants 
+
+get reach enter 
+gets reaches enters 
+
+person man woman 
+person's man's woman's 
+
+began appeared disappeared 
+begin appear disappear 
+
+east southeast northeast 
+eastern southeastern northeastern 
+
+east northeast north-east 
+eastern northeastern north-eastern 
+
+east southwest northeast 
+eastern southwestern northeastern 
+
+east northwest southwest 
+eastern northwestern southwestern 
+
+east south-east north-west 
+eastern south-eastern north-western 
+
+east north-east south-east 
+eastern north-eastern south-eastern 
+
+population density elevation 
+populations densities elevations 
+
+member leader unionist 
+members leaders unionists 
+
+york chicago philadelphia 
+connecticut illinois pennsylvania 
+
+you your yourself 
+we our ourselves 
+
+book novel poem 
+books novels poems 
+
+book story poem 
+books stories poems 
+
+book autobiography biography 
+books autobiographies biographies 
+
+french german dutch 
+france germany netherlands 
+
+french spanish portuguese 
+france spain portugal 
+
+french france paris 
+german germany berlin 
+
+french france paris 
+italian italy milan 
+
+french france paris 
+belgian belgium brussels 
+
+french italian croatian 
+france italy croatia 
+
+french belgian austrian 
+france belgium austria 
+
+french portuguese galician 
+france portugal galicia 
+
+include included includes 
+contain contained contains 
+
+england ireland scotland 
+england's ireland's scotland's 
+
+england france spain 
+london paris madrid 
+
+france italy spain 
+paris milan madrid 
+
+france germany austria 
+paris berlin vienna 
+
+france austria hungary 
+paris vienna budapest 
+
+went came brought 
+go come bring 
+
+went came moved 
+going coming moving 
+
+went came arrived 
+goes comes arrives 
+
+went go going 
+came come coming 
+
+went go going 
+moved move moving 
+
+went go goes 
+stayed stay stays 
+
+went go goes 
+took take takes 
+
+went go goes 
+sent send sends 
+
+went go goes 
+entered enter enters 
+
+went go going 
+got get getting 
+
+went go goes 
+wanted want wants 
+
+went go going 
+tried try trying 
+
+went moved stayed 
+go move stay 
+
+went stayed arrived 
+go stay arrive 
+
+went stayed arrived 
+goes stays arrives 
+
+went going goes 
+came coming comes 
+
+went going goes 
+took taking takes 
+
+went going goes 
+entered entering enters 
+
+went going goes 
+got getting gets 
+
+went going goes 
+tried trying tries 
+
+went took came 
+go take come 
+
+went took came 
+goes takes comes 
+
+went continued remained 
+go continue remain 
+
+went sent brought 
+go send bring 
+
+went sent tried 
+goes sends tries 
+
+went entered stayed 
+go enter stay 
+
+went entered arrived 
+goes enters arrives 
+
+went got received 
+go get receive 
+
+went got gave 
+going getting giving 
+
+went got received 
+goes gets receives 
+
+went wanted decided 
+go want decide 
+
+went wanted decided 
+goes wants decides 
+
+went tried failed 
+goes tries fails 
+
+went attended participated 
+go attend participate 
+
+went decided tried 
+goes decides tries 
+
+built constructed rebuilt 
+build construct rebuild 
+
+built build construction 
+operated operate operational 
+
+built building build 
+rebuilt rebuilding rebuild 
+
+built operated cooperated 
+build operate cooperate 
+
+written writing writers 
+directed directing directors 
+
+written writing write 
+composed composing compose 
+
+created creation creating 
+established establishment establishing 
+
+created create creating 
+formed form forming 
+
+created create creating 
+established establish establishing 
+
+created create creating 
+produced produce producing 
+
+created create creating 
+developed develop developing 
+
+created create creating 
+introduced introduce introducing 
+
+created produced distributed 
+create produce distribute 
+
+created produced reproduced 
+creating producing reproducing 
+
+created developed redeveloped 
+creation development redevelopment 
+
+children daughters grandchildren 
+child daughter grandchild 
+
+given gave give 
+taken took take 
+
+given give gives 
+taken take takes 
+
+given gives giving 
+taken takes taking 
+
+given taken carried 
+give take carry 
+
+given taken collected 
+gives takes collects 
+
+given taken kept 
+giving taking keeping 
+
+district village municipality 
+districts villages municipalities 
+
+took take takes 
+came come comes 
+
+took take taking 
+gave give giving 
+
+took take taking 
+got get getting 
+
+took take takes 
+stayed stay stays 
+
+took takes taking 
+gave gives giving 
+
+took takes taking 
+got gets getting 
+
+took came brought 
+take come bring 
+
+took came brought 
+takes comes brings 
+
+took taken taking 
+gave given giving 
+
+took gave asked 
+take give ask 
+
+took gave offered 
+takes gives offers 
+
+took got received 
+take get receive 
+
+took got received 
+taking getting receiving 
+
+took got received 
+takes gets receives 
+
+took lasted occurred 
+takes lasts occurs 
+
+took ended stopped 
+takes ends stops 
+
+took led helped 
+takes leads helps 
+
+took stayed arrived 
+take stay arrive 
+
+took stayed arrived 
+takes stays arrives 
+
+took ran stood 
+takes runs stands 
+
+took happened occurred 
+takes happens occurs 
+
+form formed forming 
+create created creating 
+
+largest biggest heaviest 
+larger bigger heavier 
+
+things objects items 
+something object item 
+
+football hockey basketball 
+nfl nhl nba 
+
+football nfl quarterback 
+hockey nhl goaltender 
+
+lived met saw 
+lives meets sees 
+
+came brought arrived 
+comes brings arrives 
+
+came got gave 
+comes gets gives 
+
+came moved returned 
+coming moving returning 
+
+came stayed arrived 
+come stay arrive 
+
+came gave asked 
+comes gives asks 
+
+play perform sing 
+playing performing singing 
+
+moved stayed traveled 
+move stay travel 
+
+church cathedral basilica 
+churches cathedrals basilicas 
+
+german germany germany's 
+austrian austria austria's 
+
+german germany germany's 
+polish poland poland's 
+
+german germany berlin 
+russian russia moscow 
+
+german dutch belgian 
+germany netherlands belgium 
+
+german austrian swiss 
+germany austria switzerland 
+
+german austrian hungarian 
+germans austrians hungarians 
+
+german polish lithuanian 
+germany poland lithuania 
+
+german hungarian bulgarian 
+germany hungary bulgaria 
+
+german hungarian romanian 
+germans hungarians romanians 
+
+german italian croatian 
+germany italy croatia 
+
+german italian spanish 
+german-american italian-american mexican-american 
+
+german italian croatian 
+germans italians croats 
+
+german swiss norwegian 
+germany switzerland norway 
+
+german germans hitler 
+italian italians mussolini 
+
+german romanian albanian 
+germans romanians albanians 
+
+history historian historians 
+geography geographer geographers 
+
+history geography linguistics 
+historian geographer linguist 
+
+history geography linguistics 
+historians geographers linguists 
+
+go going goes 
+enter entering enters 
+
+go going goes 
+come coming comes 
+
+go going goes 
+take taking takes 
+
+go going goes 
+try trying tries 
+
+go take give 
+goes takes gives 
+
+go move pull 
+goes moves pulls 
+
+go stay spend 
+goes stays spends 
+
+go bring send 
+goes brings sends 
+
+go reach enter 
+goes reaches enters 
+
+go meet attend 
+goes meets attends 
+
+go find try 
+goes finds tries 
+
+go want try 
+goes wants tries 
+
+germany austria switzerland 
+germany's austria's switzerland's 
+
+germany austria switzerland 
+berlin vienna zurich 
+
+type kind thing 
+types kinds things 
+
+type classification specification 
+types classifications specifications 
+
+father mother grandmother 
+father's mother's grandmother's 
+
+father mother brother 
+father-in-law mother-in-law brother-in-law 
+
+father mother brother 
+fathers mothers brothers 
+
+father son brother 
+mother daughter sister 
+
+father grandfather grandmother 
+father's grandfather's grandmother's 
+
+father brother grandfather 
+father's brother's grandfather's 
+
+father fathers father-in-law 
+mother mothers mother-in-law 
+
+father fathers father-in-law 
+brother brothers brother-in-law 
+
+california florida georgia 
+california's florida's georgia's 
+
+california illinois michigan 
+angeles chicago detroit 
+
+help keep protect 
+helps keeps protects 
+
+help protect prevent 
+helps protects prevents 
+
+help bring send 
+helps brings sends 
+
+america australia canada 
+america's australia's canada's 
+
+thought believed knew 
+think believe know 
+
+thought considered believed 
+think consider believe 
+
+son brother sons 
+daughter sister daughters 
+
+son daughters daughter's 
+brother sisters sister's 
+
+actor comedian entertainer 
+actors comedians entertainers 
+
+actor actress comedian 
+actors actresses comedians 
+
+actor musician songwriter 
+actors musicians songwriters 
+
+actor writer novelist 
+actors writers novelists 
+
+actor producer songwriter 
+actors producers songwriters 
+
+actor singer songwriter 
+actors singers songwriters 
+
+actor songwriter vocalist 
+actors songwriters vocalists 
+
+actor filmmaker animator 
+actors filmmakers animators 
+
+actor director producer 
+actors directors producers 
+
+got received gave 
+getting receiving giving 
+
+got received earned 
+gets receives earns 
+
+got earned gained 
+gets earns gains 
+
+got gave asked 
+gets gives asks 
+
+got gets getting 
+received receives receiving 
+
+got gets getting 
+gave gives giving 
+
+got gets getting 
+fell falls falling 
+
+got stayed arrived 
+gets stays arrives 
+
+got ended continued 
+gets ends continues 
+
+got brought arrived 
+gets brings arrives 
+
+australia australian australia's 
+canada canadian canada's 
+
+australia australian australians 
+malaysia malaysian malays 
+
+australia canada belgium 
+australian canadian belgian 
+
+australia canada uk 
+australia's canada's uk's 
+
+australia africa asia 
+australia's africa's asia's 
+
+man woman girl 
+men women girls 
+
+man men man's 
+boy boys boy's 
+
+take taken taking 
+give given giving 
+
+take taken taking 
+keep kept keeping 
+
+take takes taking 
+give gives giving 
+
+take takes taking 
+put puts putting 
+
+take give bring 
+taking giving bringing 
+
+take give provide 
+taken given provided 
+
+take give provide 
+takes gives provides 
+
+take stay spend 
+takes stays spends 
+
+take come originate 
+takes comes originates 
+
+take carry collect 
+taken carried collected 
+
+take keep provide 
+taking keeping providing 
+
+take keep maintain 
+taken kept maintained 
+
+western northern southern 
+westernmost northernmost southernmost 
+
+western southern eastern 
+westernmost southernmost easternmost 
+
+northern southern eastern 
+northernmost southernmost easternmost 
+
+northern northernmost northerly 
+southern southernmost southerly 
+
+minister secretary ambassador 
+ministers secretaries ambassadors 
+
+europe asia eurasia 
+european asian eurasian 
+
+making creating developing 
+makes creates develops 
+
+making producing introducing 
+makes produces introduces 
+
+making becoming reaching 
+makes becomes reaches 
+
+making taking giving 
+makes takes gives 
+
+making giving putting 
+makes gives puts 
+
+making getting finding 
+makes gets finds 
+
+killed kill killing 
+injured injure injuring 
+
+killed kill killing 
+destroyed destroy destroying 
+
+killed destroyed captured 
+kill destroy capture 
+
+story novel poem 
+stories novels poems 
+
+japanese japan tokyo 
+korean korea seoul 
+
+japanese japan tokyo 
+chinese china beijing 
+
+japanese chinese korean 
+japan china korea 
+
+japanese chinese korean 
+tokyo beijing seoul 
+
+human animal bird 
+humans animals birds 
+
+put sent tried 
+puts sends tries 
+
+received receive receives 
+earned earn earns 
+
+received receive receives 
+gave give gives 
+
+received earned gained 
+receives earns gains 
+
+received receiving receives 
+gave giving gives 
+
+received gave earned 
+receives gives earns 
+
+received obtained attained 
+receive obtain attain 
+
+see find try 
+sees finds tries 
+
+see seen sees 
+hear heard hears 
+
+gave give gives 
+offered offer offers 
+
+gave give gives 
+asked ask asks 
+
+gave give gives 
+helped help helps 
+
+gave asked refused 
+gives asks refuses 
+
+gave helped continued 
+give help continue 
+
+gave helped tried 
+gives helps tries 
+
+singer songwriter vocalist 
+singers songwriters vocalists 
+
+singer musician songwriter 
+singers musicians songwriters 
+
+singer actress comedian 
+singers actresses comedians 
+
+singer dancer performer 
+singers dancers performers 
+
+singer artist musician 
+singers artists musicians 
+
+singer pianist organist 
+singers pianists organists 
+
+club association organization 
+clubs associations organizations 
+
+political politics politically 
+cultural culture culturally 
+
+political social cultural 
+politically socially culturally 
+
+political cultural historical 
+politically culturally historically 
+
+led helped tried 
+leads helps tries 
+
+animals birds rodents 
+animal bird rodent 
+
+animals humans non-humans 
+animal human non-human 
+
+actress comedian entertainer 
+actresses comedians entertainers 
+
+actress songwriter vocalist 
+actresses songwriters vocalists 
+
+mother mother's mothers 
+brother brother's brothers 
+
+mother daughter brother 
+mother-in-law daughter-in-law brother-in-law 
+
+mother grandfather grandmother 
+mother's grandfather's grandmother's 
+
+mother brother sister 
+mothers brothers sisters 
+
+mother brother grandfather 
+mother's brother's grandfather's 
+
+version translation transcription 
+versions translations transcriptions 
+
+produced produce produces 
+distributed distribute distributes 
+
+produced produce producing 
+reproduced reproduce reproducing 
+
+produced producing productive 
+reproduced reproducing reproductive 
+
+produced distributed attributed 
+produces distributes attributes 
+
+comes come coming 
+goes go going 
+
+comes goes gets 
+come go get 
+
+comes goes enters 
+coming going entering 
+
+comes takes gives 
+come take give 
+
+wanted decided tried 
+wants decides tries 
+
+wanted tried failed 
+wants tries fails 
+
+wanted want wants 
+knew know knows 
+
+wanted asked agreed 
+wants asks agrees 
+
+wanted agreed agreement 
+encouraged cooperated cooperation 
+
+wanted told asked 
+wants tells asks 
+
+attack capture recapture 
+attacked captured recaptured 
+
+china taiwan indonesia 
+chinese taiwanese indonesian 
+
+china china's qing 
+korea korea's joseon 
+
+china korea taiwan 
+chinese korean taiwanese 
+
+china vietnam indochina 
+chinese vietnamese indochinese 
+
+canada canadian canadian-american 
+britain british british-american 
+
+canada britain scotland 
+canadian british scottish 
+
+hockey nhl defenseman 
+baseball mlb baseman 
+
+find try decide 
+finds tries decides 
+
+director directors directorial 
+editor editors editorial 
+
+director producer songwriter 
+directors producers songwriters 
+
+director writer novelist 
+directors writers novelists 
+
+director editor translator 
+directors editors translators 
+
+director advisor supervisor 
+directors advisors supervisors 
+
+director manager assistant 
+directors managers assistants 
+
+appeared appears appearing 
+disappeared disappears disappearing 
+
+appeared appear appearing 
+disappeared disappear disappearing 
+
+appeared appearance appearing 
+disappeared disappearance disappearing 
+
+appeared appearance appearances 
+performed performance performances 
+
+leader unionist abolitionist 
+leaders unionists abolitionists 
+
+storm cyclone typhoon 
+storms cyclones typhoons 
+
+sent brought kept 
+send bring keep 
+
+sent taken kept 
+sending taking keeping 
+
+chicago boston philadelphia 
+illinois massachusetts pennsylvania 
+
+chicago boston philadelphia 
+blackhawks bruins flyers 
+
+chicago detroit tampa 
+illinois michigan florida 
+
+chicago philadelphia detroit 
+illinois pennsylvania michigan 
+
+chicago philadelphia atlanta 
+blackhawks flyers thrashers 
+
+chicago angeles atlanta 
+illinois california georgia 
+
+chicago dallas tampa 
+illinois texas florida 
+
+chicago baltimore milwaukee 
+illinois maryland wisconsin 
+
+run operate generate 
+runs operates generates 
+
+joined join joins 
+entered enter enters 
+
+joined entered stayed 
+join enter stay 
+
+computer calculator insulator 
+computers calculators insulators 
+
+computer device router 
+computers devices routers 
+
+give gives giving 
+receive receives receiving 
+
+give provide offer 
+gives provides offers 
+
+give bring send 
+gives brings sends 
+
+give receive earn 
+gives receives earns 
+
+give tell understand 
+gives tells understands 
+
+hurricane cyclone typhoon 
+hurricanes cyclones typhoons 
+
+election re-election reelection 
+elected re-elected reelected 
+
+election presidential reelection 
+elected president reelected 
+
+africa asia eurasia 
+african asian eurasian 
+
+africa african africans 
+asia asian asians 
+
+daughter brother sister 
+daughter-in-law brother-in-law sister-in-law 
+
+say says saying 
+tell tells telling 
+
+say believe tell 
+says believes tells 
+
+final semi-final semifinal 
+finals semi-finals semifinals 
+
+italian croatian albanian 
+italians croats albanians 
+
+italian spanish portuguese 
+italy spain portugal 
+
+cancer pancreatic esophageal 
+cancers pancreas esophagus 
+
+cancer disease infection 
+cancers diseases infections 
+
+need needed needs 
+want wanted wants 
+
+greek greece greeks 
+egyptian egypt egyptians 
+
+greek greece greeks 
+babylonian babylonia babylonians 
+
+greek persian iranian 
+greeks persians iranians 
+
+greek egyptian sumerian 
+greeks egyptians sumerians 
+
+greek egyptian mesopotamian 
+greece egypt mesopotamia 
+
+greek babylonian sumerian 
+greeks babylonians sumerians 
+
+road highway motorway 
+roads highways motorways 
+
+road bridge motorway 
+roads bridges motorways 
+
+social cultural historical 
+socially culturally historically 
+
+governor governors governor's 
+mayor mayors mayor's 
+
+performed perform performing 
+sung sing singing 
+
+reached reaching reaches 
+entered entering enters 
+
+reached reach reaches 
+entered enter enters 
+
+reached entered stayed 
+reach enter stay 
+
+reached entered arrived 
+reaches enters arrives 
+
+reached achieved attained 
+reach achieve attain 
+
+reached stayed arrived 
+reach stay arrive 
+
+research biology anthropology 
+scientists biologists anthropologists 
+
+car vehicle truck 
+cars vehicles trucks 
+
+brother brothers sons 
+sister sisters daughters 
+
+brother grandfather grandmother 
+brother's grandfather's grandmother's 
+
+spanish portuguese galician 
+spain portugal galicia 
+
+spanish dutch danish 
+spain netherlands denmark 
+
+support provide operate 
+supports provides operates 
+
+helped tried failed 
+helps tries fails 
+
+helped decided tried 
+helps decides tries 
+
+soviet russian moscow 
+czechoslovakia czech prague 
+
+disease illness infection 
+diseases illnesses infections 
+
+robert richard edward 
+robert's richard's edward's 
+
+decided tried persuaded 
+decides tries persuades 
+
+decided agreed disagreed 
+decide agree disagree 
+
+decided asked refused 
+decides asks refuses 
+
+decided decide decides 
+tried try tries 
+
+decided told asked 
+decides tells asks 
+
+decided refused persuaded 
+decides refuses persuades 
+
+look looks looked 
+feel feels felt 
+
+added add adding 
+removed remove removing 
+
+allowed want wants 
+required need needs 
+
+russian russia moscow 
+polish poland warsaw 
+
+russian russia russians 
+hungarian hungary hungarians 
+
+russian russia russians 
+romanian romania romanians 
+
+russian ukrainian albanian 
+russians ukrainians albanians 
+
+russian belarusian latvian 
+russia belarus latvia 
+
+russian latvian moldovan 
+russia latvia moldova 
+
+russian polish lithuanian 
+russia poland lithuania 
+
+russian polish czech 
+moscow warsaw prague 
+
+russian bulgarian macedonian 
+russia bulgaria macedonia 
+
+russian lithuanian latvian 
+russia lithuania latvia 
+
+russian hungarian bulgarian 
+russia hungary bulgaria 
+
+russian hungarian romanian 
+russians hungarians romanians 
+
+russian serbian bulgarian 
+russia serbia bulgaria 
+
+russian romanian albanian 
+russians romanians albanians 
+
+smaller size smallest 
+taller height tallest 
+
+smaller shorter taller 
+size length height 
+
+takes gives puts 
+taking giving putting 
+
+takes gets becomes 
+taking getting becoming 
+
+going coming entering 
+goes comes enters 
+
+going getting finding 
+goes gets finds 
+
+chemical chemistry chemist 
+biochemical biochemistry biochemist 
+
+stop stopped stopping 
+prevent prevented preventing 
+
+stop keep protect 
+stops keeps protects 
+
+mexico argentina bolivia 
+mexican argentine bolivian 
+
+mexico brazil argentina 
+mexican brazilian argentine 
+
+mexico venezuela bolivia 
+mexican venezuelan bolivian 
+
+mexico colombia bolivia 
+mexican colombian bolivian 
+
+keep protect prevent 
+keeping protecting preventing 
+
+keep stay reach 
+keeps stays reaches 
+
+pakistan pakistan's pakistanis 
+afghanistan afghanistan's afghans 
+
+pakistan pakistani pakistanis 
+afghanistan afghan afghans 
+
+association associations association's 
+organization organizations organization's 
+
+association organization organisation 
+associations organizations organisations 
+
+association federation confederation 
+associations federations confederations 
+
+continued remained stayed 
+continue remain stay 
+
+discovered discover discovers 
+recovered recover recovers 
+
+discovered discovery discovering 
+recovered recovery recovering 
+
+discovered discovers discovering 
+recovered recovers recovering 
+
+longer higher faster 
+longest highest fastest 
+
+texas illinois massachusetts 
+dallas chicago boston 
+
+texas georgia louisiana 
+dallas atlanta orleans 
+
+artist musician songwriter 
+artists musicians songwriters 
+
+artist painter sculptor 
+artists painters sculptors 
+
+artist songwriter vocalist 
+artists songwriters vocalists 
+
+artist comedian entertainer 
+artists comedians entertainers 
+
+artist performer entertainer 
+artists performers entertainers 
+
+artist photographer geographer 
+artists photographers geographers 
+
+artist sculptor filmmaker 
+artists sculptors filmmakers 
+
+artist filmmaker animator 
+artists filmmakers animators 
+
+soldiers soldier soldier's 
+officers officer officer's 
+
+valley creek canyon 
+valleys creeks canyons 
+
+tried refused persuaded 
+tries refuses persuades 
+
+tried asked refused 
+tries asks refuses 
+
+catholic anglican lutheran 
+catholics anglicans lutherans 
+
+told asked refused 
+tells asks refuses 
+
+described describe describes 
+identified identify identifies 
+
+described referred classified 
+describes refers classifies 
+
+russia poland romania 
+moscow warsaw bucharest 
+
+russia russians russia's 
+austria austrians austria's 
+
+russia austria hungary 
+russians austrians hungarians 
+
+russia austria hungary 
+petersburg vienna budapest 
+
+culture cultural culturally 
+politics political politically 
+
+temperature density elevation 
+temperatures densities elevations 
+
+asia eurasia australasia 
+asian eurasian australasian 
+
+ireland scotland denmark 
+irish scottish danish 
+
+ireland irish ireland's 
+scotland scottish scotland's 
+
+ireland irish ireland's 
+britain british britain's 
+
+ireland wales scotland 
+irish welsh scottish 
+
+traditional conventional intentional 
+traditionally conventionally intentionally 
+
+gets receives sends 
+getting receiving sending 
+
+gets gives puts 
+getting giving putting 
+
+your yourself yours 
+our ourselves ours 
+
+brought bring brings 
+introduced introduce introduces 
+
+brought bringing brings 
+introduced introducing introduces 
+
+contains contain contained 
+maintains maintain maintained 
+
+contains containing contained 
+maintains maintaining maintained 
+
+contains maintains retains 
+contained maintained retained 
+
+contains maintains retains 
+containing maintaining retaining 
+
+contains provides operates 
+contain provide operate 
+
+african african-american abolitionist 
+africans african-americans abolitionists 
+
+production produce produces 
+introduction introduce introduces 
+
+production produces producing 
+introduction introduces introducing 
+
+professor teacher educator 
+professors teachers educators 
+
+professor scholar sociologist 
+professors scholars sociologists 
+
+met saw looked 
+meets sees looks 
+
+create produce reproduce 
+creating producing reproducing 
+
+create build bring 
+creates builds brings 
+
+producer songwriter vocalist 
+producers songwriters vocalists 
+
+producer comedian entertainer 
+producers comedians entertainers 
+
+sweden norway denmark 
+swedish norwegian danish 
+
+sweden norway hungary 
+stockholm oslo budapest 
+
+sweden denmark hungary 
+swedish danish hungarian 
+
+sweden finland norway 
+swedish finnish norwegian 
+
+biggest strongest fastest 
+bigger stronger faster 
+
+damage deaths casualties 
+damaged killed wounded 
+
+00.00 000.00 0000.00 
+00.000 000.000 0000.000 
+
+korea taiwan indonesia 
+korean taiwanese indonesian 
+
+novel novels novelist 
+poem poems poet 
+
+happened occurred existed 
+happen occur exist 
+
+happened happen happens 
+occurred occur occurs 
+
+asked refused persuaded 
+asks refuses persuades 
+
+doctor physician psychologist 
+doctors physicians psychologists 
+
+doctor psychiatrist dentist 
+doctors psychiatrists dentists 
+
+spent spend spends 
+stayed stay stays 
+
+spent stayed arrived 
+spends stays arrives 
+
+organization organizations reorganization 
+organisation organisations reorganisation 
+
+organization organizations organizational 
+institution institutions institutional 
+
+organization organized organised 
+reorganization reorganized reorganised 
+
+organization agency organisation 
+organizations agencies organisations 
+
+organization institution establishment 
+organizations institutions establishments 
+
+organization federation confederation 
+organizations federations confederations 
+
+scotland denmark hungary 
+scottish danish hungarian 
+
+destroyed captured recaptured 
+destroy capture recapture 
+
+dutch netherlands amsterdam 
+belgian belgium brussels 
+
+dutch belgian austrian 
+netherlands belgium austria 
+
+dutch danish croatian 
+netherlands denmark croatia 
+
+dutch norwegian danish 
+netherlands norway denmark 
+
+dutch portuguese galician 
+netherlands portugal galicia 
+
+korean koreans korea's 
+singaporean singaporeans singapore's 
+
+ship warship battleship 
+ships warships battleships 
+
+scientists researchers psychologists 
+scientist researcher psychologist 
+
+scientists physicists sociologists 
+scientist physicist sociologist 
+
+scientists biologists geologists 
+scientist biologist geologist 
+
+scientists scientist scientifically 
+biologists biologist biologically 
+
+scientists mathematicians physicists 
+scientist mathematician physicist 
+
+scientists geologists paleontologists 
+scientist geologist paleontologist 
+
+scientists psychologists sociologists 
+scientist psychologist sociologist 
+
+scientists anthropologists sociologists 
+scientist anthropologist sociologist 
+
+scientists paleontologists anthropologists 
+scientist paleontologist anthropologist 
+
+scientists astronomers physicists 
+scientist astronomer physicist 
+
+scientists chemists physicists 
+scientist chemist physicist 
+
+scientists economists analysts 
+scientist economist analyst 
+
+scientists sociologists educators 
+scientist sociologist educator 
+
+scientists archaeologists geologists 
+scientist archaeologist geologist 
+
+scientists philosophers thinkers 
+scientist philosopher thinker 
+
+host hosted hosts 
+co-host co-hosted co-hosts 
+
+produce producing productive 
+reproduce reproducing reproductive 
+
+composer musician songwriter 
+composers musicians songwriters 
+
+composer pianist violinist 
+composers pianists violinists 
+
+composer pianist accompanist 
+orchestral piano accompaniment 
+
+composer violinist cellist 
+composers violinists cellists 
+
+composer organist violinist 
+composers organists violinists 
+
+swedish norwegian hungarian 
+swedes norwegians hungarians 
+
+piano pianist pianists 
+violin violinist violinists 
+
+piano clarinet saxophone 
+pianist clarinetist saxophonist 
+
+piano guitar saxophone 
+pianist guitarist saxophonist 
+
+irish scottish swiss 
+ireland's scotland's switzerland's 
+
+egypt egyptian egyptians 
+greece greek greeks 
+
+egypt egyptian egyptians 
+babylonia babylonian babylonians 
+
+egypt mesopotamia babylonia 
+egyptian mesopotamian babylonian 
+
+egypt greece macedonia 
+egyptian greek macedonian 
+
+egypt lebanon tunisia 
+egyptian lebanese tunisian 
+
+austria austrian austrians 
+hungary hungarian hungarians 
+
+austria austrian vienna 
+switzerland swiss zurich 
+
+austria hungary serbia 
+austrian hungarian serbian 
+
+musician songwriter vocalist 
+musicians songwriters vocalists 
+
+musician pianist violinist 
+musicians pianists violinists 
+
+musician guitarist vocalist 
+musicians guitarists vocalists 
+
+musician violinist cellist 
+musicians violinists cellists 
+
+musician dancer performer 
+musicians dancers performers 
+
+musician painter sculptor 
+musicians painters sculptors 
+
+boston philadelphia detroit 
+massachusetts pennsylvania michigan 
+
+boston philadelphia atlanta 
+bruins flyers thrashers 
+
+boston detroit tampa 
+massachusetts michigan florida 
+
+appear appears appearing 
+disappear disappears disappearing 
+
+appear appearance appearing 
+disappear disappearance disappearing 
+
+honor honored honors 
+honour honoured honours 
+
+flight airplane aeroplane 
+flights airplanes aeroplanes 
+
+brothers brother's brother-in-law 
+mothers mother's mother-in-law 
+
+relationship friendship partnership 
+relationships friendships partnerships 
+
+pennsylvania massachusetts michigan 
+philadelphia boston detroit 
+
+cultural historical geographical 
+culturally historically geographically 
+
+cultural geographical geological 
+culturally geographically geologically 
+
+poland lithuania latvia 
+polish lithuanian latvian 
+
+poland ukraine belarus 
+polish ukrainian belarusian 
+
+poland hungary serbia 
+polish hungarian serbian 
+
+poland slovakia czechoslovakia 
+polish slovak czechoslovak 
+
+poland belarus lithuania 
+polish belarusian lithuanian 
+
+poland polish warsaw 
+croatia croatian zagreb 
+
+poland romania bulgaria 
+polish romanian bulgarian 
+
+poland bulgaria belarus 
+polish bulgarian belarusian 
+
+poland croatia slovenia 
+polish croatian slovenian 
+
+poland latvia moldova 
+polish latvian moldovan 
+
+stay stayed stays 
+reach reached reaches 
+
+stay continue remain 
+stayed continued remained 
+
+stay reach enter 
+stayed reached entered 
+
+historical geographical geological 
+historically geographically geologically 
+
+historical geographical economical 
+historians geographers economists 
+
+historical biographical autobiographical 
+histories biography autobiography 
+
+guitar drums keyboards 
+guitarist drummer keyboardist 
+
+poet novelist playwright 
+poets novelists playwrights 
+
+poet playwright filmmaker 
+poets playwrights filmmakers 
+
+poet poetry poets 
+scholar scholarly scholars 
+
+poet scholar sociologist 
+poets scholars sociologists 
+
+poet philosopher thinker 
+poets philosophers thinkers 
+
+poet painter sculptor 
+poets painters sculptors 
+
+poet linguist anthropologist 
+literature linguistics anthropology 
+
+protect protects protecting 
+prevent prevents preventing 
+
+manager assistant consultant 
+managers assistants consultants 
+
+interest popularity importance 
+interested popular important 
+
+teacher teaching teachers 
+preacher preaching preachers 
+
+teacher educator sociologist 
+teachers educators sociologists 
+
+teacher preacher reformer 
+teachers preachers reformers 
+
+southeast northeast north-east 
+southeastern northeastern north-eastern 
+
+southeast southwest northeast 
+southeastern southwestern northeastern 
+
+southeast northwest southwest 
+southeastern northwestern southwestern 
+
+southeast southeastern south-southeast 
+southwest southwestern south-southwest 
+
+southeast north-east south-east 
+southeastern north-eastern south-eastern 
+
+reach reaching reaches 
+enter entering enters 
+
+painting painter painters 
+sculpture sculptor sculptors 
+
+entered stayed arrived 
+enter stay arrive 
+
+northwest southwest northeast 
+northwestern southwestern northeastern 
+
+northwest northeast north-east 
+northwestern northeastern north-eastern 
+
+northwest northwestward north-northwest 
+northeast northeastward north-northeast 
+
+northwest northwestern northwestward 
+northeast northeastern northeastward 
+
+northwest south-east south-west 
+northwestern south-eastern south-western 
+
+northwest north-west south-west 
+northwestern north-western south-western 
+
+northwest north-east south-east 
+northwestern north-eastern south-eastern 
+
+brazil argentina chile 
+brazilian argentine chilean 
+
+brazil portugal galicia 
+brazilian portuguese galician 
+
+brazil colombia bolivia 
+brazilian colombian bolivian 
+
+brazil chile bolivia 
+brazilian chilean bolivian 
+
+brazil venezuela bolivia 
+brazilian venezuelan bolivian 
+
+ohio maryland wisconsin 
+cleveland baltimore milwaukee 
+
+plane airplane aeroplane 
+planes airplanes aeroplanes 
+
+plane helicopter aeroplane 
+planes helicopters aeroplanes 
+
+appears appearance appearing 
+disappears disappearance disappearing 
+
+highway motorway freeway 
+highways motorways freeways 
+
+construction constructed construct 
+reconstruction reconstructed reconstruct 
+
+southwest northeast north-east 
+southwestern northeastern north-eastern 
+
+southwest south-east south-west 
+southwestern south-eastern south-western 
+
+southwest north-east south-east 
+southwestern north-eastern south-eastern 
+
+southwest north-west south-west 
+southwestern north-western south-western 
+
+refers refer referring 
+prefers prefer preferring 
+
+refers reference references 
+prefers preference preferences 
+
+exist existed exists 
+occur occurred occurs 
+
+provide operate generate 
+provides operates generates 
+
+describe explain predict 
+descriptions explanations predictions 
+
+physics chemistry biology 
+physicists chemists biologists 
+
+physics chemistry biochemistry 
+physicist chemist biochemist 
+
+physics mathematics astronomy 
+physicists mathematicians astronomers 
+
+physics mathematics astronomy 
+physicist mathematician astronomer 
+
+physics astronomy astrophysics 
+physicist astronomer astrophysicist 
+
+physics biology genetics 
+physicist biologist geneticist 
+
+physics physicist physicists 
+chemistry chemist chemists 
+
+physics physicist physicists 
+mathematics mathematician mathematicians 
+
+physics physicist physicists 
+sociology sociologist sociologists 
+
+physics physiology biochemistry 
+physicist physiologist biochemist 
+
+physics sociology anthropology 
+physicists sociologists anthropologists 
+
+physics sociology anthropology 
+physicist sociologist anthropologist 
+
+physics biochemistry microbiology 
+physicist biochemist microbiologist 
+
+carry bring send 
+carries brings sends 
+
+politics economics sociology 
+politicians economists sociologists 
+
+northeast north-east south-east 
+northeastern north-eastern south-eastern 
+
+northeast south-east south-west 
+northeastern south-eastern south-western 
+
+northeast north-west south-west 
+northeastern north-western south-western 
+
+operating operate operates 
+generating generate generates 
+
+operating generating accelerating 
+operate generate accelerate 
+
+represented representing representation 
+presented presenting presentation 
+
+represented represents representing 
+presented presents presenting 
+
+represented representation representations 
+presented presentation presentations 
+
+ontario quebec alberta 
+toronto montreal edmonton 
+
+singing sing sings 
+performing perform performs 
+
+agreed agreement agreements 
+disagreed disagreement disagreements 
+
+agreed agree agreements 
+disagreed disagree disagreements 
+
+protection protecting protective 
+detection detecting detective 
+
+protection protects protecting 
+detection detects detecting 
+
+jews muslims hindus 
+judaism islam hinduism 
+
+memorial cemetery basilica 
+memorials cemeteries basilicas 
+
+engineering engineers engineered 
+pioneering pioneers pioneered 
+
+engineering engineer engineered 
+pioneering pioneer pioneered 
+
+engineering mathematics biology 
+engineer mathematician biologist 
+
+increased increase increasing 
+decreased decrease decreasing 
+
+increased increasing increases 
+decreased decreasing decreases 
+
+increased reduced improved 
+increase reduce improve 
+
+belgian belgium belgians 
+austrian austria austrians 
+
+belgian austrian hungarian 
+belgians austrians hungarians 
+
+belgian austrian hungarian 
+belgium austria hungary 
+
+belgian romanian albanian 
+belgians romanians albanians 
+
+lawyer journalist activist 
+lawyers journalists activists 
+
+murder rape kidnapping 
+murdered raped kidnapped 
+
+increase increasing increases 
+decrease decreasing decreases 
+
+journalist reporter commentator 
+journalists reporters commentators 
+
+journalist activist educator 
+journalists activists educators 
+
+journalist commentator broadcaster 
+journalists commentators broadcasters 
+
+journalist sociologist physiologist 
+journalism sociology physiology 
+
+defined definite definitely 
+undefined indefinite indefinitely 
+
+mammals reptiles pterosaurs 
+mammal reptile pterosaur 
+
+philosophy theology sociology 
+philosopher theologian sociologist 
+
+philosophy philosopher philosophers 
+theology theologian theologians 
+
+philosophy philosopher philosophers 
+economics economist economists 
+
+philosophy philosopher philosophers 
+sociology sociologist sociologists 
+
+philosophy philosopher philosophers 
+mathematics mathematician mathematicians 
+
+philosophy economics sociology 
+philosopher economist sociologist 
+
+philosophy economics sociology 
+philosophers economists sociologists 
+
+philosophy sociology anthropology 
+philosopher sociologist anthropologist 
+
+philosophy sociology anthropology 
+philosophers sociologists anthropologists 
+
+philosophy mathematics astronomy 
+philosopher mathematician astronomer 
+
+philosophy mathematics astronomy 
+philosophers mathematicians astronomers 
+
+philadelphia toronto montreal 
+flyers leafs canadiens 
+
+communist socialist nationalist 
+communists socialists nationalists 
+
+communist socialist nationalist 
+communism socialism nationalism 
+
+communist communism communists 
+socialist socialism socialists 
+
+communist communism communists 
+nationalist nationalism nationalists 
+
+communist nationalist unionist 
+communists nationalists unionists 
+
+communist capitalist fundamentalist 
+communists capitalists fundamentalists 
+
+communist capitalist environmentalist 
+communism capitalism environmentalism 
+
+singapore indonesia malaysia 
+singaporeans indonesians malays 
+
+austrian hungarian romanian 
+austrians hungarians romanians 
+
+lasted occurred existed 
+lasts occurs exists 
+
+creation establishment accomplishment 
+creations establishments accomplishments 
+
+turkey armenia belarus 
+turkish armenian belarusian 
+
+turkey lebanon tunisia 
+turkish lebanese tunisian 
+
+turkey serbia bulgaria 
+turkish serbian bulgarian 
+
+turkey hungary serbia 
+turkish hungarian serbian 
+
+turkey azerbaijan armenia 
+turkish azerbaijani armenian 
+
+gained achieved attained 
+gain achieve attain 
+
+gained obtained attained 
+gain obtain attain 
+
+meters metres metre 
+centimeters centimetres centimetre 
+
+meters meter metre 
+centimeters centimeter centimetre 
+
+meters kilometers millimeters 
+meter kilometer millimeter 
+
+meters centimeters millimeters 
+metres centimetres millimetres 
+
+meters centimeters millimeters 
+meter centimeter millimeter 
+
+iran iranian iranians 
+armenia armenian armenians 
+
+iran azerbaijan armenia 
+iranians azerbaijanis armenians 
+
+iran armenia albania 
+iranians armenians albanians 
+
+comedian presenter broadcaster 
+comedians presenters broadcasters 
+
+organized organised organize 
+reorganized reorganised reorganize 
+
+chemistry biochemistry microbiology 
+chemist biochemist microbiologist 
+
+chemistry biology genetics 
+chemist biologist geneticist 
+
+chemistry biology geology 
+chemists biologists geologists 
+
+chemistry chemist chemists 
+biology biologist biologists 
+
+chemistry chemist chemists 
+economics economist economists 
+
+chemistry microbiology neurology 
+chemist microbiologist neurologist 
+
+chemistry physiology biochemistry 
+chemist physiologist biochemist 
+
+chemistry mathematics astronomy 
+chemist mathematician astronomer 
+
+chemistry geology paleontology 
+chemist geologist paleontologist 
+
+chemistry genetics ethology 
+chemist geneticist ornithologist 
+
+chemistry economics genetics 
+chemist economist geneticist 
+
+chemistry economics biology 
+chemists economists biologists 
+
+chemistry astronomy astrophysics 
+chemist astronomer astrophysicist 
+
+perform performing performs 
+sing singing sings 
+
+accident accidents accidental 
+incident incidents incidental 
+
+mathematics astronomy astrophysics 
+mathematician astronomer astrophysicist 
+
+mathematics biology genetics 
+mathematician biologist geneticist 
+
+mathematics economics sociology 
+mathematician economist sociologist 
+
+mathematics sociology anthropology 
+mathematician sociologist anthropologist 
+
+conservative unionist abolitionist 
+conservatives unionists abolitionists 
+
+agreement agree agreements 
+disagreement disagree disagreements 
+
+agreement alliance faction 
+agreements alliances factions 
+
+egyptian babylonian sumerian 
+egyptians babylonians sumerians 
+
+finland norway hungary 
+helsinki oslo budapest 
+
+finland norway denmark 
+finnish norwegian danish 
+
+finland denmark hungary 
+finnish danish hungarian 
+
+finland ukraine bulgaria 
+finnish ukrainian bulgarian 
+
+finland hungary serbia 
+finnish hungarian serbian 
+
+editor translator linguist 
+editors translators linguists 
+
+editor contributor distributor 
+editors contributors distributors 
+
+conductor conductors conducts 
+organist organists organises 
+
+conductor pianist violinist 
+conductors pianists violinists 
+
+conductor violinist cellist 
+conductors violinists cellists 
+
+discovery discover discovers 
+recovery recover recovers 
+
+belgium norway hungary 
+belgians norwegians hungarians 
+
+metres kilometres centimetres 
+metre kilometre centimetre 
+
+metres kilograms centimetres 
+metre kilogram centimetre 
+
+settled emigrated migrated 
+settle emigrate migrate 
+
+electrons protons photons 
+electron proton photon 
+
+muslims christians catholics 
+islam christianity catholicism 
+
+muslims hindus buddhists 
+islam hinduism buddhism 
+
+muslims buddhists jains 
+islam buddhism jainism 
+
+electrical mechanical automation 
+electrically mechanically automatically 
+
+norway denmark hungary 
+norwegian danish hungarian 
+
+norway iceland estonia 
+norwegian icelandic estonian 
+
+norway norwegian norwegians 
+hungary hungarian hungarians 
+
+norway estonia latvia 
+norwegian estonian latvian 
+
+norway hungary bulgaria 
+norwegian hungarian bulgarian 
+
+owner landowner planter 
+owners landowners planters 
+
+sequel soundtrack compilation 
+sequels soundtracks compilations 
+
+argentina chile bolivia 
+argentine chilean bolivian 
+
+argentina uruguay bolivia 
+argentine uruguayan bolivian 
+
+argentina colombia bolivia 
+argentine colombian bolivian 
+
+argentina ecuador venezuela 
+argentine ecuadorian venezuelan 
+
+argentina venezuela bolivia 
+argentine venezuelan bolivian 
+
+guitarist songwriter vocalist 
+guitarists songwriters vocalists 
+
+cambridge oxford leicester 
+cambridgeshire oxfordshire leicestershire 
+
+fishing farming mining 
+fishermen farmers miners 
+
+novels poems essays 
+novelist poet essayist 
+
+selling best-selling bestselling 
+seller best-seller bestseller 
+
+persian iranian pakistani 
+persians iranians pakistanis 
+
+persian babylonian sumerian 
+persians babylonians sumerians 
+
+oxford leicester northampton 
+oxfordshire leicestershire northamptonshire 
+
+vehicles motorcycles bicycles 
+vehicle motorcycle bicycle 
+
+distribution distributions distributes 
+contribution contributions contributes 
+
+distribution distributes distributing 
+contribution contributes contributing 
+
+distribution distributor distributors 
+contribution contributor contributors 
+
+distribution distributors distributing 
+contribution contributors contributing 
+
+christianity buddhism hinduism 
+christians buddhists hindus 
+
+forward outward inward 
+forwards outwards inwards 
+
+painter sculptor filmmaker 
+painters sculptors filmmakers 
+
+painter architect designer 
+painters architects designers 
+
+painter photographer geographer 
+painters photographers geographers 
+
+brazilian romanian albanian 
+brazilians romanians albanians 
+
+denmark hungary serbia 
+danish hungarian serbian 
+
+denmark estonia latvia 
+danish estonian latvian 
+
+mentioned questioned functioned 
+mentioning questioning functioning 
+
+economics sociology anthropology 
+economist sociologist anthropologist 
+
+economics sociology anthropology 
+economists sociologists anthropologists 
+
+economics economist economists 
+sociology sociologist sociologists 
+
+economics genetics ethology 
+economist geneticist ornithologist 
+
+economics journalism sociology 
+economist journalist sociologist 
+
+merged merge merges 
+emerged emerge emerges 
+
+merged merging merges 
+emerged emerging emerges 
+
+assistant consultant accountant 
+assistants consultants accountants 
+
+organizations associations corporations 
+organization's association's corporation's 
+
+organizations institutions constitutions 
+organizational institutional constitutional 
+
+000.0 000.000 000.00 
+0000.0 0000.000 0000.00 
+
+sisters daughters husbands 
+sister's daughter's husband's 
+
+sisters sister's sister-in-law 
+daughters daughter's daughter-in-law 
+
+azerbaijan azerbaijani azerbaijanis 
+armenia armenian armenians 
+
+azerbaijan azerbaijani azerbaijanis 
+ukraine ukrainian ukrainians 
+
+azerbaijan armenia albania 
+azerbaijanis armenians albanians 
+
+azerbaijan armenia albania 
+azerbaijani armenian albanian 
+
+azerbaijan ukraine croatia 
+azerbaijani ukrainian croatian 
+
+azerbaijan serbia macedonia 
+azerbaijani serbian macedonian 
+
+reserve reserves reserved 
+preserve preserves preserved 
+
+reserve preserve conserve 
+reservation preservation conservation 
+
+reserve preserve conserve 
+reserved preserved conserved 
+
+succeeded succeeding succeeds 
+proceeded proceeding proceeds 
+
+succeeded proceeded exceeded 
+succeeding proceeding exceeding 
+
+succeeded proceeded exceeded 
+succeeds proceeds exceeds 
+
+taiwan indonesia cambodia 
+taiwanese indonesian cambodian 
+
+represents representing representations 
+presents presenting presentations 
+
+definition classification specification 
+definitions classifications specifications 
+
+norwegian hungarian romanian 
+norwegians hungarians romanians 
+
+engineer scientist physicist 
+engineers scientists physicists 
+
+engineer architect designer 
+engineers architects designers 
+
+engineer designer entrepreneur 
+engineers designers entrepreneurs 
+
+engineer technician contractor 
+engineers technicians contractors 
+
+chile colombia bolivia 
+chilean colombian bolivian 
+
+chile uruguay bolivia 
+chilean uruguayan bolivian 
+
+chile venezuela bolivia 
+chilean venezuelan bolivian 
+
+historian sociologist anthropologist 
+historians sociologists anthropologists 
+
+historian scholar sociologist 
+historians scholars sociologists 
+
+historian anthropologist paleontologist 
+historians anthropologists paleontologists 
+
+historian archaeologist geologist 
+historians archaeologists geologists 
+
+historian economist sociologist 
+historians economists sociologists 
+
+kilometres kilometre kilometer 
+centimetres centimetre centimeter 
+
+kilometres kilometers kilometer 
+millimetres millimeters millimeter 
+
+kilometres kilometers kilometer 
+centimetres centimeters centimeter 
+
+kilometres centimetres millimetres 
+kilometers centimeters millimeters 
+
+kilometres centimetres millimetres 
+kilometer centimeter millimeter 
+
+socialist socialism socialists 
+nationalist nationalism nationalists 
+
+socialist socialism socialists 
+capitalist capitalism capitalists 
+
+socialist nationalist unionist 
+socialists nationalists unionists 
+
+socialist capitalist fundamentalist 
+socialists capitalists fundamentalists 
+
+socialist capitalist environmentalist 
+socialism capitalism environmentalism 
+
+biology genetics ethology 
+biologist geneticist ornithologist 
+
+biology biochemistry microbiology 
+biologist biochemist microbiologist 
+
+biology microbiology neurology 
+biologist microbiologist neurologist 
+
+biology biological biologist 
+physiology physiological physiologist 
+
+biology biological biologically 
+geology geological geologically 
+
+biology biological biologist 
+zoology zoological zoologist 
+
+biology biological biologists 
+psychology psychological psychologists 
+
+biology physiology neurology 
+biological physiological neurological 
+
+biology physiology biochemistry 
+biologist physiologist biochemist 
+
+biology biologist biologists 
+geology geologist geologists 
+
+biology biologist biologists 
+psychology psychologist psychologists 
+
+biology biologist biologists 
+anthropology anthropologist anthropologists 
+
+biology biologist biologists 
+paleontology paleontologist paleontologists 
+
+biology biologists biologically 
+geology geologists geologically 
+
+biology ecology zoology 
+biological ecological zoological 
+
+biology ethology neurology 
+biologist ornithologist neurologist 
+
+biology geology archaeology 
+biological geological archaeological 
+
+biology geology paleontology 
+biologist geologist paleontologist 
+
+biology geology palaeontology 
+biologists geologists palaeontologists 
+
+biology zoology ethology 
+biologist zoologist ornithologist 
+
+biology psychology neurology 
+biological psychological neurological 
+
+biology psychology sociology 
+biologist psychologist sociologist 
+
+biology psychology sociology 
+biologists psychologists sociologists 
+
+biology anthropology ethology 
+biologist anthropologist ornithologist 
+
+biology anthropology archaeology 
+biologists anthropologists archaeologists 
+
+biology researched neurology 
+biologist researcher neurologist 
+
+biology paleontology ethology 
+biologist paleontologist ornithologist 
+
+biology paleontology palaeontology 
+biologists paleontologists palaeontologists 
+
+architect designer entrepreneur 
+architects designers entrepreneurs 
+
+architect sculptor filmmaker 
+architects sculptors filmmakers 
+
+romania bulgaria belarus 
+romanian bulgarian belarusian 
+
+romania romanian romanians 
+hungary hungarian hungarians 
+
+romania romanian romanians 
+albania albanian albanians 
+
+romania romanian romanians 
+ukraine ukrainian ukrainians 
+
+romania romanian romanians 
+croatia croatian croats 
+
+romania hungary serbia 
+romanian hungarian serbian 
+
+romania albania macedonia 
+romanian albanian macedonian 
+
+romania serbia bulgaria 
+romanian serbian bulgarian 
+
+romania ukraine belarus 
+romanian ukrainian belarusian 
+
+romania ukraine hungary 
+romanians ukrainians hungarians 
+
+romania lithuania latvia 
+romanian lithuanian latvian 
+
+romania croatia slovenia 
+romanian croatian slovenian 
+
+romania croatia albania 
+romanians croats albanians 
+
+romania slovenia estonia 
+romanian slovenian estonian 
+
+romania estonia latvia 
+romanian estonian latvian 
+
+romania belarus lithuania 
+romanian belarusian lithuanian 
+
+romania latvia moldova 
+romanian latvian moldovan 
+
+hindu hindus hinduism 
+buddhist buddhists buddhism 
+
+operated operate operative 
+cooperated cooperate cooperative 
+
+celebrated celebrate celebrates 
+commemorated commemorate commemorates 
+
+celebrated celebrating celebrates 
+commemorated commemorating commemorates 
+
+sunday saturday monday 
+sundays saturdays mondays 
+
+sunday monday tuesday 
+sundays mondays tuesdays 
+
+sunday thursday wednesday 
+sundays thursdays wednesdays 
+
+sunday tuesday wednesday 
+sundays tuesdays wednesdays 
+
+sunday friday monday 
+sundays fridays mondays 
+
+armenian armenia armenians 
+albanian albania albanians 
+
+armenian armenia armenians 
+azerbaijani azerbaijan azerbaijanis 
+
+armenian armenia armenians 
+assyrian assyria assyrians 
+
+armenian armenia armenians 
+syrian syria syrians 
+
+armenian albanian macedonian 
+armenia albania macedonia 
+
+armenian serbian bosnian 
+armenia serbia bosnia 
+
+armenian bulgarian macedonian 
+armenia bulgaria macedonia 
+
+armenian ukrainian azerbaijani 
+armenians ukrainians azerbaijanis 
+
+armenian azerbaijani albanian 
+armenians azerbaijanis albanians 
+
+armenian azerbaijani albanian 
+armenia azerbaijan albania 
+
+armenian hungarian romanian 
+armenians hungarians romanians 
+
+armenian assyrian sumerian 
+armenians assyrians sumerians 
+
+armenian syrian assyrian 
+armenians syrians assyrians 
+
+armenian syrian assyrian 
+armenia syria assyria 
+
+statue monument inscription 
+statues monuments inscriptions 
+
+kilometers kilometre kilometer 
+centimeters centimetre centimeter 
+
+kilometers centimeters millimeters 
+kilometer centimeter millimeter 
+
+meter kilometer centimeter 
+metre kilometre centimetre 
+
+applications specifications certifications 
+application specification certification 
+
+dinosaurs dromaeosaurs plesiosaurs 
+dinosaur dromaeosaur plesiosaur 
+
+dinosaurs pterosaurs plesiosaurs 
+dinosaur pterosaur plesiosaur 
+
+dinosaurs sauropods dromaeosaurs 
+dinosaur sauropod dromaeosaur 
+
+dinosaurs ichthyosaurs plesiosaurs 
+dinosaur ichthyosaur plesiosaur 
+
+executed execution executions 
+prosecuted prosecution prosecutions 
+
+executed persecuted prosecuted 
+execution persecution prosecution 
+
+angle triangle rectangle 
+angles triangles rectangles 
+
+containing maintaining retaining 
+contained maintained retained 
+
+ukraine belarus lithuania 
+ukrainian belarusian lithuanian 
+
+ukraine ukrainian ukrainians 
+hungary hungarian hungarians 
+
+ukraine croatia belarus 
+ukrainian croatian belarusian 
+
+ukraine bulgaria belarus 
+ukrainian bulgarian belarusian 
+
+ukraine serbia bulgaria 
+ukrainian serbian bulgarian 
+
+ukraine lithuania latvia 
+ukrainian lithuanian latvian 
+
+ukraine hungary serbia 
+ukrainian hungarian serbian 
+
+intended intends intending 
+tended tends tending 
+
+constitutional constitutions constituted 
+institutional institutions instituted 
+
+constitutional institutional organizational 
+constitutions institutions organizations 
+
+phone telephone microphone 
+phones telephones microphones 
+
+hungary serbia bulgaria 
+hungarian serbian bulgarian 
+
+hungary bulgaria lithuania 
+hungarian bulgarian lithuanian 
+
+hungary croatia slovenia 
+hungarian croatian slovenian 
+
+hungary lithuania latvia 
+hungarian lithuanian latvian 
+
+farmers gardeners planters 
+farmer gardener planter 
+
+farmers landowners planters 
+farmer landowner planter 
+
+philosopher mathematician physicist 
+philosophers mathematicians physicists 
+
+philosopher theologian reformer 
+philosophers theologians reformers 
+
+philosopher sociologist anthropologist 
+philosophers sociologists anthropologists 
+
+philosopher linguist geographer 
+philosophers linguists geographers 
+
+philosopher scholar sociologist 
+philosophers scholars sociologists 
+
+philosopher physicist chemist 
+philosophers physicists chemists 
+
+philosopher economist sociologist 
+philosophers economists sociologists 
+
+converted convert conversion 
+inverted invert inversion 
+
+converted conversion conversely 
+inverted inversion inverse 
+
+shop restaurant supermarket 
+shops restaurants supermarkets 
+
+representing representation representations 
+presenting presentation presentations 
+
+representing presenting implementing 
+representation presentation implementation 
+
+representing presenting implementing 
+representations presentations implementations 
+
+dancer performer entertainer 
+dancers performers entertainers 
+
+designer photographer geographer 
+designers photographers geographers 
+
+psychology psychologist psychologists 
+sociology sociologist sociologists 
+
+psychology psychologist psychologists 
+anthropology anthropologist anthropologists 
+
+psychology psychologist psychologists 
+linguistics linguist linguists 
+
+psychology psychological psychologist 
+neurology neurological neurologist 
+
+psychology sociology anthropology 
+psychologists sociologists anthropologists 
+
+psychology sociology anthropology 
+psychologist sociologist anthropologist 
+
+psychology ethology neurology 
+psychologist ornithologist neurologist 
+
+psychology anthropology archaeology 
+psychologists anthropologists archaeologists 
+
+psychology anthropology ethology 
+psychologist anthropologist ornithologist 
+
+psychology linguistics anthropology 
+psychologists linguists anthropologists 
+
+psychology linguistics anthropology 
+psychologist linguist anthropologist 
+
+psychology psychiatry neurology 
+psychologist psychiatrist neurologist 
+
+description explanation prediction 
+descriptions explanations predictions 
+
+description translation transcription 
+descriptions translations transcriptions 
+
+biological physiological neurological 
+biologist physiologist neurologist 
+
+biological biologists biologically 
+geological geologists geologically 
+
+biological biologist biologists 
+geological geologist geologists 
+
+biological biologist biologists 
+psychological psychologist psychologists 
+
+biological geological archeological 
+biologists geologists archeologists 
+
+biological psychological neurological 
+biologist psychologist neurologist 
+
+pianist violinist cellist 
+pianists violinists cellists 
+
+pianist organist violinist 
+pianists organists violinists 
+
+involves involving involve 
+revolves revolving revolve 
+
+indonesia cambodia ghana 
+indonesian cambodian ghanaian 
+
+conservation conserved conserve 
+preservation preserved preserve 
+
+conservation preservation reservation 
+conserve preserve reserve 
+
+conservation preservation reservations 
+conserved preserved reserved 
+
+scholars philosophers thinkers 
+scholar philosopher thinker 
+
+scholars theologians fundamentalists 
+scholar theologian fundamentalist 
+
+scholars poets philosophers 
+scholar poet philosopher 
+
+scholars anthropologists sociologists 
+scholar anthropologist sociologist 
+
+scholars linguists sociologists 
+scholar linguist sociologist 
+
+scholars sociologists educators 
+scholar sociologist educator 
+
+scholars authors editors 
+scholar author editor 
+
+scholars professors educators 
+scholar professor educator 
+
+exhibition exhibits exhibited 
+prohibition prohibits prohibited 
+
+armenia syria assyria 
+armenians syrians assyrians 
+
+northeastern northeastward north-northeast 
+northwestern northwestward north-northwest 
+
+saturday monday tuesday 
+saturdays mondays tuesdays 
+
+saturday friday monday 
+saturdays fridays mondays 
+
+saturday tuesday thursday 
+saturdays tuesdays thursdays 
+
+immigrants immigrant immigrated 
+emigrants emigrant emigrated 
+
+immigrants immigrant immigrated 
+migrants migrant migrated 
+
+immigrants immigration immigrated 
+emigrants emigration emigrated 
+
+immigrants immigration immigrated 
+migrants migration migrated 
+
+immigrants migrants emigrants 
+immigrant migrant emigrant 
+
+immigrants migrants emigrants 
+immigrated migrated emigrated 
+
+immigrants migrants emigrants 
+immigration migration emigration 
+
+threatened threatening threaten 
+frightened frightening frighten 
+
+translation interpretation revelation 
+translations interpretations revelations 
+
+researchers psychologists sociologists 
+researcher psychologist sociologist 
+
+researchers sociologists educators 
+researcher sociologist educator 
+
+researchers biologists geologists 
+researcher biologist geologist 
+
+researchers linguists sociologists 
+researcher linguist sociologist 
+
+researchers anthropologists sociologists 
+researcher anthropologist sociologist 
+
+researchers physicians surgeons 
+researcher physician surgeon 
+
+researchers physicists sociologists 
+researcher physicist sociologist 
+
+researchers archaeologists geologists 
+researcher archaeologist geologist 
+
+researchers chemists physicists 
+researcher chemist physicist 
+
+syria syrian syrians 
+assyria assyrian assyrians 
+
+determined determine determines 
+examined examine examines 
+
+documents statements announcements 
+document statement announcement 
+
+achieved obtained attained 
+achieve obtain attain 
+
+rising rises risen 
+arising arises arisen 
+
+hungarian romanian albanian 
+hungarians romanians albanians 
+
+hungarian croatian albanian 
+hungarians croats albanians 
+
+hungarian ukrainian azerbaijani 
+hungarians ukrainians azerbaijanis 
+
+solve solved solving 
+resolve resolved resolving 
+
+iranian azerbaijani albanian 
+iranians azerbaijanis albanians 
+
+iranian pakistani afghan 
+iranians pakistanis afghans 
+
+iranian romanian albanian 
+iranians romanians albanians 
+
+institution establishment accomplishment 
+institutions establishments accomplishments 
+
+pulled pull pulls 
+pushed push pushes 
+
+institutions institutes instituted 
+constitutions constitutes constituted 
+
+mathematician physicist chemist 
+mathematicians physicists chemists 
+
+thirteen fourteen nineteen 
+thirteenth fourteenth nineteenth 
+
+thirteen sixteen eighteen 
+thirteenth sixteenth eighteenth 
+
+thirteen fifteen fourteen 
+thirteenth fifteenth fourteenth 
+
+thirteen eighteen nineteen 
+thirteenth eighteenth nineteenth 
+
+thirteen seventeen nineteen 
+thirteenth seventeenth nineteenth 
+
+colombia uruguay bolivia 
+colombian uruguayan bolivian 
+
+colombia ecuador venezuela 
+colombian ecuadorian venezuelan 
+
+colombia venezuela bolivia 
+colombian venezuelan bolivian 
+
+colombia guatemala nicaragua 
+colombian guatemalan nicaraguan 
+
+collections collecting collective 
+reflections reflecting reflective 
+
+collections collecting collects 
+selections selecting selects 
+
+collections collective collects 
+selections selective selects 
+
+serbia bulgaria albania 
+serbian bulgarian albanian 
+
+serbia macedonia estonia 
+serbian macedonian estonian 
+
+serbia croatia slovenia 
+serbian croatian slovenian 
+
+serbia bosnia slovenia 
+serbian bosnian slovenian 
+
+serbia yugoslavia slovenia 
+serbian yugoslavian slovenian 
+
+serbia albania macedonia 
+serbian albanian macedonian 
+
+serbia slovenia estonia 
+serbian slovenian estonian 
+
+expression expressions expressive 
+impression impressions impressive 
+
+expression expressionism expressionist 
+impression impressionism impressionist 
+
+expression expressed expressive 
+impression impressed impressive 
+
+expression representation presentation 
+expressions representations presentations 
+
+publishing publish publishes 
+establishing establish establishes 
+
+publishing establishing maintaining 
+publish establish maintain 
+
+convert conversion conversely 
+invert inversion inverse 
+
+breeding breeders breeder 
+feeding feeders feeder 
+
+operate operates operator 
+generate generates generator 
+
+operate operator operators 
+generate generator generators 
+
+operate generate accelerate 
+operates generates accelerates 
+
+operate generate accelerate 
+operators generators accelerators 
+
+african-american german-american italian-american 
+american-born german-born italian-born 
+
+african-american feminist sociologist 
+african-americans feminists sociologists 
+
+african-american canadian-american italian-american 
+american-born canadian-born italian-born 
+
+african-american abolitionist settler 
+african-americans abolitionists settlers 
+
+friday monday tuesday 
+fridays mondays tuesdays 
+
+friday thursday wednesday 
+fridays thursdays wednesdays 
+
+friday tuesday wednesday 
+fridays tuesdays wednesdays 
+
+novelist playwright filmmaker 
+novelists playwrights filmmakers 
+
+novelist linguist geographer 
+novelists linguists geographers 
+
+expressed expressing expresses 
+pressed pressing presses 
+
+expressed expressions expressive 
+impressed impressions impressive 
+
+expressed impressed depressed 
+expressive impressive depressive 
+
+celebrate celebrating celebrates 
+commemorate commemorating commemorates 
+
+attraction attractions attracting 
+contraction contractions contracting 
+
+attraction traction contraction 
+attracts tracts contracts 
+
+attraction contraction subtraction 
+attracting contracting subtracting 
+
+physicist chemist biologist 
+physicists chemists biologists 
+
+physicist sociologist anthropologist 
+physicists sociologists anthropologists 
+
+physicist psychologist sociologist 
+physicists psychologists sociologists 
+
+croatia croatian croats 
+albania albanian albanians 
+
+croatia slovenia estonia 
+croatian slovenian estonian 
+
+croatia bosnia slovenia 
+croatian bosnian slovenian 
+
+croatia albania macedonia 
+croatian albanian macedonian 
+
+croatia macedonia estonia 
+croatian macedonian estonian 
+
+croatia bulgaria belarus 
+croatian bulgarian belarusian 
+
+morocco tunisia mozambique 
+moroccan tunisian mozambican 
+
+morocco algeria tunisia 
+moroccan algerian tunisian 
+
+fourteen seventeen nineteen 
+fourteenth seventeenth nineteenth 
+
+fourteen eighteen nineteen 
+fourteenth eighteenth nineteenth 
+
+fourteen sixteen eighteen 
+fourteenth sixteenth eighteenth 
+
+buddhism buddhist buddhists 
+hinduism hindu hindus 
+
+airplane helicopter aeroplane 
+airplanes helicopters aeroplanes 
+
+preserved preserve preservation 
+conserved conserve conservation 
+
+preserved preserve preserves 
+reserved reserve reserves 
+
+preserved preservation preserves 
+reserved reservations reserves 
+
+operates generates accelerates 
+operators generators accelerators 
+
+operates operator operators 
+generates generator generators 
+
+genetics microbiology ethology 
+geneticist microbiologist ornithologist 
+
+genetics biochemistry microbiology 
+geneticist biochemist microbiologist 
+
+ecuador venezuela uruguay 
+ecuadorian venezuelan uruguayan 
+
+venezuela guatemala nicaragua 
+venezuelan guatemalan nicaraguan 
+
+venezuela uruguay bolivia 
+venezuelan uruguayan bolivian 
+
+astronomy astronomer astronomical 
+astrology astrologer astrological 
+
+astronomy astronomers astronomer 
+geology geologists geologist 
+
+astronomy astronomers astronomer 
+meteorology meteorologists meteorologist 
+
+astronomy geology paleontology 
+astronomer geologist paleontologist 
+
+astronomy geology palaeontology 
+astronomers geologists palaeontologists 
+
+astronomy astrology meteorology 
+astronomical astrological meteorological 
+
+astronomy astrology meteorology 
+astronomer astrologer meteorologist 
+
+astronomy meteorology astronautical 
+astronomer meteorologist astronaut 
+
+asteroid steroid opioid 
+asteroids steroids opioids 
+
+geometry geometric geometrical 
+symmetry symmetric symmetrical 
+
+consisting assisting resisting 
+consisted assisted resisted 
+
+sixteen eighteen nineteen 
+sixteenth eighteenth nineteenth 
+
+sixteen seventeen nineteen 
+sixteenth seventeenth nineteenth 
+
+contributions contribution contributor 
+distributions distribution distributor 
+
+contributions contributors contributes 
+distributions distributors distributes 
+
+contributions contributor contributors 
+distributions distributor distributors 
+
+contributions contributing contributes 
+distributions distributing distributes 
+
+blocked blocking blocker 
+locked locking locker 
+
+yugoslavia slovenia estonia 
+yugoslavian slovenian estonian 
+
+bulgaria belarus lithuania 
+bulgarian belarusian lithuanian 
+
+bulgaria albania macedonia 
+bulgarian albanian macedonian 
+
+bulgaria slovakia slovenia 
+bulgarian slovak slovenian 
+
+bulgaria lithuania latvia 
+bulgarian lithuanian latvian 
+
+bulgaria macedonia estonia 
+bulgarian macedonian estonian 
+
+bulgaria latvia moldova 
+bulgarian latvian moldovan 
+
+bulgaria estonia latvia 
+bulgarian estonian latvian 
+
+maintain maintains maintaining 
+retain retains retaining 
+
+maintain maintained maintains 
+retain retained retains 
+
+maintain establish publish 
+maintaining establishing publishing 
+
+maintain retain regain 
+maintained retained regained 
+
+romanian croatian albanian 
+romanians croats albanians 
+
+romanian azerbaijani albanian 
+romanians azerbaijanis albanians 
+
+romanian ukrainian azerbaijani 
+romanians ukrainians azerbaijanis 
+
+accounts accounting accounted 
+counts counting counted 
+
+internationally professionally nationally 
+internationals professionals nationals 
+
+involving evolving revolving 
+involve evolve revolve 
+
+croatian ukrainian albanian 
+croats ukrainians albanians 
+
+triangle triangular triangles 
+rectangle rectangular rectangles 
+
+ukrainian azerbaijani albanian 
+ukrainians azerbaijanis albanians 
+
+derby leicester nottingham 
+derbyshire leicestershire nottinghamshire 
+
+derby nottingham northampton 
+derbyshire nottinghamshire northamptonshire 
+
+establish establishing establishes 
+publish publishing publishes 
+
+nigeria ghana zambia 
+nigerian ghanaian zambian 
+
+nigeria zambia mozambique 
+nigerian zambian mozambican 
+
+nigeria algeria ethiopia 
+nigerian algerian ethiopian 
+
+astronomers geologists paleontologists 
+astronomer geologist paleontologist 
+
+consisted consist consistent 
+persisted persist persistent 
+
+psychological neurological astrological 
+psychologist neurologist astrologer 
+
+psychological physiological neurological 
+psychologist physiologist neurologist 
+
+psychological psychiatric neurological 
+psychologist psychiatrist neurologist 
+
+maintained maintains maintaining 
+retained retains retaining 
+
+monday tuesday wednesday 
+mondays tuesdays wednesdays 
+
+monday thursday wednesday 
+mondays thursdays wednesdays 
+
+archaeological archaeology archaeologist 
+geological geology geologist 
+
+archaeological archaeology archaeologist 
+zoological zoology zoologist 
+
+archaeological archaeologists archaeologist 
+geological geologists geologist 
+
+archaeological geological archeological 
+archaeologists geologists archeologists 
+
+physiology physiological physiologist 
+biochemistry biochemical biochemist 
+
+physiology physiological physiologist 
+neurology neurological neurologist 
+
+physiology physiological physiologist 
+zoology zoological zoologist 
+
+physiology biochemistry neurology 
+physiological biochemical neurological 
+
+physiology biochemistry microbiology 
+physiologist biochemist microbiologist 
+
+physiology microbiology neurology 
+physiologist microbiologist neurologist 
+
+physiology ethology neurology 
+physiologist ornithologist neurologist 
+
+physiology zoology ethology 
+physiologist zoologist ornithologist 
+
+physiology ecology zoology 
+physiological ecological zoological 
+
+ports exports imports 
+ported exported imported 
+
+viewed viewing viewer 
+reviewed reviewing reviewer 
+
+anglo-saxon saxon frisian 
+anglo-saxons saxons frisians 
+
+photographer photographic photographers 
+geographer geographic geographers 
+
+photographer photography photographic 
+geographer geography geographic 
+
+photographer photography photographers 
+filmmaker filmmaking filmmakers 
+
+photographer cinematographer cartographer 
+photography cinematography cartography 
+
+photographer geographer zoologist 
+photographic geographic zoological 
+
+photographer filmmaker animator 
+photographers filmmakers animators 
+
+photographer filmmaker cinematographer 
+photography filmmaking cinematography 
+
+physician physiologist microbiologist 
+physicians physiology microbiology 
+
+physician psychologist sociologist 
+physicians psychologists sociologists 
+
+physician researcher sociologist 
+physicians researchers sociologists 
+
+physician surgeon psychiatrist 
+physicians surgeons psychiatrists 
+
+physician psychiatrist dentist 
+physicians psychiatrists dentists 
+
+counted counting countable 
+accounted accounting accountability 
+
+counted counts counting 
+accounted accounts accounting 
+
+economist economists economical 
+geographer geographers geographical 
+
+economist sociologist anthropologist 
+economists sociologists anthropologists 
+
+economist biologist geologist 
+economists biologists geologists 
+
+economist chemist biologist 
+economists chemists biologists 
+
+economist theorist linguist 
+economists theorists linguists 
+
+geography geographer geographers 
+geology geologist geologists 
+
+geography geographically geographer 
+geology geologically geologist 
+
+geography geology palaeontology 
+geographers geologists palaeontologists 
+
+geography geology paleontology 
+geographer geologist paleontologist 
+
+geography anthropology ethology 
+geographer anthropologist ornithologist 
+
+geography archaeology paleontology 
+geographer archaeologist paleontologist 
+
+geographic geographer geographers 
+photographic photographer photographers 
+
+theology sociology anthropology 
+theologian sociologist anthropologist 
+
+albania macedonia estonia 
+albanian macedonian estonian 
+
+albania lithuania latvia 
+albanian lithuanian latvian 
+
+download downloaded downloading 
+upload uploaded uploading 
+
+algeria tunisia mozambique 
+algerian tunisian mozambican 
+
+belarus lithuania latvia 
+belarusian lithuanian latvian 
+
+diocese congregation sacrament 
+dioceses congregations sacraments 
+
+bosnia macedonia estonia 
+bosnian macedonian estonian 
+
+nationalist unionist abolitionist 
+nationalists unionists abolitionists 
+
+verb noun pronoun 
+verbs nouns pronouns 
+
+verb pronoun adverb 
+verbs pronouns adverbs 
+
+autobiography autobiographical autobiographies 
+biography biographical biographies 
+
+autobiography biography histories 
+autobiographical biographical historical 
+
+consist consistent consistency 
+persist persistent persistence 
+
+advisor advise advisors 
+supervisor supervise supervisors 
+
+representation presentation implementation 
+representations presentations implementations 
+
+lithuania latvia moldova 
+lithuanian latvian moldovan 
+
+lithuania estonia latvia 
+lithuanian estonian latvian 
+
+commentator analyst investigator 
+commentators analysts investigators 
+
+immigration immigrant immigrated 
+emigration emigrant emigrated 
+
+immigration migration emigration 
+immigrated migrated emigrated 
+
+educator sociologist anthropologist 
+educators sociologists anthropologists 
+
+educator psychologist sociologist 
+educators psychologists sociologists 
+
+slovakia slovenia estonia 
+slovak slovenian estonian 
+
+operator generator accelerator 
+operators generators accelerators 
+
+nineteenth eighteenth seventeenth 
+nineteen eighteen seventeen 
+
+nineteenth sixteenth seventeenth 
+nineteen sixteen seventeen 
+
+nineteenth fifteenth seventeenth 
+nineteen fifteen seventeen 
+
+nineteenth seventeenth twenty-second 
+nineteen seventeen twenty-seven 
+
+nineteenth thirteenth fifteenth 
+nineteen thirteen fifteen 
+
+nineteenth fourteenth thirteenth 
+nineteen fourteen thirteen 
+
+requirements restrictions violations 
+requirement restriction violation 
+
+organist organists motets 
+violinist violinists quartets 
+
+organist violinist cellist 
+organists violinists cellists 
+
+mw.ustring.gsub mw.ustring.find mw.ustring.sub 
+string.gsub string.find string.sub 
+
+mw.ustring.gsub mw.ustring.match mw.ustring.sub 
+string.gsub string.match string.sub 
+
+generated generates generators 
+accelerated accelerates accelerators 
+
+generated generate generating 
+regenerated regenerate regeneration 
+
+generated generate generates 
+accelerated accelerate accelerates 
+
+generated generating generates 
+accelerated accelerating accelerates 
+
+generated generator generators 
+accelerated accelerator accelerators 
+
+migration migrate migrants 
+emigration emigrate emigrants 
+
+migration migrants migrant 
+emigration emigrants emigrant 
+
+migration migrated migrate 
+emigration emigrated emigrate 
+
+communism socialism liberalism 
+communists socialists liberals 
+
+communism nationalism liberalism 
+communists nationalists liberals 
+
+communism liberalism conservatism 
+communists liberals conservatives 
+
+collecting selecting electing 
+collects selects elects 
+
+collecting reflecting selecting 
+collective reflective selective 
+
+collecting collective collects 
+selecting selective selects 
+
+merchant banker accountant 
+merchants bankers accountants 
+
+infinite definite indefinite 
+infinitely definitely indefinitely 
+
+submarine warship battleship 
+submarines warships battleships 
+
+uruguay ghana zambia 
+uruguayan ghanaian zambian 
+
+geology paleontology ethology 
+geologist paleontologist ornithologist 
+
+geology paleontology palaeontology 
+geologists paleontologists palaeontologists 
+
+geology geologists geologist 
+paleontology paleontologists paleontologist 
+
+geology geologists geologist 
+archaeology archaeologists archaeologist 
+
+geology geologists geologist 
+anthropology anthropologists anthropologist 
+
+geology archaeology paleontology 
+geologist archaeologist paleontologist 
+
+geology archaeology palaeontology 
+geologists archaeologists palaeontologists 
+
+geology anthropology ethology 
+geologist anthropologist ornithologist 
+
+geology anthropology archaeology 
+geologists anthropologists archaeologists 
+
+geology microbiology neurology 
+geologist microbiologist neurologist 
+
+geology biochemistry microbiology 
+geologist biochemist microbiologist 
+
+developers programmers hammers 
+developer programmer hammer 
+
+christine christina christensen 
+kristin kristina kristen 
+
+interaction interactions interacting 
+contraction contractions contracting 
+
+functional functioning functioned 
+positional positioning positioned 
+
+functional positional conditional 
+functioning positioning conditioning 
+
+surgeon psychiatrist dentist 
+surgeons psychiatrists dentists 
+
+north-east north-eastern north-central 
+south-east south-eastern south-central 
+
+north-east south-east south-west 
+north-eastern south-eastern south-western 
+
+north-east north-west south-west 
+north-eastern north-western south-western 
+
+russians asians indonesians 
+russia's asia's indonesia's 
+
+distinction presentation implementation 
+distinctions presentations implementations 
+
+pancreatic esophageal bronchitis 
+pancreas esophagus bronchi 
+
+searching searched searches 
+researching researched researches 
+
+chemist biologist geologist 
+chemists biologists geologists 
+
+reserves reserved reservations 
+preserves preserved preservation 
+
+republicans conservatives liberals 
+republicanism conservatism liberalism 
+
+eighteen seventeen nineteen 
+eighteenth seventeenth nineteenth 
+
+highlands lowlands uplands 
+highland lowland upland 
+
+generate generates generators 
+accelerate accelerates accelerators 
+
+generate generating generates 
+accelerate accelerating accelerates 
+
+generate generator generators 
+accelerate accelerator accelerators 
+
+syrian assyrian sumerian 
+syrians assyrians sumerians 
+
+macedonia estonia latvia 
+macedonian estonian latvian 
+
+south-east north-west south-west 
+south-eastern north-western south-western 
+
+slovenia estonia latvia 
+slovenian estonian latvian 
+
+slovenia latvia moldova 
+slovenian latvian moldovan 
+
+cooperation co-operation federations 
+cooperative co-operative federative 
+
+regulations restrictions violations 
+regulation restriction violation 
+
+seventeen twenty-five twenty-seven 
+seventeenth twenty-fifth twenty-second 
+
+accumulator calculator insulator 
+accumulators calculators insulators 
+
+corresponding correspondence corresponds 
+responding responded responds 
+
+noun pronoun adverb 
+nouns pronouns adverbs 
+
+noun adjective adverb 
+nouns adjectives adverbs 
+
+rains raining rained 
+drains draining drained 
+
+biologist geologist geographer 
+biologists geologists geographers 
+
+biologist sociologist anthropologist 
+biologists sociologists anthropologists 
+
+biologist biologists biologically 
+geologist geologists geologically 
+
+biologist anthropologist paleontologist 
+biologists anthropologists paleontologists 
+
+biologist psychologist sociologist 
+biologists psychologists sociologists 
+
+biologist paleontologist geologist 
+biologists paleontologists geologists 
+
+biologist archaeologist geologist 
+biologists archaeologists geologists 
+
+biologist naturalist geologist 
+biologists naturalists geologists 
+
+biologist researcher sociologist 
+biologists researchers sociologists 
+
+biologist botanist geographer 
+biologists botanists geographers 
+
+conclusion conclude concluding 
+exclusion exclude excluding 
+
+auvergne-rhone-alpes nouvelle-aquitaine provence-alpes-cote 
+auvergne aquitaine provence 
+
+berry cherry strawberry 
+berries cherries strawberries 
+
+attending pretending intending 
+attends pretends intends 
+
+contracts contraction contracting 
+extracts extraction extracting 
+
+translator linguist geographer 
+translators linguists geographers 
+
+psychologist sociologist anthropologist 
+psychologists sociologists anthropologists 
+
+psychologist psychiatrist dentist 
+psychologists psychiatrists dentists 
+
+psychologist anthropologist paleontologist 
+psychologists anthropologists paleontologists 
+
+psychologist researcher sociologist 
+psychologists researchers sociologists 
+
+psychologist paleontologist geologist 
+psychologists paleontologists geologists 
+
+psychologist linguist geographer 
+psychologists linguists geographers 
+
+psychologist geologist geographer 
+psychologists geologists geographers 
+
+counter countered counters 
+encounter encountered encounters 
+
+reactor generator accelerator 
+reactors generators accelerators 
+
+export exports exporting 
+import imports importing 
+
+export exported exporting 
+import imported importing 
+
+attractive attracts attracting 
+interactive interacts interacting 
+
+carnivorous herbivorous insectivorous 
+carnivores herbivores insectivores 
+
+carnivorous omnivorous insectivorous 
+carnivores omnivores insectivores 
+
+carnivorous carnivores carnivore 
+herbivorous herbivores herbivore 
+
+botanical botany botanist 
+zoological zoology zoologist 
+
+estonia latvia moldova 
+estonian latvian moldovan 
+
+immigrant migrant emigrant 
+immigrated migrated emigrated 
+
+realize realise realises 
+specialize specialise specialises 
+
+feminist sociologist anthropologist 
+feminists sociologists anthropologists 
+
+restrictions violations protections 
+restriction violation protection 
+
+bedford leicester northampton 
+bedfordshire leicestershire northamptonshire 
+
+bedford worcester gloucester 
+bedfordshire worcestershire gloucestershire 
+
+researcher biochemist physiologist 
+researched biochemistry physiology 
+
+researcher physiologist neurologist 
+researched physiology neurology 
+
+socialism capitalism anarchism 
+socialists capitalists anarchists 
+
+socialism liberalism conservatism 
+socialists liberals conservatives 
+
+socialism nationalism liberalism 
+socialists nationalists liberals 
+
+socialism fascism anarchism 
+socialists fascists anarchists 
+
+receiver transmitter neurotransmitter 
+receivers transmitters neurotransmitters 
+
+assisted assist assisting 
+resisted resist resisting 
+
+loaded uploaded reloaded 
+loading uploading reloading 
+
+loaded downloaded uploaded 
+loading downloading uploading 
+
+presentation implementation specification 
+presentations implementations specifications 
+
+archaeologists archaeology archaeologist 
+geologists geology geologist 
+
+archaeologists archaeology archaeologist 
+anthropologists anthropology anthropologist 
+
+archaeologists archaeology palaeolithic 
+palaeontologists palaeontology palaeogene 
+
+archaeologists archaeology archaeologist 
+paleontologists paleontology paleontologist 
+
+archaeologists geologists paleontologists 
+archaeologist geologist paleontologist 
+
+archaeologists geologists palaeontologists 
+archaeology geology palaeontology 
+
+archaeologists anthropologists sociologists 
+archaeologist anthropologist sociologist 
+
+archaeologists anthropologists sociologists 
+archaeology anthropology sociology 
+
+archaeologists paleontologists anthropologists 
+archaeologist paleontologist anthropologist 
+
+archaeologists paleontologists palaeontologists 
+archaeology paleontology palaeontology 
+
+archaeologists sociologists educators 
+archaeologist sociologist educator 
+
+archaeologists psychologists sociologists 
+archaeologist psychologist sociologist 
+
+elimination eliminate eliminating 
+domination dominate dominating 
+
+elimination domination termination 
+eliminating dominating terminating 
+
+elimination domination termination 
+eliminate dominate terminate 
+
+demonstration demonstrate demonstrates 
+illustration illustrate illustrates 
+
+linguistics linguists linguist 
+anthropology anthropologists anthropologist 
+
+linguistics linguists linguist 
+sociology sociologists sociologist 
+
+linguistics anthropology ethology 
+linguist anthropologist ornithologist 
+
+linguistics anthropology archaeology 
+linguists anthropologists archaeologists 
+
+linguistics sociology anthropology 
+linguist sociologist anthropologist 
+
+linguistics sociology anthropology 
+linguists sociologists anthropologists 
+
+linguistics ethology neurology 
+linguist ornithologist neurologist 
+
+linguistics paleontology palaeontology 
+linguists paleontologists palaeontologists 
+
+washing crashing flashing 
+washes crashes flashes 
+
+tuesday thursday wednesday 
+tuesdays thursdays wednesdays 
+
+shirt skirt t-shirt 
+shirts skirts t-shirts 
+
+sonata prelude cantata 
+sonatas preludes cantatas 
+
+ecological physiological neurological 
+ecology physiology neurology 
+
+relating violating regulating 
+relates violates regulates 
+
+sociology sociologist sociologists 
+anthropology anthropologist anthropologists 
+
+sociology anthropology archaeology 
+sociologist anthropologist archaeologist 
+
+sociology anthropology archaeology 
+sociologists anthropologists archaeologists 
+
+sociology zoology paleontology 
+sociologist zoologist paleontologist 
+
+imported imports importing 
+exported exports exporting 
+
+imported import imports 
+exported export exports 
+
+imported transported exported 
+importing transporting exporting 
+
+cambodia ghana zambia 
+cambodian ghanaian zambian 
+
+warships submarines battleships 
+warship submarine battleship 
+
+tracking tracked tracker 
+cracking cracked cracker 
+
+emigrated emigrate emigrant 
+migrated migrate migrant 
+
+emigrated emigrants emigrant 
+immigrated immigrants immigrant 
+
+emigrated emigrants emigrant 
+migrated migrants migrant 
+
+emigrated migrated immigrated 
+emigrants migrants immigrants 
+
+emigrated migrated immigrated 
+emigrant migrant immigrant 
+
+emigrated migrated immigrated 
+emigration migration immigration 
+
+emigrated emigration emigrant 
+immigrated immigration immigrant 
+
+emigrated emigration emigrate 
+migrated migration migrate 
+
+tends tended tending 
+intends intended intending 
+
+tends pretends intends 
+tending pretending intending 
+
+marched marches marchers 
+arched arches archers 
+
+qualification certification specification 
+qualifications certifications specifications 
+
+centimeters centimetres centimeter 
+millimeters millimetres millimeter 
+
+theropod sauropod dromaeosaur 
+theropods sauropods dromaeosaurs 
+
+theropod tetrapod dromaeosaur 
+theropods tetrapods dromaeosaurs 
+
+theropod gastropod cephalopod 
+theropods gastropods cephalopods 
+
+husband's daughter's sister's 
+husbands daughters sisters 
+
+generator generates generators 
+accelerator accelerates accelerators 
+
+generator generating generates 
+accelerator accelerating accelerates 
+
+generator accelerator detector 
+generators accelerators detectors 
+
+leicester nottingham northampton 
+leicestershire nottinghamshire northamptonshire 
+
+leicester worcester gloucester 
+leicestershire worcestershire gloucestershire 
+
+westward eastward southward 
+westwards eastwards southwards 
+
+westward northward southward 
+westwards northwards southwards 
+
+dynamic thermodynamic aerodynamic 
+dynamics thermodynamics aerodynamics 
+
+nationalism liberalism conservatism 
+nationalists liberals conservatives 
+
+nationalism capitalism anarchism 
+nationalists capitalists anarchists 
+
+nationalism fascism anarchism 
+nationalists fascists anarchists 
+
+teamed streamed dreamed 
+teaming streaming dreaming 
+
+colder hotter wetter 
+coldest hottest wettest 
+
+colder drier wetter 
+coldest driest wettest 
+
+expressions expressionism expressionist 
+impressions impressionism impressionist 
+
+expressions impressions depressions 
+expressive impressive depressive 
+
+merge merging merges 
+emerge emerging emerges 
+
+impressive impression impressions 
+expressive expression expressions 
+
+impressive impressions impressionism 
+expressive expressions expressionism 
+
+impressive expressive oppressive 
+impression expression oppression 
+
+mw.ustring.match mw.ustring.find mw.ustring.sub 
+string.match string.find string.sub 
+
+adjective pronoun adverb 
+adjectives pronouns adverbs 
+
+conservatives liberals socialists 
+conservatism liberalism socialism 
+
+conservatives nationalists socialists 
+conservatism nationalism socialism 
+
+wetlands grasslands uplands 
+wetland grassland upland 
+
+filmmaker cinematographer cartographer 
+filmmaking cinematography cartography 
+
+filmmaker printmaker realist 
+filmmaking printmaking realistic 
+
+contributor contributors contributes 
+distributor distributors distributes 
+
+contributor contributing contributes 
+distributor distributing distributes 
+
+migrated migrants migrant 
+immigrated immigrants immigrant 
+
+naturalist geologist geographer 
+naturalists geologists geographers 
+
+naturalist realist environmentalist 
+naturalism realism environmentalism 
+
+naturalist botanist geographer 
+naturalists botanists geographers 
+
+naturalist anthropologist paleontologist 
+naturalists anthropologists paleontologists 
+
+naturalist surrealist realist 
+naturalism surrealism realism 
+
+realistic nationalistic journalistic 
+realism nationalism journalism 
+
+namibia zambia liberia 
+namibian zambian liberian 
+
+attracts interacts selects 
+attracting interacting selecting 
+
+decorative decorate decorating 
+commemorative commemorate commemorating 
+
+brightest brighter brightness 
+lightest lighter lightness 
+
+downloaded uploaded reloaded 
+downloading uploading reloading 
+
+collective selective reflective 
+collects selects reflects 
+
+regulate regulates regulating 
+violate violates violating 
+
+regulate regulated regulating 
+stimulate stimulated stimulating 
+
+regulate regulated regulates 
+violate violated violates 
+
+regulate regulated regulating 
+circulate circulated circulating 
+
+regulate regulatory regulating 
+circulate circulatory circulating 
+
+regulate stimulate simulate 
+regulated stimulated simulated 
+
+bulldogs wildcats badgers 
+bulldog wildcat badger 
+
+exports exported exporting 
+imports imported importing 
+
+choreographer cinematographer cartographer 
+choreography cinematography cartography 
+
+anthropology anthropologist anthropologists 
+archaeology archaeologist archaeologists 
+
+anthropology anthropologist anthropologists 
+paleontology paleontologist paleontologists 
+
+anthropology ethology neurology 
+anthropologist ornithologist neurologist 
+
+anthropology archaeology paleontology 
+anthropologist archaeologist paleontologist 
+
+anthropology archaeology palaeontology 
+anthropologists archaeologists palaeontologists 
+
+anthropology microbiology neurology 
+anthropologist microbiologist neurologist 
+
+anthropology zoology ethology 
+anthropologist zoologist ornithologist 
+
+anthropology paleontology ethology 
+anthropologist paleontologist ornithologist 
+
+anthropology paleontology palaeontology 
+anthropologists paleontologists palaeontologists 
+
+anthropology biochemistry microbiology 
+anthropologist biochemist microbiologist 
+
+migrate migrants migrant 
+emigrate emigrants emigrant 
+
+archaeology paleontology ethology 
+archaeologist paleontologist ornithologist 
+
+archaeology ethology neurology 
+archaeologist ornithologist neurologist 
+
+archaeology zoology ethology 
+archaeologist zoologist ornithologist 
+
+herbivores herbivorous herbivore 
+carnivores carnivorous carnivore 
+
+herbivores carnivores omnivores 
+herbivorous carnivorous omnivorous 
+
+herbivores omnivores insectivores 
+herbivorous omnivorous insectivorous 
+
+organizing organizes organises 
+recognizing recognizes recognises 
+
+advised advise advisors 
+supervised supervise supervisors 
+
+illustrator printmaker cartographer 
+illustration printmaking cartography 
+
+semiconductor transistor resistor 
+semiconductors transistors resistors 
+
+semiconductor capacitor resistor 
+semiconductors capacitors resistors 
+
+semiconductor insulator resistor 
+semiconductors insulators resistors 
+
+tightly brightly lightly 
+tighter brighter lighter 
+
+botanist geologist geographer 
+botanists geologists geographers 
+
+botanist anthropologist paleontologist 
+botanists anthropologists paleontologists 
+
+botanist paleontologist geologist 
+botanists paleontologists geologists 
+
+stripped ripped slipped 
+stripper ripper slipper 
+
+biochemistry microbiology neurology 
+biochemist microbiologist neurologist 
+
+biochemistry researched neurology 
+biochemist researcher neurologist 
+
+tendency tended tendencies 
+dependency depended dependencies 
+
+northward eastward southward 
+northwards eastwards southwards 
+
+institutes constitutes substitutes 
+instituted constituted substituted 
+
+generating generates generators 
+accelerating accelerates accelerators 
+
+selective selecting selects 
+reflective reflecting reflects 
+
+specialised specialises specialise 
+realised realises realise 
+
+succeeding exceeding proceeding 
+succeeds exceeds proceeds 
+
+eliminate dominate originate 
+eliminating dominating originating 
+
+stabbed stabbing stab 
+grabbed grabbing grab 
+
+economically geographically geologically 
+economical geographical geological 
+
+hottest coldest wettest 
+hotter colder wetter 
+
+psychiatrist neurologist microbiologist 
+psychiatry neurology microbiology 
+
+tetrapods theropods sauropods 
+tetrapod theropod sauropod 
+
+tetrapods sauropods dromaeosaurs 
+tetrapod sauropod dromaeosaur 
+
+tetrapods pterosaurs dromaeosaurs 
+tetrapod pterosaur dromaeosaur 
+
+lymphoma esophageal bronchitis 
+lymph esophagus bronchi 
+
+impressionist expressionist surrealist 
+impressionism expressionism surrealism 
+
+impressionist surrealist realist 
+impressionism surrealism realism 
+
+impressionist impressions impressionism 
+expressionist expressions expressionism 
+
+impressionist minimalist surrealist 
+impressionism minimalism surrealism 
+
+impressionist realist environmentalist 
+impressionism realism environmentalism 
+
+recognizes recognizing recognises 
+organizes organizing organises 
+
+realism naturalism federalism 
+realist naturalist federalist 
+
+realism minimalism surrealism 
+realist minimalist surrealist 
+
+realism modernism minimalism 
+realist modernist minimalist 
+
+realism impressionism surrealism 
+realist impressionist surrealist 
+
+upwards downwards inwards 
+upward downward inward 
+
+tajikistan turkmenistan baltistan 
+tajiks turkmen balti 
+
+modification modifications modifying 
+specification specifications specifying 
+
+renovated renovation renovations 
+excavated excavation excavations 
+
+contributing contributors contributes 
+distributing distributors distributes 
+
+qualifier qualifiers qualifies 
+identifier identifiers identifies 
+
+qualifier identifier quantifier 
+qualifiers identifiers quantifiers 
+
+regulated regulatory regulating 
+circulated circulatory circulating 
+
+zoology ethology neurology 
+zoologist ornithologist neurologist 
+
+zoology paleontology ethology 
+zoologist paleontologist ornithologist 
+
+zoology microbiology neurology 
+zoologist microbiologist neurologist 
+
+attacker hacker cracker 
+attackers hackers crackers 
+
+liberals socialists capitalists 
+liberalism socialism capitalism 
+
+functioning questioning mentioning 
+functioned questioned mentioned 
+
+originates originating originate 
+dominates dominating dominate 
+
+inverse inversion invert 
+conversely conversion convert 
+
+flavors flavored flavoured 
+favors favored favoured 
+
+identifies specifies qualifies 
+identifying specifying qualifying 
+
+identifies identifier identifiers 
+qualifies qualifier qualifiers 
+
+co-operative cooperative federative 
+co-operation cooperation federations 
+
+assyrian babylonian sumerian 
+assyrians babylonians sumerians 
+
+extraction extracts extracting 
+contraction contracts contracting 
+
+extraction contraction subtraction 
+extracting contracting subtracting 
+
+projection projector capacitor 
+projections projectors capacitors 
+
+favored favoured favors 
+flavored flavoured flavors 
+
+grab grabbed grabbing 
+stab stabbed stabbing 
+
+broncos blazers mustangs 
+bronco blazer mustang 
+
+twenty-five twenty-four twenty-seven 
+thirty-five thirty-four thirty-seven 
+
+twenty-five twenty-three twenty-seven 
+thirty-five thirty-three thirty-seven 
+
+twenty-five twenty-two twenty-three 
+thirty-five thirty-two thirty-three 
+
+twenty-five twenty-six twenty-seven 
+thirty-five thirty-six thirty-seven 
+
+domination dominate dominating 
+termination terminate terminating 
+
+canadian-american german-american italian-american 
+canadian-born german-born italian-born 
+
+linguists sociologists educators 
+linguist sociologist educator 
+
+linguists anthropologists sociologists 
+linguist anthropologist sociologist 
+
+outward downward upward 
+outwards downwards upwards 
+
+pretending pretend pretends 
+intending intend intends 
+
+accelerator detector projector 
+accelerators detectors projectors 
+
+unionist abolitionist conservationist 
+unionists abolitionists creationists 
+
+sociologist anthropologist paleontologist 
+sociologists anthropologists paleontologists 
+
+sociologist geologist geographer 
+sociologists geologists geographers 
+
+sociologist linguist geographer 
+sociologists linguists geographers 
+
+detector projector capacitor 
+detectors projectors capacitors 
+
+pterosaurs dromaeosaurs plesiosaurs 
+pterosaur dromaeosaur plesiosaur 
+
+pterosaurs ichthyosaurs plesiosaurs 
+pterosaur ichthyosaur plesiosaur 
+
+pterosaurs sauropods dromaeosaurs 
+pterosaur sauropod dromaeosaur 
+
+transistors resistors capacitors 
+transistor resistor capacitor 
+
+transistors capacitors insulators 
+transistor capacitor insulator 
+
+transistors semiconductors resistors 
+transistor semiconductor resistor 
+
+insult insulting insulted 
+consult consulting consulted 
+
+theorist linguist geographer 
+theorists linguists geographers 
+
+terminator terminated terminating 
+coordinator coordinated coordinating 
+
+simulation simulate simulated 
+stimulation stimulate stimulated 
+
+positioned positional positioning 
+functioned functional functioning 
+
+cooperative cooperate cooperated 
+operative operate operated 
+
+cooperative cooperated cooperating 
+operative operated operating 
+
+cooperative operative federative 
+cooperated operated federated 
+
+conclude concludes concluding 
+exclude excludes excluding 
+
+physiological neurological astrological 
+physiologist neurologist astrologer 
+
+geologists paleontologists anthropologists 
+geologist paleontologist anthropologist 
+
+geologists anthropologists sociologists 
+geologist anthropologist sociologist 
+
+geologists sociologists educators 
+geologist sociologist educator 
+
+geologists botanists geographers 
+geologist botanist geographer 
+
+geologists meteorologists sociologists 
+geologist meteorologist sociologist 
+
+anthropologist paleontologist geologist 
+anthropologists paleontologists geologists 
+
+anthropologist geologist geographer 
+anthropologists geologists geographers 
+
+paleontologist paleontologists paleontology 
+geologist geologists geology 
+
+paleontologist geologist geographer 
+paleontologists geologists geographers 
+
+paleontologist geologist zoologist 
+paleontology geology zoology 
+
+paleontologist ornithologist physiologist 
+paleontology ethology physiology 
+
+paleontologist zoologist ornithologist 
+paleontology zoology ethology 
+
+phoenician babylonian sumerian 
+phoenicians babylonians sumerians 
+
+german-born canadian-born italian-born 
+german-american canadian-american italian-american 
+
+german-born american-born canadian-born 
+german-american african-american canadian-american 
+
+twenty-four twenty-two twenty-three 
+thirty-four thirty-two thirty-three 
+
+twenty-four twenty-three twenty-seven 
+thirty-four thirty-three thirty-seven 
+
+twenty-four twenty-six twenty-seven 
+thirty-four thirty-six thirty-seven 
+
+excavations excavated excavation 
+renovations renovated renovation 
+
+wreck wrecked wrecks 
+shipwreck shipwrecked shipwrecks 
+
+consulting consult consulted 
+insulting insult insulted 
+
+downward upward inward 
+downwards upwards inwards 
+
+sauropod dromaeosaur plesiosaur 
+sauropods dromaeosaurs plesiosaurs 
+
+sauropod pterosaur plesiosaur 
+sauropods pterosaurs plesiosaurs 
+
+sauropod ichthyosaur plesiosaur 
+sauropods ichthyosaurs plesiosaurs 
+
+string.find string.sub string.match 
+mw.ustring.find mw.ustring.sub mw.ustring.match 
+
+string.find string.gsub string.sub 
+mw.ustring.find mw.ustring.gsub mw.ustring.sub 
+
+modernist expressionist surrealist 
+modernism expressionism surrealism 
+
+modernist realist environmentalist 
+modernism realism environmentalism 
+
+modernist minimalist surrealist 
+modernism minimalism surrealism 
+
+modernist surrealist realist 
+modernism surrealism realism 
+
+neurological neurologist neurology 
+astrological astrologer astrology 
+
+originating dominating terminating 
+originate dominate terminate 
+
+modernized romanized urbanized 
+modernization romanization urbanization 
+
+coordinated coordinator coordinating 
+terminated terminator terminating 
+
+ichthyosaurs dromaeosaurs plesiosaurs 
+ichthyosaur dromaeosaur plesiosaur 
+
+ichthyosaurs sauropods dromaeosaurs 
+ichthyosaur sauropod dromaeosaur 
+
+biochemist physiologist neurologist 
+biochemical physiological neurological 
+
+accomplishments innovations renovations 
+accomplishment innovation renovation 
+
+kristen kristin kristina 
+christensen christine christina 
+
+anarchists fascists capitalists 
+anarchism fascism capitalism 
+
+anarchists feminists creationists 
+anarchism feminism creationism 
+
+dominate dominates dominating 
+originate originates originating 
+
+abolitionists creationists unionists 
+abolitionist conservationist unionist 
+
+abolitionists feminists creationists 
+abolitionist feminist conservationist 
+
+filmmakers photographers geographers 
+filmmaking photography geography 
+
+paleontologists paleontology paleozoic 
+palaeontologists palaeontology palaeozoic 
+
+paleontologists anthropologists sociologists 
+paleontology anthropology sociology 
+
+twenty-two twenty-three twenty-seven 
+thirty-two thirty-three thirty-seven 
+
+twenty-two twenty-six twenty-seven 
+thirty-two thirty-six thirty-seven 
+
+astrology astrologer astrological 
+meteorology meteorologist meteorological 
+
+astrology meteorology astrophysics 
+astrologer meteorologist astrophysicist 
+
+mustang blazer bronco 
+mustangs blazers broncos 
+
+proceeds proceeded proceeding 
+succeeds succeeded succeeding 
+
+proceeds proceeded proceeding 
+exceeds exceeded exceeding 
+
+proceeds exceeds succeeds 
+proceeding exceeding succeeding 
+
+haute-garonne haute-vienne haute-saone 
+garonne vienne saone 
+
+thirty-six thirty-four thirty-five 
+twenty-six twenty-four twenty-five 
+
+thirty-six thirty-two thirty-five 
+twenty-six twenty-two twenty-five 
+
+thirty-six thirty-five thirty-seven 
+twenty-six twenty-five twenty-seven 
+
+thirty-six thirty-three thirty-two 
+twenty-six twenty-three twenty-two 
+
+constitutes constituted constituting 
+substitutes substituted substituting 
+
+calculators microprocessors capacitors 
+calculator microprocessor capacitor 
+
+microprocessors capacitors projectors 
+microprocessor capacitor projector 
+
+residing resided residency 
+presiding presided presidency 
+
+exceeding exceeded exceeds 
+proceeding proceeded proceeds 
+
+violating violate violates 
+regulating regulate regulates 
+
+violating regulating stimulating 
+violate regulate stimulate 
+
+romanization urbanization reorganization 
+romanized urbanized reorganized 
+
+resistors capacitors projectors 
+resistor capacitor projector 
+
+slipper ripper stripper 
+slipped ripped stripped 
+
+expressionism impressionism surrealism 
+expressionist impressionist surrealist 
+
+expressionism zionism separatism 
+expressionist zionist separatist 
+
+expressionism minimalism surrealism 
+expressionist minimalist surrealist 
+
+expressionism modernism minimalism 
+expressionist modernist minimalist 
+
+babylonians assyrians syrians 
+babylonia assyria syria 
+
+microbiology ethology neurology 
+microbiologist ornithologist neurologist 
+
+skipper ripper stripper 
+skipped ripped stripped 
+
+meteorologists sociologists educators 
+meteorologist sociologist educator 
+
+neurotransmitters transduction neurotransmitter 
+transmitters transmitting transmitter 
+
+aristocrats landowners planters 
+aristocrat landowner planter 
+
+projector capacitor resistor 
+projectors capacitors resistors 
+
+minimalist surrealist realist 
+minimalism surrealism realism 
+
+minimalist realist environmentalist 
+minimalism realism environmentalism 
+
+surrealist realist environmentalist 
+surrealism realism environmentalism 
+

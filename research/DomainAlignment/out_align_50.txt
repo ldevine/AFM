@@ -1,0 +1,7424 @@
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format frames -method attribute 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565550
+50
+===========
+
+Problem: 1
+1.74929
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+1.62163
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+1.54558
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+1.7856
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+2.19108
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+1.65392
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+1.66316
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+1.93333
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+2.03084
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+1.86968
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+1.9282
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+1.68102
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+1.56907
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+1.60714
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+1.77528
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+1.74962
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+1.61465
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+1.70497
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+1.60092
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+1.60017
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+1.55112
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+2.5343
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+2.55435
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+2.61226
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+2.19211
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+2.5086
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+2.01871
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+2.69136
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+2.67484
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+2.3027
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+2.43997
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+2.26991
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+2.38463
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+2.41267
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+3.00191
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+2.45945
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+3.38145
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+2.8873
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+3.37966
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+2.92473
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+3.10099
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+3.86594
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+3.37157
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+3.25558
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+4.41378
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+3.51167
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+4.99382
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+6.06276
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+4.70888
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+5.64042
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format frames -method parallel 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565550
+50
+===========
+
+Problem: 1
+4.595
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+4.41178
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+4.41524
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+4.85829
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+4.58232
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+4.73342
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+4.36237
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+4.79315
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+4.57922
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+4.42581
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+4.83517
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+4.4056
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+4.60221
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+4.32338
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+4.4727
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+4.6266
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+4.17097
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+4.44742
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+4.43152
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+3.75367
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+4.40775
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+9.91425
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+9.49717
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+9.63107
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+9.09943
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+9.4493
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+9.02377
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+9.65967
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+9.44172
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+10.0019
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+8.5725
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+8.92887
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+8.37085
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+8.72041
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+16.3468
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+15.3106
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+16.5945
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+15.6731
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+23.177
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+23.1719
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+23.6332
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+24.1145
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+22.1189
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+22.5016
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+25.5314
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+31.0218
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+43.3469
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+60.6813
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+57.9301
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+56.9243
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format frames -method quads1 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565550
+50
+===========
+
+Problem: 1
+9.67961
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+9.66867
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+9.94767
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+10.0024
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+10.2429
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+9.58955
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+9.72077
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+10.5382
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+10.2316
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+9.68266
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+10.021
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+9.73972
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+9.80925
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+9.79365
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+9.74829
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+9.69641
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+9.10122
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+9.74919
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+9.38293
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+9.13122
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+9.593
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+21.0854
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+20.4338
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+20.6276
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+19.2893
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+20.2764
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+19.1637
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+20.5427
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+19.8246
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+20.6345
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+20.1061
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+19.0709
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+19.1108
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+19.1815
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+34.1793
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+32.9921
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+34.2074
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+32.2736
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+49.3357
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+47.591
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+48.935
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+49.2212
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+47.2952
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+46.1943
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+53.0486
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+66.331
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+90.2738
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+123.423
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+114.777
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+115.022
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_cbow_e12.bin" -max-vecs 700000 -threads 7 -format frames -method quads2 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565550
+50
+===========
+
+Problem: 1
+12
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+11
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+12
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+12
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+12
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+12
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+12
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+12
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+12
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+12
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+12
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+11
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+11
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+10
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+12
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+12
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+12
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+12
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+11
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+10
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+12
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+24
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+24
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+23
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+24
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+24
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+24
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+24
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+24
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+24
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+22
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+24
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+20
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+24
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+38
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+36
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+40
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+38
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+58
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+60
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+58
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+60
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+54
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+60
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+60
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+73
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+100
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+144
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+141
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+137
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format frames -method attribute 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565550
+50
+===========
+
+Problem: 1
+1.72597
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+1.60609
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+1.50873
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+1.74917
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+2.10784
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+1.57531
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+1.71121
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+1.83631
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+2.0007
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+1.84999
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+1.85719
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+1.54025
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+1.42124
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+1.56164
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+1.60825
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+1.70685
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+1.49925
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+1.64587
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+1.56799
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+1.52235
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+1.41083
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+2.42765
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+2.56036
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+2.5076
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+2.05144
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+2.36158
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+1.91616
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+2.58935
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+2.55725
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+2.07816
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+2.43407
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+2.20689
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+2.40164
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+2.33693
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+2.84507
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+2.51872
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+3.20342
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+2.59082
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+3.13157
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+2.76316
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+2.7696
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+3.62819
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+3.22555
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+2.92257
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+4.36602
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+3.24071
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+4.66647
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+5.68236
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+4.30499
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+5.33656
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format frames -method parallel 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565550
+50
+===========
+
+Problem: 1
+4.69054
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+4.44737
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+4.42815
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+4.81901
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+4.43015
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+4.70121
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+4.48521
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+4.7782
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+4.51907
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+4.44177
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+4.86393
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+4.32413
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+4.54026
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+4.34914
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+4.42757
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+4.67519
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+4.13656
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+4.4447
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+4.49418
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+3.82501
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+4.30839
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+9.73929
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+9.68026
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+9.48771
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+9.01607
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+9.34275
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+8.96082
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+9.5865
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+9.4023
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+9.78691
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+8.41133
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+8.93898
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+8.62058
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+8.81808
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+16.2487
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+15.3981
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+16.5438
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+15.4124
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+22.8686
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+23.0152
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+23.5806
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+23.8636
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+22.2113
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+22.1125
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+25.4142
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+31.0857
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+42.6259
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+60.2374
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+58.0893
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+56.4104
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format frames -method quads1 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565550
+50
+===========
+
+Problem: 1
+9.8619
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+9.82041
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+9.97957
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+10.0787
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+10.1769
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+9.55989
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+9.99452
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+10.561
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+10.2527
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+9.71731
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+10.0633
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+9.58694
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+9.92971
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+9.85761
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+9.69725
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+9.85212
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+9.08803
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+9.78
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+9.45018
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+9.21832
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+9.4047
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+21.062
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+20.7946
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+20.6249
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+19.1391
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+20.2565
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+19.1727
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+20.6556
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+19.7556
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+20.5398
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+20.2892
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+19.032
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+19.4064
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+19.2593
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+33.9517
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+32.9234
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+34.3078
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+32.0345
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+49.2143
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+47.8653
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+49.2018
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+48.8669
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+47.4164
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+45.9045
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+53.3575
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+67.2397
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+89.9694
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+123.473
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+116.219
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+114.131
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_cbow_e12.bin" -max-vecs 700000 -threads 7 -format frames -method quads2 
+
+Parsing options ... 
+
+Number of terms: 685655
+685655
+VStore: number of terms: 68565550
+50
+===========
+
+Problem: 1
+12
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+11
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+12
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+12
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+12
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+12
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+12
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+12
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+12
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+12
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+12
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+11
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+10
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+10
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+12
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+12
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+12
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+12
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+11
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+10
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+12
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+24
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+24
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+22
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+23
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+24
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+24
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+24
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+24
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+24
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+22
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+24
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+22
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+24
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+39
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+35
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+40
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+37
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+54
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+58
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+56
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+60
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+55
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+59
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+60
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+71
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+95
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+143
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+141
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+123
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format frames -method attribute 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327950
+50
+===========
+
+Problem: 1
+1.74178
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+1.63285
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+1.42492
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+1.79592
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+2.12012
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+1.6407
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+1.61871
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+1.80944
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+1.9731
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+1.78453
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+1.85247
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+1.64155
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+1.59581
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+1.52874
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+1.86379
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+1.7189
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+1.43469
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+1.66906
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+1.5956
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+1.40075
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+1.58247
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+2.39726
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+2.43737
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+2.52059
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+2.08243
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+2.30836
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+2.1436
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+2.63471
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+2.50255
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+2.20261
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+2.43362
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+2.33608
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+2.33422
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+2.21639
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+2.77677
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+2.61549
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+3.2794
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+2.87987
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+3.46586
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+3.32113
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+3.07008
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+3.70057
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+3.18104
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+2.98958
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+4.37235
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+3.21622
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+4.83758
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+5.6511
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+5.07978
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+5.48145
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format frames -method parallel 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327950
+50
+===========
+
+Problem: 1
+4.37703
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+4.09952
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+4.03885
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+4.47216
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+4.54851
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+4.42745
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+4.19833
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+4.40755
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+4.362
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+4.16006
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+4.44857
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+4.23057
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+4.25839
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+4.00494
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+4.36702
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+4.39212
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+3.94116
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+4.09769
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+4.13376
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+3.62166
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+4.13854
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+9.19602
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+8.92479
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+8.83282
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+8.44387
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+8.80415
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+8.56523
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+9.30423
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+9.202
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+9.30779
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+8.12028
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+8.42204
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+7.99955
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+8.03918
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+15.2032
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+13.9401
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+15.8264
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+14.8463
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+21.7476
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+22.1444
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+21.8308
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+22.9893
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+20.3043
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+20.8522
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+24.1729
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+28.228
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+41.0371
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+56.7776
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+54.7778
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+54.3676
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format frames -method quads1 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327950
+50
+===========
+
+Problem: 1
+9.49696
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+9.53229
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+9.55808
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+9.75646
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+10.3614
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+9.35471
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+9.51124
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+10.3777
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+10.0149
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+9.52964
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+9.72818
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+9.47866
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+9.75885
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+9.60499
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+9.89992
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+9.74521
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+8.75406
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+9.54103
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+9.19698
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+8.76583
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+9.23263
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+20.7314
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+20.2753
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+20.5093
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+18.8102
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+19.5559
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+18.673
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+20.3717
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+19.3016
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+20.4932
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+20.0268
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+18.5299
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+18.8233
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+18.0963
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+32.6293
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+32.0752
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+33.8639
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+31.9586
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+48.0192
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+47.9042
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+47.4758
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+48.3512
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+45.6121
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+44.6351
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+51.8054
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+63.6205
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+89.1404
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+120.713
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+113.912
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+113.595
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w2_sgd_e12.bin" -max-vecs 700000 -threads 7 -format frames -method quads2 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327950
+50
+===========
+
+Problem: 1
+12
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+12
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+12
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+12
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+12
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+12
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+11
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+12
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+12
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+12
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+12
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+12
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+12
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+11
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+12
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+12
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+12
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+11
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+10
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+12
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+12
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+23
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+24
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+21
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+23
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+24
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+24
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+24
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+24
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+24
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+20
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+23
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+20
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+22
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+37
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+29
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+40
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+38
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+56
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+59
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+55
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+59
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+47
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+59
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+60
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+58
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+97
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+144
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+136
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+136
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format frames -method attribute 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327950
+50
+===========
+
+Problem: 1
+1.77222
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+1.72486
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+1.4866
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+1.84456
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+2.09559
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+1.70699
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+1.70725
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+1.84716
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+2.02621
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+1.83828
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+1.84539
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+1.66989
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+1.61786
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+1.64242
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+1.87642
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+1.70762
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+1.44094
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+1.73871
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+1.63504
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+1.35868
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+1.58106
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+2.44368
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+2.49121
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+2.55998
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+2.20308
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+2.38745
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+2.21768
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+2.68369
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+2.48393
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+2.2357
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+2.53631
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+2.41402
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+2.48931
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+2.25718
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+2.77784
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+2.7624
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+3.34723
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+2.90494
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+3.47676
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+3.46464
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+3.10283
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+3.80439
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+3.23615
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+2.95607
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+4.39498
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+3.19592
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+4.96581
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+5.74958
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+5.39243
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+5.53396
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format frames -method parallel 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327950
+50
+===========
+
+Problem: 1
+4.44544
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+4.20453
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+4.07423
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+4.58082
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+4.39647
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+4.41489
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+4.15547
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+4.42998
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+4.35439
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+4.23368
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+4.47422
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+4.25286
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+4.26012
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+4.15841
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+4.39264
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+4.33942
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+3.94259
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+4.18136
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+4.24154
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+3.52788
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+4.09276
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+9.19595
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+8.95818
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+8.72441
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+8.52386
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+8.67927
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+8.59816
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+9.30817
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+9.20756
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+9.43026
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+8.25757
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+8.42838
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+8.11228
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+8.02868
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+15.0487
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+14.1885
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+15.8584
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+15.0208
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+21.5238
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+22.4609
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+21.6891
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+23.1147
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+20.1553
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+20.5186
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+23.9993
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+28.1402
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+41.167
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+57.1046
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+55.5242
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+54.4174
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format frames -method quads1 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327950
+50
+===========
+
+Problem: 1
+9.72184
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+9.75858
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+9.68272
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+9.98446
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+10.3367
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+9.49504
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+9.70088
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+10.5171
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+10.1322
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+9.72678
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+9.93486
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+9.65618
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+9.95005
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+9.90103
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+10.0833
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+9.80041
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+8.86316
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+9.76431
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+9.4573
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+8.7714
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+9.26055
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+20.9742
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+20.5454
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+20.6479
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+19.1362
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+19.772
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+19.0005
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+20.6265
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+19.5069
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+20.8508
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+20.3948
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+18.8265
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+19.1786
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+18.2846
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+32.6517
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+32.5617
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+34.3298
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+32.4806
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+48.2935
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+49.0114
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+47.8778
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+49.055
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+46.0015
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+44.773
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+52.2683
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+64.4482
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+90.6314
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+122.555
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+116.182
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+114.797
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+
+
+C:\aaThesis\Experiments\Chap_6\DomainAlign>DomainAlign -prob-file "C:/aaThesis/Experiments/Chap_6/DomainAlign/domains_mappings.txt" -real-vecs1 "C:/aaThesis/Turney/vecs_turney_w5_sgd_e12.bin" -max-vecs 700000 -threads 7 -format frames -method quads2 
+
+Parsing options ... 
+
+Number of terms: 683279
+683279
+VStore: number of terms: 68327950
+50
+===========
+
+Problem: 1
+12
+
+edible food supermarkets 
+medicinal medicines pharmacies 
+
+Score: 1
+===========
+
+Problem: 2
+12
+
+electricity hydroelectric megawatts 
+water reservoir gallons 
+
+Score: 1
+===========
+
+Problem: 3
+12
+
+cost cheaper priced 
+size smaller sized 
+
+Score: 1
+===========
+
+Problem: 4
+12
+
+peru inca quechua 
+mexico aztec nahuatl 
+
+Score: 1
+===========
+
+Problem: 5
+12
+
+soviet ussr gorbachev 
+russian russia putin 
+
+Score: 1
+===========
+
+Problem: 6
+12
+
+conceived creators relaunch 
+designed designers redesign 
+
+Score: 1
+===========
+
+Problem: 7
+11
+
+road lane junction 
+river brook confluence 
+
+Score: 1
+===========
+
+Problem: 8
+12
+
+dance choreographer dancer 
+music composer musician 
+
+Score: 1
+===========
+
+Problem: 9
+12
+
+poems poetry poets 
+books literature writers 
+
+Score: 1
+===========
+
+Problem: 10
+12
+
+animals livestock domesticated 
+plants crops cultivated 
+
+Score: 1
+===========
+
+Problem: 11
+12
+
+wicket-keeper cricketers umpires 
+goalkeeper footballers referees 
+
+Score: 1
+===========
+
+Problem: 12
+12
+
+beliefs practices practitioners 
+ideas innovations innovators 
+
+Score: 1
+===========
+
+Problem: 13
+12
+
+gardening gardener horticulture 
+cooking chef culinary 
+
+Score: 1
+===========
+
+Problem: 14
+10
+
+winery cellar cellars 
+farm barn barns 
+
+Score: 1
+===========
+
+Problem: 15
+12
+
+lungs pulmonary asthma 
+brain cerebral epilepsy 
+
+Score: 1
+===========
+
+Problem: 16
+12
+
+astronomy observatory observations 
+physics laboratory experiments 
+
+Score: 1
+===========
+
+Problem: 17
+11
+
+airplane cockpit nose 
+boat deck bow 
+
+Score: 1
+===========
+
+Problem: 18
+12
+
+liquor beverages drinking 
+meat foods eating 
+
+Score: 1
+===========
+
+Problem: 19
+11
+
+snack bakery kitchen 
+beer brewery cellar 
+
+Score: 1
+===========
+
+Problem: 20
+8
+
+kinetic velocity braking 
+heat temperature cooling 
+
+Score: 1
+===========
+
+Problem: 21
+12
+
+philosophy ideas themes 
+architecture designs motifs 
+
+Score: 1
+===========
+
+Problem: 22
+24
+
+photography photographer photographers photographs 
+art artist artists artworks 
+
+Score: 1
+===========
+
+Problem: 23
+24
+
+eating eat ate foods 
+drinking drink drank beverages 
+
+Score: 1
+===========
+
+Problem: 24
+21
+
+boat rowed rowing boats 
+ship sailed sailing ships 
+
+Score: 1
+===========
+
+Problem: 25
+23
+
+employment work working wages 
+education study studying tuition 
+
+Score: 1
+===========
+
+Problem: 26
+23
+
+culture cultures multicultural anthropology 
+language languages multilingual linguistics 
+
+Score: 1
+===========
+
+Problem: 27
+24
+
+enrollment schools academically tuition 
+population communities economically incomes 
+
+Score: 1
+===========
+
+Problem: 28
+24
+
+productions theatre theatres playwrights 
+films cinema cinemas filmmakers 
+
+Score: 1
+===========
+
+Problem: 29
+24
+
+ear ears headphones listener 
+eye eyes glasses viewer 
+
+Score: 1
+===========
+
+Problem: 30
+24
+
+indonesian indonesia's sumatra jakarta 
+japanese japan's honshu tokyo 
+
+Score: 1
+===========
+
+Problem: 31
+19
+
+campsite campsites camping campers 
+trail trails hiking hikers 
+
+Score: 1
+===========
+
+Problem: 32
+22
+
+shop jewelry sells merchandise 
+factory textiles manufactures products 
+
+Score: 1
+===========
+
+Problem: 33
+20
+
+prairie grassland grasslands grasses 
+grove woodland woodlands trees 
+
+Score: 1
+===========
+
+Problem: 34
+23
+
+audit compliance monitoring irs 
+investigation enforcement surveillance fbi 
+
+Score: 1
+===========
+
+Problem: 35
+36
+
+heard hear hears audible sounded 
+seen see sees visible looked 
+
+Score: 1
+===========
+
+Problem: 36
+30
+
+disbanded disband disbandment joined join 
+ceased cease cessation began continue 
+
+Score: 1
+===========
+
+Problem: 37
+40
+
+hindu sanskrit vedas temples hindus 
+muslim arabic quran mosques muslims 
+
+Score: 1
+===========
+
+Problem: 38
+38
+
+curator artist photographer artist's curators 
+director actor cinematographer actor's directors 
+
+Score: 1
+===========
+
+Problem: 39
+53
+
+educational teaching teach pedagogy schools lectures 
+religious preaching preach theology churches sermons 
+
+Score: 1
+===========
+
+Problem: 40
+58
+
+museums exhibited guggenheim exhibitions curator musee 
+universities lectured fulbright seminars lecturer universite 
+
+Score: 1
+===========
+
+Problem: 41
+55
+
+art paintings motifs painters exhibited exhibition 
+music compositions melodies composers performed concert 
+
+Score: 1
+===========
+
+Problem: 42
+60
+
+buddhism buddhists monks sanskrit temples meditation 
+islam muslims clerics arabic mosques prayer 
+
+Score: 1
+===========
+
+Problem: 43
+45
+
+comics illustrations cartoons illustrator animation creators 
+fiction prose satire novelist storytelling writers 
+
+Score: 1
+===========
+
+Problem: 44
+57
+
+airplane fly skies flights pilots explode 
+boat sail seas cruises sailors sink 
+
+Score: 1
+===========
+
+Problem: 45
+60
+
+novel novelist novel's novelists novels literary 
+book author book's authors books scholarly 
+
+Score: 1
+===========
+
+Problem: 46
+56
+
+diving divers underwater swim sonar swam diver 
+flying pilots aerial fly radar flew pilot 
+
+Score: 1
+===========
+
+Problem: 47
+95
+
+comedian parodied parodies comedy comedians humorous humor parody 
+actor portrayed portrayals drama actors realistic suspense remake 
+
+Score: 1
+===========
+
+Problem: 48
+143
+
+muslim mosques shrines arabic muslims mosque quran islam ramadan 
+jewish synagogues altars hebrew jews synagogue torah judaism shabbat 
+
+Score: 1
+===========
+
+Problem: 49
+141
+
+france france's frenchman paris alain monsieur french prost sorbonne 
+england england's englishman london nigel mr english mansell oxford 
+
+Score: 1
+===========
+
+Problem: 50
+133
+
+radio podcast listeners bbc listening radios heard npr on-air 
+television episode viewers itv watching televisions seen pbs on-screen 
+
+Score: 1
+===========
+
+
+Average score: 1
+

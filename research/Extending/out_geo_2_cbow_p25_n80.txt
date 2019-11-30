@@ -1,0 +1,27 @@
+lebanon lebanese beirut 
+netherlands dutch amsterdam 
+pakistan pakistani karachi 
+brazil brazilian brasilia 
+indonesia indonesian jakarta 
+hungary hungarian budapest 
+sweden swedish stockholm 
+norway norwegian oslo 
+poland polish poznan 
+turkey turkish istanbul 
+armenia armenian yerevan 
+egypt egyptian cairo 
+germany german berlin 
+denmark danish copenhagen 
+azerbaijan azerbaijani baku 
+iran iranian tehran 
+france french paris 
+russia russian moscow 
+china chinese beijing 
+korea korean seoul 
+switzerland swiss zurich 
+spain spanish madrid 
+romania romanian bucharest 
+serbia serbian belgrade 
+croatia croatian zagreb 
+austria austrian vienna 
+
